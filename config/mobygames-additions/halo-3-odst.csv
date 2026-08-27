@@ -1,0 +1,54 @@
+name_raw,name_canonical,category,role_raw,character,studio,inclusion_class,source_ref
+Daniel Miller,,Design,Designers,,,core,mobygames:tr3
+Charles Gough,,Engineering,Engineering Leads,,,core,mobygames:tr8
+Michael Baldwin,,Engineering,Additional Engineering,,,core,mobygames:tr10
+Adrian Mark Perez,,Engineering,Additional Engineering,,,core,mobygames:tr10
+Jason R. Keith,,Art,Environment Artists,,Aquent,core,mobygames:tr17
+Rajeev Nattam,,Art,3D Artists,,,core,mobygames:tr21
+Paul Brandl,,Art,3D Artists,,Two Degrees,core,mobygames:tr21
+Kris Hamper,,Art,Visual Design Artists,,Filter,core,mobygames:tr23
+Brian Hargrave,,Art,Visual Design Artists,,Infusion,core,mobygames:tr23
+Dorje Bellbrook,,Art,Concepts and Skies,,,core,mobygames:tr25
+Stephen Theodore,,Art,Tech Artists,,,core,mobygames:tr32
+Matthew Seiji Burns,,Production,Producers,,,core,mobygames:tr42
+Michael Axworthy,,QA,Testers,,Excell Data Corporation,core,mobygames:tr48
+Carlos Cardona,,QA,Testers,,Comsys,core,mobygames:tr48
+John Comstock,,QA,Testers,,Volt,core,mobygames:tr48
+Luana Gullo France,,QA,Testers,,Volt,core,mobygames:tr48
+Chris Garrett,,QA,Testers,,Volt,core,mobygames:tr48
+Doug Gorman III,,QA,Testers,,Comsys,core,mobygames:tr48
+Gerry Jackson,,QA,Testers,,Volt,core,mobygames:tr48
+Kenny Jackson,,QA,Testers,,Comsys,core,mobygames:tr48
+Ja-Il Koo,,QA,Testers,,Volt,core,mobygames:tr48
+Judith Kriess,,QA,Testers,,Volt,core,mobygames:tr48
+Jonathan Kubo,,QA,Testers,,Excell Data Corporation,core,mobygames:tr48
+Andra Ion Niculescu,,QA,Testers,,Comsys,core,mobygames:tr48
+Joe Sifferman,,QA,Testers,,Volt,core,mobygames:tr48
+Joon Sim,,QA,Testers,,Volt,core,mobygames:tr48
+Misao Tidd,,QA,Testers,,Volt,core,mobygames:tr48
+Claw Kelsay,,Other,IT Team,,Volt,core,mobygames:tr56
+Jerrome Simpson,,Other,Security Lead,,,core,mobygames:tr57
+Arturo Gutierrez Jr.,,Other,Security,,Kelly Services,core,mobygames:tr58
+Kari Sepkowski,,Publishing,HR,,Independent,core,mobygames:tr67
+Lee R. Wilson,,Other,Halo 3 Contributors,,,core,mobygames:tr68
+Emile Ghorayeb,,Art,Animation Supervisor,,,core,mobygames:tr71
+Adrien Annesley,,Art,Animators,,,core,mobygames:tr73
+Cameron David Folds,,Art,Animators,,,core,mobygames:tr73
+David Frederick White,,Voice,Voice Actor,,,core,mobygames:tr82
+Hakeem Kae-Kazim,,Voice,Cast,,,core,mobygames:tr91
+Dave Wittenberg,,Voice,Cast,,,core,mobygames:tr91
+Clifford Allen Garrett,,Special Thanks,Special Thanks to,,,special-thanks,mobygames:tr96
+Aaron Elliott,,Publishing,Marketing,,,publishing,mobygames:tr117
+Christopher Lee,,Publishing,Marketing,,,publishing,mobygames:tr117
+Taylor Smith Sr.,,Publishing,Marketing,,,publishing,mobygames:tr117
+Aaron Elliott,,Publishing,PR,,,publishing,mobygames:tr118
+Christopher Lee,,Publishing,PR,,,publishing,mobygames:tr118
+Taylor Smith Sr.,,Publishing,PR,,,publishing,mobygames:tr118
+Mitch Sullivan-Biernoth,,QA,Excell Data Corporation,,Excell Data Corporation,publishing,mobygames:tr123
+Paul R. Chavez,,Special Thanks,Special Thanks,,,special-thanks,mobygames:tr142
+David C. Holmes,,Special Thanks,Special Thanks,,,special-thanks,mobygames:tr142
+Donald A. Mattrick,,Special Thanks,Special Thanks,,,special-thanks,mobygames:tr142
+Bonnie Ross-Ziegler,,Special Thanks,Special Thanks,,,special-thanks,mobygames:tr142
+Matthew Whiting,,Special Thanks,Special Thanks,,,special-thanks,mobygames:tr142
+Jean-loup Gailly,,Other,Tools,,zLib,core,mobygames:tr144
+Mark Adler,,Other,Tools,,zLib,core,mobygames:tr144

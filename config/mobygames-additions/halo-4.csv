@@ -1,0 +1,111 @@
+name_raw,name_canonical,category,role_raw,character,studio,inclusion_class,source_ref
+Raymond Almaden,,Design,Level Design Lead,,,core,mobygames:tr13
+Daniel Callan,,Design,Mission Design,,,core,mobygames:tr15
+Quentin Rezin,,Voice,Mission Design,,,core,mobygames:tr15
+Lindsay Morgan Lockhart,,Voice,Narrative Design,,,core,mobygames:tr27
+Andrew Luedke,,Engineering,Graphics Engineering,,,core,mobygames:tr37
+J. M. Albertson,,Engineering,Lead,,,core,mobygames:tr48
+Mark D. Andersen,,Engineering,Tools Engineering,,,core,mobygames:tr52
+Lina Sokaite Gaeta,,Engineering,Tools Engineering,,,core,mobygames:tr52
+Douglas Barnes,,Engineering,Additional Engineering,,,core,mobygames:tr57
+Dominick Humphrey,,Engineering,Additional Engineering,,,core,mobygames:tr57
+AbdulWajid Mohamed,,Engineering,Additional Engineering,,,core,mobygames:tr57
+Thomas Scholes,,Art,Concept Art,,,core,mobygames:tr63
+John Salvatore Wallin Liberto,,Art,Concept Art,,,core,mobygames:tr63
+Brian Christian,,Art,Environment Art,,,core,mobygames:tr69
+David Lesperance,,Art,Environment Art,,,core,mobygames:tr69
+R. J. Ranola,,Art,Environment Art,,,core,mobygames:tr69
+Timothy Diaz,,Voice,Environment Art,,,core,mobygames:tr69
+Nathan Gregory,,Art,Environment Art,,,core,mobygames:tr69
+Kimberly A. Haines,,Voice,Environment Art,,,core,mobygames:tr69
+Benjamin Harrison,,Voice,Environment Art,,,core,mobygames:tr69
+Christopher Lomaka,,Voice,Environment Art,,,core,mobygames:tr69
+Michael Murrill,,Voice,Environment Art,,,core,mobygames:tr69
+Jonathan Woods,,Art,Lead,,,core,mobygames:tr77
+Joe Olson,,Voice,FX Art,,,core,mobygames:tr78
+Michael E. Pucci,,Voice,FX Art,,,core,mobygames:tr78
+Zach Thomas,,Voice,Audio,,,core,mobygames:tr96
+Alyson Szymanski,,Voice,Campaign Production,,,core,mobygames:tr105
+Matthew Seiji Burns,,Voice,Additional Production,,,core,mobygames:tr114
+Michael Axworthy,,Voice,Test,,,core,mobygames:tr117
+Raymond Butchko,,Voice,Test,,,core,mobygames:tr117
+Joseph Hill,,Voice,Test,,,core,mobygames:tr117
+Daniel M. Ayoub,,Production,Executive Producer,,,core,mobygames:tr119
+Andrew McWillians,,Voice,Section 3 Test,,,core,mobygames:tr136
+Christy Dawson,,Voice,Licensing Team,,,core,mobygames:tr148
+Bonnie Ross-Ziegler,,Leadership,Studio Head,,,core,mobygames:tr159
+Haeyong Cho,,Design,Additional Multiplayer Design and Development,,Digital Extremes,core,mobygames:tr180
+Jonathan Adams,,Voice,Test Reserves,,,core,mobygames:tr182
+Nicholas I. Hart,,Voice,Test Reserves,,,core,mobygames:tr182
+Johnathan Ochs,,Voice,Test Reserves,,,core,mobygames:tr182
+Ioana Preda,,Voice,Test Reserves,,,core,mobygames:tr182
+Sarah Earley,,Voice,Test Reserves,,,core,mobygames:tr182
+Tim Rowsey,,Voice,Test Reserves,,,core,mobygames:tr182
+Matthew C. Brown,,Voice,Test - Experis,,,core,mobygames:tr184
+Ahmad Javed Chohan,,Voice,Test - Experis,,,core,mobygames:tr184
+Lyndon H. Moore III,,Voice,Test - Experis,,,core,mobygames:tr184
+Paul Amer,,Publishing,Microsoft Central Media,,,publishing,mobygames:tr188
+Hong-Wei David Liu,,Voice,Soundlab,,,core,mobygames:tr190
+Jon Rook,,Voice,Soundlab,,,core,mobygames:tr190
+Alex Karpouski,,Voice,Ireland Localization Team,,,publishing,mobygames:tr207
+Aude Le Roux,,Voice,Ireland Localization Team,,,publishing,mobygames:tr207
+Marcos García Calderón,,Voice,Ireland Localization Team,,,publishing,mobygames:tr207
+Haruhiko Inaba,,Voice,East Asia Localization,,,publishing,mobygames:tr209
+Donald A. Mattrick,,Leadership,President,,,core,mobygames:tr219
+Jeremy Holland-Smith,,Audio,Additional Arrangements,,,core,mobygames:tr232
+Christopher Parker,,Audio,Assistant Engineers,,,core,mobygames:tr247
+Martin Owens,,Audio,The Chamber Orchestra of London,,,core,mobygames:tr251
+Steve Juliani,,Voice,Music Preparation,,,core,mobygames:tr262
+Michael J. Lloyd,,Audio,Music Preparation,,,core,mobygames:tr262
+Benjamin Diskin,,Voice,Voice Actor,,,core,mobygames:tr289
+Catherine Davis Higgins,,Voice,Voice Actor,,,core,mobygames:tr289
+Isaac C. Singleton Jr.,,Voice,Voice Actor,,,core,mobygames:tr289
+Steven Jay Blum,,Voice,Voice Actor,,,core,mobygames:tr291
+David Vincent,,Voice,Voice Actor,,,core,mobygames:tr291
+David B. Fouquette,,Voice,Voice Actor,,,core,mobygames:tr291
+Catherine Davis Higgins,,Voice,Voice Actor,,,core,mobygames:tr291
+Richard Steven Horvitz,,Voice,Voice Actor,,,core,mobygames:tr291
+David B. Mitchell,,Voice,Voice Actor,,,core,mobygames:tr291
+Paisha Coffey,,Voice,Voice Actor,,,core,mobygames:tr301
+Laura Akers,,Voice,Production,,,core,mobygames:tr306
+Steve Schreiber,,Production,Production,,,core,mobygames:tr306
+Aimee E. Smith,,Production,Production,,,core,mobygames:tr306
+Mitch Walker,,Production,Production,,,core,mobygames:tr306
+Don Alvarez,,Art,Tech Art,,,core,mobygames:tr307
+Ross Kameny,,Art,Tech Art,,,core,mobygames:tr307
+Kendall Deacon Davis,,Design,Design,,,core,mobygames:tr308
+Breanne Miller,,Voice,Design,,,core,mobygames:tr308
+Ryan Payton,,Design,Design,,,core,mobygames:tr308
+Whit Brachna,,Art,Concept Art,,,core,mobygames:tr309
+David Braun,,Engineering,Engineering,,,core,mobygames:tr311
+Matthew J. Brown,,Engineering,Engineering,,,core,mobygames:tr311
+Kurtis Chinn,,Engineering,Engineering,,,core,mobygames:tr311
+Liz M.E. Chung,,Engineering,Engineering,,,core,mobygames:tr311
+Tony Cox,,Engineering,Engineering,,,core,mobygames:tr311
+Steven Jones,,Engineering,Engineering,,,core,mobygames:tr311
+Jonathan Goff,,Studio/Business,Community,,,core,mobygames:tr312
+Justin Korthof,,Studio/Business,Community,,,core,mobygames:tr312
+Doug Hebenthal,,Other,Management,,,core,mobygames:tr314
+Daveed Kaplan,,Art,Character Art,,,core,mobygames:tr315
+Sharon Plotkin,,Voice,Environment Art,,,core,mobygames:tr316
+Howard Schargel,,Voice,Environment Art,,,core,mobygames:tr316
+Tim Y. Tao,,Art,Environment Art,,,core,mobygames:tr316
+Melissa Shaw,,Voice,Editing,,,core,mobygames:tr317
+Doug Church,,Special Thanks,Special Thanks,,,special-thanks,mobygames:tr321
+Marty Hasselbach,,Special Thanks,Special Thanks,,,special-thanks,mobygames:tr321
+Carla St. Pierre,,Special Thanks,Special Thanks,,,special-thanks,mobygames:tr321
+Steffen Unger,,Art,Character Artist,,Liquid Development,core,mobygames:tr329
+Efgeni Bischoff,,Art,Character Artist,,Liquid Development,core,mobygames:tr329
+Martynas Česnauskas,,Art,Character Artist,,Liquid Development,core,mobygames:tr329
+William Charles Makra,,Art,Art Director,,Digital Extremes,core,mobygames:tr176
+Michael Chomicki,,Design,Additional Multiplayer Design and Development,,Digital Extremes,core,mobygames:tr180
+Michael Janes,,Design,Additional Multiplayer Design and Development,,Digital Extremes,core,mobygames:tr180
+Ted McIlwain,,Design,Additional Multiplayer Design and Development,,Digital Extremes,core,mobygames:tr180
+Thomas Fuller,,Design,Microsoft User Research,,,publishing,mobygames:tr201
+Aurore O. Merlin,,Voice,Ireland Localization Team,,,publishing,mobygames:tr207
+Łukasz Strzelec,,Voice,Ireland Localization Team,,,publishing,mobygames:tr207
+Nickolas Kolunov,,Voice,Ireland Localization Team,,,publishing,mobygames:tr207
+Kuang-Sheng Huang,,Voice,East Asia Localization Test,,,publishing,mobygames:tr211
+Alison Harmatuk,,Voice,Special Thanks,,,special-thanks,mobygames:tr321
+Michael W. Weilbacher,,Special Thanks,Special Thanks,,,special-thanks,mobygames:tr321
+Jack Ryder-Robinson,,Production,Production Babies,,,babies,mobygames:tr325

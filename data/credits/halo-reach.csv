@@ -1,0 +1,587 @@
+game_id,credit_order,name_raw,name_canonical,category,role_raw,character,studio,inclusion_class,source_ref
+halo-reach,0,Rob Adams,,Art,ENVIRONMENT ART LEAD,,,core,L49
+halo-reach,1,Chris Alderson,,Art,3D ARTIST,,,core,L51
+halo-reach,2,David Aldridge,,Engineering,NETWORKING ENGINEER,,,core,L53
+halo-reach,3,David Allen,,Production,MULTIPLAYER PRODUCER,,,core,L55
+halo-reach,4,Sam Arguez,,Art,ENVIRONMENT ART PRODUCER,,,core,L57
+halo-reach,5,Chad Armstrong,,Design,MULTIPLAYER DESIGNER,,,core,L59
+halo-reach,6,Tam Armstrong,,Engineering,ANIMATION ENGINEER,,,core,L61
+halo-reach,7,Lars Bakken,,Design,FIREFIGHT/INVESTMENT DESIGN LEAD,,,core,L63
+halo-reach,8,Mike Baldwin,,Engineering,SANDBOX ENGINEER,,,core,L65
+halo-reach,9,Graham Bartlett,,Engineering,PRODUCTION ENGINEERING LEAD,,,core,L67
+halo-reach,10,Matt Bennier,,Art,ENVIRONMENT ARTIST,,,core,L69
+halo-reach,11,Paul Bertone Jr.,Paul Bertone,Design,ADDITIONAL DESIGN DIRECTION,,,core,L71
+halo-reach,12,Travis Brady,,Art,3D ARTIST,,,core,L73
+halo-reach,13,Ray Broscovak,,Art,ENVIRONMENT ARTIST,,,core,L75
+halo-reach,14,Roberta Browne,,Art,ANIMATION TEAM LEAD,,,core,L77
+halo-reach,15,Mick Buckmiller,,Art,ENVIRONMENT ARTIST,,,core,L79
+halo-reach,16,Mike Buelterman,,Art,ENVIRONMENT ARTIST,,,core,L81
+halo-reach,17,Javier Burgos,,Other,RIGGER,,,core,L83
+halo-reach,18,Tom Burlington,,Art,ENVIRONMENT TECHNICAL ARTIST,,,core,L85
+halo-reach,19,Jon Cable,,Engineering,SANDBOX ENGINEER,,,core,L87
+halo-reach,20,Milton Cadogan,,Art,3D ARTIST,,,core,L89
+halo-reach,21,David Candland,,Art,UI ART LEAD,,,core,L91
+halo-reach,22,Frank Capezzuto,,Art,ENVIRONMENT ARTIST,,,core,L93
+halo-reach,23,Chris Carney,,Design,MULTIPLAYER DESIGN LEAD,,,core,L95
+halo-reach,24,Derek Carroll,,Design,MULTIPLAYER DESIGNER,,,core,L97
+halo-reach,25,Steve Chon,,Art,CONCEPT ARTIST,,,core,L99
+halo-reach,26,Alex Chu,,Art,CONCEPT ARTIST,,,core,L101
+halo-reach,27,Jessica Coombs,,Art,3D ART PRODUCER,,,core,L103
+halo-reach,28,Steve Cotton,,Art,ENVIRONMENT ART LEAD,,,core,L105
+halo-reach,29,CJ Cowan,,Art,CINEMATIC LEAD,,,core,L107
+halo-reach,30,Curtis Creamer,,Design,DESIGN TEAM MANAGER,,,core,L109
+halo-reach,31,Andrew G Davis,,Art,UI ARTIST,,,core,L111
+halo-reach,32,Vic DeLeon,,Art,ENVIRONMENT ARTIST,,,core,L113
+halo-reach,33,Christian Diefenbach,,Engineering,INFRASTRUCTURE ENGINEER,,,core,L115
+halo-reach,34,Tom Doyle,,Art,3D ART LEAD,,,core,L117
+halo-reach,35,Dave Dunn,David Dunn,Art,ART TEAM MANAGER,,,core,L119
+halo-reach,36,Max Dyckhoff,,Engineering,AI ENGINEER,,,core,L121
+halo-reach,37,Eric Elton,,Art,3D ARTIST,,,core,L123
+halo-reach,38,Jamie Evans,,QA,TEST MANAGER,,,core,L125
+halo-reach,39,Brad Fish,,Engineering,UI ENGINEER,,,core,L127
+halo-reach,40,Mark Flieg,,Art,FX ARTIST,,,core,L129
+halo-reach,41,Chad Foxglove,,Art,FX ARTIST,,,core,L131
+halo-reach,42,Brian Frank,,Design,MISSION DESIGNER,,,core,L133
+halo-reach,43,David Gasca,,QA,SENIOR TEST ENGINEER,,,core,L135
+halo-reach,44,Nick Gerrone,,QA,TEST ENGINEER,,,core,L137
+halo-reach,45,Tom Gioconda,,Engineering,ONLINE ENGINEER,,,core,L139
+halo-reach,46,Cyril Saint Girons,,Audio,AUDIO ENGINEER,,,core,L141
+halo-reach,47,Bob Glessner,,Engineering,SANDBOX ENGINEER,,,core,L143
+halo-reach,48,Mark Goldsworthy,,Art,SKY ARTIST,,,core,L145
+halo-reach,49,Chris Gossett,,Engineering,ONLINE ENGINEERING LEAD,,,core,L147
+halo-reach,50,Charlie Gough,,Engineering,ENGINEERING OVERHEAD,,,core,L149
+halo-reach,51,Tyson Green,,Design,FIREFIGHT/SYSTEMS DESIGNER,,,core,L151
+halo-reach,52,Josh Hamrick,,Design,SANDBOX DESIGNER,,,core,L153
+halo-reach,53,Isaac Hannaford,,Art,CONCEPT ARTIST,,,core,L155
+halo-reach,54,Andrew Harrison,,QA,TEST ENGINEER,,,core,L157
+halo-reach,55,Cale Haskell,,Engineering,UI ENGINEER,,,core,L159
+halo-reach,56,Justin Hayward,,Art,ENVIRONMENT LIGHTING LEAD,,,core,L161
+halo-reach,57,James Haywood,,Art,TECHNICAL ARTIST,,,core,L163
+halo-reach,58,David Helsby,,Art,ANIMATOR,,,core,L165
+halo-reach,59,Mike Hoffman,,Art,ANIMATOR,,,core,L167
+halo-reach,60,Yaohua Hu,,Engineering,GRAPHICS ENGINEER,,,core,L169
+halo-reach,61,David Hunt,,Other,RIGGING LEAD,,,core,L171
+halo-reach,62,Pat Jandro,,Art,CINEMATIC ANIMATOR,,,core,L173
+halo-reach,63,Brian Jarrard,,Studio/Business,COMMUNITY & PR DIRECTOR,,,core,L175
+halo-reach,64,C Paul Johnson,C Paul Johnson,Audio,SOUND DESIGN/ADDITIONAL MUSIC,,,core,L177
+halo-reach,65,Samuel Jones,,Art,ENVIRONMENT ART LEAD,,,core,L179
+halo-reach,66,Matt Kelly,,Art,ANIMATOR,,,core,L181
+halo-reach,67,Justin Klaassen,,QA,TEST ENGINEER INTERN,,,core,L183
+halo-reach,68,Domenic Koeplin,,Production,RELEASE MANAGER,,,core,L185
+halo-reach,69,Petar Kotevski,,Engineering,CHARACTER ENGINEERING LEAD,,,core,L187
+halo-reach,70,Luke Ledwich,,QA,TEST DEVELOPER,,,core,L189
+halo-reach,71,Marcus Lehto,Marcus R. Lehto,Other,CREATIVE DIRECTOR,,,core,L191
+halo-reach,72,Paul Lewellen,,Engineering,MULTIPLAYER ENGINEER,,,core,L193
+halo-reach,73,Richard Lico,,Art,ANIMATION CREATIVE LEAD,,,core,L195
+halo-reach,74,David Lieber,,Audio,CINEMATIC/AUDIO PRODUCER,,,core,L197
+halo-reach,75,Aaron Lieberman,,Engineering,TOOLS ENGINEERING LEAD,,,core,L199
+halo-reach,76,Blake Low,,Art,ENVIRONMENT ARTIST,,,core,L201
+halo-reach,77,Leo Martinez,,Art,ANIMATOR,,,core,L203
+halo-reach,78,Dave Matthews,,Art,3D ARTIST TEAM LEAD,,,core,L205
+halo-reach,79,Troy McFarland,,Other,MOCAP SPECIALIST,,,core,L207
+halo-reach,80,Eamon McKenzie,,Engineering,SANDBOX ENGINEERING LEAD,,,core,L209
+halo-reach,81,Robt McLees,Robert McLees,Narrative,ADDITIONAL WRITING,,,core,L211
+halo-reach,82,Michael Means,,Art,ENVIRONMENT ARTIST,,,core,L213
+halo-reach,83,Sage Merrill,,Design,SANDBOX DESIGN LEAD,,,core,L215
+halo-reach,84,Dan Miller,,Design,MISSION DESIGNER,,,core,L217
+halo-reach,85,Michael Milota,,Art,ENVIRONMENT ARTIST,,,core,L219
+halo-reach,86,Jacob Miner,,Engineering,ONLINE ENGINEER,,,core,L221
+halo-reach,87,Raj Nattam,,Art,3D ARTIST,,,core,L223
+halo-reach,88,Kurt Nellis,,Art,CINEMATIC DESIGNER,,,core,L225
+halo-reach,89,Mat Noguchi,,Engineering,INFRASTRUCTURE ENGINEER,,,core,L227
+halo-reach,90,Mark Noseworthy,,Engineering,ENGINEERING PRODUCER,,,core,L229
+halo-reach,91,Bill O'Brien,William O'Brien,Art,ANIMATION LEAD,,,core,L231
+halo-reach,92,Peter O'Brien,,Narrative,WRITING LEAD,,,core,L233
+halo-reach,93,Martin O'Donnell,,Audio,COMPOSER / AUDIO DIRECTOR,,,core,L235
+halo-reach,94,Patrick O'Kelley,,Design,CAMPAIGN/UI PRODUCTION LEAD,,,core,L237
+halo-reach,95,Chris Opdahl,,Design,CAMPAIGN DESIGN LEAD,,,core,L239
+halo-reach,96,Eric Osborne,,Narrative,COMMUNITY / ADDITIONAL WRITING,,,core,L241
+halo-reach,97,Alex Pfeiffer,,Design,MISSION DESIGNER,,,core,L243
+halo-reach,98,Cameron Pinard,,Art,ENVIRONMENT ARTIST,,,core,L245
+halo-reach,99,Matt Priestly,,Production,PRODUCTION LEAD,,,core,L247
+halo-reach,100,Matt Richenburg,,Art,ANIMATION PRODUCER,,,core,L249
+halo-reach,101,Jason Robertson,,Art,ANIMATOR,,,core,L251
+halo-reach,102,Josh Rodgers,Fireteam (gameplay mechanic),Engineering,PRODUCTION ENGINEER,,,core,L253
+halo-reach,103,Tristan Root,,Engineering,TOOLS ENGINEER,,,core,L255
+halo-reach,104,Paul Russel,,Art,ENVIRONMENT ARTIST,,,core,L257
+halo-reach,105,Zach Russell,,Leadership,DIRECTOR OF SPECIAL PROJECTS,,,core,L259
+halo-reach,106,Matt Sammons,,Design,MISSION DESIGNER,,,core,L261
+halo-reach,107,Niles Sankey,,Design,MISSION DESIGN LEAD,,,core,L263
+halo-reach,108,Tom Saville,,Art,ANIMATOR,,,core,L265
+halo-reach,109,Steve Scott,,Art,FX ART LEAD,,,core,L267
+halo-reach,110,Brian Sharp,,Engineering,TOOLS ENGINEERING LEAD,,,core,L269
+halo-reach,111,Scott Shepherd,,Art,3D ART CREATIVE LEAD,,,core,L271
+halo-reach,112,Drew Shy,,Art,ANIMATOR,,,core,L273
+halo-reach,113,Sean Shypula,,Engineering,TOOLS ENGINEER,,,core,L275
+halo-reach,114,Luke Smith,,Design,PLAYER INVESTMENT DESIGNER,,,core,L277
+halo-reach,115,Forrest Soderlind,,Other,RIGGER,,,core,L279
+halo-reach,116,Andrew Solomon,,Other,TOOLS ARCHITECT,,,core,L281
+halo-reach,117,Joe Spataro,,Art,TECHNICAL DESIGN IN ANIMATION,,,core,L283
+halo-reach,118,David Stammel,,Art,3D ARTIST,,,core,L285
+halo-reach,119,Joseph Staten,,Narrative,WRITING DIRECTOR,,,core,L287
+halo-reach,120,Stosh Steward,,Design,WEB DESIGNER,,,core,L289
+halo-reach,121,Jason Sussman,,Art,ENVIRONMENT ARTIST,,,core,L291
+halo-reach,122,Kentarou Taya,,Art,ENVIRONMENT ARTIST,,,core,L293
+halo-reach,123,Chris Tchou,,Engineering,GRAPHICS ENGINEER,,,core,L295
+halo-reach,124,Ben Thompson,,Engineering,TOOLS ENGINEER,,,core,L297
+halo-reach,125,Luke Timmins,,Engineering,MULTIPLAYER/UI ENGINEERING LEAD,,,core,L299
+halo-reach,126,Mike Tipul,,Design,MISSION DESIGNER,,,core,L301
+halo-reach,127,James Tsai,,Design,FIREFIGHT DESIGNER,,,core,L303
+halo-reach,128,Joseph Tung,,Production,EXECUTIVE PRODUCER,,,core,L305
+halo-reach,129,Artem Volchik,,Art,3D ARTIST,,,core,L307
+halo-reach,130,Paul Vosper,,Art,TECHNICAL ARTIST,,,core,L309
+halo-reach,131,Brendan Walker,,Engineering,AI/ANIMATION ENGINEER,,,core,L311
+halo-reach,132,Ben Wallace,,Engineering,ENGINEERING DIRECTOR,,,core,L313
+halo-reach,133,Xi Wang,,Engineering,GRAPHICS ENGINEER,,,core,L315
+halo-reach,134,Jay Weinland,,Audio,AUDIO LEAD / SOUND DESIGN,,,core,L317
+halo-reach,135,Jon Weisnewski,,QA,TEST ENGINEER,,,core,L319
+halo-reach,136,Michael Williams,,Engineering,ONLINE ENGINEER,,,core,L321
+halo-reach,137,Tim Williams,,Engineering,PRODUCTION ENGINEER,,,core,L323
+halo-reach,138,Lee Wilson,,Art,STORY AND CINEMATIC LEAD,,,core,L325
+halo-reach,139,Roger Wolfson,,Engineering,ONLINE ENGINEERING LEAD,,,core,L327
+halo-reach,140,Michael Wu,,Art,ENVIRONMENT TEAM LEAD,,,core,L329
+halo-reach,141,Michael Zak,Mike Zak,Art,ENVIRONMENT CREATIVE LEAD,,,core,L331
+halo-reach,142,Stan LePard,,Audio,ORCHESTRATION / ADDITIONAL MUSIC,,Panther Modern,core,L334
+halo-reach,143,Michael Salvatori,,Audio,ADDITIONAL MUSIC,,TotalAudio,core,L336
+halo-reach,144,Niles Rogers,,Audio,Additional Music and Recording,,,core,L338
+halo-reach,144,Nataraj,,Audio,Additional Music and Recording,,,core,L338
+halo-reach,147,Christopher Barrett,Chris Barrett,Art,ENVIRONMENT ART,,,core,L345
+halo-reach,148,Dorje Seattle Bellbrook,,Art,CONCEPT ART,,,core,L347
+halo-reach,149,Scott Bilas,,Engineering,TOOLS ENGINEER,,,core,L349
+halo-reach,150,Chris Butcher,,Engineering,ENGINEERING,,,core,L351
+halo-reach,151,Hao Chen,,Engineering,ENGINEERING,,,core,L353
+halo-reach,152,Andy Firth,,Engineering,ENGINEERING,,,core,L355
+halo-reach,153,Jaime Griesemer,,Design,DESIGN,,,core,L357
+halo-reach,154,Jaime Jones,,Art,CONCEPT ART,,,core,L359
+halo-reach,155,Jason Jones,,Design,DESIGN,,,core,L361
+halo-reach,156,Adrian Perez,,Engineering,ENGINEERING,,,core,L363
+halo-reach,157,Matt Segur,,Engineering,ENGINEERING,,,core,L365
+halo-reach,158,Natasha Tatarchuk,,Engineering,ENGINEERING,,,core,L367
+halo-reach,159,Justin Truman,,Engineering,ENGINEERING,,,core,L369
+halo-reach,160,Luis Villegas,,Engineering,ENGINEERING,,,core,L371
+halo-reach,161,Shi Kai Wang,,Art,3D ART,,,core,L373
+halo-reach,162,Brent Abrahamsen,,Other,CFO,,,core,L376
+halo-reach,163,Jonty Barnes,,Production,DIRECTOR OF PRODUCTION,,,core,L378
+halo-reach,164,Ondraus Jenkins,,Studio/Business,HEAD OF BUSINESS DEVELOPMENT,,,core,L380
+halo-reach,165,Pete Parsons,,Other,COO,,,core,L382
+halo-reach,166,Steve Reddoch,,Other,DEVELOPMENT MANAGER,,,core,L384
+halo-reach,167,Harold Ryan,,Other,PRESIDENT,,,core,L386
+halo-reach,168,Shawn Taylor,,Other,CONTROLLER,,,core,L388
+halo-reach,169,Renae Wetsig,,Other,ACCOUNTANT,,,core,L390
+halo-reach,170,Lorraine McLees,,Engineering,SENIOR GRAPHICS DESIGNER,,,core,L393
+halo-reach,171,Aaron LeMay,,Engineering,SENIOR GRAPHICS DESIGNER,,,core,L395
+halo-reach,172,James McQuillan,Jim McQuillan,Other,CREATIVE DIRECTOR,,,core,L397
+halo-reach,173,Alex Bezman,,Engineering,SUPPORT ENGINEER,,,core,L400
+halo-reach,174,Steve Lopez,,Other,IT DIRECTOR,,,core,L402
+halo-reach,175,Jae Parks,,Other,IT LEAD,,,core,L404
+halo-reach,176,James Phillips,,Engineering,SUPPORT ENGINEER,,,core,L406
+halo-reach,177,Gayle d'Hondt,,Publishing,HR MANAGER,,,core,L409
+halo-reach,178,Jessica Owens,,Other,RECRUITER,,,core,L411
+halo-reach,179,Shauna Sperry,,Publishing,HR COORDINATOR,,,core,L413
+halo-reach,180,Joan Toigo,,Leadership,CHIEF PEOPLE OFFICER,,,core,L415
+halo-reach,181,Davina Chan,,Studio/Business,STUDIO ADMINISTRATION,,,core,L418
+halo-reach,182,Christine Edwards,,Other,ADMINISTRATIVE ASSISTANT,,,core,L420
+halo-reach,183,Phil Kauffman,,Other,SECURITY,,,core,L422
+halo-reach,184,Jerome Simpson,,Other,SECURITY LEAD,,,core,L424
+halo-reach,185,Ryan Ellis,,Other,The Rest of Bungie,,,core,L427
+halo-reach,186,Yongjoon Lee,,Other,The Rest of Bungie,,,core,L429
+halo-reach,187,Ken Malcolm,,Other,The Rest of Bungie,,,core,L431
+halo-reach,188,Marke Pedersen,,Other,The Rest of Bungie,,,core,L433
+halo-reach,189,Christian Allen,,Design,DESIGN LEAD,,,special-thanks,L436
+halo-reach,190,Noah Bordner,,Art,ANIMATOR,,,special-thanks,L438
+halo-reach,191,Chris Charne,,Publishing,LEGAL,,,special-thanks,L440
+halo-reach,192,Jean-Charles Cullandre,,Other,CANADA-FRANCE-HAWAII TELESCOPE,,,special-thanks,L442
+halo-reach,193,Francois Boucher-Genesse,,Design,DESIGNER,,,special-thanks,L444
+halo-reach,194,Matthew Burns,,Production,PRODUCER,,,special-thanks,L446
+halo-reach,195,Steve Dolan,,Publishing,Xbox LIVE,,,special-thanks,L448
+halo-reach,196,Clifford Garrett,,Publishing,Xbox,,,special-thanks,L450
+halo-reach,197,Seth Gibson,,Art,TECHNICAL ARTIST,,,special-thanks,L452
+halo-reach,198,John Gronquist,,Art,FX ARTIST,,,special-thanks,L454
+halo-reach,199,Abigail Harris,,Publishing,MICROSOFT VISUAL MERCHANDISING,,,special-thanks,L456
+halo-reach,200,Glenn Israel,,Art,CONCEPT ARTIST,,,special-thanks,L458
+halo-reach,201,Shane Kim,,Publishing,MICROSOFT,,,special-thanks,L460
+halo-reach,202,Don McGowan,,Publishing,MICROSOFT,,,special-thanks,L462
+halo-reach,203,Theo Michel,,Publishing,Xbox LIVE,,,special-thanks,L464
+halo-reach,204,Oliver Miyashita,,Publishing,Xbox,,,special-thanks,L466
+halo-reach,205,Allen Murray,,Production,PRODUCER,,,special-thanks,L468
+halo-reach,206,Eric Neustadter,,Publishing,Xbox LIVE,,,special-thanks,L470
+halo-reach,207,Jefferson Ng,,Publishing,Xbox LIVE,,,special-thanks,L472
+halo-reach,208,Frank Pape,,Publishing,MICROSOFT,,,special-thanks,L474
+halo-reach,209,Kevin Salcedo,,Production,Xbox RELEASE MANAGER,,,special-thanks,L476
+halo-reach,210,David Shaw,,Publishing,Xbox DEVELOPMENT ACCOUNT MANAGER,,,special-thanks,L478
+halo-reach,211,Victor Tan,,Publishing,Xbox,,,special-thanks,L480
+halo-reach,212,Steve Theodore,,Art,TECHNICAL ARTIST,,,special-thanks,L482
+halo-reach,213,Stephen Toulouse,,Publishing,Xbox LIVE,,,special-thanks,L484
+halo-reach,214,Jim Veevaert,,Publishing,MICROSOFT,,,special-thanks,L486
+halo-reach,215,Justin Yorke,,Engineering,MICROSOFT ONLINE ENGINEER,,,special-thanks,L488
+halo-reach,216,Xbox Live Air Marshals,,Special Thanks,Bungie Special Thanks,,,special-thanks,L490
+halo-reach,217,Aviv Arad,,Art,ANIMATOR,,Xversity,core,L493
+halo-reach,218,Dave Atherton,,Voice,VOICE ENGINEER,,Independent,core,L495
+halo-reach,219,Erik Bertellotti,,Engineering,MOTION GRAPHICS DESIGNER,,Perhapsatron,core,L497
+halo-reach,220,Gene Blakefield,,Art,ANIMATOR,,Aquent,core,L499
+halo-reach,221,Loren Broach,,Art,ENVIRONMENT ARTIST,,Aquent,core,L501
+halo-reach,222,Sanjay Chand,,Art,LIGHTING ARTIST,,Frameshift,core,L503
+halo-reach,223,Will Christiansen,,Art,ANIMATOR,,Xversity,core,L505
+halo-reach,224,Chris Daltas,,Design,VISUAL ID AND DESIGN SUPPORT,,Xversity,core,L507
+halo-reach,225,Kevin Dalziel,,Art,LIGHTING ARTIST,,Filter,core,L509
+halo-reach,226,Ryan Eames,,Other,CONTENT COORDINATOR,,Xversity,core,L511
+halo-reach,227,Merritt Filban,,Art,3D ARTIST,,Xversity,core,L513
+halo-reach,228,Tadd Foote,,Art,ANIMATOR,,Xversity,core,L515
+halo-reach,229,Esequiel Garcia,,Art,3D ARTIST,,Filter,core,L517
+halo-reach,230,Pat Gillette,,Art,ANIMATOR,,Xversity,core,L519
+halo-reach,231,Robert Goldberg,,Narrative,VIDOC WRITER,,Independent,core,L521
+halo-reach,232,Jesse Hall,,Art,3D ARTIST,,Aquent,core,L523
+halo-reach,233,Bryen Hensley,,Engineering,MOTION GRAPHICS DESIGNER,,Independent,core,L525
+halo-reach,234,Sam Heine,,Art,ANIMATOR,,Aquent,core,L527
+halo-reach,235,David Henry,,Audio,SOUND DESIGNER,,Aquent,core,L529
+halo-reach,236,Eric Huang,,Art,ANIMATOR,,Xversity,core,L531
+halo-reach,237,Gary Huang,,Art,3D ARTIST,,Xversity,core,L533
+halo-reach,238,Kyle Hug,,Art,3D ARTIST,,Filter,core,L535
+halo-reach,239,Tomas Jech,,Art,ANIMATOR,,Aquent,core,L537
+halo-reach,240,Jason Jones,,Other,RIGGER,,Xversity,core,L539
+halo-reach,241,Noah Kaarbo,,Art,UI ARTIST,,Kaarbo Design,core,L541
+halo-reach,242,Jason Keith,,Art,ENVIRONMENT ARTIST,,Aquent,core,L543
+halo-reach,243,Ryan Klaverweide,,Engineering,GRAPHICS DESIGNER,,Xversity,core,L545
+halo-reach,244,Nik Kleverov,,Other,EDITOR,,Independent,core,L547
+halo-reach,245,Matt Lichy,,Other,3D EDITOR,,Aquent,core,L549
+halo-reach,246,David Liu,,Audio,SOUND DESIGNER,,Aquent,core,L551
+halo-reach,247,Darren McKee,,Art,3D ARTIST,,Xversity,core,L553
+halo-reach,248,Dan Mod,,Art,ENVIRONMENT ARTIST,,Aquent,core,L555
+halo-reach,249,Kayl Myers,,Art,3D ARTIST,,Xversity,core,L557
+halo-reach,250,Jeff Palmer,,Art,FX ARTIST,,Fxville,core,L559
+halo-reach,251,David Parker,,Other,EDITOR,,Xversity,core,L561
+halo-reach,252,Dan Phillips,,Art,3D ARTIST,,Aquent,core,L563
+halo-reach,253,Johnny Renquist,,Art,ENVIRONMENT ARTIST,,Xversity,core,L565
+halo-reach,254,John Stvan,,Engineering,GRAPHICS DESIGNER,,Xversity,core,L567
+halo-reach,255,Donnie Taylor,,Art,3D ARTIST,,Xversity,core,L569
+halo-reach,256,Matt Turner,,Art,3D ARTIST,,Filter,core,L571
+halo-reach,257,Anthony Vacarro,,Art,ENVIRONMENT ARTIST,,Aquent,core,L573
+halo-reach,258,Nicole Warner,,Other,CONTENT COORDINATOR,,Xversity,core,L575
+halo-reach,259,Andy Xiao,,Art,3D ARTIST,,Xversity,core,L577
+halo-reach,267,Joseph Ainsworth,,QA,TESTER,,Xversity,core,L595
+halo-reach,268,Martin An,,Other,WEB DEVELOPER,,Xversity,core,L597
+halo-reach,269,Joshua Anderson,,QA,TESTER,,Volt,core,L599
+halo-reach,270,Mike Axworthy,,QA,TESTER,,Excell,core,L601
+halo-reach,271,Cory Blaksee,,QA,TESTER,,Excell,core,L603
+halo-reach,272,Cullen Bradley,,Engineering,PRODUCTION ENGINEER,,Excell,core,L605
+halo-reach,273,Dan Callan,,QA,TESTER,,Excell,core,L607
+halo-reach,274,Eric Carter,,QA,TESTER,,Volt,core,L609
+halo-reach,275,Richard Chen,,QA,LOCALIZATION TESTER,,Comsys,publishing,L611
+halo-reach,276,Rolando Cisneros,,QA,TESTER,,Volt,core,L613
+halo-reach,277,Thomas Coldwell,,QA,TESTER,,Comsys,core,L615
+halo-reach,278,Joel Day,,QA,TESTER,,Volt,core,L617
+halo-reach,279,Karley Donnell,,QA,TESTER,,Excell,core,L619
+halo-reach,280,Michael Durkin,,QA,TESTER,,Volt,core,L621
+halo-reach,281,Justin Ewert,,QA,TESTER,,Excell,core,L623
+halo-reach,282,Mariana Feddersen,,QA,LOCALIZATION TESTER,,Volt,publishing,L625
+halo-reach,283,Anton Feist,,QA,TESTER,,Excell,core,L627
+halo-reach,284,Chris Fivash,,QA,TESTER,,Xversity,core,L629
+halo-reach,285,Kevin Gordon,,QA,TESTER,,Xversity,core,L631
+halo-reach,286,Jonathan Green,,QA,TESTER,,Volt,core,L633
+halo-reach,287,Chad Hale,,QA,TESTER,,Volt,core,L635
+halo-reach,288,Kevin Hanschen,,QA,TESTER,,Xversity,core,L637
+halo-reach,289,Andrew Hopper,,QA,TESTER,,Excell,core,L639
+halo-reach,290,Andy Howell,,QA,TESTER,,Comsys,core,L641
+halo-reach,291,Chiaki Isono,,QA,LOCALIZATION TESTER,,Volt,publishing,L643
+halo-reach,292,Micah Jelberg,,QA,TESTER,,Xversity,core,L645
+halo-reach,293,Tanner Johnson,,QA,TESTER,,Xversity,core,L647
+halo-reach,294,Robert Kehoe,,QA,TESTER,,Volt,core,L649
+halo-reach,295,Sean Kellogg,,QA,TESTER,,Xversity,core,L651
+halo-reach,296,Tomonori Kinoshita,,QA,TESTER,,Excell,core,L653
+halo-reach,297,Schuyler Ko,,QA,TESTER,,Volt,core,L655
+halo-reach,298,Uwe Krahe,,QA,LOCALIZATION TESTER,,Excell,publishing,L657
+halo-reach,299,Eric Kramer,,QA,TESTER,,Xversity,core,L659
+halo-reach,300,Ryan Ladeen,,QA,TESTER,,Volt,core,L661
+halo-reach,301,Justin Lankin,,QA,TESTER,,Xversity,core,L663
+halo-reach,302,Gordon Lee,,QA,TESTER,,Xversity,core,L665
+halo-reach,303,Jooyoung Lee,,QA,LOCALIZATION TESTER,,Volt,publishing,L667
+halo-reach,304,Matthew Lumb-Mielke,,QA,TESTER,,Xversity,core,L669
+halo-reach,305,Jeff Mattson,,QA,TESTER,,Volt,core,L671
+halo-reach,306,Andra Niculescu,,QA,LOCALIZATION TESTER,,Comsys,publishing,L673
+halo-reach,307,Eddie Nunez,,QA,TESTER,,Volt,core,L675
+halo-reach,308,Jason Pate,,QA,TESTER,,Aquent,core,L677
+halo-reach,309,Jeremiah Pieschl,,QA,TESTER,,Xversity,core,L679
+halo-reach,310,Erick Reyes,,QA,TESTER,,Xversity,core,L681
+halo-reach,311,Nathan Rodland,,QA,LOCALIZATION TESTER,,Xversity,publishing,L683
+halo-reach,312,Michael Sechrist,,QA,TESTER,,Volt,core,L685
+halo-reach,313,Jason Shifley,,QA,TESTER,,Comsys,core,L687
+halo-reach,314,Joe Stifferman,,QA,AI TESTER,,Volt,core,L689
+halo-reach,315,Annamaria Stolfo,,QA,LOCALIZATION TESTER,,Comsys,publishing,L691
+halo-reach,316,Michael Tea,,QA,TESTER,,Xversity,core,L693
+halo-reach,317,Alan Tseng,,Other,WEB DEVELOPER,,Volt,core,L695
+halo-reach,318,Mark Uyeda,,QA,TESTER,,Xversity,core,L697
+halo-reach,319,Lionel Ward,,QA,TESTER,,Aquent,core,L699
+halo-reach,320,Chris Wilson,,QA,TESTER,,Volt,core,L701
+halo-reach,321,Benjamin Wommack,,Engineering,PRODUCTION ENGINEER,,Xversity,core,L703
+halo-reach,322,Michael Allen,,Other,IT SYSTEMS SUPPORT,,Excell,core,L706
+halo-reach,323,Sergey Mkrtumov,,Other,IT SYSTEMS SUPPORT,,Xversity,core,L708
+halo-reach,324,Ron Running,,Other,IT SUPPORT SPECIALIST,,Excell,core,L710
+halo-reach,325,Andrew Saturn,,Other,IT SUPPORT SPECIALIST,,Xversity,core,L712
+halo-reach,326,Nina Saldana,,Other,RECRUITING COORDINATOR,,Xversity,core,L714
+halo-reach,327,Freddy Bosche,,Voice,Cast,CARTER,,core,L717
+halo-reach,328,Alona Tal,,Voice,Cast,KAT,,core,L719
+halo-reach,329,Jamie Hector,,Voice,Cast,EMILE,,core,L721
+halo-reach,330,Hakeem Kae Kazin,,Voice,Cast,JORGE,,core,L723
+halo-reach,331,Sunil Malhotra,,Voice,Cast,JUN,,core,L725
+halo-reach,332,Jen Taylor,,Voice,Cast,HALSEY,,core,L727
+halo-reach,333,Pat Duke,,Voice,Cast,HOLLAND,,core,L729
+halo-reach,334,Carole Ruggier,,Voice,Cast,AUNTIE DOT,,core,L731
+halo-reach,335,Pete Stacker,,Voice,Cast,KEYES,,core,L733
+halo-reach,336,Marcella Lentz-Pope,,Voice,Cast,SARA,,core,L735
+halo-reach,337,Phillip Anthony Rodriguez,,Voice,Cast,NOBLE SIX (MALE),,core,L737
+halo-reach,338,Amanda Phillipson,,Voice,Cast,NOBLE SIX (FEMALE),,core,L739
+halo-reach,339,Jon Huertas,Jon Huertas,Voice,Cast,TROOPER 1,,core,L741
+halo-reach,340,Greg Grunberg,,Voice,Cast,TROOPER 2,,core,L743
+halo-reach,341,Patrick Galagher,Patrick Gallagher,Voice,Cast,TROOPER 3,,core,L745
+halo-reach,342,Zachary Levi,Zachary Levi,Voice,Cast,TROOPER 4,,core,L747
+halo-reach,343,Ron Livingston,Ron Livingston,Voice,Cast,TROOPER 5,,core,L749
+halo-reach,344,Courtenay Taylor,Courtenay Taylor,Voice,Cast,FEMALE TROOPER 1,,core,L751
+halo-reach,345,Aisha Tyler,Aisha Tyler,Voice,Cast,FEMALE TROOPER 2,,core,L753
+halo-reach,346,Pete Stacker,,Voice,Cast,TROOPER SGT 1,,core,L755
+halo-reach,347,Coby Bell,Coby Bell,Voice,Cast,TROOPER SGT 2,,core,L757
+halo-reach,348,Todd Licea,,Voice,Cast,CIVILIAN MALE 1,,core,L759
+halo-reach,349,Tim Gouran,,Voice,Cast,CIVILIAN MALE 2,,core,L761
+halo-reach,350,Carol Roscoe,,Voice,Cast,CIVILIAN FEMALE,,core,L763
+halo-reach,351,David Scully,,Voice,Cast,ELITE 1,,core,L765
+halo-reach,352,Gavin McLean,,Voice,Cast,ELITE 2,,core,L767
+halo-reach,353,Chris Edgerly,,Voice,Cast,GRUNT 1,,core,L769
+halo-reach,354,Joe Staten,Joseph Staten,Voice,Cast,GRUNT 2,,core,L771
+halo-reach,355,Ken Boynton,,Voice,Cast,BRUTE 1,,core,L773
+halo-reach,356,Ron Hippe,,Voice,Cast,BRUTE 2,,core,L775
+halo-reach,357,John Patrick Lowrie,John Patrick Lowrie,Voice,Cast,SWORD CONTROL,,core,L777
+halo-reach,358,William Mapother,William Mapother,Voice,Cast,AIR CONTROL/DISPATCH,,core,L779
+halo-reach,359,Jen Taylor,,Voice,Cast,CORTANA (FIREFIGHT),,core,L781
+halo-reach,360,Steve Downes,,Voice,Cast,MASTER CHIEF (FIREFIGHT),,core,L783
+halo-reach,361,Nathan Fillion,,Voice,Cast,GUNNERY SGT BUCK (FIREFIGHT),,core,L785
+halo-reach,362,David Scully,,Voice,Cast,SGT JOHNSON (FIREFIGHT),,core,L787
+halo-reach,363,Jeff Steitzer,,Voice,Cast,MULTIPLAYER ANNOUNCER,,core,L789
+halo-reach,364,Bob O'Donnell,,Voice,Cast,VOICE OF THE TERMINALS,,core,L791
+halo-reach,365,Deborah Fialkow,,Voice,Motion Capture and Facial Performers,,,core,L794
+halo-reach,366,Hans Altwies,,Voice,Motion Capture and Facial Performers,,,core,L796
+halo-reach,367,David Hogan,,Voice,Motion Capture and Facial Performers,,,core,L798
+halo-reach,372,Burnie Burns,,Studio/Business,Community,,,community,L810
+halo-reach,373,Miguel Chavez,,Studio/Business,Community,,,community,L812
+halo-reach,374,Claude Errera,,Studio/Business,Community,,,community,L814
+halo-reach,375,Brian Morden,,Studio/Business,Community,,,community,L816
+halo-reach,379,Jimmy Bischoff,,QA,TEST MANAGER,,,publishing,L827
+halo-reach,380,Keith Cirillo,,Other,UR GROUP MANAGER,,,publishing,L829
+halo-reach,381,David Figatner,,Publishing,LEGAL COUNSEL,,,publishing,L831
+halo-reach,382,Kevin Grace,,Leadership,EXECUTIVE EDITOR,,,publishing,L833
+halo-reach,383,Shane Hartley,,Design,MEDIA DESIGNER,,Aquent,publishing,L835
+halo-reach,384,Don Mattrick,,Studio/Business,"SENIOR VP, INTERACTIVE ENTERTAINMENT BUSINESS",,,publishing,L837
+halo-reach,385,Oliver Miyashita,,Other,ACCOUNT MANAGER,,,publishing,L839
+halo-reach,386,Noah Musler,,Studio/Business,BUSINESS DEVELOPMENT MANAGER,,,publishing,L841
+halo-reach,387,Frank O'Connor,,Other,FRANCHISE DEVELOPMENT DIRECTOR,,,publishing,L843
+halo-reach,388,Bonnie Ross,,Leadership,GENERAL MANAGER,,,publishing,L845
+halo-reach,389,Eric Schuh,,Design,USER RESEARCH LEAD,,,publishing,L847
+halo-reach,390,Phil Spencer,,Leadership,CORPORATE VICE PRESIDENT,,,publishing,L849
+halo-reach,391,Mike Vaillancourt,,Other,MEDIA ILLUSTRATOR,,Volt,publishing,L851
+halo-reach,392,Jeannie Voirin-Gerde,,Design,MEDIA DESIGN LEAD,,,publishing,L853
+halo-reach,393,JoAnne Williams,,Design,MEDIA DESIGN DIRECTOR,,,publishing,L855
+halo-reach,394,Carla Woo,,Other,PARALEGAL,,,publishing,L857
+halo-reach,395,Tom Abernathy,,Narrative,WRITER,,,core,L860
+halo-reach,396,Steve Alliston,,Other,SDET,,,core,L862
+halo-reach,397,Dan Ayoub,,Production,EXECUTIVE PRODUCER,,,core,L864
+halo-reach,398,Steve Beinner,,Publishing,MARKETING DIRECTOR,,,publishing,L866
+halo-reach,399,Nick Bodenham,,Production,RELEASE MANAGER,,,core,L868
+halo-reach,400,Michael Boulton,,Engineering,ENGINEER,,,core,L870
+halo-reach,401,Matt Call,,Other,SDET,,,core,L872
+halo-reach,402,Ben Cammarano,,Art,DIRECTOR OF ART,,,core,L874
+halo-reach,403,Ryan Crosby,,Production,GROUP PRODUCT MANAGER,,,core,L876
+halo-reach,404,Alex Cutting,,Production,PRODUCER,,,core,L878
+halo-reach,405,Ted Fitzgerald,,Production,LEAD PRODUCER,,,core,L880
+halo-reach,406,Paul H. Gradwohl,,Other,SDET,,,core,L882
+halo-reach,407,Eric Helbig,,Other,SDET,,,core,L884
+halo-reach,408,Greg Hermann,,Engineering,ENGINEERING LEAD,,,core,L886
+halo-reach,409,Josh Holmes,,Production,EXECUTIVE PRODUCER,,,core,L888
+halo-reach,410,John Hopson,,Other,MGS BETA SUPERVISOR,,,core,L890
+halo-reach,411,Ryan James,,Other,GROUP PR MANAGER,,,core,L892
+halo-reach,412,Josh Kerwin,,Other,PR MANAGER,,,core,L894
+halo-reach,413,Bryan Koski,,Production,GROUP PRODUCT MANAGER,,,core,L896
+halo-reach,414,Peter Kugler,,Other,SDET,,,core,L898
+halo-reach,415,Chris Lee,,Production,LEAD PRODUCER,,,core,L900
+halo-reach,416,Gareth Lough,,Engineering,UI ENGINEER,,,core,L902
+halo-reach,417,Brent Metcalfe,,Narrative,WRITING AND EDITING LEAD,,,core,L904
+halo-reach,418,Desmond Murray,,Other,SDET,,,core,L906
+halo-reach,419,Eric Nylund,,Narrative,WRITER,,,core,L908
+halo-reach,420,Bruce Phillips,,Design,USER RESEARCH,,,core,L910
+halo-reach,421,Dennis Ries,,Studio/Business,BUSINESS MANAGEMENT LEAD,,,core,L912
+halo-reach,422,Scott Sedlickas,,Other,SDET,,,core,L914
+halo-reach,423,Chris Shaules,,QA,TEST LEAD,,,core,L916
+halo-reach,424,Mike Stout,,Production,SENIOR PRODUCT MANAGER,,,core,L918
+halo-reach,425,Joe Waters,,Engineering,GRAPHICS ENGINEER,,,core,L920
+halo-reach,426,Munetaka Fuse,,Engineering,LOCALIZATION ENGINEER,,,publishing,L923
+halo-reach,427,Kyung Sik Hwang,,Other,PROJECT MANAGER,,GlobalWay Co. LTD,publishing,L925
+halo-reach,428,Masato Ishida,,Production,PROGRAM MANAGER,,,publishing,L927
+halo-reach,429,Michael Ivory,,Engineering,LOCALIZATION ENGINEER,,,publishing,L929
+halo-reach,430,Asako Kido,,Production,PROGRAM MANAGER,,,publishing,L931
+halo-reach,431,Go Komatsu,,QA,LEAD TESTER,,,publishing,L933
+halo-reach,432,Tomoko Kometani,,Other,CONTENT EDITOR,,,publishing,L935
+halo-reach,433,Felicia Lim,,Production,PRODUCT MARKETING MANAGER,,Randstad,publishing,L937
+halo-reach,434,Jidi Ng,,Production,PRINT PRODUCTION,,,publishing,L939
+halo-reach,435,Joseph Shih,,Other,PROJECT MANAGER,,"Lionbridge Technologies, Inc.",publishing,L941
+halo-reach,436,Young Hoon Shim,,Other,CONTENT EDITOR,,,publishing,L943
+halo-reach,437,Jason Shirley,,Audio,AUDIO PRODUCER,,,publishing,L945
+halo-reach,438,Vincent Tsai,,QA,TESTER,,Keywords International,publishing,L947
+halo-reach,439,Ian Walsh,,Other,PROJECT MANAGER,,,publishing,L949
+halo-reach,440,Kay Wang,,Other,CONTENT EDITOR,,,publishing,L951
+halo-reach,441,Joyce Wee,,Production,PRINT PRODUCTION,,Adecco,publishing,L953
+halo-reach,442,Dong Yoon Yang,,QA,TESTER,,Keywords International,publishing,L955
+halo-reach,443,In Wook Yi,,Voice,VOICEOVER DIRECTION,,"Musai Co., LTD",publishing,L957
+halo-reach,444,Donald Yueh,,QA,QUALITY ASSURANCE,,"Lionbridge Technologies, Inc.",publishing,L959
+halo-reach,445,Travis Abel,,QA,MGS Contract Test,,Volt,core,L962
+halo-reach,446,James Bachici,,QA,MGS Contract Test,,Volt,core,L964
+halo-reach,447,David Bai,,QA,MGS Contract Test,,Volt,core,L966
+halo-reach,448,Chris Barker,,QA,MGS Contract Test,,Excell,core,L968
+halo-reach,449,Garrett Bemis,,QA,MGS Contract Test,,Volt,core,L970
+halo-reach,450,Matt Bischoff,,QA,MGS Contract Test,,Volt,core,L972
+halo-reach,451,Josiah Bolek,,QA,MGS Contract Test,,Excell,core,L974
+halo-reach,452,Matthew Bombard,,QA,MGS Contract Test,,Volt,core,L976
+halo-reach,453,Patrick Bradley,,QA,MGS Contract Test,,Volt,core,L978
+halo-reach,454,Anthony Bryan,,QA,MGS Contract Test,,Excell,core,L980
+halo-reach,455,Bob Bobdor Campbell,,QA,MGS Contract Test,,Excell,core,L982
+halo-reach,456,Bruce Cho,,QA,MGS Contract Test,,Volt,core,L984
+halo-reach,457,Paul Conrad,,QA,MGS Contract Test,,Excell,core,L986
+halo-reach,458,Dan Cox,,QA,MGS Contract Test,,Excell,core,L988
+halo-reach,459,Bryan DeCann,,QA,MGS Contract Test,,Volt,core,L990
+halo-reach,460,Brian Dunn,,QA,MGS Contract Test,,Excell,core,L992
+halo-reach,461,Jeff Fausz,,QA,MGS Contract Test,,Excell,core,L994
+halo-reach,462,Joel Gifford,,QA,MGS Contract Test,,Volt,core,L996
+halo-reach,463,Kyle Greene,,QA,MGS Contract Test,,Volt,core,L998
+halo-reach,464,David Guilland,,QA,MGS Contract Test,,Volt,core,L1000
+halo-reach,465,John Harris,,QA,MGS Contract Test,,Excell,core,L1002
+halo-reach,466,Brian Haucke,,QA,MGS Contract Test,,Volt,core,L1004
+halo-reach,467,Gregory J. Hester,,QA,MGS Contract Test,,Volt,core,L1006
+halo-reach,468,Dan Hitchcock,,QA,MGS Contract Test,,Volt,core,L1008
+halo-reach,469,Kyle Hornberger,,QA,MGS Contract Test,,Excell,core,L1010
+halo-reach,470,Jake Jarvis,,QA,MGS Contract Test,,Volt,core,L1012
+halo-reach,471,Scott Kankelborg,,QA,MGS Contract Test,,Excell,core,L1014
+halo-reach,472,Jeffrey Kleinman,,QA,MGS Contract Test,,Volt,core,L1016
+halo-reach,473,Corey Langelotti,,QA,MGS Contract Test,,Volt,core,L1018
+halo-reach,474,Nelson Lavin,,QA,MGS Contract Test,,Volt,core,L1020
+halo-reach,475,Christopher Lee Johnson,,QA,MGS Contract Test,,Excell,core,L1022
+halo-reach,476,Greg Mattson,,QA,MGS Contract Test,,Excell,core,L1024
+halo-reach,477,Rory Menteer,,QA,MGS Contract Test,,Volt,core,L1026
+halo-reach,478,Travis Pijut,,QA,MGS Contract Test,,Excell,core,L1028
+halo-reach,479,J. Waylon Rains,,QA,MGS Contract Test,,Volt,core,L1030
+halo-reach,480,James Reeves,,QA,MGS Contract Test,,Volt,core,L1032
+halo-reach,481,Oliver Reeves,,QA,MGS Contract Test,,Volt,core,L1034
+halo-reach,482,Derek Shefveland,,QA,MGS Contract Test,,Excell,core,L1036
+halo-reach,483,Scott Shields,,QA,MGS Contract Test,,Volt,core,L1038
+halo-reach,484,Brandon Stewart,,QA,MGS Contract Test,,Volt,core,L1040
+halo-reach,485,Kyle Symonds,,QA,MGS Contract Test,,Volt,core,L1042
+halo-reach,486,Trevor Weisberg,,QA,MGS Contract Test,,Volt,core,L1044
+halo-reach,487,Willie Wight,,QA,MGS Contract Test,,Excell,core,L1046
+halo-reach,488,Tim Woodbury,,QA,MGS Contract Test,,Excell,core,L1048
+halo-reach,489,Philip Zahoruyko,,QA,MGS Contract Test,,Excell,core,L1050
+halo-reach,490,Erick Baca Aguilar,,Special Thanks,MGS Special Thanks,,,special-thanks,L1053
+halo-reach,491,Mary Bate,,Special Thanks,MGS Special Thanks,,,special-thanks,L1055
+halo-reach,492,Jacob Benton,,Special Thanks,MGS Special Thanks,,,special-thanks,L1057
+halo-reach,493,Rachelle Bilbruck,,Special Thanks,MGS Special Thanks,,,special-thanks,L1059
+halo-reach,494,Steven Blackburn,,Special Thanks,MGS Special Thanks,,,special-thanks,L1061
+halo-reach,495,Hugo Velasco Blanco,,Special Thanks,MGS Special Thanks,,,special-thanks,L1063
+halo-reach,496,Jay Box,,Special Thanks,MGS Special Thanks,,Hewlett-Packard,special-thanks,L1065
+halo-reach,497,Alicia Brattin,,Special Thanks,MGS Special Thanks,,,special-thanks,L1067
+halo-reach,498,James Campbell,,Special Thanks,MGS Special Thanks,,,special-thanks,L1069
+halo-reach,499,Dan Cornelius,,Special Thanks,MGS Special Thanks,,,special-thanks,L1071
+halo-reach,500,Brian Coyne,,Special Thanks,MGS Special Thanks,,,special-thanks,L1073
+halo-reach,501,Jolene Cramer,,Special Thanks,MGS Special Thanks,,,special-thanks,L1075
+halo-reach,502,Jamie Davies,,Special Thanks,MGS Special Thanks,,,special-thanks,L1077
+halo-reach,503,Craig Davison,,Special Thanks,MGS Special Thanks,,,special-thanks,L1079
+halo-reach,504,Aaron Elliot,,Special Thanks,MGS Special Thanks,,,special-thanks,L1081
+halo-reach,505,Jose Garcia,,Special Thanks,MGS Special Thanks,,,special-thanks,L1083
+halo-reach,506,Andrea Giolito,,Special Thanks,MGS Special Thanks,,,special-thanks,L1085
+halo-reach,507,Josh Goldberg,,Special Thanks,MGS Special Thanks,,,special-thanks,L1087
+halo-reach,508,Jeremy Goldstein,,Special Thanks,MGS Special Thanks,,,special-thanks,L1089
+halo-reach,509,Aaron Greenberg,,Special Thanks,MGS Special Thanks,,,special-thanks,L1091
+halo-reach,510,Angela Hession,,Special Thanks,MGS Special Thanks,,,special-thanks,L1093
+halo-reach,511,James Houlton,,Special Thanks,MGS Special Thanks,,,special-thanks,L1095
+halo-reach,512,Tom Hunt,,Special Thanks,MGS Special Thanks,,,special-thanks,L1097
+halo-reach,513,Andy Irving,,Special Thanks,MGS Special Thanks,,,special-thanks,L1099
+halo-reach,514,Greg B. Jones,,Special Thanks,MGS Special Thanks,,,special-thanks,L1101
+halo-reach,515,Steve Kastner,,Special Thanks,MGS Special Thanks,,,special-thanks,L1103
+halo-reach,516,Renee L'Heureux,,Special Thanks,MGS Special Thanks,,,special-thanks,L1105
+halo-reach,517,Chris Lee,,Special Thanks,MGS Special Thanks,,,special-thanks,L1107
+halo-reach,518,Jaime Limon,,Special Thanks,MGS Special Thanks,,,special-thanks,L1109
+halo-reach,519,Niklas Linden,,Special Thanks,MGS Special Thanks,,,special-thanks,L1111
+halo-reach,520,Faizan Makhiawala,,Special Thanks,MGS Special Thanks,,,special-thanks,L1113
+halo-reach,521,Jason Mangold,,Special Thanks,MGS Special Thanks,,,special-thanks,L1115
+halo-reach,522,Caroline McNiel,,Special Thanks,MGS Special Thanks,,,special-thanks,L1117
+halo-reach,523,Brandy O'Briant,,Special Thanks,MGS Special Thanks,,,special-thanks,L1119
+halo-reach,524,Jeremy Patenaude,,Special Thanks,MGS Special Thanks,,,special-thanks,L1121
+halo-reach,525,Tony Picardo,,Special Thanks,MGS Special Thanks,,,special-thanks,L1123
+halo-reach,526,Nick Powell,,Special Thanks,MGS Special Thanks,,Brook Street,special-thanks,L1125
+halo-reach,527,Carol Ragolski,,Special Thanks,MGS Special Thanks,,,special-thanks,L1127
+halo-reach,528,Nancy Ramsey,,Special Thanks,MGS Special Thanks,,,special-thanks,L1129
+halo-reach,529,Jeff Rivalt,,Special Thanks,MGS Special Thanks,,,special-thanks,L1131
+halo-reach,530,Corrinne Robinson,,Special Thanks,MGS Special Thanks,,"Populus Group, LLC",special-thanks,L1133
+halo-reach,531,Jeff Sanborn,,Special Thanks,MGS Special Thanks,,,special-thanks,L1135
+halo-reach,532,Taylor Smith,,Special Thanks,MGS Special Thanks,,,special-thanks,L1137
+halo-reach,533,Timo Sulzie,,Special Thanks,MGS Special Thanks,,,special-thanks,L1139
+halo-reach,534,Cindy Tompkins,,Special Thanks,MGS Special Thanks,,,special-thanks,L1141
+halo-reach,535,Kevin Unangst,,Special Thanks,MGS Special Thanks,,,special-thanks,L1143
+halo-reach,536,Guy Welch,,Special Thanks,MGS Special Thanks,,,special-thanks,L1145
+halo-reach,537,Mikey Wetzel,,Special Thanks,MGS Special Thanks,,,special-thanks,L1147
+halo-reach,538,Rich Wickham,,Special Thanks,MGS Special Thanks,,,special-thanks,L1149
+halo-reach,539,Rajeev Nattam,,Art,3D Artists,,,core,mobygames:tr3
+halo-reach,540,Michael Baldwin,,Engineering,Sandbox Engineers,,,core,mobygames:tr13
+halo-reach,541,Daniel Miller,,Design,Mission Designers,,,core,mobygames:tr20
+halo-reach,542,Mark Flieg Jr.,,Art,FX Artists,,,core,mobygames:tr32
+halo-reach,543,Lee R. Wilson,,Art,Story and Cinematic Lead,,,core,mobygames:tr38
+halo-reach,544,Charles Gough,,Engineering,Engineering Overhead,,,core,mobygames:tr39
+halo-reach,545,Nile Rodgers,,Audio,Halo 2 Soundtrack 'Never Surrender' appears Courtesy of,,,core,mobygames:tr97
+halo-reach,546,Dorje Bellbrook,,Art,Concept Art,,,core,mobygames:tr101
+halo-reach,547,Andrew Firth,,Engineering,Engineering,,,core,mobygames:tr103
+halo-reach,548,Adrian Mark Perez,,Engineering,Engineering,,,core,mobygames:tr103
+halo-reach,549,Phil Kauffmann,,Studio/Business,Security,,,core,mobygames:tr130
+halo-reach,550,Ken Malcom,,Other,The Rest of Bungie,,,core,mobygames:tr133
+halo-reach,551,Jim Charne,,Special Thanks,Legal,,,special-thanks,mobygames:tr137
+halo-reach,552,Matthew Seiji Burns,,Production,Producer,,,special-thanks,mobygames:tr140
+halo-reach,553,Clifford Allen Garrett,,Special Thanks,Xbox,,,special-thanks,mobygames:tr142
+halo-reach,554,Stephen Theodore,,Art,Technical Artist,,,special-thanks,mobygames:tr144
+halo-reach,555,Donald McGowan,,Special Thanks,Microsoft,,,special-thanks,mobygames:tr148
+halo-reach,556,Samuel Heine,,Audio,Animators,,Aquent,core,mobygames:tr155
+halo-reach,557,Esequiel Ramon Garcia,,Audio,3D Artists,,Filter,core,mobygames:tr156
+halo-reach,558,Jason R. Keith,,Audio,Environment Artists,,Aquent,core,mobygames:tr157
+halo-reach,559,Anthony Vaccaro,,Audio,Environment Artists,,Aquent,core,mobygames:tr157
+halo-reach,560,Hong-Wei David Liu,,Audio,Sound Designers,,Aquent,core,mobygames:tr165
+halo-reach,561,Jason Garris Jones,,Audio,Rigger,,Xversity,core,mobygames:tr167
+halo-reach,562,Joe Sifferman,,QA,AI Tester,,Volt,core,mobygames:tr173
+halo-reach,563,Mariana Sulcs,,QA,Localization Testers,,Volt,publishing,mobygames:tr174
+halo-reach,564,Andra Ion Niculescu,,QA,Localization Testers,,Comsys,publishing,mobygames:tr174
+halo-reach,565,Eddie Nunez-Tovar,,QA,Localization Testers,,Volt,publishing,mobygames:tr174
+halo-reach,566,Lucy Ainsworth,,QA,Testers,,Xversity,core,mobygames:tr175
+halo-reach,567,Josh Anderson,,QA,Testers,,Volt,core,mobygames:tr175
+halo-reach,568,Michael Axworthy,,QA,Testers,,Excell,core,mobygames:tr175
+halo-reach,569,Daniel Callan,,QA,Testers,,Excell,core,mobygames:tr175
+halo-reach,570,Andrew Howell,,QA,Testers,,Comsys,core,mobygames:tr175
+halo-reach,571,Micah C. Jelmberg,,QA,Testers,,Xversity,core,mobygames:tr175
+halo-reach,572,Nina Harrison,,Publishing,Recruiting Coordinator,,Xversity,core,mobygames:tr179
+halo-reach,573,Hakeem Kae-Kazim,,Voice,Voice Actor,,,core,mobygames:tr184
+halo-reach,574,Carole J. Ruggier,,Voice,Voice Actor,,,core,mobygames:tr188
+halo-reach,575,Marcella Lentz Pope,,Voice,Voice Actor,,,core,mobygames:tr190
+halo-reach,576,Philip Anthony-Rodriguez,,Voice,Voice Actor,,,core,mobygames:tr191
+halo-reach,577,Amanda Philipson,,Voice,Voice Actor,,,core,mobygames:tr192
+halo-reach,578,Patrick Gallagher,,Voice,Voice Actor,,,core,mobygames:tr195
+halo-reach,579,Courtenay Kellen Taylor,,Voice,Voice Actor,,,core,mobygames:tr198
+halo-reach,580,Hans Altweis,,Voice,Motion Capture and Facial Performers,,,core,mobygames:tr220
+halo-reach,581,Noah P. Musler,,Publishing,Business Development Manager,,,publishing,mobygames:tr228
+halo-reach,582,Bonnie Ross-Ziegler,,Publishing,General Manager,,,publishing,mobygames:tr229
+halo-reach,583,Daniel M. Ayoub,,Production,Executive Producers,,,publishing,mobygames:tr241
+halo-reach,584,Michael Stout,,Production,Senior Product Manager,,,publishing,mobygames:tr259
+halo-reach,585,Kyungsik Hwang,,Publishing,Project Managers,,GlobalWay Co. LTD,publishing,mobygames:tr265
+halo-reach,586,Vincent Chia-Lun Tsai,,QA,Testers,,Keywords International,publishing,mobygames:tr273
+halo-reach,587,Christopher Barker,,QA,MGS Contract Test,,Excell,publishing,mobygames:tr277
+halo-reach,588,Matt Bombard,,QA,MGS Contract Test,,Volt,publishing,mobygames:tr277
+halo-reach,589,Robert Campbell,,QA,MGS Contract Test,,Excell,publishing,mobygames:tr277
+halo-reach,590,Kyle Green,,QA,MGS Contract Test,,Volt,publishing,mobygames:tr277
+halo-reach,591,Scott Kenkelborg,,QA,MGS Contract Test,,Excell,publishing,mobygames:tr277
+halo-reach,592,Aaron Elliott,,Special Thanks,Special Thanks,,,special-thanks,mobygames:tr279
+halo-reach,593,Andrea Luigi Francesco Giolito,,Special Thanks,Special Thanks,,,special-thanks,mobygames:tr279
+halo-reach,594,Steven Kastner,,Special Thanks,Special Thanks,,,special-thanks,mobygames:tr279
+halo-reach,595,Christopher Lee,,Special Thanks,Special Thanks,,,special-thanks,mobygames:tr279
+halo-reach,596,Jeff Rivait,,Special Thanks,Special Thanks,,,special-thanks,mobygames:tr279
+halo-reach,597,Taylor Smith Sr.,,Special Thanks,Special Thanks,,,special-thanks,mobygames:tr279
+halo-reach,598,Timo Sulzle,,Special Thanks,Special Thanks,,,special-thanks,mobygames:tr279
+halo-reach,599,Cindy Tomkins,,Special Thanks,Special Thanks,,,special-thanks,mobygames:tr279
+halo-reach,600,Eddie Kim,,Art,Cinematics,,,core,mobygames:tr281

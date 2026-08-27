@@ -1,0 +1,96 @@
+^And all Bungie fans
+^And the Bungie Auxiliary Players
+^Bink Video
+^To Our Fans[:,]
+(?i)^(\(c\)|©)
+(?i)^(unreal engine|wwise|speedtree|speech graphics|havok|autodesk)\b
+(?i)^(in memory|production babies|halo babies)$
+^The Superintendent's screen appears\.$
+^KEEP IT CLEAN!$
+^Story and design by Bungie, LLC$
+^Let our thanks crash against these rocks$
+^New Zealand$
+^and$
+^The makers of gauss ammunition$
+^\(And its licensors\)\. All rights reserved\. See www\.havok\.com for details\.$
+^This product uses zlib—Copyright ©1995-2009 Jean-Joup Gaily and Mark Adler$
+^FaceGen from Singular Inversion Inc\.$
+^Dolby and the Double-D Symbol are trademarks of Dolby Laboratories\.$
+^Love, Bungie$
+^7th Column - Bungie's Underground Army$
+(?i)^https?://\S+$
+(?i)^.+\s+https?://\S+$
+^Good Game Network$
+^\s*$
+
+# ---------------------------------------------------------------------------
+# I4 -- rows that shipped as credited people but are not people at all.
+#
+# Every pattern below was run over all eleven games before being added and its
+# complete hit list checked by hand; the lists are recorded in
+# docs/superpowers/2026-08-16-known-defects-and-decisions.md. A dropped line
+# is still logged (see ParseResult.drop), never silently discarded.
+# ---------------------------------------------------------------------------
+
+# A wiki horizontal rule separating credit blocks.
+# 5 rows: halo-2 L513/L517/L523, halo-cea L952/L956.
+^-{3,}$
+
+# A wiki namespace tag. strip_links deliberately leaves a NON-article
+# namespace prefix visible in the display text (unlike "Wikipedia:", which is
+# stripped) precisely so the page-footer tag stays recognisable here.
+# 5 rows: the [[Category:...]] footer on halo-2, halo-3-odst (x2), halo-4,
+# halo-cea.
+(?i)^(category|file|image|media|template|help):
+
+# Middleware and licence boilerplate. Checked corpus-wide: every hit is a
+# notice, none is a person. The bare word "copyright" is safe where the bare
+# "(c)"/"©" symbol was not -- the symbol has to stay anchored (see
+# test_copyright_symbol_does_not_flag_person_names).
+#
+# A "(?i)^uses\s" rule was drafted here for the "Uses Bink Video. Copyright
+# ..." / "Uses Granny Animation. Copyright ..." lines and then removed: all
+# seven of its hits also carry the word "copyright", so no test could tell
+# whether it was present. An unguarded rule in a file whose entire job is to
+# DELETE rows is latent over-deletion with no demonstrated benefit -- the five
+# anchored literals below each fail 2-4 tests when removed, which is the bar.
+(?i)\bcopyright\b
+(?i)\ball ?rights reserved\b
+(?i)^manufactured under license\b
+(?i)^portions of this software\b
+(?i)^utilizes technology licensed\b
+(?i)^jpg rendering is based\b
+(?i)^vocal samples courtesy of\b
+
+# A URL anywhere in the line. Two shapes were escaping the older anchored
+# rules: the community-fansite credits, which name the site and put its URL in
+# a trailing parenthetical ("Forerunners.org (www.forerunners.org)", 7 rows on
+# halo-2 alone), and halo-2 L487's "HBO (http" -- D3 -- where the colon in
+# "http://" was taken as the voice-credit separator and the name was truncated
+# mid-URL. halo-3 and halo-3-odst already filtered their equivalents; halo-2
+# only escaped because its parenthesised form matched neither anchor.
+(?i)https?://
+(?i)\bwww\.
+
+# A line that is entirely one parenthetical is a stage direction or a bare
+# annotation, never a name: "(Zoom to black)", "(final Cortana-Gravemind
+# Cinematic begins)", "(Strings and Woodwinds Ensemble)". RE_PAREN_ITALIC in
+# the parser only catches the variant that also wraps an ''italic'' span.
+^\(.*\)$
+
+# Bungie's "7hank" sign-off, which closes halo-2 and halo-3 with a paragraph
+# where a name should be. The literal "7hank" appears nowhere else.
+(?i)7hank
+
+# halo-2's "...And everyone else who has furthered our goal of World
+# Domination..." sign-off. No credited name begins with an ellipsis.
+^\.\.\.
+
+# halo-3's "All of our loyal Bungie.net members and Forum moderators" -- a
+# group, not a person, and the same shape as the "And all Bungie fans" line
+# already filtered above.
+(?i)^all of our loyal\b
+
+# halo-reach L1151 is a bare [[Seven|7]] link that renders as the single
+# character "7" -- a Bungie seven-motif marker dropped between two names.
+^7$

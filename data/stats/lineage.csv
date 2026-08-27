@@ -1,0 +1,29 @@
+game_id,era,roster,from_bungie,from_343,from_halo_studios,no_prior_halo,first_party_only
+halo-ce,Bungie,96,0,0,0,96,False
+halo-2,Bungie,187,57,0,0,130,False
+halo-3,Bungie,422,94,0,0,328,False
+halo-3-odst,Bungie,330,177,0,0,153,False
+halo-reach,Bungie,398,220,0,0,178,False
+halo-cea,343 Industries,368,43,0,0,325,False
+halo-4,343 Industries,958,81,88,0,811,False
+halo-mcc,343 Industries,969,18,115,0,848,False
+halo-5,343 Industries,982,49,401,0,567,False
+halo-mcc-2018,343 Industries,43,0,0,0,43,False
+halo-mcc-2021,343 Industries,833,17,115,0,713,False
+halo-infinite,343 Industries,2631,47,531,0,2088,False
+halo-mcc-2025,Halo Studios,0,0,0,0,0,False
+halo-campaign-evolved,Halo Studios,1626,39,283,0,1319,False
+halo-ce,Bungie,96,0,0,0,96,True
+halo-2,Bungie,186,57,0,0,129,True
+halo-3,Bungie,235,92,0,0,143,True
+halo-3-odst,Bungie,249,131,0,0,118,True
+halo-reach,Bungie,254,169,0,0,85,True
+halo-cea,343 Industries,82,29,0,0,53,True
+halo-4,343 Industries,518,39,30,0,466,True
+halo-mcc,343 Industries,145,9,47,0,98,True
+halo-5,343 Industries,782,26,242,0,530,True
+halo-mcc-2018,343 Industries,0,0,0,0,0,True
+halo-mcc-2021,343 Industries,144,9,60,0,83,True
+halo-infinite,343 Industries,754,25,289,0,458,True
+halo-mcc-2025,Halo Studios,0,0,0,0,0,True
+halo-campaign-evolved,Halo Studios,297,33,156,0,121,True

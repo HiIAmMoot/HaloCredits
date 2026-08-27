@@ -1,0 +1,45 @@
+game_id,credit_order,name_raw,name_canonical,category,role_raw,character,studio,inclusion_class,source_ref
+halo-mcc-2018,0,Julien Tolszczuk-Jalbert,,Production,Associate Producer,,Behaviour Interactive,core,September 2018 Update/Behaviour Interactive/@261458
+halo-mcc-2018,1,Vincent Roy,,Production,Production Manager,,Behaviour Interactive,core,September 2018 Update/Behaviour Interactive/@261603
+halo-mcc-2018,2,Martin Poirier,,Engineering,Programming Technical Director,,Behaviour Interactive,core,September 2018 Update/Behaviour Interactive/@261747
+halo-mcc-2018,3,David Boutin,,Engineering,Technical Lead Programmer,,Behaviour Interactive,core,September 2018 Update/Behaviour Interactive/@261889
+halo-mcc-2018,4,Romain Killian,,Engineering,Technical Lead Programmer,,Behaviour Interactive,core,September 2018 Update/Behaviour Interactive/@261923
+halo-mcc-2018,5,Stéphane Pelletier,,Engineering,Technical Lead Programmer,,Behaviour Interactive,core,September 2018 Update/Behaviour Interactive/@261959
+halo-mcc-2018,6,Serge Bernier,,Engineering,Senior Graphics Programmer,,Behaviour Interactive,core,September 2018 Update/Behaviour Interactive/@262109
+halo-mcc-2018,7,Anthony DaSilva,,Engineering,Graphics Programmers,,Behaviour Interactive,core,September 2018 Update/Behaviour Interactive/@262245
+halo-mcc-2018,8,Lucas Charbit,,Engineering,Graphics Programmers,,Behaviour Interactive,core,September 2018 Update/Behaviour Interactive/@262282
+halo-mcc-2018,9,Alex Plante,,Engineering,System Programmers,,Behaviour Interactive,core,September 2018 Update/Behaviour Interactive/@262416
+halo-mcc-2018,10,Daniel Kobelsky,,Engineering,System Programmers,,Behaviour Interactive,core,September 2018 Update/Behaviour Interactive/@262449
+halo-mcc-2018,11,David Tardif-Mailloux,,Engineering,System Programmers,,Behaviour Interactive,core,September 2018 Update/Behaviour Interactive/@262486
+halo-mcc-2018,12,Gaetan Barel,,Engineering,System Programmers,,Behaviour Interactive,core,September 2018 Update/Behaviour Interactive/@262529
+halo-mcc-2018,13,Guirec Le Goff,,Engineering,System Programmers,,Behaviour Interactive,core,September 2018 Update/Behaviour Interactive/@262563
+halo-mcc-2018,14,Jean Louchez,,Engineering,System Programmers,,Behaviour Interactive,core,September 2018 Update/Behaviour Interactive/@262599
+halo-mcc-2018,15,Jeff Regis,,Engineering,System Programmers,,Behaviour Interactive,core,September 2018 Update/Behaviour Interactive/@262633
+halo-mcc-2018,16,Julien Balestrieri,,Engineering,System Programmers,,Behaviour Interactive,core,September 2018 Update/Behaviour Interactive/@262665
+halo-mcc-2018,17,Kevin Alexandre Boissonneault,,Engineering,System Programmers,,Behaviour Interactive,core,September 2018 Update/Behaviour Interactive/@262705
+halo-mcc-2018,18,Mathieu Jouve,,Engineering,System Programmers,,Behaviour Interactive,core,September 2018 Update/Behaviour Interactive/@262756
+halo-mcc-2018,19,Sharan Volin,,Engineering,System Programmers,,Behaviour Interactive,core,September 2018 Update/Behaviour Interactive/@262791
+halo-mcc-2018,20,Simon Côté-Duchesne,,Engineering,System Programmers,,Behaviour Interactive,core,September 2018 Update/Behaviour Interactive/@262825
+halo-mcc-2018,21,Nicolas Bourges,,Design,Lead UI/UX Designer,,Behaviour Interactive,core,September 2018 Update/Behaviour Interactive/@263099
+halo-mcc-2018,22,Luc Abran,,Design,UI/UX Designer,,Behaviour Interactive,core,September 2018 Update/Behaviour Interactive/@263231
+halo-mcc-2018,23,Mathieu Lavoie,,Audio,Audio Designer,,Behaviour Interactive,core,September 2018 Update/Behaviour Interactive/@263357
+halo-mcc-2018,24,Kevin Buttle,,QA,Lead Development QA,,Behaviour Interactive,core,September 2018 Update/Behaviour Interactive/@263493
+halo-mcc-2018,25,Jean-François Morin,,QA,Development QA,,Behaviour Interactive,core,September 2018 Update/Behaviour Interactive/@263622
+halo-mcc-2018,26,Jonathan Bercu,,QA,Development QA,,Behaviour Interactive,core,September 2018 Update/Behaviour Interactive/@263666
+halo-mcc-2018,27,Jonathan Pedroso-Jodry,,QA,Development QA,,Behaviour Interactive,core,September 2018 Update/Behaviour Interactive/@263702
+halo-mcc-2018,28,Laurence Bérard-Mondou,,QA,Development QA,,Behaviour Interactive,core,September 2018 Update/Behaviour Interactive/@263746
+halo-mcc-2018,29,Maxime Lanthier,,QA,Development QA,,Behaviour Interactive,core,September 2018 Update/Behaviour Interactive/@263793
+halo-mcc-2018,30,Mariko McDonald,,Narrative,Technical Writer,,Behaviour Interactive,core,September 2018 Update/Behaviour Interactive/@263927
+halo-mcc-2018,31,Antoine Agthe,,Other,Additional Technical Lead,,Behaviour Interactive,core,September 2018 Update/Behaviour Interactive/@264070
+halo-mcc-2018,32,Germain Chazot,,Engineering,Additional System Programmers,,Behaviour Interactive,core,September 2018 Update/Behaviour Interactive/@264215
+halo-mcc-2018,33,Jean Meyblum,,Engineering,Additional System Programmers,,Behaviour Interactive,core,September 2018 Update/Behaviour Interactive/@264251
+halo-mcc-2018,34,Jonathan Savoie,,Design,Additional UI/UX Designer,,Behaviour Interactive,core,September 2018 Update/Behaviour Interactive/@264514
+halo-mcc-2018,35,Alex Munger,,QA,Additional QA,,Behaviour Interactive,core,September 2018 Update/Behaviour Interactive/@264646
+halo-mcc-2018,36,Rémi Racine,,Production,President & Executive Producer,,Behaviour Interactive,core,September 2018 Update/Behaviour Interactive/@264790
+halo-mcc-2018,37,Wayne Meazza,,Leadership,"Executive Vice-President, Behaviour Studios",,Behaviour Interactive,core,September 2018 Update/Behaviour Interactive/@264949
+halo-mcc-2018,38,Stéphanie Marchand,,Production,"Vice-President of Production, Behaviour Studios",,Behaviour Interactive,core,September 2018 Update/Behaviour Interactive/@265110
+halo-mcc-2018,39,Chris Ferriera,,Other,"Head of Creative, Behaviour Studios",,Behaviour Interactive,core,September 2018 Update/Behaviour Interactive/@265268
+halo-mcc-2018,40,Vincent Villeneuve,,Other,"Head of Technology, Behaviour Studios",,Behaviour Interactive,core,September 2018 Update/Behaviour Interactive/@265421
+halo-mcc-2018,41,David Tardif,,Art,Head of Art,,Behaviour Interactive,core,September 2018 Update/Behaviour Interactive/@265553
+halo-mcc-2018,42,Jean-Frédéric Vachon,,Other,Head of Development Services,,Behaviour Interactive,core,September 2018 Update/Behaviour Interactive/@265696
+halo-mcc-2018,43,Anthony Da Silva,,Engineering,Graphics Programmers,,Behaviour Interactive,core,mobygames:tr652

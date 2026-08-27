@@ -1,0 +1,15 @@
+pattern,category
+(?i)motion capture.*animat,Art
+(?i)\b(voice|vo cast|voice talent|additional voices|motion capture|scanned talent|performance capture|performance cast),Voice
+(?i)\b(test|qa|quality|kraken),QA
+(?i)\b(audio|sound|music|dialog|foley|composer),Audio
+(?i)\b(engineer|programm|graphics|online|core tech|technical director),Engineering
+(?i)\b(art|animat|concept|environment|lighting|vfx|cinematic|character),Art
+(?i)\b(design|sandbox|level|ux|ui|user research),Design
+(?i)\b(narrativ|writer|writing|story|franchise creative),Narrative
+(?i)\b(produc|program manager|project lead|release manager),Production
+(?i)\b(special thanks|thanks)\b,Special Thanks
+(?i)\b(babies|baby)\b,Other
+(?i)\b(marketing|public relations|publishing|localization|xbox|playstation|microsoft|finance|legal|lca|hr)\b,Publishing
+(?i)\b(studio head|leadership|executive|director of|general manager|vice president|chief)\b,Leadership
+(?i)\b(business|bizops|operations|administration|facilities|community|esports)\b,Studio/Business

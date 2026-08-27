@@ -1,0 +1,1596 @@
+game_id,credit_order,name_raw,name_canonical,category,role_raw,character,studio,inclusion_class,source_ref
+halo-5,0,Josh Holmes,,Leadership,Studio Head of Internal Development,,,core,employees:tr2
+halo-5,1,David Berger,,Engineering,Director of Engineering,,,core,employees:tr3
+halo-5,2,Nicolas Bouvier,,Art,Art Director,,,core,employees:tr4
+halo-5,3,Neill Harrison,,Art,Director of Art Management,,,core,employees:tr5
+halo-5,4,Andrew Hesky,,Other,Services Development Manager,,,core,employees:tr6
+halo-5,5,Chris Lee,,Production,Executive Producer,,,core,employees:tr7
+halo-5,6,Tim Longo,,Other,Creative Director,,,core,employees:tr8
+halo-5,7,Sotaro Tojima,,Audio,Audio Director,,,core,employees:tr9
+halo-5,8,Mark Vayman,,Production,Services Group Program Manager,,,core,employees:tr10
+halo-5,9,Brad Welch,,Design,Campaign & Sandbox Design Director,,,core,employees:tr12
+halo-5,10,Chris Haluke,,Design,Campaign Design Lead,,,core,employees:tr13
+halo-5,11,David Ellis,,Design,Campaign Designer,,,core,employees:tr14
+halo-5,12,Chris French,,Design,Campaign Designer,,,core,employees:tr15
+halo-5,13,Cory Hasselbach,,Design,Campaign Designer,,,core,employees:tr16
+halo-5,14,Justin Lippert,,Design,Campaign Designer,,,core,employees:tr17
+halo-5,15,Gregory Murphy,,Design,Campaign Designer,,,core,employees:tr18
+halo-5,16,TJ Perillo,,Design,Campaign Designer,,,core,employees:tr19
+halo-5,17,Albert Robles,,Design,Campaign Designer,,,core,employees:tr20
+halo-5,18,Kevin Schmitt,,Design,Campaign Designer,,,core,employees:tr21
+halo-5,19,Jayce Diaz,,Design,Campaign Designer,,,core,employees:tr22
+halo-5,20,Chris King,,Design,Sandbox Design Lead,,,core,employees:tr23
+halo-5,21,Ryan Darcey,,Design,Sandbox Designer,,,core,employees:tr24
+halo-5,22,Matt Findley,,Design,Sandbox Designer,,,core,employees:tr25
+halo-5,23,Chris Proctor,,Design,Sandbox Designer,,,core,employees:tr26
+halo-5,24,Tim Temmerman,,Design,Sandbox Designer,,,core,employees:tr27
+halo-5,25,Daniel Wiksten,,Design,Sandbox Designer,,,core,employees:tr28
+halo-5,26,Kevin Franklin,,Design,Multiplayer Design Director,,,core,employees:tr29
+halo-5,27,Adrian Bedoya,,Design,Multiplayer Designer,,,core,employees:tr30
+halo-5,28,Quinn DelHoyo,,Design,Multiplayer Designer,,,core,employees:tr31
+halo-5,29,Max Grossman,,Design,Multiplayer Designer,,,core,employees:tr32
+halo-5,30,Lawrence Metten,,Design,Multiplayer Designer,,,core,employees:tr33
+halo-5,31,Patrick Wren,,Design,Multiplayer Designer,,,core,employees:tr34
+halo-5,32,Jeremy Raymond,,Design,Multiplayer Designer,,,core,employees:tr35
+halo-5,33,Evan Sforza,,Design,Multiplayer Designer,,,core,employees:tr36
+halo-5,34,Brian Reed,,Design,Narrative Design Director,,,core,employees:tr37
+halo-5,35,Caleb Doughty,,Design,Narrative Designer,,,core,employees:tr38
+halo-5,36,Nick Ardizzone,,Design,Narrative Designer,,,core,employees:tr39
+halo-5,37,Guillaume Colomb,,Design,Narrative Designer,,,core,employees:tr40
+halo-5,38,Patrick Downs,,Design,Narrative Designer,,,core,employees:tr41
+halo-5,39,Christopher Blohm,,Design,Progression Design Lead,,,core,employees:tr42
+halo-5,40,Jeremy Hill,,Design,Progression Designer,,,core,employees:tr43
+halo-5,41,Tom French,,Design,UGC Design Lead,,,core,employees:tr44
+halo-5,42,Sean Baron,,Design,User Research Lead,,,core,employees:tr45
+halo-5,43,Stephen Dyck,,Art,Animation Director,,,core,employees:tr47
+halo-5,44,Brien Goodrich,,Art,Cinematics Director,,,core,employees:tr48
+halo-5,45,Matt Campbell,,Art,Cinematics Animator,,,core,employees:tr49
+halo-5,46,Mark Champigny,,Art,Cinematics Animator,,,core,employees:tr50
+halo-5,47,CJ Markham,,Art,Cinematics Animator,,,core,employees:tr51
+halo-5,48,Jerod Sellhorn,,Art,Cinematics Animator,,,core,employees:tr52
+halo-5,49,Dong Eun Shin,,Art,Cinematics Animator,,,core,employees:tr53
+halo-5,50,Josh Suko,,Art,Cinematics Animator,,,core,employees:tr54
+halo-5,51,Greg Towner,,Art,Cinematics Animator,,,core,employees:tr55
+halo-5,52,Will Hardin,,Art,Cinematics Animator,,,core,employees:tr56
+halo-5,53,Rick Hoberg,,Art,Cinematics Animator,,,core,employees:tr57
+halo-5,54,Patrick Gillette,,Art,Gameplay Animation Lead,,,core,employees:tr58
+halo-5,55,Patrick Bryan,,Art,Gameplay Animator,,,core,employees:tr59
+halo-5,56,Joe Garhan,,Art,Gameplay Animator,,,core,employees:tr60
+halo-5,57,Mark Tanner,,Art,Gameplay Animator,,,core,employees:tr61
+halo-5,58,Marcellis Wentz,,Art,Gameplay Animator,,,core,employees:tr62
+halo-5,59,Kyle Dahl,,Art,Gameplay Animator,,,core,employees:tr63
+halo-5,60,Travis Howe,,Art,Gameplay Animator,,,core,employees:tr64
+halo-5,61,Josh Paraventi,,Art,Gameplay Animator,,,core,employees:tr65
+halo-5,62,Juan Carlos Larrea,,Art,Vignette Animation Lead,,,core,employees:tr66
+halo-5,63,Will Christiansen,,Art,Vignette Animator,,,core,employees:tr67
+halo-5,64,Denis Samoilov,,Art,Vignette Animator,,,core,employees:tr68
+halo-5,65,Nick Avallone,,Art,Vignette Animator,,,core,employees:tr69
+halo-5,66,Jim Donovan,,Art,Vignette Animator,,,core,employees:tr70
+halo-5,67,Asher Harman,,Art,Vignette Animator,,,core,employees:tr71
+halo-5,68,Ping-Ping Hsia,,Art,Vignette Animator,,,core,employees:tr72
+halo-5,69,Kim Mickle,,Art,Vignette Animator,,,core,employees:tr73
+halo-5,70,Nicholas Whitmire,,Art,Vignette Animator,,,core,employees:tr74
+halo-5,71,Matt D. Aldridge,,Art,"Character, Vehicle & Weapon Art Lead",,,core,employees:tr75
+halo-5,72,Sean Binder,,Art,"Character, Vehicle & Weapon Artist",,,core,employees:tr76
+halo-5,73,Andrew Bradbury,,Art,"Character, Vehicle & Weapon Artist",,,core,employees:tr77
+halo-5,74,Kyle Hefley,,Art,"Character, Vehicle & Weapon Artist",,,core,employees:tr78
+halo-5,75,Kolby Jukes,,Art,"Character, Vehicle & Weapon Artist",,,core,employees:tr79
+halo-5,76,Dan Sarkar,,Art,"Character, Vehicle & Weapon Artist",,,core,employees:tr80
+halo-5,77,Brad Shortt,,Art,"Character, Vehicle & Weapon Artist",,,core,employees:tr81
+halo-5,78,Can Tuncer,,Art,"Character, Vehicle & Weapon Artist",,,core,employees:tr82
+halo-5,79,Jaemus Wurzbach,,Art,"Character, Vehicle & Weapon Artist",,,core,employees:tr83
+halo-5,80,Jared Brunner,,Art,"Character, Vehicle & Weapon Artist",,,core,employees:tr84
+halo-5,81,Jason Holt,,Art,"Character, Vehicle & Weapon Artist",,,core,employees:tr85
+halo-5,82,Darren Bacon,,Art,Concept Art Lead,,,core,employees:tr86
+halo-5,83,Glenn Israel,,Art,Concept Artist,,,core,employees:tr87
+halo-5,84,Josh Kao,,Art,Concept Artist,,,core,employees:tr88
+halo-5,85,Justin Oaksford,,Art,Concept Artist,,,core,employees:tr89
+halo-5,86,Jia Ruan,,Art,Concept Artist,,,core,employees:tr90
+halo-5,87,Chase Toole,,Art,Concept Artist,,,core,employees:tr91
+halo-5,88,Dave Bolton,,Art,Concept Artist,,,core,employees:tr92
+halo-5,89,Sam Brown,,Art,Concept Artist,,,core,employees:tr93
+halo-5,90,Daniel Chavez,,Art,Concept Artist,,,core,employees:tr94
+halo-5,91,David Heidhoff,,Art,Concept Artist,,,core,employees:tr95
+halo-5,92,Kory Hubbell,,Art,Concept Artist,,,core,employees:tr96
+halo-5,93,Albert Ng,,Art,Concept Artist,,,core,employees:tr97
+halo-5,94,Janet Ung,,Art,Concept Artist,,,core,employees:tr98
+halo-5,95,Marc Brinkley,,Art,Environment Art Manager,,,core,employees:tr99
+halo-5,96,Justin Dinges,,Art,Campaign Environment Art Lead,,,core,employees:tr100
+halo-5,97,Nicholas Bell,,Art,Campaign Environment Artist,,,core,employees:tr101
+halo-5,98,Chris Emond,,Art,Campaign Environment Artist,,,core,employees:tr102
+halo-5,99,Ji Hoon Kim,,Art,Campaign Environment Artist,,,core,employees:tr103
+halo-5,100,Elizabeth Kirby,,Art,Campaign Environment Artist,,,core,employees:tr104
+halo-5,101,Chiyo Lai,,Art,Campaign Environment Artist,,,core,employees:tr105
+halo-5,102,Mark Linington,,Art,Campaign Environment Artist,,,core,employees:tr106
+halo-5,103,James Munroe,,Art,Campaign Environment Artist,,,core,employees:tr107
+halo-5,104,Adam Peterson,,Art,Campaign Environment Artist,,,core,employees:tr108
+halo-5,105,Christopher Ryzebol,,Art,Campaign Environment Artist,,,core,employees:tr109
+halo-5,106,Alex Senechal,,Art,Campaign Environment Artist,,,core,employees:tr110
+halo-5,107,Rory Young,,Art,Campaign Environment Artist,,,core,employees:tr111
+halo-5,108,Greg Cox,,Art,Campaign Environment Artist,,,core,employees:tr112
+halo-5,109,Ned Gasorntip,,Art,Campaign Environment Artist,,,core,employees:tr113
+halo-5,110,Nate Gregory,,Art,Campaign Environment Artist,,,core,employees:tr114
+halo-5,111,Wesley Griffith,,Art,Campaign Environment Artist,,,core,employees:tr115
+halo-5,112,Patrick Hammond,,Art,Campaign Environment Artist,,,core,employees:tr116
+halo-5,113,Eli Hanselman,,Art,Campaign Environment Artist,,,core,employees:tr117
+halo-5,114,Jonathan Lindblom,,Art,Campaign Environment Artist,,,core,employees:tr118
+halo-5,115,Chris Lomaka,,Art,Campaign Environment Artist,,,core,employees:tr119
+halo-5,116,Aenok Oh,,Art,Campaign Environment Artist,,,core,employees:tr120
+halo-5,117,Andrew Severson,,Art,Campaign Environment Artist,,,core,employees:tr121
+halo-5,118,Brian Trochim,,Art,Campaign Environment Artist,,,core,employees:tr122
+halo-5,119,BJ Christian,,Art,Cinematics Environment Art Lead,,,core,employees:tr123
+halo-5,120,Realm Lovejoy,,Art,Cinematics Environment Artist,,,core,employees:tr124
+halo-5,121,Chris Woods,,Art,Dynamic & Destruction Art Lead,,,core,employees:tr125
+halo-5,122,Ben Laidlaw,,Art,Dynamic & Destruction Artist,,,core,employees:tr126
+halo-5,123,Shon Mitchell,,Art,Dynamic & Destruction Artist,,,core,employees:tr127
+halo-5,124,Elic Agler,,Art,Dynamic & Destruction Artist,,,core,employees:tr128
+halo-5,125,Mike LaFave,,Art,Dynamic & Destruction Artist,,,core,employees:tr129
+halo-5,126,Wade Mulhern,,Art,Multiplayer Environment Art Lead,,,core,employees:tr130
+halo-5,127,Tim Diaz,,Art,Mutiplayer Environment Artist,,,core,employees:tr131
+halo-5,128,John Flath,,Art,Mutiplayer Environment Artist,,,core,employees:tr132
+halo-5,129,Chin Fong,,Art,Mutiplayer Environment Artist,,,core,employees:tr133
+halo-5,130,Chris Hands,,Art,Mutiplayer Environment Artist,,,core,employees:tr134
+halo-5,131,Mattias Kylén,,Art,Mutiplayer Environment Artist,,,core,employees:tr135
+halo-5,132,Chris Lewis,,Art,Mutiplayer Environment Artist,,,core,employees:tr136
+halo-5,133,Mike Murrill,,Art,Mutiplayer Environment Artist,,,core,employees:tr137
+halo-5,134,Denis Osmanbegovic,,Art,Mutiplayer Environment Artist,,,core,employees:tr138
+halo-5,135,Ryan B. Peterson,,Art,Mutiplayer Environment Artist,,,core,employees:tr139
+halo-5,136,Patrick Sutton,,Art,Mutiplayer Environment Artist,,,core,employees:tr140
+halo-5,137,Donnie Taylor,,Art,Mutiplayer Environment Artist,,,core,employees:tr141
+halo-5,138,Adrian Campos,,Art,Mutiplayer Environment Artist,,,core,employees:tr142
+halo-5,139,Chris Edwards,,Art,Mutiplayer Environment Artist,,,core,employees:tr143
+halo-5,140,Ryan Kuehn,,Art,Mutiplayer Environment Artist,,,core,employees:tr144
+halo-5,141,Shaun Mackey,,Art,Mutiplayer Environment Artist,,,core,employees:tr145
+halo-5,142,Jayson Miller,,Art,Mutiplayer Environment Artist,,,core,employees:tr146
+halo-5,143,Ben Nicholas,,Art,Mutiplayer Environment Artist,,,core,employees:tr147
+halo-5,144,Mark Nicolina,,Art,Mutiplayer Environment Artist,,,core,employees:tr148
+halo-5,145,Daniel Phillips,,Art,Mutiplayer Environment Artist,,,core,employees:tr149
+halo-5,146,Kelly Rains,,Art,Mutiplayer Environment Artist,,,core,employees:tr150
+halo-5,147,Jacob Stone,,Art,Mutiplayer Environment Artist,,,core,employees:tr151
+halo-5,148,Josh Watson,,Art,Mutiplayer Environment Artist,,,core,employees:tr152
+halo-5,149,Morgan Woolverton,,Art,Mutiplayer Environment Artist,,,core,employees:tr153
+halo-5,150,Adrien Cho,,Art,Vendor & Outsourcing Manager,,,core,employees:tr154
+halo-5,151,Erik Amezcua,,Art,Insource Art & Asset Integration,,,core,employees:tr155
+halo-5,152,Andy Bosold,,Art,Insource Art & Asset Integration,,,core,employees:tr156
+halo-5,153,Wei Chen,,Art,Insource Art & Asset Integration,,,core,employees:tr157
+halo-5,154,Max Clendenning,,Art,Insource Art & Asset Integration,,,core,employees:tr158
+halo-5,155,Ruth Kim,,Art,Insource Art & Asset Integration,,,core,employees:tr159
+halo-5,156,Phil Liu,,Art,Insource Art & Asset Integration,,,core,employees:tr160
+halo-5,157,Austin Montgomery,,Art,Insource Art & Asset Integration,,,core,employees:tr161
+halo-5,158,An-Tim Nguyen,,Art,Insource Art & Asset Integration,,,core,employees:tr162
+halo-5,159,Ryan Roth,,Art,Insource Art & Asset Integration,,,core,employees:tr163
+halo-5,160,Rob Shoff,,Art,Insource Art & Asset Integration,,,core,employees:tr164
+halo-5,161,Jeremiah Strong,,Art,Insource Art & Asset Integration,,,core,employees:tr165
+halo-5,162,Jon Wood,,Art,FX Art Lead,,,core,employees:tr166
+halo-5,163,Forest Baker,,Art,FX Artist,,,core,employees:tr167
+halo-5,164,John Edwards,,Art,FX Artist,,,core,employees:tr168
+halo-5,165,Tim Fortenberry,,Art,FX Artist,,,core,employees:tr169
+halo-5,166,Jeffrey Palmer,,Art,FX Artist,,,core,employees:tr170
+halo-5,167,Jason Yacalis,,Art,FX Artist,,,core,employees:tr171
+halo-5,168,Shan Duan,,Art,FX Artist,,,core,employees:tr172
+halo-5,169,Jef Johnstone,,Art,FX Artist,,,core,employees:tr173
+halo-5,170,Karl Kohlman,,Art,FX Artist,,,core,employees:tr174
+halo-5,171,Bil Leeman,,Art,FX Artist,,,core,employees:tr175
+halo-5,172,Andrew Nack,,Art,FX Artist,,,core,employees:tr176
+halo-5,173,Lindsay Ruiz,,Art,FX Artist,,,core,employees:tr177
+halo-5,174,Andrew Smallis,,Art,FX Artist,,,core,employees:tr178
+halo-5,175,Irving Zhang,,Art,FX Artist,,,core,employees:tr179
+halo-5,176,Kenny Magnusson,,Art,Lighting Lead,,,core,employees:tr180
+halo-5,177,Rae Chen,,Art,Lighting Artist,,,core,employees:tr181
+halo-5,178,Kevin Dalziel,,Art,Lighting Artist,,,core,employees:tr182
+halo-5,179,Josh Dean,,Art,Lighting Artist,,,core,employees:tr183
+halo-5,180,Josh Marvel,,Art,Lighting Artist,,,core,employees:tr184
+halo-5,181,Tony Etienne,,Art,Lighting Artist,,,core,employees:tr185
+halo-5,182,Eric Gooch,,Art,Lighting Artist,,,core,employees:tr186
+halo-5,183,Mark Ishak,,Art,Lighting Artist,,,core,employees:tr187
+halo-5,184,Nathan Rinehart,,Art,Lighting Artist,,,core,employees:tr188
+halo-5,185,Oliver Regueiro,,Art,Skybox Art Lead,,,core,employees:tr189
+halo-5,186,Eric Lin,,Art,Skybox Artist,,,core,employees:tr190
+halo-5,187,Jason Lamparty,,Art,Skybox Artist,,,core,employees:tr191
+halo-5,188,Hanhee Lee,,Art,Skybox Artist,,,core,employees:tr192
+halo-5,189,Mukul Soman,,Art,Skybox Artist,,,core,employees:tr193
+halo-5,190,Wesley Grandmont III,,Art,Tech Art Director,,,core,employees:tr194
+halo-5,191,Matthew Batten,,Art,Tech Artist,,,core,employees:tr195
+halo-5,192,Eric Black,,Art,Tech Artist,,,core,employees:tr196
+halo-5,193,Matt Chapman,,Art,Tech Artist,,,core,employees:tr197
+halo-5,194,Zhi Min Chen,,Art,Tech Artist,,,core,employees:tr198
+halo-5,195,Howard Coulby,,Art,Tech Artist,,,core,employees:tr199
+halo-5,196,Andrea Gausmann,,Art,Tech Artist,,,core,employees:tr200
+halo-5,197,Kim Haines,,Art,Tech Artist,,,core,employees:tr201
+halo-5,198,Brian May,,Art,Tech Artist,,,core,employees:tr202
+halo-5,199,Matt Osbond,,Art,Tech Artist,,,core,employees:tr203
+halo-5,200,Matt Sutherlin,,Art,Tech Artist,,,core,employees:tr204
+halo-5,201,Renee Beasley,,Art,Tech Artist,,,core,employees:tr205
+halo-5,202,Andrew Brinkworth,,Art,Tech Artist,,,core,employees:tr206
+halo-5,203,Adam Grayson,,Art,Tech Artist,,,core,employees:tr207
+halo-5,204,Cici Liu,,Art,Tech Artist,,,core,employees:tr208
+halo-5,205,Brandon Nobbs,,Art,Tech Artist,,,core,employees:tr209
+halo-5,206,Randal Shaffer,,Art,Tech Artist,,,core,employees:tr210
+halo-5,207,TJ Trently,,Art,Tech Artist,,,core,employees:tr211
+halo-5,208,Sean Hewitt,,Art,Tech Writing,,,core,employees:tr212
+halo-5,209,Gianni Truzzi,,Art,Tech Writing,,,core,employees:tr213
+halo-5,210,Chad Pfarr,,Art,UI Art Lead,,,core,employees:tr214
+halo-5,211,Jeff Christy,,Art,UI Artist,,,core,employees:tr215
+halo-5,212,Ramiro Galan,,Art,UI Artist,,,core,employees:tr216
+halo-5,213,Brian Lui,,Art,UI Artist,,,core,employees:tr217
+halo-5,214,Kevin McGinnis,,Art,UI Artist,,,core,employees:tr218
+halo-5,215,Jonathan Schwartz,,Art,UI Artist,,,core,employees:tr219
+halo-5,216,Eric Will,,Art,UI Artist,,,core,employees:tr220
+halo-5,217,Ryan Lee,,Art,UI Artist,,,core,employees:tr221
+halo-5,218,Alvin Liu,,Art,UI Implementation,,,core,employees:tr222
+halo-5,219,Roxy Reiland,,Art,UI Implementation,,,core,employees:tr223
+halo-5,220,Kazuma Jinnouchi,,Audio,Music Composer,,,core,employees:tr225
+halo-5,221,Kyle Fraser,,Audio,Lead Sound Designer,,,core,employees:tr226
+halo-5,222,Robbie Elias,,Audio,Sound Designer,,,core,employees:tr227
+halo-5,223,Ken Kato,,Audio,Sound Designer,,,core,employees:tr228
+halo-5,224,Chase Thompson,,Audio,Sound Designer,,,core,employees:tr229
+halo-5,225,Joshua Bandy,,Audio,Sound Designer,,,core,employees:tr230
+halo-5,226,Leonardo Barragan,,Audio,Sound Designer,,,core,employees:tr231
+halo-5,227,Brandon Chang,,Audio,Sound Designer,,,core,employees:tr232
+halo-5,228,Adolfo Hernández Santisteban,,Audio,Sound Designer,,,core,employees:tr233
+halo-5,229,Michael Hill,,Audio,Sound Designer,,,core,employees:tr234
+halo-5,230,Jeramy Koepping,,Audio,Sound Designer,,,core,employees:tr235
+halo-5,231,Noa Lothian,,Audio,Sound Designer,,,core,employees:tr236
+halo-5,232,Greg Snook,,Engineering,Animation Engineering Lead,,,core,employees:tr238
+halo-5,233,Anis Ahmad,,Engineering,Animation Engineer,,,core,employees:tr239
+halo-5,234,Fredrik Persson,,Engineering,Campaign & Gameplay Engineering Lead,,,core,employees:tr240
+halo-5,235,Robert Kingsley,,Engineering,AI Engineering Lead,,,core,employees:tr241
+halo-5,236,David Tuft,,Engineering,AI Engineer,,,core,employees:tr242
+halo-5,237,Andrew Wright,,Engineering,AI Engineer,,,core,employees:tr243
+halo-5,238,James Crowder,,Engineering,AI Engineer,,,core,employees:tr244
+halo-5,239,Josh Lindquist,,Engineering,Campaign Engineering Lead,,,core,employees:tr245
+halo-5,240,Dan Andersson,,Engineering,Campaign Engineer,,,core,employees:tr246
+halo-5,241,Gabe Deyerle,,Engineering,Campaign Engineer,,,core,employees:tr247
+halo-5,242,Matt Helbig,,Engineering,Campaign Engineer,,,core,employees:tr248
+halo-5,243,Scott Sims,,Engineering,Sandbox Engineering Lead,,,core,employees:tr249
+halo-5,244,Carlos Curran,,Engineering,Sandbox Engineer,,,core,employees:tr250
+halo-5,245,Harold Hirsch,,Engineering,Sandbox Engineer,,,core,employees:tr251
+halo-5,246,Matthew Koch,,Engineering,Sandbox Engineer,,,core,employees:tr252
+halo-5,247,David Pashute,,Engineering,Sandbox Engineer,,,core,employees:tr253
+halo-5,248,Sam Wolpert,,Engineering,Sandbox Engineer,,,core,employees:tr254
+halo-5,249,Alex Green,,Engineering,Sandbox Engineer,,,core,employees:tr255
+halo-5,250,Tyler Perry,,Engineering,Sandbox Engineer,,,core,employees:tr256
+halo-5,251,Daniel Kennett,,Engineering,Engine & Tools Engineering Lead,,,core,employees:tr257
+halo-5,252,Tom Hill,,Engineering,Infrastructure Engineering Lead,,,core,employees:tr258
+halo-5,253,Ryan Durand,,Engineering,Infrastructure Engineer,,,core,employees:tr259
+halo-5,254,David Govek,,Engineering,Infrastructure Engineer,,,core,employees:tr260
+halo-5,255,Brandon Layton,,Engineering,Infrastructure Engineer,,,core,employees:tr261
+halo-5,256,Justin Price,,Engineering,Infrastructure Engineer,,,core,employees:tr262
+halo-5,257,Ian Jones,,Engineering,Pipeline Engineering Lead,,,core,employees:tr263
+halo-5,258,Chris Howard,,Engineering,Pipeline Engineer,,,core,employees:tr264
+halo-5,259,Henri Tan,,Engineering,Pipeline Engineer,,,core,employees:tr265
+halo-5,260,Andrew Wood,,Engineering,Pipeline Engineer,,,core,employees:tr266
+halo-5,261,Alexander Boczar,,Engineering,Systems Engineering Lead,,,core,employees:tr267
+halo-5,262,JM Albertson,,Engineering,Systems Engineer,,,core,employees:tr268
+halo-5,263,Rob Austin,,Engineering,Systems Engineer,,,core,employees:tr269
+halo-5,264,Simon Craddick,,Engineering,Systems Engineer,,,core,employees:tr270
+halo-5,265,Josh Mattoon,,Engineering,Systems Engineer,,,core,employees:tr271
+halo-5,266,Brendan Wilson,,Engineering,Systems Engineer,,,core,employees:tr272
+halo-5,267,Andrew Carlston,,Engineering,Systems Engineer,,,core,employees:tr273
+halo-5,268,Mark Andersen,,Engineering,Tools Engineering Lead,,,core,employees:tr274
+halo-5,269,Ivo Beltchev,,Engineering,Tools Engineer,,,core,employees:tr275
+halo-5,270,Lina Sokaite Gaete,,Engineering,Tools Engineer,,,core,employees:tr276
+halo-5,271,Hongwen Huai,,Engineering,Tools Engineer,,,core,employees:tr277
+halo-5,272,Gohar Kanungo,,Engineering,Tools Engineer,,,core,employees:tr278
+halo-5,273,Nathan Miller,,Engineering,Tools Engineer,,,core,employees:tr279
+halo-5,274,Sarah O'Leary,,Engineering,Tools Engineer,,,core,employees:tr280
+halo-5,275,Peter Schuster,,Engineering,Tools Engineer,,,core,employees:tr281
+halo-5,276,Glenn Watson,,Engineering,Tools Engineer,,,core,employees:tr282
+halo-5,277,Michael Fletcher,,Engineering,Tools Engineer,,,core,employees:tr283
+halo-5,278,Eric Guerra,,Engineering,Tools Engineer,,,core,employees:tr284
+halo-5,279,Thomas J. Holmes,,Engineering,Graphics Engineering Lead,,,core,employees:tr285
+halo-5,280,Mike Boulton,,Engineering,Graphics Engineering Area Lead,,,core,employees:tr286
+halo-5,281,Andy Luedke,,Engineering,Graphics Engineering Area Lead,,,core,employees:tr287
+halo-5,282,Nicolas Gauvin,,Engineering,Graphics Engineer,,,core,employees:tr288
+halo-5,283,Adam Gold,,Engineering,Graphics Engineer,,,core,employees:tr289
+halo-5,284,Stephen Heijster,,Engineering,Graphics Engineer,,,core,employees:tr290
+halo-5,285,Zabir Hoque,,Engineering,Graphics Engineer,,,core,employees:tr291
+halo-5,286,Qin Hu,,Engineering,Graphics Engineer,,,core,employees:tr292
+halo-5,287,Bob Zasio,,Engineering,Graphics Engineer,,,core,employees:tr293
+halo-5,288,Dan Strycharske,,Engineering,Graphics Engineer,,,core,employees:tr294
+halo-5,289,Peter Burzynski,,Engineering,Online & UI Engineering Lead,,,core,employees:tr295
+halo-5,290,Jeff Dubrule,,Engineering,Network & Online Engineer,,,core,employees:tr296
+halo-5,291,Andrew Ford,,Engineering,Network & Online Engineer,,,core,employees:tr297
+halo-5,292,Robert Sanchez,,Engineering,Network & Online Engineer,,,core,employees:tr298
+halo-5,293,David Straily,,Engineering,Network & Online Engineer,,,core,employees:tr299
+halo-5,294,Sean Walsh,,Engineering,Network & Online Engineer,,,core,employees:tr300
+halo-5,295,Sam Deasy,,Engineering,Network & Online Engineer,,,core,employees:tr301
+halo-5,296,William Archbell,,Engineering,Multiplayer Engineering Lead,,,core,employees:tr302
+halo-5,297,Doug Barnes,,Engineering,Multiplayer Engineer,,,core,employees:tr303
+halo-5,298,Nick Harrison,,Engineering,Multiplayer Engineer,,,core,employees:tr304
+halo-5,299,Geoff Landskov,,Engineering,Multiplayer Engineer,,,core,employees:tr305
+halo-5,300,Miller Tinkerhess,,Engineering,Multiplayer Engineer,,,core,employees:tr306
+halo-5,301,Ben Walker,,Engineering,Multiplayer Engineer,,,core,employees:tr307
+halo-5,302,Tom Burdak,,Engineering,UI Engineer,,,core,employees:tr308
+halo-5,303,Matt Dalby,,Engineering,UI Engineer,,,core,employees:tr309
+halo-5,304,David Garza,,Engineering,UI Engineer,,,core,employees:tr310
+halo-5,305,Leonard Holman,,Engineering,UI Engineer,,,core,employees:tr311
+halo-5,306,Gareth Lough,,Engineering,UI Engineer,,,core,employees:tr312
+halo-5,307,Adam Zakowicz,,Engineering,UI Engineer,,,core,employees:tr313
+halo-5,308,Richard Le,,Engineering,UI Engineer,,,core,employees:tr314
+halo-5,309,Bryce Mercado,,Engineering,UI Engineer,,,core,employees:tr315
+halo-5,310,Mary Olson,,Audio,Audio Production Lead,,,core,employees:tr317
+halo-5,311,Kira Anderson,,Audio,Audio Producer,,,core,employees:tr318
+halo-5,312,Nicole Makila,,Production,Campaign Production Lead,,,core,employees:tr319
+halo-5,313,Nahil Sharkasi,,Production,Campaign Producer,,,core,employees:tr320
+halo-5,314,Alyson ''Zippy'' Szymanski,,Production,Campaign Producer,,,core,employees:tr321
+halo-5,315,Katy Fairbanks,,Production,Campaign Producer,,,core,employees:tr322
+halo-5,316,Alex Cutting,,Art,Character Producer,,,core,employees:tr323
+halo-5,317,Damon Conn,,Art,Cinematics Producer,,,core,employees:tr324
+halo-5,318,Olga Zinoveva,,Art,FX & Lighting Producer,,,core,employees:tr325
+halo-5,319,Brian Lemon,,Production,Multiplayer Production Lead,,,core,employees:tr326
+halo-5,320,Mike Byron,,Production,Multiplayer Producer,,,core,employees:tr327
+halo-5,321,Jared Neuss,,Production,Multiplayer Producer,,,core,employees:tr328
+halo-5,322,Lani Blazier,,Narrative,Narrative Producer,,,core,employees:tr329
+halo-5,323,Andy Abramovici,,Design,Sandbox Production Lead,,,core,employees:tr330
+halo-5,324,Brooke Branch,,Design,Sandbox Producer,,,core,employees:tr331
+halo-5,325,Casey Wu,,Art,Tools & Tech Art Producer,,,core,employees:tr332
+halo-5,326,Vincent Hui,,Design,UI Producer,,,core,employees:tr333
+halo-5,327,James Bachici,,Production,Playtest Coordinator,,,core,employees:tr334
+halo-5,328,James Johnston,,Production,Playtest Coordinator,,,core,employees:tr335
+halo-5,329,Stuart Larsen,,Production,Playtest Coordinator,,,core,employees:tr336
+halo-5,330,Caleb Metheny,,Production,Playtest Coordinator,,,core,employees:tr337
+halo-5,331,Mabel McGrail,,Production,Release Manager,,,core,employees:tr338
+halo-5,332,Jeremy Fischer,,QA,Test Engineering Lead,,,core,employees:tr340
+halo-5,333,Zain Aziz,,QA,Test Engineer,,,core,employees:tr341
+halo-5,334,Ryan Beberwyck,,QA,Test Engineer,,,core,employees:tr342
+halo-5,335,Josh Bell,,QA,Test Engineer,,,core,employees:tr343
+halo-5,336,Gus Beyer,,QA,Test Engineer,,,core,employees:tr344
+halo-5,337,Kevin Bowen,,QA,Test Engineer,,,core,employees:tr345
+halo-5,338,Adrian Brown,,QA,Test Engineer,,,core,employees:tr346
+halo-5,339,Frank Cheng,,QA,Test Engineer,,,core,employees:tr347
+halo-5,340,Joseph Cheng,,QA,Test Engineer,,,core,employees:tr348
+halo-5,341,Thomas Coldwell,,QA,Test Engineer,,,core,employees:tr349
+halo-5,342,Brian Dunn,,QA,Test Engineer,,,core,employees:tr350
+halo-5,343,Jason Ericson,,QA,Test Engineer,,,core,employees:tr351
+halo-5,344,Joel Gifford,,QA,Test Engineer,,,core,employees:tr352
+halo-5,345,Ryan O'Connor,,QA,Test Engineer,,,core,employees:tr353
+halo-5,346,Joe Whitman,,QA,Test Engineer,,,core,employees:tr354
+halo-5,347,Sneja Balakrishnapillai Chitralekha Janaki,,QA,Test Engineer,,,core,employees:tr355
+halo-5,348,Matthew Barr,,QA,Test Engineer,,,core,employees:tr356
+halo-5,349,Matt Bischoff,,QA,Test Engineer,,,core,employees:tr357
+halo-5,350,Dan Buehner,,QA,Test Engineer,,,core,employees:tr358
+halo-5,351,Eric Ferdinand,,QA,Test Engineer,,,core,employees:tr359
+halo-5,352,Rahsaan Green,,QA,Test Engineer,,,core,employees:tr360
+halo-5,353,Justin Ireland,,QA,Test Engineer,,,core,employees:tr361
+halo-5,354,Kevin Kauth,,QA,Test Engineer,,,core,employees:tr362
+halo-5,355,Igor Kuzmin,,QA,Test Engineer,,,core,employees:tr363
+halo-5,356,Jay McCleery,,QA,Test Engineer,,,core,employees:tr364
+halo-5,357,Jared Smith,,QA,Test Engineer,,,core,employees:tr365
+halo-5,358,Tom Timmins,,QA,Test Engineer,,,core,employees:tr366
+halo-5,359,Peter Tran,,QA,Test Engineer,,,core,employees:tr367
+halo-5,360,Chris Wilson,,QA,Test Engineer,,,core,employees:tr368
+halo-5,361,Mike Cavanaugh,,QA,Pro Team,,,core,employees:tr369
+halo-5,362,Mason Cobb,,QA,Pro Team,,,core,employees:tr370
+halo-5,363,Eric Hewitt,,QA,Pro Team,,,core,employees:tr371
+halo-5,364,Vartan Karakashyan,,QA,Pro Team,,,core,employees:tr372
+halo-5,365,Sean Swidersky,,QA,Pro Team,,,core,employees:tr373
+halo-5,366,Hoop Somuah,,Engineering,Section 3 Engineer,,,core,employees:tr375
+halo-5,367,Nate Jones,,Engineering,Broadsword Engineering Lead,,,core,employees:tr376
+halo-5,368,Pat Conaboy,,Engineering,Broadsword Engineer,,,core,employees:tr377
+halo-5,369,Julian Dominguez,,Engineering,Broadsword Engineer,,,core,employees:tr378
+halo-5,370,Adam Hughes,,Engineering,Broadsword Engineer,,,core,employees:tr379
+halo-5,371,Jason Morrill,,Engineering,Broadsword Engineer,,,core,employees:tr380
+halo-5,372,Reed Rector,,Engineering,Broadsword Engineer,,,core,employees:tr381
+halo-5,373,Andre Podnozov,,Engineering,Broadsword Engineer,,,core,employees:tr382
+halo-5,374,Sergei Shinkevich,,Engineering,Broadsword Engineer,,,core,employees:tr383
+halo-5,375,Sergey Bykov,,Engineering,Cobra Engineering Lead,,,core,employees:tr384
+halo-5,376,Jason Bragg,,Engineering,Cobra Engineer,,,core,employees:tr385
+halo-5,377,Gabriel Kliot,,Engineering,Cobra Engineer,,,core,employees:tr386
+halo-5,378,David Felstead,,Engineering,Harvester Engineering Lead,,,core,employees:tr387
+halo-5,379,Vitaly Berov,,Engineering,Harvester Engineer,,,core,employees:tr388
+halo-5,380,Tom Mathews,,Engineering,Harvester Engineer,,,core,employees:tr389
+halo-5,381,Michael Wetzel,,Engineering,Harvester Engineer,,,core,employees:tr390
+halo-5,382,Andy Woods,,Engineering,Harvester Engineer,,,core,employees:tr391
+halo-5,383,Artur Ievsieiev,,Engineering,Harvester Engineer,,,core,employees:tr392
+halo-5,384,Rob Rodi,,Engineering,Mongoose Engineering Lead,,,core,employees:tr393
+halo-5,385,Anran Li,,Engineering,Mongoose Engineer,,,core,employees:tr394
+halo-5,386,Mike Malyuk,,Engineering,Mongoose Engineer,,,core,employees:tr395
+halo-5,387,Brian Richards,,Engineering,Mongoose Engineer,,,core,employees:tr396
+halo-5,388,Jacob Snyder,,Engineering,Mongoose Engineer,,,core,employees:tr397
+halo-5,389,Eduard Ostrovsky,,Engineering,Mongoose Engineer,,,core,employees:tr398
+halo-5,390,Ningna Dang,,Engineering,Mongoose Engineer,,,core,employees:tr399
+halo-5,391,Mangal Srinivasamurthy,,Engineering,Mongoose Engineer,,,core,employees:tr400
+halo-5,392,Aakash Mandhar,,Engineering,Warthog Engineering Lead,,,core,employees:tr401
+halo-5,393,Eric Borzello,,Engineering,Warthog Engineer,,,core,employees:tr402
+halo-5,394,Andrew Hampton,,Engineering,Warthog Engineer,,,core,employees:tr403
+halo-5,395,Geoff Haugan,,Engineering,Warthog Engineer,,,core,employees:tr404
+halo-5,396,Darren Headrick,,Engineering,Warthog Engineer,,,core,employees:tr405
+halo-5,397,Jared Jackson,,Engineering,Warthog Engineer,,,core,employees:tr406
+halo-5,398,Scott McMurray,,Engineering,Warthog Engineer,,,core,employees:tr407
+halo-5,399,Will Morton,,Engineering,Warthog Engineer,,,core,employees:tr408
+halo-5,400,Marcus Reid,,Engineering,Warthog Engineer,,,core,employees:tr409
+halo-5,401,Manju Shivanna,,Engineering,Warthog Engineer,,,core,employees:tr410
+halo-5,402,Bryan Thomas,,Engineering,Warthog Engineer,,,core,employees:tr411
+halo-5,403,Russell West,,Engineering,Warthog Engineer,,,core,employees:tr412
+halo-5,404,Yi Xie,,Engineering,Warthog Engineer,,,core,employees:tr413
+halo-5,405,Justin Greywolf,,Engineering,Warthog Engineer,,,core,employees:tr414
+halo-5,406,Pavan Kurimilla,,Engineering,Warthog Engineer,,,core,employees:tr415
+halo-5,407,Ephrem Tolla,,Engineering,Warthog Engineer,,,core,employees:tr416
+halo-5,408,Eddie Wu,,Engineering,Warthog Engineer,,,core,employees:tr417
+halo-5,409,Max Gattuso,,Production,Broadsword Producer,,,core,employees:tr419
+halo-5,410,Jesse Squire,,Production,Broadsword Producer,,,core,employees:tr420
+halo-5,411,Chris Herrman,,Production,Harvester Producer,,,core,employees:tr421
+halo-5,412,Adrian Gilles,,Production,Harvester Producer,,,core,employees:tr422
+halo-5,413,Brett Peck,,Production,Harvester Producer,,,core,employees:tr423
+halo-5,414,Jeff Carnahan,,Production,Mongoose Producer,,,core,employees:tr424
+halo-5,415,Joao Lucas Guberman Raza,,Production,Mongoose Producer,,,core,employees:tr425
+halo-5,416,Nick Larson,,Production,Mongoose Producer,,,core,employees:tr426
+halo-5,417,Boris Erickson,,Production,Warthog Producer,,,core,employees:tr427
+halo-5,418,Tamar Goldberg,,Production,Warthog Producer,,,core,employees:tr428
+halo-5,419,Jon Hathaway,,Production,Warthog Producer,,,core,employees:tr429
+halo-5,420,Scott Ameling,,QA,Section 3 Test Manager,,,core,employees:tr431
+halo-5,421,Jesse Olmer,,QA,Broadsword Test Lead,,,core,employees:tr432
+halo-5,422,Vincent Chen,,QA,Broadsword Tester,,,core,employees:tr433
+halo-5,423,Nick Koller,,QA,Broadsword Tester,,,core,employees:tr434
+halo-5,424,Chris Welden,,QA,Broadsword Tester,,,core,employees:tr435
+halo-5,425,Svetlana Fatkina,,QA,Broadsword Tester,,,core,employees:tr436
+halo-5,426,Jordan Lewis,,QA,Broadsword Tester,,,core,employees:tr437
+halo-5,427,Kevin Ochsner,,QA,Broadsword Tester,,,core,employees:tr438
+halo-5,428,Michael Truong,,QA,Harvester Tester,,,core,employees:tr439
+halo-5,429,Harita Tipparaju,,QA,Harvester Tester,,,core,employees:tr440
+halo-5,430,Clayton Tye,,QA,Mongoose Tester,,,core,employees:tr441
+halo-5,431,Brendan Walker,,QA,Mongoose Tester,,,core,employees:tr442
+halo-5,432,John Evans,,QA,Mongoose Tester,,,core,employees:tr443
+halo-5,433,Chris Frediani,,QA,Mongoose Tester,,,core,employees:tr444
+halo-5,434,Smruti Katre,,QA,Mongoose Tester,,,core,employees:tr445
+halo-5,435,Bryan Lipscy,,QA,Mongoose Tester,,,core,employees:tr446
+halo-5,436,Matthew Benedict,,QA,Puma Tester,,,core,employees:tr447
+halo-5,437,Adam Nielsen,,QA,Puma Tester,,,core,employees:tr448
+halo-5,438,Devin Rychetnik,,QA,Warthog Test Lead,,,core,employees:tr449
+halo-5,439,Helen Addis,,QA,Warthog Tester,,,core,employees:tr450
+halo-5,440,John Konkle,,QA,Warthog Tester,,,core,employees:tr451
+halo-5,441,Cody Luitjens,,QA,Warthog Tester,,,core,employees:tr452
+halo-5,442,Nick Bauer,,QA,Warthog Tester,,,core,employees:tr453
+halo-5,443,Mark Folkerts,,QA,Warthog Tester,,,core,employees:tr454
+halo-5,444,Yujing He,,QA,Warthog Tester,,,core,employees:tr455
+halo-5,445,Adeel Zaidi,,QA,Warthog Tester,,,core,employees:tr456
+halo-5,446,Bonnie Ross,,Leadership,Corporate Vice President,,,core,employees:tr458
+halo-5,447,Bonnie Ross,,Other,Head of 343 Industries,,,core,employees:tr459
+halo-5,448,Dan Ayoub,,Leadership,Studio Head of External Development,,,core,employees:tr460
+halo-5,449,Holly Barbacovi,,Leadership,Director of Operations,,,core,employees:tr461
+halo-5,450,Matt J. McCloskey,,Leadership,Director of Franchise Business Management,,,core,employees:tr462
+halo-5,451,Frank O'Connor,,Other,Franchise Development Director,,,core,employees:tr463
+halo-5,452,Kiki Wolfkill,,Leadership,Studio Head of Entertainment,,,core,employees:tr464
+halo-5,453,Angel Villeda,,Studio/Business,Business Development & Management Lead,,,core,employees:tr466
+halo-5,454,Michael Harris,,Studio/Business,Business Development & Management,,,core,employees:tr467
+halo-5,455,David Roers,,Studio/Business,Business Development & Management,,,core,employees:tr468
+halo-5,456,Elizabeth Van Wyck,,Studio/Business,Business Development & Management,,,core,employees:tr469
+halo-5,457,Jen Anderson,,Studio/Business,Business Development & Management,,,core,employees:tr470
+halo-5,458,John Friend,,Production,Consumer Products Lead,,,core,employees:tr471
+halo-5,459,Christine Finch,,Production,Consumer Products,,,core,employees:tr472
+halo-5,460,James Monosmith,,Production,Consumer Products,,,core,employees:tr473
+halo-5,461,Tiffany O'Brien,,Production,Consumer Products,,,core,employees:tr474
+halo-5,462,Rick Achberger,,Production,Consumer Products,,,core,employees:tr475
+halo-5,463,Christy Cowan,,Production,Consumer Products,,,core,employees:tr476
+halo-5,464,Ryan Davison,,Production,Consumer Products,,,core,employees:tr477
+halo-5,465,Nicholas Gallagher,,Production,Consumer Products,,,core,employees:tr478
+halo-5,466,Kyle Hunter,,Production,Consumer Products,,,core,employees:tr479
+halo-5,467,Scott Jobe,,Production,Consumer Products,,,core,employees:tr480
+halo-5,468,Randall Ng,,Production,Consumer Products,,,core,employees:tr481
+halo-5,469,Stephen Stratton,,Production,Consumer Products,,,core,employees:tr482
+halo-5,470,Corrinne Robinson,,Other,Franchise Development Manager,,,core,employees:tr484
+halo-5,471,Kevin Grace,,Other,Franchise Development Manager,,,core,employees:tr485
+halo-5,472,Tyler Jeffers,,Other,Franchise Development,,,core,employees:tr486
+halo-5,473,Carlos Naranjo,,Other,Franchise Development,,,core,employees:tr487
+halo-5,474,Jeremy Patenaude,,Other,Franchise Development,,,core,employees:tr488
+halo-5,475,Kenneth Peters,,Other,Franchise Development,,,core,employees:tr489
+halo-5,476,Che Chou,,Studio/Business,Franchise Media & Community Director,,,core,employees:tr490
+halo-5,477,Kyle Dolan,,Studio/Business,Franchise Media & Community,,,core,employees:tr491
+halo-5,478,Andy Dudynsky,,Studio/Business,Franchise Media & Community,,,core,employees:tr492
+halo-5,479,Paul Featherstone,,Studio/Business,Franchise Media & Community,,,core,employees:tr493
+halo-5,480,Jay Frechette,,Studio/Business,Franchise Media & Community,,,core,employees:tr494
+halo-5,481,Tahir Hasandjekic,,Studio/Business,Franchise Media & Community,,,core,employees:tr495
+halo-5,482,Michael Pagano,,Studio/Business,Franchise Media & Community,,,core,employees:tr496
+halo-5,483,Eugenia Porras-Hernandez,,Studio/Business,Franchise Media & Community,,,core,employees:tr497
+halo-5,484,Chase Kunz,,Studio/Business,Franchise Media & Community,,,core,employees:tr498
+halo-5,485,Kieran Phillips,,Studio/Business,Franchise Media & Community,,,core,employees:tr499
+halo-5,486,Kat Sanders,,Studio/Business,Franchise Media & Community,,,core,employees:tr500
+halo-5,487,Lionel Ward,,Studio/Business,Franchise Media & Community,,,core,employees:tr501
+halo-5,488,Adam H. Wong,,Studio/Business,Franchise Media & Community,,,core,employees:tr502
+halo-5,489,Rachelle Bilbruck,,Studio/Business,Business Administrator,,,core,employees:tr504
+halo-5,490,Logan Jacobson,,Studio/Business,Business Administrator,,,core,employees:tr505
+halo-5,491,Leah Barlow,,Studio/Business,Business Administrator,,,core,employees:tr506
+halo-5,492,Linda Hayashikawa,,Studio/Business,Business Administrator,,,core,employees:tr507
+halo-5,493,Laila Tleimat,,Studio/Business,Business Administrator,,,core,employees:tr508
+halo-5,494,Lillian Lehmann,,Studio/Business,Business Operator,,,core,employees:tr509
+halo-5,495,Jay Box,,Studio/Business,Business Operator,,,core,employees:tr510
+halo-5,496,Dan Price,,Engineering,IT Service Engineering Lead,,,core,employees:tr511
+halo-5,497,Darren Little,,Engineering,IT Service Engineer,,,core,employees:tr512
+halo-5,498,Aubra Moore,,Engineering,IT Service Engineer,,,core,employees:tr513
+halo-5,499,Mike Staten,,Engineering,IT Service Engineer,,,core,employees:tr514
+halo-5,500,Dustin Ward,,Engineering,IT Service Engineer,,,core,employees:tr515
+halo-5,501,Mike Barr,,Engineering,IT Service Engineer,,,core,employees:tr516
+halo-5,502,Dave Berry,,Engineering,IT Service Engineer,,,core,employees:tr517
+halo-5,503,Daniel Grade,,Engineering,IT Service Engineer,,,core,employees:tr518
+halo-5,504,Andy Hildebrand,,Engineering,IT Service Engineer,,,core,employees:tr519
+halo-5,505,David Hurd,,Engineering,IT Service Engineer,,,core,employees:tr520
+halo-5,506,Thomas Oakes,,Engineering,IT Service Engineer,,,core,employees:tr521
+halo-5,507,George Pelletier,,Engineering,IT Service Engineer,,,core,employees:tr522
+halo-5,508,Jessica Shea,,Studio/Business,Studio Operations Lead,,,core,employees:tr523
+halo-5,509,Kross Adewoye,,Studio/Business,Stuio Operator,,,core,employees:tr524
+halo-5,510,Sharon Bobbio,,Studio/Business,Stuio Operator,,,core,employees:tr525
+halo-5,511,Cody Jones,,Studio/Business,Stuio Operator,,,core,employees:tr526
+halo-5,512,Tyler Owens,,Studio/Business,Stuio Operator,,,core,employees:tr527
+halo-5,513,Steven Rivera,,Studio/Business,Stuio Operator,,,core,employees:tr528
+halo-5,514,Stephen Schuckenbrock,,Studio/Business,Stuio Operator,,,core,employees:tr529
+halo-5,515,Tony Hau,,Design,Design Manager,,,core,employees:tr531
+halo-5,516,Christopher Abbas,,Design,Designer,,,core,employees:tr532
+halo-5,517,Joshua Davis,,Design,Designer,,,core,employees:tr533
+halo-5,518,Eric Dies,,Design,Designer,,,core,employees:tr534
+halo-5,519,Tiana Los,,Design,Designer,,,core,employees:tr535
+halo-5,520,Edward Arriesgado,,Design,Designer,,,core,employees:tr536
+halo-5,521,Liz Duong,,Design,Designer,,,core,employees:tr537
+halo-5,522,Mike Gerhardt,,Design,Designer,,,core,employees:tr538
+halo-5,523,Charles Ramos,,Design,Designer,,,core,employees:tr539
+halo-5,524,Sandra Lemon,,Engineering,Engineering Manager,,,core,employees:tr540
+halo-5,525,Marius Ionescu,,Engineering,Engineering Lead,,,core,employees:tr541
+halo-5,526,Rob Johnson,,Engineering,Engineering Lead,,,core,employees:tr542
+halo-5,527,Wallace Breza,,Engineering,Engineer,,,core,employees:tr543
+halo-5,528,Ryan Callens,,Engineering,Engineer,,,core,employees:tr544
+halo-5,529,Bing Huan Chio,,Engineering,Engineer,,,core,employees:tr545
+halo-5,530,Simon Gordon,,Engineering,Engineer,,,core,employees:tr546
+halo-5,531,Jon Lobaugh,,Engineering,Engineer,,,core,employees:tr547
+halo-5,532,Tyson Matanich,,Engineering,Engineer,,,core,employees:tr548
+halo-5,533,David Ruttka,,Engineering,Engineer,,,core,employees:tr549
+halo-5,534,Michael Sarchet,,Engineering,Engineer,,,core,employees:tr550
+halo-5,535,Danny Wilson,,Engineering,Engineer,,,core,employees:tr551
+halo-5,536,Max Brockman,,Engineering,Engineer,,,core,employees:tr552
+halo-5,537,Jordan Roher,,Engineering,Engineer,,,core,employees:tr553
+halo-5,538,Alexander Shipley,,Engineering,Engineer,,,core,employees:tr554
+halo-5,539,Brian Albrecht,,Production,Executive Producer,,,core,employees:tr555
+halo-5,540,Adam Callens,,Production,Producer,,,core,employees:tr556
+halo-5,541,Madhu Dhanasekaran,,Production,Producer,,,core,employees:tr557
+halo-5,542,Kevin Paul,,Production,Producer,,,core,employees:tr558
+halo-5,543,Joel Pelley,,Production,Producer,,,core,employees:tr559
+halo-5,544,Cj Saretto,,Production,Producer,,,core,employees:tr560
+halo-5,545,Torey Allen,,Production,Producer,,,core,employees:tr561
+halo-5,546,Chelsea Koning,,Production,Producer,,,core,employees:tr562
+halo-5,547,Tina Summerford,,Engineering,Programming Director,,,core,employees:tr563
+halo-5,548,Drew Benz,,Engineering,Programmer,,,core,employees:tr564
+halo-5,549,Chad Cobain,,Engineering,Programmer,,,core,employees:tr565
+halo-5,550,Rob Bowen,,Engineering,Programmer,,,core,employees:tr566
+halo-5,551,Jeff Easterling,,Engineering,Programmer,,,core,employees:tr567
+halo-5,552,Symantha Reagor,,Engineering,Programmer,,,core,employees:tr568
+halo-5,553,Jesse Stipek,,Engineering,Programmer,,,core,employees:tr569
+halo-5,554,Landin Williams,,Engineering,Programmer,,,core,employees:tr570
+halo-5,555,Mark Gehan,,QA,Test Lead,,,core,employees:tr571
+halo-5,556,Charlie Corcoran,,QA,Tester,,,core,employees:tr572
+halo-5,557,Sean Stolberg,,QA,Tester,,,core,employees:tr573
+halo-5,558,Aaron Chiasson,,QA,Tester,,,core,employees:tr574
+halo-5,559,Nora Hershberger,,QA,Tester,,,core,employees:tr575
+halo-5,560,Steve Kincaid,,QA,Tester,,,core,employees:tr576
+halo-5,561,Suniti Kulkarni,,QA,Tester,,,core,employees:tr577
+halo-5,562,Brette Levitan,,QA,Tester,,,core,employees:tr578
+halo-5,563,Rob Lowry,,QA,Tester,,,core,employees:tr579
+halo-5,564,Zac Steacy,,QA,Tester,,,core,employees:tr580
+halo-5,565,Gaylord Stewart,,QA,Tester,,,core,employees:tr581
+halo-5,566,Chris Aduna,,Engineering,Additional Engineering,,Skybox Labs,core,employees:tr584
+halo-5,567,Ryan Alban,,Engineering,Additional Engineering,,Skybox Labs,core,employees:tr585
+halo-5,568,Tim Andersen,,Engineering,Additional Engineering,,Skybox Labs,core,employees:tr586
+halo-5,569,Marcel Barker,,Engineering,Additional Engineering,,Skybox Labs,core,employees:tr587
+halo-5,570,Ace Cheung,,Engineering,Additional Engineering,,Skybox Labs,core,employees:tr588
+halo-5,571,Seamus Epp,,Engineering,Additional Engineering,,Skybox Labs,core,employees:tr589
+halo-5,572,Shaun Foley,,Engineering,Additional Engineering,,Skybox Labs,core,employees:tr590
+halo-5,573,Russell Gillette,,Engineering,Additional Engineering,,Skybox Labs,core,employees:tr591
+halo-5,574,Robb Gray,,Engineering,Additional Engineering,,Skybox Labs,core,employees:tr592
+halo-5,575,Richard Hawkes,,Engineering,Additional Engineering,,Skybox Labs,core,employees:tr593
+halo-5,576,David Hiscock,,Engineering,Additional Engineering,,Skybox Labs,core,employees:tr594
+halo-5,577,Gijs Kaerts,,Engineering,Additional Engineering,,Skybox Labs,core,employees:tr595
+halo-5,578,Ken Kavanagh,,Engineering,Additional Engineering,,Skybox Labs,core,employees:tr596
+halo-5,579,Lena Klassen,,Engineering,Additional Engineering,,Skybox Labs,core,employees:tr597
+halo-5,580,Shyang Kong,,Engineering,Additional Engineering,,Skybox Labs,core,employees:tr598
+halo-5,581,Jacob Krarup,,Engineering,Additional Engineering,,Skybox Labs,core,employees:tr599
+halo-5,582,Derek MacNeil,,Engineering,Additional Engineering,,Skybox Labs,core,employees:tr600
+halo-5,583,Wysley Ng,,Engineering,Additional Engineering,,Skybox Labs,core,employees:tr601
+halo-5,584,Andrew Osborne,,Engineering,Additional Engineering,,Skybox Labs,core,employees:tr602
+halo-5,585,Paul Parsons,,Engineering,Additional Engineering,,Skybox Labs,core,employees:tr603
+halo-5,586,Luis Placid,,Engineering,Additional Engineering,,Skybox Labs,core,employees:tr604
+halo-5,587,Pete Quickert,,Engineering,Additional Engineering,,Skybox Labs,core,employees:tr605
+halo-5,588,Steven Silvester,,Engineering,Additional Engineering,,Skybox Labs,core,employees:tr606
+halo-5,589,Dwight Tomalty,,Engineering,Additional Engineering,,Skybox Labs,core,employees:tr607
+halo-5,590,Mike Werner,,Engineering,Additional Engineering,,Skybox Labs,core,employees:tr608
+halo-5,591,John Yip,,Engineering,Additional Engineering,,Skybox Labs,core,employees:tr609
+halo-5,592,Ben Farley,,QA,Test Reserves Lead,,,core,employees:tr611
+halo-5,593,Craig Swanson,,QA,Test Reserves Lead,,,core,employees:tr612
+halo-5,594,Adam Alldredge,,QA,Test Reserve,,,core,employees:tr613
+halo-5,595,Gregory Andolshek,,QA,Test Reserve,,,core,employees:tr614
+halo-5,596,Cheyne Arteritano,,QA,Test Reserve,,,core,employees:tr615
+halo-5,597,Ryan Atwater,,QA,Test Reserve,,,core,employees:tr616
+halo-5,598,Garrett Bemis,,QA,Test Reserve,,,core,employees:tr617
+halo-5,599,Austin Benjamin,,QA,Test Reserve,,,core,employees:tr618
+halo-5,600,Seth Blakely,,QA,Test Reserve,,,core,employees:tr619
+halo-5,601,Cory Blakslee,,QA,Test Reserve,,,core,employees:tr620
+halo-5,602,Steve Boyce,,QA,Test Reserve,,,core,employees:tr621
+halo-5,603,Zach Boyce,,QA,Test Reserve,,,core,employees:tr622
+halo-5,604,Carson Brammer,,QA,Test Reserve,,,core,employees:tr623
+halo-5,605,Paul Branch,,QA,Test Reserve,,,core,employees:tr624
+halo-5,606,John Breese,,QA,Test Reserve,,,core,employees:tr625
+halo-5,607,Bailey Brian,,QA,Test Reserve,,,core,employees:tr626
+halo-5,608,Jacob Brinkly,,QA,Test Reserve,,,core,employees:tr627
+halo-5,609,Ray Butchko,,QA,Test Reserve,,,core,employees:tr628
+halo-5,610,Steven Chalmers,,QA,Test Reserve,,,core,employees:tr629
+halo-5,611,Jake Chambers,,QA,Test Reserve,,,core,employees:tr630
+halo-5,612,Paul Christian,,QA,Test Reserve,,,core,employees:tr631
+halo-5,613,Donny Clay,,QA,Test Reserve,,,core,employees:tr632
+halo-5,614,Bryan Cook,,QA,Test Reserve,,,core,employees:tr633
+halo-5,615,Melad Darbandi,,QA,Test Reserve,,,core,employees:tr634
+halo-5,616,Dalrek Davis,,QA,Test Reserve,,,core,employees:tr635
+halo-5,617,Ryan Delaney,,QA,Test Reserve,,,core,employees:tr636
+halo-5,618,Benjamin Richard Dienes,,QA,Test Reserve,,,core,employees:tr637
+halo-5,619,Max Dietz,,QA,Test Reserve,,,core,employees:tr638
+halo-5,620,Kathleen Dugan,,QA,Test Reserve,,,core,employees:tr639
+halo-5,621,Joshua Espasandin,,QA,Test Reserve,,,core,employees:tr640
+halo-5,622,Jakoby Etchells,,QA,Test Reserve,,,core,employees:tr641
+halo-5,623,Nick Fowler,,QA,Test Reserve,,,core,employees:tr642
+halo-5,624,Joshua Garrett,,QA,Test Reserve,,,core,employees:tr643
+halo-5,625,Thomas Goodfellow,,QA,Test Reserve,,,core,employees:tr644
+halo-5,626,Jacob Grandstaff,,QA,Test Reserve,,,core,employees:tr645
+halo-5,627,Evan Griffiths,,QA,Test Reserve,,,core,employees:tr646
+halo-5,628,Kevin Grismore,,QA,Test Reserve,,,core,employees:tr647
+halo-5,629,David Guilland,,QA,Test Reserve,,,core,employees:tr648
+halo-5,630,Brenden Haddad,,QA,Test Reserve,,,core,employees:tr649
+halo-5,631,Brady Hagan,,QA,Test Reserve,,,core,employees:tr650
+halo-5,632,Roger J. Hansen,,QA,Test Reserve,,,core,employees:tr651
+halo-5,633,Michael Harper,,QA,Test Reserve,,,core,employees:tr652
+halo-5,634,Brecken Hipp,,QA,Test Reserve,,,core,employees:tr653
+halo-5,635,Karl Hohnstein,,QA,Test Reserve,,,core,employees:tr654
+halo-5,636,Anthony Horne,,QA,Test Reserve,,,core,employees:tr655
+halo-5,637,Josh Hurley,,QA,Test Reserve,,,core,employees:tr656
+halo-5,638,Matthew Igaz,,QA,Test Reserve,,,core,employees:tr657
+halo-5,639,Jared Ives,,QA,Test Reserve,,,core,employees:tr658
+halo-5,640,Tyler Jarrell,,QA,Test Reserve,,,core,employees:tr659
+halo-5,641,Nate Johnson,,QA,Test Reserve,,,core,employees:tr660
+halo-5,642,Tyler Johnson,,QA,Test Reserve,,,core,employees:tr661
+halo-5,643,Ryan Jones,,QA,Test Reserve,,,core,employees:tr662
+halo-5,644,Matthew Jordan,,QA,Test Reserve,,,core,employees:tr663
+halo-5,645,Sean Kale,,QA,Test Reserve,,,core,employees:tr664
+halo-5,646,Nathan Kellams,,QA,Test Reserve,,,core,employees:tr665
+halo-5,647,Justin Key,,QA,Test Reserve,,,core,employees:tr666
+halo-5,648,Michael Kruml,,QA,Test Reserve,,,core,employees:tr667
+halo-5,649,Kylie Lewis,,QA,Test Reserve,,,core,employees:tr668
+halo-5,650,Ethan Lind,,QA,Test Reserve,,,core,employees:tr669
+halo-5,651,Curtis Loescher,,QA,Test Reserve,,,core,employees:tr670
+halo-5,652,Jacob Manley,,QA,Test Reserve,,,core,employees:tr671
+halo-5,653,Daniel Maret,,QA,Test Reserve,,,core,employees:tr672
+halo-5,654,Loren Martin,,QA,Test Reserve,,,core,employees:tr673
+halo-5,655,Jason Rex Miller,,QA,Test Reserve,,,core,employees:tr674
+halo-5,656,Salvador Minutti,,QA,Test Reserve,,,core,employees:tr675
+halo-5,657,Yu Heng Mo,,QA,Test Reserve,,,core,employees:tr676
+halo-5,658,Baabak Nassirian,,QA,Test Reserve,,,core,employees:tr677
+halo-5,659,Taylor Neal,,QA,Test Reserve,,,core,employees:tr678
+halo-5,660,Tim Ollivant,,QA,Test Reserve,,,core,employees:tr679
+halo-5,661,Benjamin Panarella,,QA,Test Reserve,,,core,employees:tr680
+halo-5,662,Justin Phillips,,QA,Test Reserve,,,core,employees:tr681
+halo-5,663,Aubrey Quinton,,QA,Test Reserve,,,core,employees:tr682
+halo-5,664,Deanna Raven,,QA,Test Reserve,,,core,employees:tr683
+halo-5,665,Josh Sager,,QA,Test Reserve,,,core,employees:tr684
+halo-5,666,Christopher Salat,,QA,Test Reserve,,,core,employees:tr685
+halo-5,667,James Shafer,,QA,Test Reserve,,,core,employees:tr686
+halo-5,668,Kareem Shuman,,QA,Test Reserve,,,core,employees:tr687
+halo-5,669,Alexis Smith,,QA,Test Reserve,,,core,employees:tr688
+halo-5,670,Brian Sulpicio Larcena,,QA,Test Reserve,,,core,employees:tr689
+halo-5,671,Amanda Swalling,,QA,Test Reserve,,,core,employees:tr690
+halo-5,672,Zack Sweeten,,QA,Test Reserve,,,core,employees:tr691
+halo-5,673,Russell E. Swinhart,,QA,Test Reserve,,,core,employees:tr692
+halo-5,674,Jason Ta,,QA,Test Reserve,,,core,employees:tr693
+halo-5,675,Niko Taitano,,QA,Test Reserve,,,core,employees:tr694
+halo-5,676,Juliet Talcott,,QA,Test Reserve,,,core,employees:tr695
+halo-5,677,Sean Taylor,,QA,Test Reserve,,,core,employees:tr696
+halo-5,678,Crystal Thelin,,QA,Test Reserve,,,core,employees:tr697
+halo-5,679,Kevin Thiesen,,QA,Test Reserve,,,core,employees:tr698
+halo-5,680,Andrew Thomas,,QA,Test Reserve,,,core,employees:tr699
+halo-5,681,Jesse Thompson,,QA,Test Reserve,,,core,employees:tr700
+halo-5,682,Tim Toulouse,,QA,Test Reserve,,,core,employees:tr701
+halo-5,683,Drewes van der Bleek,,QA,Test Reserve,,,core,employees:tr702
+halo-5,684,Hunter von Dehn,,QA,Test Reserve,,,core,employees:tr703
+halo-5,685,Joshua Waguespack,,QA,Test Reserve,,,core,employees:tr704
+halo-5,686,Jacob Weatherspoon,,QA,Test Reserve,,,core,employees:tr705
+halo-5,687,Jessica Williams,,QA,Test Reserve,,,core,employees:tr706
+halo-5,688,Michael Williams,,QA,Test Reserve,,,core,employees:tr707
+halo-5,689,Kirk Williford,,QA,Test Reserve,,,core,employees:tr708
+halo-5,690,Trevor Wood,,QA,Test Reserve,,,core,employees:tr709
+halo-5,691,Chelsey Woodside,,QA,Test Reserve,,,core,employees:tr710
+halo-5,692,Egan Woolf,,QA,Test Reserve,,,core,employees:tr711
+halo-5,693,Ellen Yang,,QA,Test Reserve,,,core,employees:tr712
+halo-5,694,India Zak,,QA,Test Reserve,,,core,employees:tr713
+halo-5,695,Letty Cherry,,Publishing,Public Relations Director,,,publishing,employees:tr716
+halo-5,696,Bryan Koski,,Publishing,Global Marketing Director,,,publishing,employees:tr717
+halo-5,697,Taylor Smith,,Publishing,Marketing Communications Director,,,publishing,employees:tr718
+halo-5,698,Ryan Cameron,,Publishing,Marketing Communications Lead,,,publishing,employees:tr719
+halo-5,699,Rob Semsey,,Publishing,Public Relations Lead,,,publishing,employees:tr720
+halo-5,700,Jennifer Yi,,Publishing,Global Marketing Lead,,,publishing,employees:tr721
+halo-5,701,Gustavo Alvarado,,Publishing,Microsoft Marketing & Public Relations,,,publishing,employees:tr722
+halo-5,702,Annie Arnold,,Publishing,Microsoft Marketing & Public Relations,,,publishing,employees:tr723
+halo-5,703,Kate Fisher,,Publishing,Microsoft Marketing & Public Relations,,,publishing,employees:tr724
+halo-5,704,Kevin Hooper,,Publishing,Microsoft Marketing & Public Relations,,,publishing,employees:tr725
+halo-5,705,John Lowe,,Publishing,Microsoft Marketing & Public Relations,,,publishing,employees:tr726
+halo-5,706,Sohana Punithakumar,,Publishing,Microsoft Marketing & Public Relations,,,publishing,employees:tr727
+halo-5,707,Lisa Tiedt,,Publishing,Microsoft Marketing & Public Relations,,,publishing,employees:tr728
+halo-5,708,Bob Zammit,,Publishing,Microsoft Marketing & Public Relations,,,publishing,employees:tr729
+halo-5,709,Ken Birge,,Publishing,Microsoft Marketing & Public Relations,,,publishing,employees:tr730
+halo-5,710,Matt Chang,,Publishing,Microsoft Marketing & Public Relations,,,publishing,employees:tr731
+halo-5,711,Richard Chen,,Publishing,Microsoft Marketing & Public Relations,,,publishing,employees:tr732
+halo-5,712,Katie Cochran,,Publishing,Microsoft Marketing & Public Relations,,,publishing,employees:tr733
+halo-5,713,Joe DiMiero,,Publishing,Microsoft Marketing & Public Relations,,,publishing,employees:tr734
+halo-5,714,Cassie Eberle,,Publishing,Microsoft Marketing & Public Relations,,,publishing,employees:tr735
+halo-5,715,Jen Estrada,,Publishing,Microsoft Marketing & Public Relations,,,publishing,employees:tr736
+halo-5,716,Mark Fujii,,Publishing,Microsoft Marketing & Public Relations,,,publishing,employees:tr737
+halo-5,717,Andrew Garson,,Publishing,Microsoft Marketing & Public Relations,,,publishing,employees:tr738
+halo-5,718,Eric Kwan,,Publishing,Microsoft Marketing & Public Relations,,,publishing,employees:tr739
+halo-5,719,Grace Musat,,Publishing,Microsoft Marketing & Public Relations,,,publishing,employees:tr740
+halo-5,720,Ryan O'Connor,,Publishing,Microsoft Marketing & Public Relations,,,publishing,employees:tr741
+halo-5,721,Hiroya Horai,,Publishing,Localization,,,publishing,employees:tr743
+halo-5,722,Atsushi Horiuchi,,Publishing,Localization,,,publishing,employees:tr744
+halo-5,723,Mike Jones,,Publishing,Localization,,,publishing,employees:tr745
+halo-5,724,Yumiko Murphy,,Publishing,Localization,,,publishing,employees:tr746
+halo-5,725,Jason Shirley,,Publishing,Localization,,,publishing,employees:tr747
+halo-5,726,Caroline Agudo,,Publishing,Localization,,,publishing,employees:tr748
+halo-5,727,Peter Ahn,,Publishing,Localization,,,publishing,employees:tr749
+halo-5,728,Elena Arzac Soto,,Publishing,Localization,,,publishing,employees:tr750
+halo-5,729,Amaya Beroiz,,Publishing,Localization,,,publishing,employees:tr751
+halo-5,730,Guillaume Capitan,,Publishing,Localization,,,publishing,employees:tr752
+halo-5,731,Marta Cendrowski,,Publishing,Localization,,,publishing,employees:tr753
+halo-5,732,Yi-Chin Chen,,Publishing,Localization,,,publishing,employees:tr754
+halo-5,733,Gerardo Alberto De La Cruz Rivera,,Publishing,Localization,,,publishing,employees:tr755
+halo-5,734,Luis de Oliveira,,Publishing,Localization,,,publishing,employees:tr756
+halo-5,735,Solange Dos Santos Spanier,,Publishing,Localization,,,publishing,employees:tr757
+halo-5,736,Chase Engdall,,Publishing,Localization,,,publishing,employees:tr758
+halo-5,737,Claudio Franco-Gutierrez,,Publishing,Localization,,,publishing,employees:tr759
+halo-5,738,Nino Gerbino,,Publishing,Localization,,,publishing,employees:tr760
+halo-5,739,Camille Janinet,,Publishing,Localization,,,publishing,employees:tr761
+halo-5,740,Adam Johnson,,Publishing,Localization,,,publishing,employees:tr762
+halo-5,741,Gwen Jooris,,Publishing,Localization,,,publishing,employees:tr763
+halo-5,742,Mateusz Kubas,,Publishing,Localization,,,publishing,employees:tr764
+halo-5,743,Susan Lester,,Publishing,Localization,,,publishing,employees:tr765
+halo-5,744,Tryg Sebastian Littlefield,,Publishing,Localization,,,publishing,employees:tr766
+halo-5,745,Riana Manuel,,Publishing,Localization,,,publishing,employees:tr767
+halo-5,746,David Martinez,,Publishing,Localization,,,publishing,employees:tr768
+halo-5,747,Jose Alberto Martinez Armenteros,,Publishing,Localization,,,publishing,employees:tr769
+halo-5,748,Tomas Mascali,,Publishing,Localization,,,publishing,employees:tr770
+halo-5,749,Bénédicte Mouy,,Publishing,Localization,,,publishing,employees:tr771
+halo-5,750,Kellum O'Connor,,Publishing,Localization,,,publishing,employees:tr772
+halo-5,751,Rafael Persegani,,Publishing,Localization,,,publishing,employees:tr773
+halo-5,752,Jean-Yves Pouani,,Publishing,Localization,,,publishing,employees:tr774
+halo-5,753,Richard Saadat,,Publishing,Localization,,,publishing,employees:tr775
+halo-5,754,Favio Saavedra,,Publishing,Localization,,,publishing,employees:tr776
+halo-5,755,Vanessa Santos Dwan,,Publishing,Localization,,,publishing,employees:tr777
+halo-5,756,Olga Spraiter,,Publishing,Localization,,,publishing,employees:tr778
+halo-5,757,Guenter Stotz,,Publishing,Localization,,,publishing,employees:tr779
+halo-5,758,Ayaka Takada,,Publishing,Localization,,,publishing,employees:tr780
+halo-5,759,Konstantin Titukh,,Publishing,Localization,,,publishing,employees:tr781
+halo-5,760,Bao-Chin Tseng,,Publishing,Localization,,,publishing,employees:tr782
+halo-5,761,Nicolas Vigot,,Publishing,Localization,,,publishing,employees:tr783
+halo-5,762,Kyoko Wada,,Publishing,Localization,,,publishing,employees:tr784
+halo-5,763,Sung Min Yoon,,Publishing,Localization,,,publishing,employees:tr785
+halo-5,764,Yigu Yu,,Publishing,Localization,,,publishing,employees:tr786
+halo-5,765,Lance Zielinski,,Publishing,Localization,,,publishing,employees:tr787
+halo-5,766,Phil Spencer,,Publishing,Head of XBox,,,publishing,employees:tr789
+halo-5,767,Mark Yelverton,,Publishing,Microsoft Finance,,,publishing,employees:tr791
+halo-5,768,Adam Lemcio,,Publishing,Microsoft HR,,,publishing,employees:tr793
+halo-5,769,Matt Skelton,,Publishing,Microsoft LCA,,,publishing,employees:tr795
+halo-5,770,Carla Woo,,Publishing,Microsoft LCA,,,publishing,employees:tr796
+halo-5,771,Jerome Hagen,,Design,User Researcher,,,publishing,employees:tr798
+halo-5,772,Jacob Jeannot-Schroeder,,Design,User Researcher,,,publishing,employees:tr799
+halo-5,773,Whitney Roan,,Design,User Researcher,,,publishing,employees:tr800
+halo-5,774,Sarah Singer,,Design,User Researcher,,,publishing,employees:tr801
+halo-5,775,Kazuma Jinnouchi,,Audio,Music Composer,,,publishing,employees:tr803
+halo-5,776,Nobuko Toda,,Audio,Executive Music Producer,,,publishing,employees:tr804
+halo-5,777,Colette Barber,,Audio,Studio Manager: Abbey Road Studios,,Film Score LLC,core,employees:tr806
+halo-5,778,Lucy Matthews,,Audio,Studio Manager: Air Studios,,Film Score LLC,core,employees:tr807
+halo-5,779,Peter Cobbin,,Audio,Recording Engineer,,Film Score LLC,core,employees:tr808
+halo-5,780,Sam Okell,,Audio,Recording Engineer,,Film Score LLC,core,employees:tr809
+halo-5,781,Geoff Foster,,Audio,Recording Engineer,,Film Score LLC,core,employees:tr810
+halo-5,782,Lewis Jones,,Audio,Assistant Score Engineer,,Film Score LLC,core,employees:tr811
+halo-5,783,Matt Jones,,Audio,Assistant Score Engineer,,Film Score LLC,core,employees:tr812
+halo-5,784,John Barrett,,Audio,Assistant Score Engineer,,Film Score LLC,core,employees:tr813
+halo-5,785,Stefano Civetta,,Audio,Assistant Score Engineer,,Film Score LLC,core,employees:tr814
+halo-5,786,John Prestage,,Audio,Assistant Score Engineer,,Film Score LLC,core,employees:tr815
+halo-5,787,Laurence Anslow,,Audio,Assistant Score Engineer,,Film Score LLC,core,employees:tr816
+halo-5,788,Isobel Griffiths,,Audio,Orchestra Contractor,,Abbey Road Studios,core,employees:tr818
+halo-5,789,Lucy Whalley,,Audio,Assistant Orchestra Contractor,,Abbey Road Studios,core,employees:tr819
+halo-5,790,Nobuko Toda,,Audio,Orchestrated by,,Abbey Road Studios,core,employees:tr820
+halo-5,791,Thanh Tran,,Audio,Music Preparation Supervisor,,Abbey Road Studios,core,employees:tr821
+halo-5,792,Nick Petrillo,,Audio,Music Preparation,,Abbey Road Studios,core,employees:tr822
+halo-5,793,Breton Vivian,,Audio,Music Preparation,,Abbey Road Studios,core,employees:tr823
+halo-5,794,Tina Tamura,,Audio,Music Copyist,,Abbey Road Studios,core,employees:tr824
+halo-5,795,Junko Tamura,,Audio,Music Copyist,,Abbey Road Studios,core,employees:tr825
+halo-5,796,Phil Knights,,Audio,Librarian for Choir,,Abbey Road Studios,core,employees:tr826
+halo-5,797,Matt Dunkley,,Audio,Conducted by,,Abbey Road Studios,core,employees:tr827
+halo-5,798,Gavin Greenaway,,Audio,Conducted by,,Abbey Road Studios,core,employees:tr828
+halo-5,799,Thomas Bowes,,Audio,Orchestra Leader,,Abbey Road Studios,core,employees:tr829
+halo-5,800,Everton Nelson,,Audio,Violinist,,Abbey Road Studios,core,employees:tr830
+halo-5,801,Magnus Johnston,,Audio,Violinist,,Abbey Road Studios,core,employees:tr831
+halo-5,802,Dai Emanuel,,Audio,Violinist,,Abbey Road Studios,core,employees:tr832
+halo-5,803,Ian Humphries,,Audio,Violinist,,Abbey Road Studios,core,employees:tr833
+halo-5,804,Christina Emanuel,,Audio,Violinist,,Abbey Road Studios,core,employees:tr834
+halo-5,805,John Bradbury,,Audio,Violinist,,Abbey Road Studios,core,employees:tr835
+halo-5,806,Maciej Rakowski,,Audio,Violinist,,Abbey Road Studios,core,employees:tr836
+halo-5,807,Gillian Findlay,,Audio,Violinist,,Abbey Road Studios,core,employees:tr837
+halo-5,808,Laura Melhuish,,Audio,Violinist,,Abbey Road Studios,core,employees:tr838
+halo-5,809,Jim McLeod,,Audio,Violinist,,Abbey Road Studios,core,employees:tr839
+halo-5,810,Oli Langford,,Audio,Violinist,,Abbey Road Studios,core,employees:tr840
+halo-5,811,Cathy Thompson,,Audio,Violinist,,Abbey Road Studios,core,employees:tr841
+halo-5,812,Martin Burgess,,Audio,Violinist,,Abbey Road Studios,core,employees:tr842
+halo-5,813,Rose Warren-Green,,Audio,Violinist,,Abbey Road Studios,core,employees:tr843
+halo-5,814,Clare Thompson,,Audio,Violinist,,Abbey Road Studios,core,employees:tr844
+halo-5,815,Shlomy Dobrinsky,,Audio,Violinist,,Abbey Road Studios,core,employees:tr845
+halo-5,816,Thomas Kemp,,Audio,Violinist,,Abbey Road Studios,core,employees:tr846
+halo-5,817,Patrick Kiernan,,Audio,Violinist,,Abbey Road Studios,core,employees:tr847
+halo-5,818,Emlyn Singleton,,Audio,Violinist,,Abbey Road Studios,core,employees:tr848
+halo-5,819,Corinne Chapelle,,Audio,Violinist,,Abbey Road Studios,core,employees:tr849
+halo-5,820,Jonathan Strange,,Audio,Violinist,,Abbey Road Studios,core,employees:tr850
+halo-5,821,Paul Willey,,Audio,Violinist,,Abbey Road Studios,core,employees:tr851
+halo-5,822,Rita Manning,,Audio,Violinist,,Abbey Road Studios,core,employees:tr852
+halo-5,823,Gaby Lester,,Audio,Violinist,,Abbey Road Studios,core,employees:tr853
+halo-5,824,Chris Tombling,,Audio,Violinist,,Abbey Road Studios,core,employees:tr854
+halo-5,825,Lorraine McAslan,,Audio,Violinist,,Abbey Road Studios,core,employees:tr855
+halo-5,826,Sonia Slany,,Audio,Violinist,,Abbey Road Studios,core,employees:tr856
+halo-5,827,Bea Lovejoy,,Audio,Violinist,,Abbey Road Studios,core,employees:tr857
+halo-5,828,Kathy Gowers,,Audio,Violinist,,Abbey Road Studios,core,employees:tr858
+halo-5,829,Tom Pigott-Smith,,Audio,Violinist,,Abbey Road Studios,core,employees:tr859
+halo-5,830,Benedict Cruft,,Audio,Violinist,,Abbey Road Studios,core,employees:tr860
+halo-5,831,Ralph De Souza,,Audio,Violinist,,Abbey Road Studios,core,employees:tr861
+halo-5,832,Steve Morris,,Audio,Violinist,,Abbey Road Studios,core,employees:tr862
+halo-5,833,Perry Montague-Mason,,Audio,Violinist,,Abbey Road Studios,core,employees:tr863
+halo-5,834,Philippe Honore,,Audio,Violinist,,Abbey Road Studios,core,employees:tr864
+halo-5,835,Boguslaw Kostecki,,Audio,Violinist,,Abbey Road Studios,core,employees:tr865
+halo-5,836,Mark Berrow,,Audio,Violinist,,Abbey Road Studios,core,employees:tr866
+halo-5,837,Roger Garland,,Audio,Violinist,,Abbey Road Studios,core,employees:tr867
+halo-5,838,Debbie Widdup,,Audio,Violinist,,Abbey Road Studios,core,employees:tr868
+halo-5,839,Jonathan Evans-Jones,,Audio,Violinist,,Abbey Road Studios,core,employees:tr869
+halo-5,840,Warren Zielinski,,Audio,Violinist,,Abbey Road Studios,core,employees:tr870
+halo-5,841,Dorina Markoff,,Audio,Violinist,,Abbey Road Studios,core,employees:tr871
+halo-5,842,Bruce White,,Audio,Violist,,Abbey Road Studios,core,employees:tr872
+halo-5,843,Rachel Bolt,,Audio,Violist,,Abbey Road Studios,core,employees:tr873
+halo-5,844,Nick Barr,,Audio,Violist,,Abbey Road Studios,core,employees:tr874
+halo-5,845,Martin Humbey,,Audio,Violist,,Abbey Road Studios,core,employees:tr875
+halo-5,846,Clive Howard,,Audio,Violist,,Abbey Road Studios,core,employees:tr876
+halo-5,847,Fiona Bonds,,Audio,Violist,,Abbey Road Studios,core,employees:tr877
+halo-5,848,Pete Lale,,Audio,Violist,,Abbey Road Studios,core,employees:tr878
+halo-5,849,Julia Knight,,Audio,Violist,,Abbey Road Studios,core,employees:tr879
+halo-5,850,Catherine Bradshaw,,Audio,Violist,,Abbey Road Studios,core,employees:tr880
+halo-5,851,Richard Cookson,,Audio,Violist,,Abbey Road Studios,core,employees:tr881
+halo-5,852,Jake Walker,,Audio,Violist,,Abbey Road Studios,core,employees:tr882
+halo-5,853,Clare Finnimore,,Audio,Violist,,Abbey Road Studios,core,employees:tr883
+halo-5,854,Kate Musker,,Audio,Violist,,Abbey Road Studios,core,employees:tr884
+halo-5,855,Andy Parker,,Audio,Violist,,Abbey Road Studios,core,employees:tr885
+halo-5,856,Reiad Chibah,,Audio,Violist,,Abbey Road Studios,core,employees:tr886
+halo-5,857,Paul Cassidy,,Audio,Violist,,Abbey Road Studios,core,employees:tr887
+halo-5,858,Garfield Jackson,,Audio,Violist,,Abbey Road Studios,core,employees:tr888
+halo-5,859,Ian Burdge,,Audio,Cellist,,Abbey Road Studios,core,employees:tr889
+halo-5,860,Tony Woollard,,Audio,Cellist,,Abbey Road Studios,core,employees:tr890
+halo-5,861,Paul Kegg,,Audio,Cellist,,Abbey Road Studios,core,employees:tr891
+halo-5,862,Frank Schaefer,,Audio,Cellist,,Abbey Road Studios,core,employees:tr892
+halo-5,863,Julia Graham,,Audio,Cellist,,Abbey Road Studios,core,employees:tr893
+halo-5,864,Caroline Dearnley,,Audio,Cellist,,Abbey Road Studios,core,employees:tr894
+halo-5,865,Chris Worsey,,Audio,Cellist,,Abbey Road Studios,core,employees:tr895
+halo-5,866,Tim Gill,,Audio,Cellist,,Abbey Road Studios,core,employees:tr896
+halo-5,867,Emma Black,,Audio,Cellist,,Abbey Road Studios,core,employees:tr897
+halo-5,868,David Lale,,Audio,Cellist,,Abbey Road Studios,core,employees:tr898
+halo-5,869,Brian O'Kane,,Audio,Cellist,,Abbey Road Studios,core,employees:tr899
+halo-5,870,Sophie Harris,,Audio,Cellist,,Abbey Road Studios,core,employees:tr900
+halo-5,871,Lionel Handy,,Audio,Cellist,,Abbey Road Studios,core,employees:tr901
+halo-5,872,Anthony Lewis,,Audio,Cellist,,Abbey Road Studios,core,employees:tr902
+halo-5,873,Nick Cooper,,Audio,Cellist,,Abbey Road Studios,core,employees:tr903
+halo-5,874,Dave Daniels,,Audio,Cellist,,Abbey Road Studios,core,employees:tr904
+halo-5,875,Jonathan Williams,,Audio,Cellist,,Abbey Road Studios,core,employees:tr905
+halo-5,876,Chris Laurence,,Audio,Bassist,,Abbey Road Studios,core,employees:tr906
+halo-5,877,Steve Mair,,Audio,Bassist,,Abbey Road Studios,core,employees:tr907
+halo-5,878,Mary Scully,,Audio,Bassist,,Abbey Road Studios,core,employees:tr908
+halo-5,879,Richard Pryce,,Audio,Bassist,,Abbey Road Studios,core,employees:tr909
+halo-5,880,Stacey Watton,,Audio,Bassist,,Abbey Road Studios,core,employees:tr910
+halo-5,881,Allen Walley,,Audio,Bassist,,Abbey Road Studios,core,employees:tr911
+halo-5,882,Andy Marshall,,Audio,Bassist,,Abbey Road Studios,core,employees:tr912
+halo-5,883,Steve Williams,,Audio,Bassist,,Abbey Road Studios,core,employees:tr913
+halo-5,884,Richard Watkins,,Audio,French Hornist,,Abbey Road Studios,core,employees:tr914
+halo-5,885,Sam Jacobs,,Audio,French Hornist,,Abbey Road Studios,core,employees:tr915
+halo-5,886,Nigel Black,,Audio,French Hornist,,Abbey Road Studios,core,employees:tr916
+halo-5,887,Richard Berry,,Audio,French Hornist,,Abbey Road Studios,core,employees:tr917
+halo-5,888,Katy Woolley,,Audio,French Hornist,,Abbey Road Studios,core,employees:tr918
+halo-5,889,John Ryan,,Audio,French Hornist,,Abbey Road Studios,core,employees:tr919
+halo-5,890,Laurence Davies,,Audio,French Hornist,,Abbey Road Studios,core,employees:tr920
+halo-5,891,Nicholas Korth,,Audio,French Hornist,,Abbey Road Studios,core,employees:tr921
+halo-5,892,David Pyatt,,Audio,French Hornist,,Abbey Road Studios,core,employees:tr922
+halo-5,893,Richard Bissill,,Audio,French Hornist,,Abbey Road Studios,core,employees:tr923
+halo-5,894,Simon Rayner,,Audio,French Hornist,,Abbey Road Studios,core,employees:tr924
+halo-5,895,Philip Eastop,,Audio,French Hornist,,Abbey Road Studios,core,employees:tr925
+halo-5,896,Phil Cobb,,Audio,Trumpeter,,Abbey Road Studios,core,employees:tr926
+halo-5,897,Kate Moore,,Audio,Trumpeter,,Abbey Road Studios,core,employees:tr927
+halo-5,898,Alistair Mackie,,Audio,Trumpeter,,Abbey Road Studios,core,employees:tr928
+halo-5,899,Christian Barraclough,,Audio,Trumpeter,,Abbey Road Studios,core,employees:tr929
+halo-5,900,Simon Munday,,Audio,Trumpeter,,Abbey Road Studios,core,employees:tr930
+halo-5,901,Richard Edwards,,Audio,Tenor Trombonist,,Abbey Road Studios,core,employees:tr931
+halo-5,902,Mark Nightingale,,Audio,Tenor Trombonist,,Abbey Road Studios,core,employees:tr932
+halo-5,903,Dave Stewart,,Audio,Bass Trombonist,,Abbey Road Studios,core,employees:tr933
+halo-5,904,Andy Wood,,Audio,Bass Trombonist,,Abbey Road Studios,core,employees:tr934
+halo-5,905,Keith McNicoll,,Audio,Bass Trombonist,,Abbey Road Studios,core,employees:tr935
+halo-5,906,Owen Slade,,Audio,Tubist,,Abbey Road Studios,core,employees:tr936
+halo-5,907,Nick Hitchens,,Audio,Tubist,,Abbey Road Studios,core,employees:tr937
+halo-5,908,Pete Smith,,Audio,Tubist,,Abbey Road Studios,core,employees:tr938
+halo-5,909,Iain Farrington,,Audio,Pianist,,Abbey Road Studios,core,employees:tr939
+halo-5,910,Frank Ricotti,,Audio,Percussionist,,Abbey Road Studios,core,employees:tr940
+halo-5,911,Paul Clarvis,,Audio,Drummer,,Abbey Road Studios,core,employees:tr941
+halo-5,912,Terry Edwards,,Audio,Chorus Master,,London Voices,core,employees:tr943
+halo-5,913,Ben Parry,,Audio,Chorus Master,,London Voices,core,employees:tr944
+halo-5,914,Sara Brimer,,Audio,Soprano,,London Voices,core,employees:tr945
+halo-5,915,Joanna Forbes L'Estrange,,Audio,Soprano,,London Voices,core,employees:tr946
+halo-5,916,Joanna Eteson,,Audio,Soprano,,London Voices,core,employees:tr947
+halo-5,917,Rosalind Waters,,Audio,Soprano,,London Voices,core,employees:tr948
+halo-5,918,Catherine Backhouse,,Audio,Alto,,London Voices,core,employees:tr949
+halo-5,919,Judy Rees,,Audio,Alto,,London Voices,core,employees:tr950
+halo-5,920,Tamsin Dalley,,Audio,Alto,,London Voices,core,employees:tr951
+halo-5,921,Clara Sanabras,,Audio,Alto,,London Voices,core,employees:tr952
+halo-5,922,Garth Bardsley,,Audio,Tenor,,London Voices,core,employees:tr953
+halo-5,923,Benedict Hymas,,Audio,Tenor,,London Voices,core,employees:tr954
+halo-5,924,Richard Eteson,,Audio,Tenor,,London Voices,core,employees:tr955
+halo-5,925,Peter Wilman,,Audio,Tenor,,London Voices,core,employees:tr956
+halo-5,926,Ben Bevan,,Audio,Baritone,,London Voices,core,employees:tr957
+halo-5,927,Michael Dore,,Audio,Baritone,,London Voices,core,employees:tr958
+halo-5,928,Tom Bullard,,Audio,Baritone,,London Voices,core,employees:tr959
+halo-5,929,Stefan Berkieta,,Audio,Baritone,,London Voices,core,employees:tr960
+halo-5,930,Nicholas Ashby,,Audio,Bass,,London Voices,core,employees:tr961
+halo-5,931,John Evanson,,Audio,Bass,,London Voices,core,employees:tr962
+halo-5,932,Brian Etheridge,,Audio,Bass,,London Voices,core,employees:tr963
+halo-5,933,Lawrence Wallington,,Audio,Bass,,London Voices,core,employees:tr964
+halo-5,934,Dessislava Stefanova,,Audio,Solo Vocal,,London Voices,core,employees:tr965
+halo-5,935,Drew Jordan,,Audio,Score Sound Designer,,London Voices,core,employees:tr966
+halo-5,936,Alan Meyerson,,Audio,Music Scoring Mixer,,London Voices,core,employees:tr967
+halo-5,937,Chris Fogel,,Audio,Additional Music Scoring Mixer,,London Voices,core,employees:tr968
+halo-5,938,John W. Chapman,,Audio,Assistant Music Scoring Mixer,,London Voices,core,employees:tr969
+halo-5,939,Christian Wenger,,Audio,Assistant Music Scoring Mixer,,London Voices,core,employees:tr970
+halo-5,940,Michael Patti,,Other,Cinesamples Team,,,core,employees:tr973
+halo-5,941,Michael Barry,,Other,Cinesamples Team,,,core,employees:tr974
+halo-5,942,Sam Estes,,Other,Cinesamples Team,,,core,employees:tr975
+halo-5,943,Michael Hobe,,Other,Cinesamples Team,,,core,employees:tr976
+halo-5,944,Anne-Katherine Dern,,Other,Cinesamples Team,,,core,employees:tr977
+halo-5,945,Elisa Rice,,Other,Cinesamples Team,,,core,employees:tr978
+halo-5,946,Dennis Sands,,Other,Scoring Mixer,,,core,employees:tr979
+halo-5,947,Miriam Nemcova,,Audio,Choir Conductor,,Prague Philharmonic Orchestra,core,employees:tr984
+halo-5,948,Jan Holzner,,Audio,Recording Engineer,,Prague Philharmonic Orchestra,core,employees:tr985
+halo-5,949,Cenda Katzman,,Audio,Assistant Engineer,,Prague Philharmonic Orchestra,core,employees:tr986
+halo-5,950,Stanja Vomackova,,Audio,Assistant to the Composer,,Prague Philharmonic Orchestra,core,employees:tr987
+halo-5,951,James Fitzpatrick,,Audio,Choir Contractor,,Prague Philharmonic Orchestra,core,employees:tr988
+halo-5,952,Marty O'Donnell,,Audio,Special Thanks,,Dvorak Hall of the Rudolfinum,special-thanks,employees:tr990
+halo-5,953,Michael Salvatori,,Audio,Special Thanks,,Dvorak Hall of the Rudolfinum,special-thanks,employees:tr991
+halo-5,954,Alan Freedman,,Audio,Sound Engineer,,Clatter & Din,core,employees:tr995
+halo-5,955,Pierce O'Toole,,Audio,Session Assistant,,Clatter & Din,core,employees:tr996
+halo-5,956,Amanda Wyatt,,Voice,Voice Over Director,,Clatter & Din,core,employees:tr997
+halo-5,957,Jamie Mortellaro,,Audio,Casting Director,,Clatter & Din,core,employees:tr998
+halo-5,958,John Roesch,,Audio,Foley Artist,,Clatter & Din,core,employees:tr999
+halo-5,959,Alyson Moore,,Audio,Foley Artist,,Clatter & Din,core,employees:tr1000
+halo-5,960,Shelley Roden,,Audio,Foley Artist,,Clatter & Din,core,employees:tr1001
+halo-5,961,MaryJo Lang,,Audio,Foley Mixer,,Clatter & Din,core,employees:tr1002
+halo-5,962,Kyle Rochlin,,Audio,Foley Mixer,,Clatter & Din,core,employees:tr1003
+halo-5,963,Karen Fishman,,Audio,WB Audio Team,,Clatter & Din,core,employees:tr1004
+halo-5,964,Bryan Watkins,,Audio,WB Audio Team,,Clatter & Din,core,employees:tr1005
+halo-5,965,Emma Weston,,Audio,WB Audio Team,,Clatter & Din,core,employees:tr1006
+halo-5,966,Mitch Osias,,Audio,WB Audio Team,,Clatter & Din,core,employees:tr1007
+halo-5,967,Tom Ozanich,,Audio,WB Audio Team,,Clatter & Din,core,employees:tr1008
+halo-5,968,Luis Galdamas,,Audio,WB Audio Team,,Clatter & Din,core,employees:tr1009
+halo-5,969,Roland Thai,,Audio,WB Audio Team,,Clatter & Din,core,employees:tr1010
+halo-5,970,John Fasal,,Audio,WB Audio Team,,Clatter & Din,core,employees:tr1011
+halo-5,971,Gouen Lee,,Audio,WB Audio Team,,Clatter & Din,core,employees:tr1012
+halo-5,972,Christopher Cody Flick,,Audio,WB Audio Team,,Clatter & Din,core,employees:tr1013
+halo-5,973,Randy Archer,,Voice,Motion Capture Actor,,,core,employees:tr1015
+halo-5,974,Helena Barrett,,Voice,Motion Capture Actor,,,core,employees:tr1016
+halo-5,975,Emerson Brooks,,Voice,Motion Capture Actor,,,core,employees:tr1017
+halo-5,976,Tamiko Brownlee,,Voice,Motion Capture Actor,,,core,employees:tr1018
+halo-5,977,Jahnel Curfman,,Voice,Motion Capture Actor,,,core,employees:tr1019
+halo-5,978,Tim Eulich,,Voice,Motion Capture Actor,,,core,employees:tr1020
+halo-5,979,Clay Fontenot,,Voice,Motion Capture Actor,,,core,employees:tr1021
+halo-5,980,Chris Gann,,Voice,Motion Capture Actor,,,core,employees:tr1022
+halo-5,981,Casey Hendershot,,Voice,Motion Capture Actor,,,core,employees:tr1023
+halo-5,982,Joel Kramer,,Voice,Motion Capture Actor,,,core,employees:tr1024
+halo-5,983,Michelle Lee,,Voice,Motion Capture Actor,,,core,employees:tr1025
+halo-5,984,Derek Mears,,Voice,Motion Capture Actor,,,core,employees:tr1026
+halo-5,985,Natalie Padilla,,Voice,Motion Capture Actor,,,core,employees:tr1027
+halo-5,986,Daniel Stevens,,Voice,Motion Capture Actor,,,core,employees:tr1028
+halo-5,987,Amy Sturdivant,,Voice,Motion Capture Actor,,,core,employees:tr1029
+halo-5,988,Thom Williams,,Voice,Motion Capture Actor,,,core,employees:tr1030
+halo-5,989,Travis Willingham,,Voice,Motion Capture Actor,,,core,employees:tr1031
+halo-5,990,America Young,,Voice,Motion Capture Actor,,,core,employees:tr1032
+halo-5,991,Cupid Alexander,,Voice,Ensemble Face,,,core,employees:tr1034
+halo-5,992,Jonathan Aube,,Voice,Face of Thomas Lasky,,,core,employees:tr1035
+halo-5,993,Laura Bailey,,Voice,Face of Olympia Vale,,,core,employees:tr1036
+halo-5,994,Chad Biddle,,Voice,Ensemble Face,,,core,employees:tr1037
+halo-5,995,Lani Blazier,,Voice,Face of Cortana,,,core,employees:tr1038
+halo-5,996,Tyler Churchill,,Voice,Ensemble Face,,,core,employees:tr1039
+halo-5,997,Mike Colter,,Voice,Face of Jameson Locke,,,core,employees:tr1040
+halo-5,998,Nathan Fillion,,Voice,Face of Edward Buck,,,core,employees:tr1041
+halo-5,999,Sophie Gao,,Voice,Ensemble Face,,,core,employees:tr1042
+halo-5,1000,Steve Handisides,,Voice,Face of Roland,,,core,employees:tr1043
+halo-5,1001,Vedette Lim,,Voice,Face of Sarah Palmer,,,core,employees:tr1044
+halo-5,1002,Cynthia McWilliams,,Voice,Face of Holly Tanaka,,,core,employees:tr1045
+halo-5,1003,Paisha,,Voice,Face of Cortana,,,core,employees:tr1046
+halo-5,1004,Bonnie Robbins,,Voice,Ensemble Face,,,core,employees:tr1047
+halo-5,1005,Israel Rodriguez,,Voice,Ensemble Face,,,core,employees:tr1048
+halo-5,1006,Angelisa Washington,,Voice,Ensemble Face,,,core,employees:tr1049
+halo-5,1007,Doreen Ali,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1052
+halo-5,1008,Ray Almaden,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1053
+halo-5,1009,Warren Alpert,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1054
+halo-5,1010,Xavier Antony,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1055
+halo-5,1011,Saket Arya,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1057
+halo-5,1012,Rachel Atchison,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1058
+halo-5,1013,Erick Baca Aguilar,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1060
+halo-5,1014,Michael Baechle,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1061
+halo-5,1015,Patrick Barker,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1062
+halo-5,1016,Peter Barnes,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1063
+halo-5,1017,Stephen Baron,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1064
+halo-5,1018,MacKenzie Bates,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1065
+halo-5,1019,Mike Bauer,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1066
+halo-5,1020,Doug Beck,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1067
+halo-5,1021,Isaac Bender,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1068
+halo-5,1022,Jacob Benton,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1069
+halo-5,1023,Ander Bergstrom,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1070
+halo-5,1024,Erik Bergstrom,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1071
+halo-5,1025,Jimmy Bischoff,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1072
+halo-5,1026,Daniel Black,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1073
+halo-5,1027,Slobodan Bojanic,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1074
+halo-5,1028,Denise Boles,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1075
+halo-5,1029,Matt Booty,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1076
+halo-5,1030,Mark Boulter,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1077
+halo-5,1031,Bridget Boyes,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1078
+halo-5,1032,Ben Brodsky,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1079
+halo-5,1033,Cole Brooking,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1080
+halo-5,1034,Justin Brown,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1081
+halo-5,1035,Nate Brown,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1082
+halo-5,1036,Anthony Bryan,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1083
+halo-5,1037,Clive Burdon,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1084
+halo-5,1038,Barbara Busch,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1085
+halo-5,1039,Ben Byrnes,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1086
+halo-5,1040,Colin Byron,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1087
+halo-5,1041,Amelia Cabrera,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1088
+halo-5,1042,Carmen Calcerano,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1089
+halo-5,1043,Dan Callan,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1090
+halo-5,1044,Sam Carlisle,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1091
+halo-5,1045,Martin Carroll,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1092
+halo-5,1046,Gavin Carter,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1093
+halo-5,1047,Mike Cerullo,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1094
+halo-5,1048,Farouk Chakwa,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1095
+halo-5,1049,Nicholas Chan,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1096
+halo-5,1050,Yan Chan,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1097
+halo-5,1051,Jennifer Chandler,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1098
+halo-5,1052,Cory Chang,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1099
+halo-5,1053,Ellery Charlson,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1100
+halo-5,1054,Monique Chatterjee,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1101
+halo-5,1055,Joe Chau,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1102
+halo-5,1056,Stacey Chau,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1103
+halo-5,1057,Danny Chen,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1104
+halo-5,1058,Tim Chen,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1105
+halo-5,1059,Yuelin Chen,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1106
+halo-5,1060,Felix Cheung,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1107
+halo-5,1061,Yun Choi,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1108
+halo-5,1062,Kareem Choudhry,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1109
+halo-5,1063,Jennifer Christensen,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1110
+halo-5,1064,Eric Christoffersen,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1111
+halo-5,1065,Keith Cirillo,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1112
+halo-5,1066,Bill Clark,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1113
+halo-5,1067,Bryce Clark,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1114
+halo-5,1068,Bryce Cochrane,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1115
+halo-5,1069,James Cook,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1116
+halo-5,1070,Sharad Cornejo Altuzar,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1117
+halo-5,1071,John Coyle,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1118
+halo-5,1072,Mike Cronin,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1119
+halo-5,1073,Curt Cullens,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1120
+halo-5,1074,John Cullison,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1121
+halo-5,1075,Alexander Cunningham,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1122
+halo-5,1076,Joseph Cusimano,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1123
+halo-5,1077,Jeff Damphier,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1124
+halo-5,1078,Samir Dangol,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1125
+halo-5,1079,Phani Deekshitula,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1126
+halo-5,1080,Vic DeLeon,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1127
+halo-5,1081,Scott Dell'Osso,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1128
+halo-5,1082,Jon DeLodder,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1129
+halo-5,1083,Ray Derryberry,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1130
+halo-5,1084,Rajesh Deshpande,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1131
+halo-5,1085,Thomas Dewey,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1132
+halo-5,1086,Deanna Dixon,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1134
+halo-5,1087,Michael Dougherty,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1135
+halo-5,1088,"David Downing, Jr.",,Special Thanks,Special Thanks,,,special-thanks,employees:tr1136
+halo-5,1089,Patrick Downs,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1137
+halo-5,1090,Kristina Drzaic,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1138
+halo-5,1091,Ducain23,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1139
+halo-5,1092,Martin Duggan,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1140
+halo-5,1093,Khoi Duong,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1141
+halo-5,1094,Stacy Edwards,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1142
+halo-5,1095,Chris Egan,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1143
+halo-5,1096,Paul Ehreth,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1144
+halo-5,1097,Rod Fergusson,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1147
+halo-5,1098,Kevin Finck,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1148
+halo-5,1099,Sean Fitzgerald,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1149
+halo-5,1100,Karl Flores,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1150
+halo-5,1101,Dave Foster,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1151
+halo-5,1102,Andrew Franklin,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1152
+halo-5,1103,Alex Funai,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1153
+halo-5,1104,Kevin Gammill,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1154
+halo-5,1105,Monil Gandhi,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1155
+halo-5,1106,Dani Garcia,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1156
+halo-5,1107,Gabriel Garza,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1157
+halo-5,1108,Byron Gaum,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1158
+halo-5,1109,Matt Geer,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1159
+halo-5,1110,Peter Giffin,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1160
+halo-5,1111,Jonathan Gill,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1161
+halo-5,1112,Kevin Gittens,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1162
+halo-5,1113,Ravikumar Gollapudi,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1163
+halo-5,1114,Andrew Goossen,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1164
+halo-5,1115,Jason Gould,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1165
+halo-5,1116,Katherine Grant-Suttie,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1166
+halo-5,1117,Nick Gravelyn,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1167
+halo-5,1118,Dan Greenawalt,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1168
+halo-5,1119,David Griffith,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1169
+halo-5,1120,Gareth Griffiths,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1170
+halo-5,1121,Alex Guillard,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1171
+halo-5,1122,Emre Gul,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1172
+halo-5,1123,Daniel V. Gunn,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1173
+halo-5,1124,KC Guyer,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1174
+halo-5,1125,Tom Guzewich,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1175
+halo-5,1126,Omar Hafeez,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1176
+halo-5,1127,Derrick Hammond,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1177
+halo-5,1128,Alvin Hao,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1178
+halo-5,1129,Riyadh Haque,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1179
+halo-5,1130,Puneet Hariharan,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1180
+halo-5,1131,Mark Harrington,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1181
+halo-5,1132,Alan Hartman,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1182
+halo-5,1133,Bill Hay,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1183
+halo-5,1134,Deborah Hendersen,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1184
+halo-5,1135,Scott Henson,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1185
+halo-5,1136,Greg Hermann,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1186
+halo-5,1137,Aaron Heysse,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1187
+halo-5,1138,Tim Hickey,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1188
+halo-5,1139,Tommy Hilbern,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1189
+halo-5,1140,Jeremy Hill,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1190
+halo-5,1141,Alex Hogan,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1191
+halo-5,1142,Beth Honebrink,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1192
+halo-5,1143,Jerry Hook,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1193
+halo-5,1144,Sally Huang,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1194
+halo-5,1145,Brian Hudson,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1195
+halo-5,1146,Matthew Jarvis,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1196
+halo-5,1147,Ian Jendro,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1197
+halo-5,1148,Gavin Jensen,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1198
+halo-5,1149,Dean Johnson,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1199
+halo-5,1150,Terry Jones,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1200
+halo-5,1151,Praneeth Kallu,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1201
+halo-5,1152,Jonas Keating,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1202
+halo-5,1153,Louise Kelleher,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1203
+halo-5,1154,Piper Kelly,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1204
+halo-5,1155,Sean Kelly,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1205
+halo-5,1156,Gavin Kennedy,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1206
+halo-5,1157,Mikko Kinnunen,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1207
+halo-5,1158,Peter Klaebe,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1208
+halo-5,1159,Keith Kline,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1209
+halo-5,1160,Randy Knapp,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1210
+halo-5,1161,Peter Konig,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1211
+halo-5,1162,Radha Kotamarti,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1212
+halo-5,1163,Ivan Koveshnikov,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1213
+halo-5,1164,Korey Krauskopf,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1214
+halo-5,1165,Peter Kugler,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1215
+halo-5,1166,James Kuk,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1216
+halo-5,1167,Sathish Kulal,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1217
+halo-5,1168,Allyson Kulavis,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1218
+halo-5,1169,Kyle Larson,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1219
+halo-5,1170,Patrick Laukaitis,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1220
+halo-5,1171,Zachary Layne,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1221
+halo-5,1172,Carl Ledbetter,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1222
+halo-5,1173,Jong Lee,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1223
+halo-5,1174,Matt Lee,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1224
+halo-5,1175,Joey Lenz,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1225
+halo-5,1176,Joanne Leung,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1226
+halo-5,1177,Reno Levi,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1227
+halo-5,1178,Alex Liberman,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1228
+halo-5,1179,Jacob Liechty,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1229
+halo-5,1180,Gary Lietzke,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1230
+halo-5,1181,Lilian Lin,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1231
+halo-5,1182,Jamie Lin,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1232
+halo-5,1183,Rick Lockyear,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1233
+halo-5,1184,Esteban Lora,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1234
+halo-5,1185,Tom Lorusso,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1235
+halo-5,1186,Phillip Lucas,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1236
+halo-5,1187,Dana Ludwig,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1237
+halo-5,1188,Gareth Luke,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1238
+halo-5,1189,Jeff Malotte,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1239
+halo-5,1190,Brandon Mann,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1240
+halo-5,1191,Georgia Marra,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1241
+halo-5,1192,Charles Martin,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1242
+halo-5,1193,Joanna Mason,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1243
+halo-5,1194,Mark A. Matthews,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1244
+halo-5,1195,Lionel Mauritson,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1245
+halo-5,1196,Caitie McCaffrey,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1246
+halo-5,1197,Dave McCarthy,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1247
+halo-5,1198,Kyle McClellan,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1248
+halo-5,1199,Jeff McCrory,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1249
+halo-5,1200,Dan McCulloch,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1250
+halo-5,1201,Caity McDougall,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1251
+halo-5,1202,Wade McMann,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1252
+halo-5,1203,Don McNamara,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1253
+halo-5,1204,Jamie McNulty,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1254
+halo-5,1205,Angus McQuarrie,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1255
+halo-5,1206,Theisen Meadows,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1256
+halo-5,1207,Yuvek Mehta,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1257
+halo-5,1208,Tamir Melamed,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1258
+halo-5,1209,Gus Mendonca,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1259
+halo-5,1210,Josh Menke,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1260
+halo-5,1211,Theo Michel,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1261
+halo-5,1212,Ashton Mickey,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1262
+halo-5,1213,Octavio Miller,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1263
+halo-5,1214,Greg Mintus,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1265
+halo-5,1215,Nathan Moller,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1266
+halo-5,1216,Lori Monteleone,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1267
+halo-5,1217,Will Mozell,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1268
+halo-5,1218,Paris Mullen,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1269
+halo-5,1219,Allan Murphy,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1270
+halo-5,1220,Noah Musler,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1271
+halo-5,1221,Karen Myers,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1272
+halo-5,1222,Terry Myerson,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1273
+halo-5,1223,Satya Nadella,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1274
+halo-5,1224,Amit Nagar,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1275
+halo-5,1225,Satoshi Nagumo,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1276
+halo-5,1226,Alex Nankervis,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1277
+halo-5,1227,Curtis Neal,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1278
+halo-5,1228,Eric Neustadter,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1279
+halo-5,1229,Ivan Nevraev,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1280
+halo-5,1230,Jefferson Ng,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1281
+halo-5,1231,Sammy Ng,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1282
+halo-5,1232,Tonya Noerr,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1283
+halo-5,1233,NOKYARD,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1284
+halo-5,1234,Jamie O'Connell,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1285
+halo-5,1235,Maggie Oh,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1286
+halo-5,1236,Cathriona O'Malley,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1287
+halo-5,1237,Barrie Ooi,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1288
+halo-5,1238,Debabrata Padhy,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1289
+halo-5,1239,Randy Pagulayan,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1290
+halo-5,1240,Richard Palawan,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1291
+halo-5,1241,Scott Parrish,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1292
+halo-5,1242,Mandy Paul,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1293
+halo-5,1243,Kynan Pearson,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1294
+halo-5,1244,Arlene Peng,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1295
+halo-5,1245,Jason Peng,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1296
+halo-5,1246,Paul Pepera,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1297
+halo-5,1247,Jill Peterson,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1298
+halo-5,1248,Josh Petrie,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1299
+halo-5,1249,Bruce Phillips,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1300
+halo-5,1250,Adam Pino,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1301
+halo-5,1251,Mark Plagge,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1303
+halo-5,1252,Michael Popov,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1304
+halo-5,1253,Nicholas Powell,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1305
+halo-5,1254,Steven Pratschner,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1306
+halo-5,1255,Allison J. Pratt,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1307
+halo-5,1256,Nicho Prestegaard,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1308
+halo-5,1257,Evan Quinn,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1309
+halo-5,1258,Sabitha Rajagopal,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1310
+halo-5,1259,R.J. Ranola,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1311
+halo-5,1260,Gustavo Rasche,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1312
+halo-5,1261,Brian Rasmussen,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1313
+halo-5,1262,Dave Reed,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1315
+halo-5,1263,Matthew Reid,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1316
+halo-5,1264,Jenny Ren,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1317
+halo-5,1265,Paul Richards,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1318
+halo-5,1266,Robert Ridihalgh,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1319
+halo-5,1267,Jaime Rivera,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1320
+halo-5,1268,Pierre Rivest,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1321
+halo-5,1269,Andrea Roberts,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1322
+halo-5,1270,Ben Robinson,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1323
+halo-5,1271,Jason Ronald,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1324
+halo-5,1272,Clint Rutkas,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1326
+halo-5,1273,Jeff Sanborn,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1327
+halo-5,1274,Charles Sanglimsuwan,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1328
+halo-5,1275,Tom Schafenacker,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1329
+halo-5,1276,Christopher Schlerf,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1330
+halo-5,1277,Richard Seaborne,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1331
+halo-5,1278,Jonathan Segall,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1332
+halo-5,1279,Mark Seminatore,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1333
+halo-5,1280,Siddharth Sen,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1334
+halo-5,1281,Paul Sequeira,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1335
+halo-5,1282,Atul Shah,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1336
+halo-5,1283,Shae Shatz,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1337
+halo-5,1284,Joe Sheehan,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1338
+halo-5,1285,Bradley Shelton,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1339
+halo-5,1286,Amy Shephard,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1340
+halo-5,1287,Matthew Shimkus,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1341
+halo-5,1288,Hugh Sider,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1342
+halo-5,1289,Kristin Siu,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1343
+halo-5,1290,Martin Sleeman,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1344
+halo-5,1291,Richard J. Sloniker,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1345
+halo-5,1292,Matt Smith,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1346
+halo-5,1293,Scobie Smith,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1347
+halo-5,1294,Jesse Snyder,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1348
+halo-5,1295,Koyo Sonae,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1349
+halo-5,1296,Mark Spenik,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1350
+halo-5,1297,Jason Spiller,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1351
+halo-5,1298,Steve Spiller,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1352
+halo-5,1299,Bharath Srinivasan,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1353
+halo-5,1300,James Stanard,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1354
+halo-5,1301,Adam T. Standley,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1355
+halo-5,1302,Carol Stearns,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1356
+halo-5,1303,Keith Steury,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1357
+halo-5,1304,Chris Stevenson,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1358
+halo-5,1305,Jason Strayer,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1359
+halo-5,1306,Allison Strickland,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1360
+halo-5,1307,Jaime Sullivan,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1361
+halo-5,1308,Max Szlagor,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1362
+halo-5,1309,B.K. Tay,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1363
+halo-5,1310,Jesse Taylor,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1364
+halo-5,1311,ThePsychoDuck,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1366
+halo-5,1312,Peter Thomas,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1367
+halo-5,1313,Ludovic Tirtiaux,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1368
+halo-5,1314,Kristian Tonnessen,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1369
+halo-5,1315,Wisgary Torres,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1370
+halo-5,1316,Alex Troyer,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1371
+halo-5,1317,Kudo Tsunoda,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1372
+halo-5,1318,Felicia Tuck,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1373
+halo-5,1319,Jennifer Tweed,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1374
+halo-5,1320,TwofifteenMcCann,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1375
+halo-5,1321,Tomoaki Ueda,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1376
+halo-5,1322,Bridget Underwood,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1377
+halo-5,1323,Jim Urbaitis,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1378
+halo-5,1324,Aaron Vaage,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1379
+halo-5,1325,Antonio Vargas Garcia,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1380
+halo-5,1326,Eugene Vlasenko,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1382
+halo-5,1327,Hoi Vo,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1383
+halo-5,1328,Cindy Walker,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1384
+halo-5,1329,John Walin Liberto,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1385
+halo-5,1330,Robert Wallis,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1386
+halo-5,1331,Thomas Ward,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1387
+halo-5,1332,WARH0LIC,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1388
+halo-5,1333,Scott Warner,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1389
+halo-5,1334,Joe Waters,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1390
+halo-5,1335,Brian Weiss,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1392
+halo-5,1336,David Whiteford,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1393
+halo-5,1337,James Whiteman,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1394
+halo-5,1338,Gary Whitta,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1395
+halo-5,1339,Edward Williams,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1396
+halo-5,1340,Todd Williams,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1397
+halo-5,1341,Christopher Willis-Ford,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1398
+halo-5,1342,Alex Wilson,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1399
+halo-5,1343,Mark Wood,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1400
+halo-5,1344,Clint Woon,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1401
+halo-5,1345,Kevin Wright,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1402
+halo-5,1346,Shawn Wright,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1403
+halo-5,1347,Cliff Wylie,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1405
+halo-5,1348,Ryan Yagi,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1406
+halo-5,1349,In Young Yang,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1407
+halo-5,1350,Mike Ybarra,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1408
+halo-5,1351,Naiem Yeganeh,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1409
+halo-5,1352,Winnie Yip,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1410
+halo-5,1353,Aaron Younger,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1411
+halo-5,1354,Li Yuan,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1412
+halo-5,1355,Brannon Zahand,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1413
+halo-5,1356,Ali Zandi,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1414
+halo-5,1357,Miri Zaruba,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1415
+halo-5,1358,Christi Zellerhoff,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1416
+halo-5,1359,Joe Zhang,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1417
+halo-5,1360,Xiaofei Zhang,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1418
+halo-5,1361,Max Zhu,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1419
+halo-5,1362,Ted Zuvich,,Special Thanks,Special Thanks,,,special-thanks,employees:tr1420
+halo-5,1363,Lana Hirji Ahmad,,Production,Production Baby,,,babies,employees:tr1422
+halo-5,1364,Luke Bacon,,Production,Production Baby,,,babies,employees:tr1423
+halo-5,1365,Roman Drake Baron,,Production,Production Baby,,,babies,employees:tr1424
+halo-5,1366,Senna Minnie Barr,,Production,Production Baby,,,babies,employees:tr1425
+halo-5,1367,Elliot Boczar,,Production,Production Baby,,,babies,employees:tr1426
+halo-5,1368,Jude Brammer,,Production,Production Baby,,,babies,employees:tr1427
+halo-5,1369,Emmery Ann Callens,,Production,Production Baby,,,babies,employees:tr1428
+halo-5,1370,Viggo James Cameron,,Production,Production Baby,,,babies,employees:tr1429
+halo-5,1371,Zooey Victoria Campos,,Production,Production Baby,,,babies,employees:tr1430
+halo-5,1372,Beckett Carnahan,,Production,Production Baby,,,babies,employees:tr1431
+halo-5,1373,Petunia Mo Cobain,,Production,Production Baby,,,babies,employees:tr1432
+halo-5,1374,Henry Elliott Colomb,,Production,Production Baby,,,babies,employees:tr1433
+halo-5,1375,Eryn Lynn Crowder,,Production,Production Baby,,,babies,employees:tr1434
+halo-5,1376,Cruze Tyler DelHoyo,,Production,Production Baby,,,babies,employees:tr1435
+halo-5,1377,Alma Belen Dominguez,,Production,Production Baby,,,babies,employees:tr1436
+halo-5,1378,Alice Doughty,,Production,Production Baby,,,babies,employees:tr1437
+halo-5,1379,Glenn Alexander Farley,,Production,Production Baby,,,babies,employees:tr1438
+halo-5,1380,Logan Moonhill Farley,,Production,Production Baby,,,babies,employees:tr1439
+halo-5,1381,London Findley,,Production,Production Baby,,,babies,employees:tr1440
+halo-5,1382,Jackson Thomas Fischer,,Production,Production Baby,,,babies,employees:tr1441
+halo-5,1383,Vincent Jesse Flath,,Production,Production Baby,,,babies,employees:tr1442
+halo-5,1384,Dash Eero French,,Production,Production Baby,,,babies,employees:tr1443
+halo-5,1385,Nika Loreta Gaeta,,Production,Production Baby,,,babies,employees:tr1444
+halo-5,1386,Ryder Hawk Goulter-Batten,,Production,Production Baby,,,babies,employees:tr1445
+halo-5,1387,Oliver Maxwell Grace,,Production,Production Baby,,,babies,employees:tr1446
+halo-5,1388,Aiden Haluke,,Production,Production Baby,,,babies,employees:tr1447
+halo-5,1389,Clark Garrison Hefley,,Production,Production Baby,,,babies,employees:tr1448
+halo-5,1390,Nathan Thomas Hefley,,Production,Production Baby,,,babies,employees:tr1449
+halo-5,1391,Miguel Hernandez Salazar,,Production,Production Baby,,,babies,employees:tr1450
+halo-5,1392,Eleanor Hesky,,Production,Production Baby,,,babies,employees:tr1451
+halo-5,1393,Edith Emilie Jeffers,,Production,Production Baby,,,babies,employees:tr1452
+halo-5,1394,Anna Jinnouchi,,Production,Production Baby,,,babies,employees:tr1453
+halo-5,1395,Finn Hudson Jones,,Production,Production Baby,,,babies,employees:tr1454
+halo-5,1396,Raunak Kanungo,,Production,Production Baby,,,babies,employees:tr1455
+halo-5,1397,River J. Kennett,,Production,Production Baby,,,babies,employees:tr1456
+halo-5,1398,Charlotte King,,Production,Production Baby,,,babies,employees:tr1457
+halo-5,1399,Eleanor King,,Production,Production Baby,,,babies,employees:tr1458
+halo-5,1400,Maia Dine Kohlman,,Production,Production Baby,,,babies,employees:tr1459
+halo-5,1401,Addison Layton,,Production,Production Baby,,,babies,employees:tr1460
+halo-5,1402,Lee Layton,,Production,Production Baby,,,babies,employees:tr1461
+halo-5,1403,Olivia Lee,,Production,Production Baby,,,babies,employees:tr1462
+halo-5,1404,Isaac Lewis,,Production,Production Baby,,,babies,employees:tr1463
+halo-5,1405,Caerwyn Mathias Lewis,,Production,Production Baby,,,babies,employees:tr1464
+halo-5,1406,Sebastian Monet Lewis,,Production,Production Baby,,,babies,employees:tr1465
+halo-5,1407,Alex Lobaugh,,Production,Production Baby,,,babies,employees:tr1466
+halo-5,1408,Sam Lobaugh,,Production,Production Baby,,,babies,employees:tr1467
+halo-5,1409,Baby Lockhart,,Production,Production Baby,,,babies,employees:tr1468
+halo-5,1410,Madeleine Emilie Blanding Lomaka,,Production,Production Baby,,,babies,employees:tr1469
+halo-5,1411,Owen Luedke,,Production,Production Baby,,,babies,employees:tr1470
+halo-5,1412,Aaria Mandhar,,Production,Production Baby,,,babies,employees:tr1471
+halo-5,1413,Brayson Matanich,,Production,Production Baby,,,babies,employees:tr1472
+halo-5,1414,Keira McGrail,,Production,Production Baby,,,babies,employees:tr1473
+halo-5,1415,Kira Moore,,Production,Production Baby,,,babies,employees:tr1474
+halo-5,1416,Grayson Charles Neal,,Production,Production Baby,,,babies,employees:tr1475
+halo-5,1417,Isabel Neuss,,Production,Production Baby,,,babies,employees:tr1476
+halo-5,1418,Vincent Rambo Olmer,,Production,Production Baby,,,babies,employees:tr1477
+halo-5,1419,Samuel George Osbond,,Production,Production Baby,,,babies,employees:tr1478
+halo-5,1420,Leonie M. Pfarr,,Production,Production Baby,,,babies,employees:tr1479
+halo-5,1421,Polina Podnozova,,Production,Production Baby,,,babies,employees:tr1480
+halo-5,1422,Braylon Ryder Bandulin Ramos,,Production,Production Baby,,,babies,employees:tr1481
+halo-5,1423,Makos Kenji Robles,,Production,Production Baby,,,babies,employees:tr1482
+halo-5,1424,Ben Rodi,,Production,Production Baby,,,babies,employees:tr1483
+halo-5,1425,Will Rodi,,Production,Production Baby,,,babies,employees:tr1484
+halo-5,1426,Alexander Grey Rosas,,Production,Production Baby,,,babies,employees:tr1485
+halo-5,1427,Sava Kai Rychetnik,,Production,Production Baby,,,babies,employees:tr1486
+halo-5,1428,Flynn Zavier John Sanchez,,Production,Production Baby,,,babies,employees:tr1487
+halo-5,1429,Olivia Pauline Sellhorn,,Production,Production Baby,,,babies,employees:tr1488
+halo-5,1430,Alice Shch,,Production,Production Baby,,,babies,employees:tr1489
+halo-5,1431,Ella Shy,,Production,Production Baby,,,babies,employees:tr1490
+halo-5,1432,Eva Symonne-Ama Somuah,,Production,Production Baby,,,babies,employees:tr1491
+halo-5,1433,Kai Elias Tan,,Production,Production Baby,,,babies,employees:tr1492
+halo-5,1434,Theodore Tanner,,Production,Production Baby,,,babies,employees:tr1493
+halo-5,1435,Mae Thompson,,Production,Production Baby,,,babies,employees:tr1494
+halo-5,1436,Charlotte Marie Van Wyck,,Production,Production Baby,,,babies,employees:tr1495
+halo-5,1437,Claire Harper Van Wyck,,Production,Production Baby,,,babies,employees:tr1496
+halo-5,1438,Henry James Wentz,,Production,Production Baby,,,babies,employees:tr1497
+halo-5,1439,Claire Estellise Wetzel,,Production,Production Baby,,,babies,employees:tr1498
+halo-5,1440,Kelvin Leif Wiksten,,Production,Production Baby,,,babies,employees:tr1499
+halo-5,1441,Tor Daniel Wiksten,,Production,Production Baby,,,babies,employees:tr1500
+halo-5,1442,Elias Brendan Wilson,,Production,Production Baby,,,babies,employees:tr1501
+halo-5,1443,Noah Anthony Wilson,,Production,Production Baby,,,babies,employees:tr1502
+halo-5,1444,Claire H. Wu,,Production,Production Baby,,,babies,employees:tr1503
+halo-5,1445,Kai Zammit,,Production,Production Baby,,,babies,employees:tr1504
+halo-5,1446,Antonio Akira,,Other,In Memory of,,,core,employees:tr1506
+halo-5,1447,Ike Amadi,,Voice,Voice Actor,Jameson Locke,,core,voice:tr1
+halo-5,1448,Laura Bailey,,Voice,Voice Actor,Olympia Vale,,core,voice:tr2
+halo-5,1449,Steve Blum,,Voice,Voice Actor,Multiplayer Team Leader,,core,voice:tr3
+halo-5,1450,Andrea Bogart,,Voice,Performance Capture,Linda-058 (Performance),,core,voice:tr4
+halo-5,1451,Mike Colter,,Voice,Performance Capture,Jameson Locke (Performance),,core,voice:tr5
+halo-5,1452,Keith David,,Voice,Voice Actor,The Arbiter,,core,voice:tr6
+halo-5,1453,Brian T. Delaney,,Voice,Voice Actor,Roland,,core,voice:tr7
+halo-5,1454,Dan Donohue,,Voice,Voice Actor,The Warden Eternal,,core,voice:tr8
+halo-5,1455,Steve Downes,,Voice,Voice Actor,Master Chief,,core,voice:tr9
+halo-5,1456,Steve Downes,,Voice,Voice Actor,John-117,,core,voice:tr10
+halo-5,1457,Gideon Emery,,Voice,Voice Actor,Governor Sloan,,core,voice:tr11
+halo-5,1458,Nathan Fillion,,Voice,Voice Actor,Edward Buck,,core,voice:tr12
+halo-5,1459,Jean Gilpin,,Voice,Voice Actor,Mahkee 'Chava,,core,voice:tr13
+halo-5,1460,Jen Hale,,Voice,Voice Actor,"Sarah Palmer, Warzone Commander",,core,voice:tr14
+halo-5,1461,Michelle Lukes,,Voice,Voice Actor,Kelly-087,,core,voice:tr15
+halo-5,1462,Cynthia McWilliams,,Voice,Voice Actor,Holly Tanaka,,core,voice:tr16
+halo-5,1463,Melanie Minichino,,Voice,Voice Actor,Exuberant Witness,,core,voice:tr17
+halo-5,1464,Darren O'Hare,,Voice,Voice Actor,Thomas Lasky,,core,voice:tr18
+halo-5,1465,Joseph Staten,,Voice,Voice Actor,Dimkee Hotay,,core,voice:tr19
+halo-5,1466,Jeff Steitzer,,Voice,Voice Actor,Multiplayer Announcer,,core,voice:tr20
+halo-5,1467,Jen Taylor,,Voice,Voice Actor,Cortana,,core,voice:tr21
+halo-5,1468,Jen Taylor,,Voice,Voice Actor,Dr. Halsey,,core,voice:tr22
+halo-5,1469,Bruce Thomas,,Voice,Performance Capture,Master Chief (Performance),,core,voice:tr23
+halo-5,1470,Brittany Uomoleale,,Voice,Voice Actor,Linda-058,,core,voice:tr24
+halo-5,1471,Kari Wahlgren,,Voice,Voice Actor,System Voice,,core,voice:tr25
+halo-5,1472,Travis Willingham,,Voice,Voice Actor,Frederic-104,,core,voice:tr26
+halo-5,1473,Travis Willingham,,Voice,Voice Actor,Jul 'Mdama,,core,voice:tr27
+halo-5,1474,Krizia Bajos,,Voice,Voice Actor,Additional Voices,,core,voice:tr28
+halo-5,1475,John Bentley,,Voice,Voice Actor,Additional Voices,,core,voice:tr29
+halo-5,1476,Kimberly Brooks,,Voice,Voice Actor,Additional Voices,,core,voice:tr30
+halo-5,1477,Sara Cravens,,Voice,Voice Actor,Additional Voices,,core,voice:tr31
+halo-5,1478,Trevor Devall,,Voice,Voice Actor,Additional Voices,,core,voice:tr32
+halo-5,1479,Robin Atkin Downes,,Voice,Voice Actor,Additional Voices,,core,voice:tr33
+halo-5,1480,Chris Fries,,Voice,Voice Actor,Additional Voices,,core,voice:tr34
+halo-5,1481,Anthony Hanson,,Voice,Voice Actor,Additional Voices,,core,voice:tr35
+halo-5,1482,Ali Hillis,,Voice,Voice Actor,Additional Voices,,core,voice:tr36
+halo-5,1483,Cissy Jones,,Voice,Voice Actor,Additional Voices,,core,voice:tr37
+halo-5,1484,John Kassir,,Voice,Voice Actor,Additional Voices,,core,voice:tr38
+halo-5,1485,Brandon Keener,,Voice,Voice Actor,Additional Voices,,core,voice:tr39
+halo-5,1486,Andrew Kishino,,Voice,Voice Actor,Additional Voices,,core,voice:tr40
+halo-5,1487,Christian Lanz,,Voice,Voice Actor,Additional Voices,,core,voice:tr41
+halo-5,1488,Misty Lee,,Voice,Voice Actor,Additional Voices,,core,voice:tr42
+halo-5,1489,Jason Lewis,,Voice,Voice Actor,Additional Voices,,core,voice:tr43
+halo-5,1490,Yuri Lowenthal,,Voice,Voice Actor,Additional Voices,,core,voice:tr44
+halo-5,1491,Dave Mitchell,,Voice,Voice Actor,Additional Voices,,core,voice:tr45
+halo-5,1492,Max Mittelman,,Voice,Voice Actor,Additional Voices,,core,voice:tr46
+halo-5,1493,Julie Nathanson,,Voice,Voice Actor,Additional Voices,,core,voice:tr47
+halo-5,1494,Rick Pasqualone,,Voice,Voice Actor,Additional Voices,,core,voice:tr48
+halo-5,1495,Donovan Patton,,Voice,Voice Actor,Additional Voices,,core,voice:tr49
+halo-5,1496,Rachel Rosenbloom,,Voice,Voice Actor,Additional Voices,,core,voice:tr50
+halo-5,1497,Salli Saffioti,,Voice,Voice Actor,Additional Voices,,core,voice:tr51
+halo-5,1498,Marc Anthony Samuel,,Voice,Voice Actor,Additional Voices,,core,voice:tr52
+halo-5,1499,Sean Schemmel,,Voice,Voice Actor,Additional Voices,,core,voice:tr53
+halo-5,1500,Patrick Seitz,,Voice,Voice Actor,Additional Voices,,core,voice:tr54
+halo-5,1501,Joseph Staten,,Voice,Voice Actor,Additional Voices,,core,voice:tr55
+halo-5,1502,Fred Tatasciore,,Voice,Voice Actor,Additional Voices,,core,voice:tr56
+halo-5,1503,Courtenay Taylor,,Voice,Voice Actor,Additional Voices,,core,voice:tr57
+halo-5,1504,Brittany Uomoleale,,Voice,Voice Actor,Additional Voices,,core,voice:tr58
+halo-5,1505,Kari Wahlgren,,Voice,Voice Actor,Additional Voices,,core,voice:tr59
+halo-5,1506,Rick Wasserman,,Voice,Voice Actor,Additional Voices,,core,voice:tr60
+halo-5,1507,Scott Whyte,,Voice,Voice Actor,Additional Voices,,core,voice:tr61
+halo-5,1508,Lindsay Morgan Lockhart,,Design,Narrative Design,,,core,mobygames:tr19
+halo-5,1509,Daniel Asher Harman,,Voice,Vignette Animation,,,core,mobygames:tr31
+halo-5,1510,Nathan Gregory,,Art,Campaign Environment Art,,,core,mobygames:tr38
+halo-5,1511,Christopher Lomaka,,Voice,Campaign Environment Art,,,core,mobygames:tr38
+halo-5,1512,Brian Christian,,Art,Cinematics Environment Art Lead,,,core,mobygames:tr39
+halo-5,1513,Timothy Diaz,,Art,Multiplayer Environment Art,,,core,mobygames:tr44
+halo-5,1514,Michael Murrill,,Art,Multiplayer Environment Art,,,core,mobygames:tr44
+halo-5,1515,Benjamin Mark Nicholas,,Voice,Multiplayer Environment Art,,,core,mobygames:tr44
+halo-5,1516,Mark Nicolino,,Voice,Multiplayer Environment Art,,,core,mobygames:tr44
+halo-5,1517,Robert Forest Baker,,Art,FX Art,,,core,mobygames:tr48
+halo-5,1518,Olivier Bil Leeman,,Voice,FX Art,,,core,mobygames:tr48
+halo-5,1519,Kenny Magnussen,,Art,Lighting Lead,,,core,mobygames:tr49
+halo-5,1520,Hanhee Hailey Lee,,Voice,Skybox Art,,,core,mobygames:tr52
+halo-5,1521,Kimberly A. Haines,,Art,Tech Art,,,core,mobygames:tr54
+halo-5,1522,Matthew Osbond,,Art,Tech Art,,,core,mobygames:tr54
+halo-5,1523,Matthew Sutherlin,,Art,Tech Art,,,core,mobygames:tr54
+halo-5,1524,Xiaoxi Liu,,Voice,Tech Art,,,core,mobygames:tr54
+halo-5,1525,J. M. Albertson,,Engineering,Systems Engineering,,,core,mobygames:tr79
+halo-5,1526,Robert Austin,,Engineering,Systems Engineering,,,core,mobygames:tr79
+halo-5,1527,Mark D. Andersen,,Engineering,Tools Engineering Lead,,,core,mobygames:tr80
+halo-5,1528,Lina Sokaite Gaeta,,Engineering,Tools Engineering,,,core,mobygames:tr81
+halo-5,1529,Andrew Luedke,,Engineering,Graphics Engineering Area Lead,,,core,mobygames:tr83
+halo-5,1530,Douglas Barnes,,Engineering,Multiplayer Engineering,,,core,mobygames:tr88
+halo-5,1531,Alyson Szymanski,,Voice,Campaign Production,,,core,mobygames:tr94
+halo-5,1532,Casey Marissa Wu,,Art,Tools & Tech Art Production,,,core,mobygames:tr103
+halo-5,1533,John T. Evans,,Voice,Mongoose Test,,,core,mobygames:tr133
+halo-5,1534,Bonnie Ross-Ziegler,,Leadership,"Corporate Vice President, Head of 343 Industries",,,core,mobygames:tr138
+halo-5,1535,Daniel M. Ayoub,,Leadership,"Studio Head, External Development",,,core,mobygames:tr139
+halo-5,1536,Steven Boyce,,Voice,Test Reserves,,,core,mobygames:tr177
+halo-5,1537,Josh Breese,,Voice,Test Reserves,,,core,mobygames:tr177
+halo-5,1538,Raymond Butchko,,Voice,Test Reserves,,,core,mobygames:tr177
+halo-5,1539,Baabak Nassirrian,,Voice,Test Reserves,,,core,mobygames:tr177
+halo-5,1540,Brian Sulpicio Roque Larcena,,Voice,Test Reserves,,,core,mobygames:tr177
+halo-5,1541,Crystal N. Thelin,,Voice,Test Reserves,,,core,mobygames:tr177
+halo-5,1542,C. Riana Manuel-Peña,,Voice,Localization,,,publishing,mobygames:tr187
+halo-5,1543,Gabriel Smith,,Voice,Localization,,,publishing,mobygames:tr187
+halo-5,1544,Thomas Bowers,,Audio,Orchestra Leader,,,core,mobygames:tr212
+halo-5,1545,Jim McLeod,,Audio,Violins,,,core,mobygames:tr213
+halo-5,1546,Andy Parker,,Audio,Violas,,,core,mobygames:tr214
+halo-5,1547,David Daniels,,Audio,Celli,,,core,mobygames:tr215
+halo-5,1548,Stephen Mair,,Audio,Basses,,,core,mobygames:tr216
+halo-5,1549,Steve Williams,,Audio,Basses,,,core,mobygames:tr216
+halo-5,1550,Nicholas Abby,,Audio,Basses,,,core,mobygames:tr216
+halo-5,1551,Peter Smith,,Audio,Tuba / Cimbasso,,,core,mobygames:tr221
+halo-5,1552,Mike Patti,,Other,Custom Percussion Sampling by,,,core,mobygames:tr238
+halo-5,1553,Anne-Katherin Dern,,Other,Custom Percussion Sampling by,,,core,mobygames:tr238
+halo-5,1554,Cenda Kotzmann,,Audio,Assistant Engineer,,,core,mobygames:tr246
+halo-5,1555,James D. Mortellaro,,Audio,Casting Director,,,core,mobygames:tr257
+halo-5,1556,Alyson Dee Moore,,Audio,Foley Artists,,,core,mobygames:tr258
+halo-5,1557,Mary Jo Lang,,Audio,Foley Mixers,,,core,mobygames:tr259
+halo-5,1558,Roland N. Thai,,Audio,WB Audio Team,,,core,mobygames:tr260
+halo-5,1559,John Paul Fasal,,Audio,WB Audio Team,,,core,mobygames:tr260
+halo-5,1560,Ikechukwu Prince Amadi,,Voice,Voice Actor,,,core,mobygames:tr262
+halo-5,1561,Steven Jay Blum,,Voice,Voice Actor,,,core,mobygames:tr264
+halo-5,1562,John Eric Bentley,,Voice,Voice Actor,,,core,mobygames:tr286
+halo-5,1563,Kimberly D. Brooks,,Voice,Voice Actor,,,core,mobygames:tr286
+halo-5,1564,Anthony Hansen,,Voice,Voice Actor,,,core,mobygames:tr286
+halo-5,1565,Brandon James Keener,,Voice,Voice Actor,,,core,mobygames:tr286
+halo-5,1566,Jason J. Lewis,,Voice,Voice Actor,,,core,mobygames:tr286
+halo-5,1567,David B. Mitchell,,Voice,Voice Actor,,,core,mobygames:tr286
+halo-5,1568,Courtenay Kellen Taylor,,Voice,Voice Actor,,,core,mobygames:tr286
+halo-5,1569,Michelle C. Lee,,Voice,Voice Actor,,,core,mobygames:tr287
+halo-5,1570,Paisha Coffey,,Voice,Voice Actor,,,core,mobygames:tr292
+halo-5,1571,Joanna Van Gansen,,Special Thanks,Special Thanks,,,special-thanks,mobygames:tr307
+halo-5,1572,Christiana Ventura,,Special Thanks,Special Thanks,,,special-thanks,mobygames:tr307
+halo-5,1573,Pietro Verrecchia,,Special Thanks,Special Thanks,,,special-thanks,mobygames:tr307
+halo-5,1574,Todd Williams,,Special Thanks,Special Thanks,,,special-thanks,mobygames:tr307
+halo-5,1575,Peter Quickert,,Engineering,Additional Engineering by SkyBox Labs,,SkyBox Labs,core,mobygames:tr174
+halo-5,1576,Matt B. Chang,,Voice,Microsoft Marketing & Public Relations,,,publishing,mobygames:tr185
+halo-5,1577,Jennifer Estrada,,Voice,Microsoft Marketing & Public Relations,,,publishing,mobygames:tr185
+halo-5,1578,Xavier Anthony,,Voice,Special Thanks,,,special-thanks,mobygames:tr307
+halo-5,1579,Matthew V. Booty,,Special Thanks,Special Thanks,,,special-thanks,mobygames:tr307
+halo-5,1580,Nate W. Brown,,Voice,Special Thanks,,,special-thanks,mobygames:tr307
+halo-5,1581,Anthony Brian,,Voice,Special Thanks,,,special-thanks,mobygames:tr307
+halo-5,1582,Michael Cerullo,,Voice,Special Thanks,,,special-thanks,mobygames:tr307
+halo-5,1583,Timothy Chen,,Special Thanks,Special Thanks,,,special-thanks,mobygames:tr307
+halo-5,1584,Jon Gill,,Special Thanks,Special Thanks,,,special-thanks,mobygames:tr307
+halo-5,1585,David McCarthy,,Special Thanks,Special Thanks,,,special-thanks,mobygames:tr307
+halo-5,1586,Gustavo H. Mendonça,,Voice,Special Thanks,,,special-thanks,mobygames:tr307
+halo-5,1587,William M. Mozell,,Special Thanks,Special Thanks,,,special-thanks,mobygames:tr307
+halo-5,1588,Satya Narayana Nadella,,Special Thanks,Special Thanks,,,special-thanks,mobygames:tr307
+halo-5,1589,Richard L. Seaborne,,Special Thanks,Special Thanks,,,special-thanks,mobygames:tr307
+halo-5,1590,Jonathan Segal,,Special Thanks,Special Thanks,,,special-thanks,mobygames:tr307
+halo-5,1591,Kristin A. Siu,,Special Thanks,Special Thanks,,,special-thanks,mobygames:tr307
+halo-5,1592,Alexander D. Wilson,,Voice,Special Thanks,,,special-thanks,mobygames:tr307
+halo-5,1593,Makoa Kenji Robles,,Production,Production Babies,,,babies,mobygames:tr309
+halo-5,1594,Flynn Xavier John Sanchez,,Production,Production Babies,,,babies,mobygames:tr309

@@ -1,0 +1,452 @@
+game_id,credit_order,name_raw,name_canonical,category,role_raw,character,studio,inclusion_class,source_ref
+halo-cea,0,Matthew Karch,,Other,CEO,,Saber Interactive,core,L23
+halo-cea,1,Andrey Iones,,Production,COO/Executive Producer,,Saber Interactive,core,L25
+halo-cea,2,Nick Madonna,,Production,Associate Producer,,Saber Interactive,core,L27
+halo-cea,3,Anna Naleushkina,,Production,Associate Producer/Localization Manager,,Saber Interactive,publishing,L29
+halo-cea,4,Sergey Rakhmanov,,Production,Associate Producer,,Saber Interactive,core,L31
+halo-cea,5,Elena Sulimova,,Production,Associate Producer/Localization Manager,,Saber Interactive,publishing,L33
+halo-cea,6,Andrey Grigorev,,Engineering,Programming Director,,Saber Interactive,core,L37
+halo-cea,7,Roman Lebedev,,Engineering,Lead Project Programmer/Console Tech Lead,,Saber Interactive,core,L39
+halo-cea,8,Pavel Kuznetsov,,Engineering,Lead Physics Programmer,,Saber Interactive,core,L41
+halo-cea,9,Sergey Adveev,,Other,Game Integration Lead,,Saber Interactive,core,L43
+halo-cea,10,Leonid Mashinsky,,Engineering,Game Integration Programmer,,Saber Interactive,core,L45
+halo-cea,11,Maksim Gridnev,,Engineering,Game Integration Programmer,,Saber Interactive,core,L47
+halo-cea,12,Victor Koryt'ko,,Engineering,Game Integration Programmer,,Saber Interactive,core,L49
+halo-cea,13,Anton Krupkin,,Engineering,Lead Engine Programmer,,Saber Interactive,core,L52
+halo-cea,14,Evgeniy Cimbaluk,,Audio,Senior Engine and Sound Programmer,,Saber Interactive,core,L54
+halo-cea,15,Alexey Ivanov,,Engineering,Senior Engine Programmer,,Saber Interactive,core,L56
+halo-cea,16,Ruslan Vizgalin,,Engineering,Lead Animation Programmer,,Saber Interactive,core,L58
+halo-cea,17,Denis Sladkov,,Engineering,Lead Rendering Programmer,,Saber Interactive,core,L61
+halo-cea,18,Aleksandr Skolunov,,Engineering,Senior Rendering Programmer,,Saber Interactive,core,L63
+halo-cea,19,Aleksandr Smetkin,,Engineering,Senior Rendering Programmer,,Saber Interactive,core,L65
+halo-cea,20,Leonid Fedorov,,Engineering,Rendering Programmer,,Saber Interactive,core,L67
+halo-cea,21,Pavel Zagrebelnyiy,,Engineering,Rendering Programmer,,Saber Interactive,core,L69
+halo-cea,22,Victor Bargachev,,Engineering,Rendering Programmer,,Saber Interactive,core,L71
+halo-cea,23,Dmitry Brevdo,,Engineering,UI/TCR Lead Programmer,,Saber Interactive,core,L74
+halo-cea,24,Anton Ivanov,,Engineering,Senior TCR/Build Programmer,,Saber Interactive,core,L76
+halo-cea,25,Dmitry Shevchik,,Engineering,Senior UI programmer,,Saber Interactive,core,L78
+halo-cea,26,Vladamir Orlov,,Engineering,UI Programmer,,Saber Interactive,core,L80
+halo-cea,27,Aleksandr Artemenko,,Design,Additional UI Scripting,,Saber Interactive,core,L82
+halo-cea,28,Stanislav Zainchkovskiy,,Engineering,Lead Network Programmer,,Saber Interactive,core,L85
+halo-cea,29,Vasiliy Vishnevetskiy,,Engineering,Senior Network Programmer,,Saber Interactive,core,L87
+halo-cea,30,Viktor Streltsov,,Engineering,Lead Technology & Tools Programmer,,Saber Interactive,core,L90
+halo-cea,31,Alexey Naumov,,Engineering,Tools Programmer,,Saber Interactive,core,L92
+halo-cea,32,Leonid Krot,,Engineering,Tools Programmer,,Saber Interactive,core,L94
+halo-cea,33,Ivan Alaferov,,Engineering,Tools Programmer,,Saber Interactive,core,L96
+halo-cea,34,Dmitriy Kholodov,,Art,Art Director,,Saber Interactive,core,L99
+halo-cea,35,Petr Kudryashov,,Design,Lead Level Modeler,,Saber Interactive,core,L101
+halo-cea,36,Elena Bondareva,,Other,Outsource Manager,,Saber Interactive,core,L103
+halo-cea,37,Artem Shumnik,,Art,Lead Concept Artist,,Saber Interactive,core,L106
+halo-cea,38,Vitaliy Anikin,,Art,Senior Concept Artist,,Saber Interactive,core,L108
+halo-cea,39,Pavel Belov,,Art,Senior Concept Artist,,Saber Interactive,core,L110
+halo-cea,40,Vladimir Nenov,,Art,Concept Artist,,Saber Interactive,core,L112
+halo-cea,41,Dmitriy Popov,,Art,Concept Artist,,Saber Interactive,core,L114
+halo-cea,42,Dmitriy Klyushkin,,Art,Concept Artist,,Saber Interactive,core,L116
+halo-cea,43,Maksim Alekseev,,Design,Senior Level Modeler/Designer,,Saber Interactive,core,L119
+halo-cea,44,Pavel Baryshnikov,,Design,Senior Level Modeler,,Saber Interactive,core,L121
+halo-cea,45,Yuriy Chernyish,,Design,Senior Level Modeler,,Saber Interactive,core,L123
+halo-cea,46,Dmitriy Efimov,,Design,Senior Level Modeler,,Saber Interactive,core,L125
+halo-cea,47,Vyacheslav Dementev,,Design,Level Modeler,,Saber Interactive,core,L127
+halo-cea,48,Andrey Gromov,,Design,Level Modeler,,Saber Interactive,core,L129
+halo-cea,49,Andrey Kvashnin,,Design,Level Modeler,,Saber Interactive,core,L131
+halo-cea,50,Sergey Lebedev,,Design,Level Modeler,,Saber Interactive,core,L133
+halo-cea,51,Yakov Shevchenko,,Design,Level Modeler,,Saber Interactive,core,L135
+halo-cea,52,Dmitriy Andreev,,Design,Additional Level Modeling,,Saber Interactive,core,L137
+halo-cea,53,Alexey Kirillov,,Design,Additional Level Modeling,,Saber Interactive,core,L139
+halo-cea,54,Renat Salimgareev,,Design,Additional Level Modeling,,Saber Interactive,core,L141
+halo-cea,55,Anton Shakhmatov,,Design,Additional Level Modeling,,Saber Interactive,core,L143
+halo-cea,56,Dmitry Volkov,,Design,Senior Asset Designer/Modeler,,Saber Interactive,core,L146
+halo-cea,57,Maksim Nezvanov,,Art,Character Modeler,,Saber Interactive,core,L148
+halo-cea,58,Dmitry Parkin,,Art,Character Modeler,,Saber Interactive,core,L150
+halo-cea,59,ArtStudio,,Other,Assets Modeling,,Saber Interactive,core,L152
+halo-cea,60,Eugene Davydenko,,Art,Technical Art Director,,Saber Interactive,core,L155
+halo-cea,61,Georgiy Belyaev,,Art,Senior Technical Artist,,Saber Interactive,core,L157
+halo-cea,62,Sergey Demidov,,Art,Senior Technical Artist,,Saber Interactive,core,L159
+halo-cea,63,Andrey Tarnovskiy,,Art,Senior Technical Artist,,Saber Interactive,core,L161
+halo-cea,64,Igor Budalovskiy,,Art,Technical Artist,,Saber Interactive,core,L163
+halo-cea,65,Aleksandr Myala,,Art,Lead Animator,,Saber Interactive,core,L166
+halo-cea,66,Roman Pereverzov,,Art,Senior Cinematic Animator,,Saber Interactive,core,L168
+halo-cea,67,Evgeniy Fokin,,Art,Animator,,Saber Interactive,core,L170
+halo-cea,68,Vladimir Uryashov,,Art,Animator,,Saber Interactive,core,L172
+halo-cea,69,Dmitry Afanasyev,,Art,Animator,,Saber Interactive,core,L174
+halo-cea,70,Anton Lomakin,,Art,Lead SFX Artist,,Saber Interactive,core,L177
+halo-cea,71,Dmitriy Belov,,Art,SFX Artist,,Saber Interactive,core,L179
+halo-cea,72,Elena Lomakina,,Art,SFX Artist,,Saber Interactive,core,L181
+halo-cea,73,Elena Tarnovskaya,,Art,Lead Texture Artist,,Saber Interactive,core,L184
+halo-cea,74,Aleksander Kuznetsov,,Art,Senior Texturing Artist,,Saber Interactive,core,L186
+halo-cea,75,Evgeniy Dybchinskiy,,Art,Senior Texturing Artist,,Saber Interactive,core,L188
+halo-cea,76,Dmitriy Berlin,,Art,"Texture Artist, Additional Lighting",,Saber Interactive,core,L190
+halo-cea,77,Georgiy Paute,,Art,Texture Artist,,Saber Interactive,core,L192
+halo-cea,78,Nikolay Sladkov,,Art,Texture Artist,,Saber Interactive,core,L194
+halo-cea,79,Anton Sumerin,,Art,Texture Artist,,Saber Interactive,core,L196
+halo-cea,80,Olga Cheremisova,,Art,Lead Lighting Artist,,Saber Interactive,core,L199
+halo-cea,81,Dmitriy Jempala,,Art,Lighting Artist,,Saber Interactive,core,L201
+halo-cea,82,Dmitriy Pisminskiy,,Art,Lighting Artist,,Saber Interactive,core,L203
+halo-cea,83,Georgiy Suvorov,,Art,Lighting Artist,,Saber Interactive,core,L205
+halo-cea,84,Aleksey Melnikov,,Art,Lead UI artist,,Saber Interactive,core,L208
+halo-cea,85,Dmitriy Zhukovskiy,,Art,UI Artist,,Saber Interactive,core,L210
+halo-cea,86,Pavel Grachev,,Audio,Sound Engineer,,Saber Interactive,core,L213
+halo-cea,87,Mark Frolov,,Audio,Sound Engineer,,Saber Interactive,core,L215
+halo-cea,88,Kirill Zaytsev,,QA,QA Director,,Saber Interactive,core,L218
+halo-cea,89,Evgeniy Stepanov,,QA,QA Project Lead,,Saber Interactive,core,L220
+halo-cea,90,Daniil Saparov,,QA,QA Expert,,Saber Interactive,core,L222
+halo-cea,91,Pavel Teplyanskiy,,QA,QA Expert,,Saber Interactive,core,L224
+halo-cea,92,Ivan Andrianov,,QA,Additional Testing,,Saber Interactive,core,L226
+halo-cea,93,Stanislav Borodikhin,,QA,Additional Testing,,Saber Interactive,core,L228
+halo-cea,94,Victor Glyanenko,,QA,Additional Testing,,Saber Interactive,core,L230
+halo-cea,95,Aleksandr Ermakov,,QA,Additional Testing,,Saber Interactive,core,L232
+halo-cea,96,Ruslan Mezhetskiy,,QA,Additional Testing,,Saber Interactive,core,L234
+halo-cea,97,Shamil Yanbuhtin,,QA,Additional Testing,,Saber Interactive,core,L236
+halo-cea,98,Evgeniy Popkov,,QA,Additional Testing,,Saber Interactive,core,L238
+halo-cea,99,Vladimir Chernysh,,Other,Studio Director,,Saber Interactive,core,L241
+halo-cea,100,Maria Korobkina,,Other,Accounting,,Saber Interactive,core,L243
+halo-cea,101,Victor Stupko,,Other,IT Director,,Saber Interactive,core,L245
+halo-cea,102,Denis Streltsov,,Other,Network Administrator,,Saber Interactive,core,L247
+halo-cea,103,Aleksey Polyakov,,Other,Network Administrator,,Saber Interactive,core,L249
+halo-cea,105,Oliver Hollis,,Leadership,"Mocap Actor, Master Chief",,Saber Interactive,core,L254
+halo-cea,106,Anthony Morley,,Other,"Mocap Actor, Captain Keyes",,Saber Interactive,core,L256
+halo-cea,107,Melanie Bond,,Other,"Mocap Actor, Cortana",,Saber Interactive,core,L258
+halo-cea,108,Gordon Alexander,,Other,Additional Mocap Acting,,Saber Interactive,core,L260
+halo-cea,109,Sergey Izyyurov,,Special Thanks,Special Thanks,,Saber Interactive,special-thanks,L263
+halo-cea,110,Georgiy Juraviyov,,Special Thanks,Special Thanks,,Saber Interactive,special-thanks,L263
+halo-cea,111,Sergey Mironov,,Special Thanks,Special Thanks,,Saber Interactive,special-thanks,L263
+halo-cea,112,Nikolay Podolskiy,,Special Thanks,Special Thanks,,Saber Interactive,special-thanks,L263
+halo-cea,113,Anton Sherstyuk,,Special Thanks,Special Thanks,,Saber Interactive,special-thanks,L263
+halo-cea,114,Aleksey Shutov,,Special Thanks,Special Thanks,,Saber Interactive,special-thanks,L263
+halo-cea,115,Sergey Boginskiy,,Special Thanks,Special Thanks,,Saber Interactive,special-thanks,L263
+halo-cea,116,Mikhail Davydenko,,Special Thanks,Special Thanks,,Saber Interactive,special-thanks,L263
+halo-cea,117,Mikhail Drobot,,Special Thanks,Special Thanks,,Saber Interactive,special-thanks,L263
+halo-cea,118,Fyodor Gilmutdinov,,Special Thanks,Special Thanks,,Saber Interactive,special-thanks,L263
+halo-cea,119,Roman Gluschenko,,Special Thanks,Special Thanks,,Saber Interactive,special-thanks,L263
+halo-cea,120,Dmitriy Gribanov,,Special Thanks,Special Thanks,,Saber Interactive,special-thanks,L263
+halo-cea,121,Andrey Gromov,,Special Thanks,Special Thanks,,Saber Interactive,special-thanks,L263
+halo-cea,122,Sergey Ivanov,,Special Thanks,Special Thanks,,Saber Interactive,special-thanks,L263
+halo-cea,123,Nikolay Korolyov,,Special Thanks,Special Thanks,,Saber Interactive,special-thanks,L263
+halo-cea,124,Evgeniy Melnikov,,Special Thanks,Special Thanks,,Saber Interactive,special-thanks,L263
+halo-cea,125,Andrey Bachmanov,,Special Thanks,Special Thanks,,Saber Interactive,special-thanks,L263
+halo-cea,126,Valentin Danilenko,,Special Thanks,Special Thanks,,Saber Interactive,special-thanks,L263
+halo-cea,127,Valeriy Djura,,Special Thanks,Special Thanks,,Saber Interactive,special-thanks,L263
+halo-cea,128,Sergey Dudkin,,Special Thanks,Special Thanks,,Saber Interactive,special-thanks,L263
+halo-cea,129,Dmitriy Grigorenko,,Special Thanks,Special Thanks,,Saber Interactive,special-thanks,L263
+halo-cea,130,Andrey Kholodov,,Special Thanks,Special Thanks,,Saber Interactive,special-thanks,L263
+halo-cea,131,Filipp Ivanov,,Special Thanks,Special Thanks,,Saber Interactive,special-thanks,L263
+halo-cea,132,Anatoliy Koruka,,Special Thanks,Special Thanks,,Saber Interactive,special-thanks,L263
+halo-cea,133,Sergey Krayniy,,Special Thanks,Special Thanks,,Saber Interactive,special-thanks,L263
+halo-cea,134,Aleksandr Larionov,,Special Thanks,Special Thanks,,Saber Interactive,special-thanks,L263
+halo-cea,135,Sergey Larionov,,Special Thanks,Special Thanks,,Saber Interactive,special-thanks,L263
+halo-cea,136,Dmitriy Motorygin,,Special Thanks,Special Thanks,,Saber Interactive,special-thanks,L263
+halo-cea,137,Pavel Ryazantsev,,Special Thanks,Special Thanks,,Saber Interactive,special-thanks,L263
+halo-cea,138,Aleksandra Seliverstova,,Special Thanks,Special Thanks,,Saber Interactive,special-thanks,L263
+halo-cea,139,Aleksey Skorohod,,Special Thanks,Special Thanks,,Saber Interactive,special-thanks,L263
+halo-cea,140,Andrey Baranov,,Special Thanks,Special Thanks,,Saber Interactive,special-thanks,L263
+halo-cea,141,Dmitriy Milyavskiy,,Special Thanks,Special Thanks,,Saber Interactive,special-thanks,L263
+halo-cea,142,Andrey Movsesyan,,Special Thanks,Special Thanks,,Saber Interactive,special-thanks,L263
+halo-cea,143,Rick Raymo,,Special Thanks,Special Thanks,,Saber Interactive,special-thanks,L263
+halo-cea,144,Max Hoberman,,Other,Creative Director,,Certain Affinity Inc.,core,L268
+halo-cea,145,Phil Wattenbarger,,Production,Executive Producer,,Certain Affinity Inc.,core,L270
+halo-cea,146,David Ancira,,Art,Visual Art Lead,,Certain Affinity Inc.,core,L272
+halo-cea,147,Alex Chrisman,,Production,Lead Producer,,Certain Affinity Inc.,core,L274
+halo-cea,148,Adam Crist,,Design,Lead Designer,,Certain Affinity Inc.,core,L276
+halo-cea,149,William Fox,,Production,Lead Producer,,Certain Affinity Inc.,core,L278
+halo-cea,150,Dave Prout,,Art,Lead Artist/Technical Artist,,Certain Affinity Inc.,core,L280
+halo-cea,151,Stefan Sinclair,,Engineering,Lead Programmer,,Certain Affinity Inc.,core,L282
+halo-cea,152,Kyle Uberman,,QA,QA Lead,,Certain Affinity Inc.,core,L284
+halo-cea,153,Lorraine Zawada,,Art,Lead Environment Artist,,Certain Affinity Inc.,core,L287
+halo-cea,154,Steev Kelly,,Art,Lead Technical Artist,,Certain Affinity Inc.,core,L289
+halo-cea,155,Jason Morne,,Art,Concept Artist,,Certain Affinity Inc.,core,L291
+halo-cea,156,Jason Bretz,,Art,Environment Artist,,Certain Affinity Inc.,core,L293
+halo-cea,157,Martin Cable,,Art,Environment Artist,,Certain Affinity Inc.,core,L295
+halo-cea,158,John Grubner,,Art,VFX Artist,,Certain Affinity Inc.,core,L297
+halo-cea,159,Brad Jeansonne,,Art,Concept Artist,,Certain Affinity Inc.,core,L299
+halo-cea,160,Rick Knox,,Art,Environment Artist,,Certain Affinity Inc.,core,L301
+halo-cea,161,Luiz Kruel,,Art,Technical Artist,,Certain Affinity Inc.,core,L303
+halo-cea,162,Seok Ki Kwon,,Art,Environment Artist,,Certain Affinity Inc.,core,L305
+halo-cea,163,Ryan Mansfield,,Art,Environment Artist,,Certain Affinity Inc.,core,L307
+halo-cea,164,Dean McCall,,Art,Environment Artist,,Certain Affinity Inc.,core,L309
+halo-cea,165,Eric Miller,,Art,Environment Artist,,Certain Affinity Inc.,core,L311
+halo-cea,166,Dan Mod,,Art,Environment Artist,,Certain Affinity Inc.,core,L313
+halo-cea,167,Deanna Nygren,,Art,Environment Artist,,Certain Affinity Inc.,core,L315
+halo-cea,168,Josh Powers,,Art,Environment Artist,,Certain Affinity Inc.,core,L317
+halo-cea,169,Leif Robles,,Art,Environment Artist,,Certain Affinity Inc.,core,L319
+halo-cea,170,Dan Rubel,,Art,VFX Artist,,Certain Affinity Inc.,core,L321
+halo-cea,171,Paul Russel,,Art,Environment Artist,,Certain Affinity Inc.,core,L323
+halo-cea,172,David Salaiz,,Art,Character Artist,,Certain Affinity Inc.,core,L325
+halo-cea,173,Wimolrat (Nikki) Tangtiphongkul,,Art,Environment Artist,,Certain Affinity Inc.,core,L327
+halo-cea,174,Daniel Valey,,Art,Environment Artist,,Certain Affinity Inc.,core,L329
+halo-cea,175,Phu Giang,,Art,Concept Artist,,Certain Affinity Inc.,core,L331
+halo-cea,176,Todd Keller,,Art,Concept Artist,,Certain Affinity Inc.,core,L333
+halo-cea,177,Juhan Lee,,Art,Concept Artist,,Certain Affinity Inc.,core,L335
+halo-cea,178,Rolf Mohr,,Art,Concept Artist,,Certain Affinity Inc.,core,L337
+halo-cea,179,Chase Osborne,,Art,Concept Artist,,Certain Affinity Inc.,core,L339
+halo-cea,180,Josh Tyrell,,Design,Lead Level Designer,,Certain Affinity Inc.,core,L342
+halo-cea,181,Craig Bernardo,,Design,Designer,,Certain Affinity Inc.,core,L344
+halo-cea,182,Jeremy Raymond,,Design,Designer,,Certain Affinity Inc.,core,L346
+halo-cea,183,John Zagorski,,Design,Designer,,Certain Affinity Inc.,core,L348
+halo-cea,184,Peter Carter,,Engineering,Programmer,,Certain Affinity Inc.,core,L351
+halo-cea,185,Jason Eubank,,Engineering,Programmer,,Certain Affinity Inc.,core,L353
+halo-cea,186,Rodolfo Camarena,,QA,QA Tester,,CompuCom,core,L356
+halo-cea,187,Anthony Florez,,QA,QA Tester,,CompuCom,core,L358
+halo-cea,188,Marcus Luna De Leon,,QA,QA Tester,,Volt,core,L360
+halo-cea,189,Meagan Quinn,,QA,QA Tester,,CompuCom,core,L362
+halo-cea,190,Max Hoberman,,Other,President,,Certain Affinity Inc.,core,L365
+halo-cea,191,Phil Wattenbarger,,Production,Director of Product Development,,Certain Affinity Inc.,core,L367
+halo-cea,192,Tim Fields,,Leadership,Director of Business Development,,Certain Affinity Inc.,core,L369
+halo-cea,193,Tia Hood,,Leadership,Director of Business Operations,,Certain Affinity Inc.,core,L371
+halo-cea,194,Stefan Sinclair,,Leadership,Director of Technical Operations,,Certain Affinity Inc.,core,L373
+halo-cea,195,Kathleen Asbury,,Other,Human Resources Manager,,Certain Affinity Inc.,core,L376
+halo-cea,196,Javier De Jesus,,Studio/Business,Development Operations Assistant,,Certain Affinity Inc.,core,L378
+halo-cea,197,Cody McGinley,,Studio/Business,Facilities Manager,,Certain Affinity Inc.,core,L380
+halo-cea,198,Erin Reed,,Studio/Business,Operations Coordinator,,Certain Affinity Inc.,core,L382
+halo-cea,199,Wayne Richardson,,Other,IT Manager,,Certain Affinity Inc.,core,L384
+halo-cea,200,Sarah Schauf,,Other,Accounting Manager,,Certain Affinity Inc.,core,L386
+halo-cea,201,Martin O'Donnell,,Audio,Audio,,,core,L389
+halo-cea,201,Michael Salvatori,,Audio,Audio,,,core,L389
+halo-cea,202,Kristofor Mellroth,,Audio,Senior Audio Director,,,publishing,L392
+halo-cea,203,Paul Lipson,,Audio,Audio Director/Score Supervisor,,Pyramind Studios,core,L395
+halo-cea,204,Gregory J. Gordon,,Engineering,Senior Mix/Mastering Engineer,,Pyramind Studios,core,L397
+halo-cea,205,Matt Donner,,Engineering,5.1 Mix Engineer,,Pyramind Studios,core,L399
+halo-cea,206,Steve Heithecker,,Engineering,Recording Engineer,,Pyramind Studios,core,L401
+halo-cea,207,Peter Steinbach,,Engineering,Technical Engineer,,Pyramind Studios,core,L403
+halo-cea,208,Michael Roache,,Audio,Project Manager/Music Editor,,Pyramind Studios,core,L405
+halo-cea,209,Lennie Moore,,Other,Orchestrator/Score Librarian,,Pyramind Studios,core,L407
+halo-cea,210,Tom Salta,,Other,Percussion and Synthesis Specialist,,Pyramind Studios,core,L409
+halo-cea,211,Brian Trifon,,Audio,Synthesis and Musical Sound Design Specialist,,Pyramind Studios,core,L411
+halo-cea,212,Wataru Hokoyama,,Other,Conductor,,Pyramind Studios,core,L413
+halo-cea,213,Lynda Arnold,,Other,Pianist,,Pyramind Studios,core,L415
+halo-cea,214,Jillian Aversa,,Other,Vocalist,,Pyramind Studios,core,L417
+halo-cea,215,Bryan Dale,,Other,Guitarist,,Pyramind Studios,core,L419
+halo-cea,216,Hideki Yamashita,,Other,IT Manager,,Pyramind Studios,core,L421
+halo-cea,217,Dan Blum,,Other,Part Preparation,,Pyramind Studios,core,L423
+halo-cea,218,Christine Bullin,,Other,President & General Director,,Chanticleer,core,L426
+halo-cea,219,Curt Hancock,,Leadership,Director of Operations,,Chanticleer,core,L428
+halo-cea,220,Matthew Ottman,,Audio,Music Director,,Chanticleer,core,L430
+halo-cea,221,Jace Wittig,,Audio,Assistant Music Director,,Chanticleer,core,L432
+halo-cea,222,Eric Alatorre,,Other,Vocalist,,Chanticleer,core,L434
+halo-cea,223,Michael Axtell,,Other,Vocalist,,Chanticleer,core,L436
+halo-cea,224,Casey Breves,,Other,Vocalist,,Chanticleer,core,L438
+halo-cea,225,Matthew Curtis,,Other,Vocalist,,Chanticleer,core,L440
+halo-cea,226,Biran Hinman,,Other,Vocalist,,Chanticleer,core,L442
+halo-cea,227,Ben Jones,,Other,Vocalist,,Chanticleer,core,L444
+halo-cea,228,Matthew Knickman,,Other,Vocalist,,Chanticleer,core,L446
+halo-cea,229,Cortez Mitchell,,Other,Vocalist,,Chanticleer,core,L448
+halo-cea,230,Gregory Peebles,,Other,Vocalist,,Chanticleer,core,L450
+halo-cea,231,Kory Reid,,Other,Vocalist,,Chanticleer,core,L452
+halo-cea,232,Alan Reinhardt,,Other,Vocalist,,Chanticleer,core,L454
+halo-cea,233,Adam Ward,,Other,Vocalist,,Chanticleer,core,L456
+halo-cea,234,Janet Ketchum,,Audio,Music Contractor,,The Skywalker Symphony Orchestra,core,L459
+halo-cea,235,Victor Romansevich,,Other,Concertmaster,,The Skywalker Symphony Orchestra,core,L461
+halo-cea,236,Leslie Ann Jones,,Audio,Director of Music Recording and Scoring,,Skywalker Sound,core,L464
+halo-cea,237,Dann Thompson,,Engineering,Assistant Engineer,,Skywalker Sound,core,L466
+halo-cea,238,Judy Kirschner,,Engineering,Assistant Engineer,,Skywalker Sound,core,L468
+halo-cea,239,Robert Gatley,,Engineering,Assistant Engineer,,Skywalker Sound,core,L470
+halo-cea,240,Andre Zweers,,Other,Protools Operator,,Skywalker Sound,core,L472
+halo-cea,241,Mike Caviezel,,Audio,Audio Production Designer,,,publishing,L475
+halo-cea,242,Pete Comley,,Audio,Sound Designer,,FILTER,publishing,L477
+halo-cea,243,Jordan Stock,,Audio,Sound Designer,,Aquent LLC,publishing,L479
+halo-cea,244,Jeff Dombkowski,,Audio,Sound Designer,,Collabera,publishing,L481
+halo-cea,245,Daniel Raimo,,Audio,Sound Designer,,FILTER,publishing,L483
+halo-cea,246,Jason Wolford,,Audio,Sound Designer,,FILTER,publishing,L485
+halo-cea,247,David Liu,,Audio,Sound Designer,,Aquent LLC,publishing,L487
+halo-cea,248,"Scott Martin Gershin, MPSE, IESD",,Other,Creative Director,,Soundelux Design Music Group,core,L490
+halo-cea,249,Becky Allen,,Production,Executive Producer,,Soundelux Design Music Group,core,L492
+halo-cea,250,"Peter Zinda, MPSE, IESD",,Audio,Supervising Sound Designer,,Soundelux Design Music Group,core,L494
+halo-cea,251,Brad Beaumont,,Audio,Sound Designer,,Soundelux Design Music Group,core,L496
+halo-cea,252,Gary Hecker,,Audio,Supervising Foley Designer,,Soundelux Design Music Group,core,L498
+halo-cea,253,Michael Broomberg,,Audio,Foley Artist,,Soundelux Design Music Group,core,L500
+halo-cea,254,Nerses Gezalyan,,Audio,Foley Recordist,,Soundelux Design Music Group,core,L502
+halo-cea,255,Charlie Gondak,,Other,Senior Assets Coordinator,,Soundelux Design Music Group,core,L504
+halo-cea,256,David Natale,,Other,Assets Coordinator,,Soundelux Design Music Group,core,L506
+halo-cea,257,Scott Martin Gershin,,Leadership,Executive Creative Director,,Soundelux Design Music Group,core,L509
+halo-cea,258,Janet Rankin,,Other,Facility Manager,,Soundelux Design Music Group,core,L511
+halo-cea,259,"William ""Chip"" Beaman",,Other,"Manager, VO and Talent Services",,Soundelux Design Music Group,core,L513
+halo-cea,260,Julia Bianco,,Voice,Voice Over Supervisor,,Soundelux Design Music Group,core,L515
+halo-cea,261,Justin Langley,,Voice,Voice Over Recording Engineer,,Soundelux Design Music Group,core,L517
+halo-cea,262,Steve Rusch,,Voice,Voice Over Recording Engineer,,Soundelux Design Music Group,core,L519
+halo-cea,263,Justin Langely,,Voice,Voice Over Editorial,,Soundelux Design Music Group,core,L521
+halo-cea,264,Charlie Gondak,,Other,Senior Asset Manager,,Soundelux Design Music Group,core,L523
+halo-cea,265,David Natale,,Other,Asset Coordination,,Soundelux Design Music Group,core,L525
+halo-cea,266,Alexander Leeman Johnson,,Production,Production Assistant,,Soundelux Design Music Group,core,L527
+halo-cea,267,Adam Dolin,,Production,Production Assistant,,Soundelux Design Music Group,core,L529
+halo-cea,268,Peter Zinda,,Audio,Supervising Sound Editor,,Soundelux Design Music Group,core,L532
+halo-cea,269,Scott Martin Gershin,,Other,Rerecording Mixer,,Soundelux Design Music Group,core,L534
+halo-cea,270,Eliot Connors,,Audio,Sound Designer,,Soundelux Design Music Group,core,L536
+halo-cea,271,Csaba Wagner,,Audio,Sound Designer,,Soundelux Design Music Group,core,L538
+halo-cea,272,Scott Wolf,,Audio,Sound Designer,,Soundelux Design Music Group,core,L540
+halo-cea,273,James Moriana,,Audio,Foley Artist,,Soundelux Design Music Group,core,L542
+halo-cea,274,Jeff Wilhoit,,Audio,Foley Artist,,Soundelux Design Music Group,core,L544
+halo-cea,275,Brett Voss,,Audio,Foley Mixer,,Soundelux Design Music Group,core,L546
+halo-cea,276,Charlie Gondak,,Other,Asset Coordination,,Soundelux Design Music Group,core,L548
+halo-cea,277,David Natale,,Other,Asset Coordination,,Soundelux Design Music Group,core,L550
+halo-cea,278,Tim Dadabo,,Voice,Voice Talent,343 Guilty Spark,,core,L554
+halo-cea,279,Pete Stacker,,Voice,Voice Talent,Jacob Keyes,,core,L556
+halo-cea,280,Fred Tatasciore,,Voice,Voice Talent,Covenant A.I.,,core,L558
+halo-cea,281,Ian Kirby,,Production,Director/Producer,,,core,L561
+halo-cea,282,Daniel Sioul,,Production,Producer,,,core,L563
+halo-cea,283,Andrew West,,Art,Art Director/Lead Artist,,,core,L566
+halo-cea,284,Dimitri Sirenko,,Art,Senior Artist,,,core,L568
+halo-cea,285,Alan Blackwell,,Art,Artist,,,core,L570
+halo-cea,286,Tyler Bradley,,Art,Artist,,,core,L572
+halo-cea,287,Trudi Castle,,Art,Artist,,,core,L574
+halo-cea,288,Geoff Taylor,,Art,Artist,,,core,L576
+halo-cea,289,Caleb Bouchard,,Art,Animator,,,core,L579
+halo-cea,290,Vern Giammartino,,Art,Animator,,,core,L581
+halo-cea,291,Aaron Hildebrandt,,Art,Animator,,,core,L583
+halo-cea,292,Jacob Owens,,Art,Animator,,,core,L585
+halo-cea,293,Mark Stuckert,,Art,Animator,,,core,L587
+halo-cea,294,Eric Wada,,Art,Animator,,,core,L589
+halo-cea,295,Christian Whiticar,,Art,Animator,,,core,L591
+halo-cea,296,Ian Kirby,,Other,Editor,,,core,L594
+halo-cea,297,Larry Di Stefano,,Other,Assistant Editor,,,core,L596
+halo-cea,298,Jacob Owens,,Other,Assistant Editor,,,core,L598
+halo-cea,299,Adam Fulton,,Audio,Sound Design and Mixing,,,core,L601
+halo-cea,300,Ian Kirby,,Art,Digital Artist,,,core,L604
+halo-cea,301,Chris van Dyck,,Art,Digital Artist,,,core,L606
+halo-cea,302,Blair Richmond,,Art,Digital Artist,,,core,L608
+halo-cea,303,Thiago Azavedo,,Art,Digital Artist,,,core,L610
+halo-cea,308,Bonnie Ross,,Leadership,"General Manager, 343 Industries",,,core,L623
+halo-cea,309,Dan Ayoub,,Production,Executive Producer,,,core,L625
+halo-cea,310,Dennis Ries,,Production,Producer,,,core,L628
+halo-cea,311,Jason Pace,,Production,Producer,,,core,L630
+halo-cea,312,Corrinne Robinson,,Production,Associate Producer,,,core,L632
+halo-cea,313,Ted Fitzgerald,,Production,Lead Producer,,,core,L634
+halo-cea,314,Chris Shaules,,Production,Producer,,,core,L636
+halo-cea,315,Chad Armstrong,,Design,Game Designer,,,core,L639
+halo-cea,316,Greg Hermann,,Other,Principal Development Lead,,,core,L642
+halo-cea,317,Andrew Schnickel,,Engineering,Senior Engineer,,,core,L644
+halo-cea,318,Alex Liberman,,Engineering,Engineer,,,core,L646
+halo-cea,319,Frank O'Connor,,Other,Franchise Development Director,,,core,L649
+halo-cea,320,Kevin Grace,,Narrative,Franchise Manager/Terminals Writer,,,core,L651
+halo-cea,321,Jeremy Patenaude,,Narrative,Franchise Writer,,,core,L653
+halo-cea,322,Allison Stroll,,Production,Senior Producer,,,core,L656
+halo-cea,323,Dan Chosich,,Leadership,Director of Photography,,,core,L658
+halo-cea,324,Kyle Dolan,,Production,Associate Producer,,,core,L660
+halo-cea,325,David Ellis,,Production,Content Producer,,,core,L662
+halo-cea,326,Veronica Peshtarianu,,Production,Associate Producer,,,core,L664
+halo-cea,327,Jessica Shea,,Studio/Business,Community Manager,,,core,L666
+halo-cea,328,Christopher A. Buckley,,Design,Junior Production Designer,,Aquent LLC,core,L668
+halo-cea,329,Charles Webb,,Other,Editor,,Volt,core,L670
+halo-cea,330,Stephen Toulouse,,Special Thanks,Special Thanks,,,special-thanks,L673
+halo-cea,331,Mark Yeend,,Special Thanks,Special Thanks,,,special-thanks,L675
+halo-cea,332,JoAnne Lowery,,Special Thanks,Special Thanks,,,special-thanks,L677
+halo-cea,333,Brian Reed,,Special Thanks,Special Thanks,,,special-thanks,L679
+halo-cea,334,William C. Dietz,,Special Thanks,Special Thanks,,,special-thanks,L681
+halo-cea,335,Aaron Travis,,Special Thanks,Special Thanks,,,special-thanks,L683
+halo-cea,336,Desmond Murray,,Special Thanks,Special Thanks,,,special-thanks,L685
+halo-cea,337,Joel Gifford,,Special Thanks,Special Thanks,,,special-thanks,L687
+halo-cea,338,Mark McAllister,,Special Thanks,Special Thanks,,,special-thanks,L689
+halo-cea,339,Joe Djorgee,,Special Thanks,Special Thanks,,,special-thanks,L691
+halo-cea,340,Scott Dell'Osso,,Special Thanks,Special Thanks,,,special-thanks,L693
+halo-cea,341,Tom Holmes,,Special Thanks,Special Thanks,,,special-thanks,L695
+halo-cea,342,Andy Ludke,,Special Thanks,Special Thanks,,,special-thanks,L697
+halo-cea,343,Mikey Wetzel,,Special Thanks,Special Thanks,,,special-thanks,L699
+halo-cea,344,Clay Akazawa,,Special Thanks,Special Thanks,,Coroware,special-thanks,L701
+halo-cea,345,Rachelle Bilbruck,,Special Thanks,Special Thanks,,,special-thanks,L703
+halo-cea,346,Mary Phillips,,Special Thanks,Special Thanks,,,special-thanks,L705
+halo-cea,347,Kathy Gehrig,,Special Thanks,Special Thanks,,Valente Solutions,special-thanks,L707
+halo-cea,348,Don Mattrick,,Publishing,"President, Microsoft Interactive Entertainment Business",,,publishing,L711
+halo-cea,349,Phil Spencer,,Publishing,"Corporate Vice President, Microsoft Studios",,,publishing,L713
+halo-cea,350,Ben Cammarano,,Art,Director of Art,,,core,L716
+halo-cea,351,Eddie Smith III,,Design,Production Designer,,Filter,core,L718
+halo-cea,352,Dana Ludwig,,Design,Design Lead,,,core,L720
+halo-cea,353,Curtis Neal,,Production,Production Director,,,core,L723
+halo-cea,354,Matt Yagle,,Other,Video Editor,,Aquent LLC,core,L725
+halo-cea,355,Samer Abou-Zaki,,Other,Video Editor,,"Populus Group, LLC",core,L727
+halo-cea,356,Shane Hartley,,Design,Central Media Design Lead,,,core,L730
+halo-cea,357,Mat McInelly,,Design,Designer,,Ten Gun Design,core,L732
+halo-cea,358,Noah Musler,,Studio/Business,Sr. Business Development Manager,,,core,L735
+halo-cea,359,Bill Lindell,,Publishing,Finance Manager,,,core,L737
+halo-cea,360,Eric Schuh,,Design,User Research Lead,,,core,L740
+halo-cea,361,Bruce Phillips,,Design,User Researcher,,,core,L742
+halo-cea,362,Kirk Rodgers,,Design,User Research,,Redmond Technology Partners,core,L744
+halo-cea,363,Brent Metcalfe,,Design,Narrative Design Lead,,,core,L747
+halo-cea,364,Tom Abernathy,,Design,Narrative Designer,,,core,L749
+halo-cea,365,Keely Alexander,,Other,Editor,,Aquent LLC,core,L751
+halo-cea,366,Beth Demetrescu,,Production,Lead Program Manager,,,core,L753
+halo-cea,367,Andrea Roberts,,Production,Program Manager,,,core,L755
+halo-cea,368,Kelly Wilson,,Engineering,Software Development Engineer,,,core,L757
+halo-cea,369,Johnathan Chu,,Other,International Project Manager,,,core,L760
+halo-cea,370,Ian Walsh,,Other,Project Manager,,,core,L763
+halo-cea,371,Michael Ivory,,Engineering,Engineer,,,core,L765
+halo-cea,372,John O'Sullivan,,QA,Test Manager,,,core,L767
+halo-cea,373,Carthach Ó Nuanáin,,Audio,Audio Producer,,,core,L769
+halo-cea,374,Jason Shirley,,Audio,Audio Producer,,,core,L771
+halo-cea,375,Masato Ishida,,Other,Project Manager,,,core,L774
+halo-cea,376,Asako Kido,,Production,Production Manager,,,core,L776
+halo-cea,377,Go Komatsu,,QA,Test Lead,,,core,L778
+halo-cea,378,Satoru Komiya,,QA,Tester,,,core,L780
+halo-cea,379,Munetaka Fuse,,Engineering,Software Development Engineer,,,core,L782
+halo-cea,380,Tomoko Kometani,,Other,Content Editor,,,core,L784
+halo-cea,381,Young Hoon Shim,,Other,Content Editor,,,core,L786
+halo-cea,382,Oliver Miyashita,,Other,Account Manager,,,core,L789
+halo-cea,383,Kevin Salcedo,,Production,Release Manager,,,core,L791
+halo-cea,384,Rod Fung,,Other,Developer Account Manager,,,core,L793
+halo-cea,385,Deborah McFadden,,Other,Global Launch Manager,,,core,L796
+halo-cea,386,David Figatner,,Publishing,Legal Counsel,,,core,L799
+halo-cea,387,Matt Skelton,,Publishing,Legal Counsel,,,core,L801
+halo-cea,388,Carla Woo,,Other,Paralegal,,,core,L803
+halo-cea,389,Steve Beinner,,Other,Director,,,publishing,L806
+halo-cea,390,Bryan Koski,,Production,Group Product Manager,,,publishing,L808
+halo-cea,391,Paul Patinios,,Publishing,Marketing Manager,,,publishing,L810
+halo-cea,392,Josh Kerwin,,Other,PR Manager,,,publishing,L812
+halo-cea,393,Jimmy Bischoff,,QA,Test Manager,,,core,L815
+halo-cea,394,Rick Lockyear,,QA,Test Manager,,,core,L817
+halo-cea,395,Eric Helbig,,QA,Test Lead,,,core,L819
+halo-cea,396,Paul Gradwohl,,QA,Software Development Engineer in Test,,,core,L821
+halo-cea,397,Josiah Bolek,,QA,"Team ""Forearm"" Multiplayer Testers",,CompuCom,core,L824
+halo-cea,398,Kyle Symonds,,QA,"Team ""Forearm"" Multiplayer Testers",,CompuCom,core,L826
+halo-cea,399,Paul Conrad,,QA,"Team ""Forearm"" Multiplayer Testers",,CompuCom,core,L828
+halo-cea,400,Brian Haucke,,QA,"Team ""Forearm"" Multiplayer Testers",,CompuCom,core,L830
+halo-cea,401,Danny Cox,,QA,"Team ""Forearm"" Multiplayer Testers",,CompuCom,core,L832
+halo-cea,402,John Harris,,QA,"Team ""Forearm"" Multiplayer Testers",,CompuCom,core,L834
+halo-cea,403,Kyle Hornberger,,QA,"Team ""Forearm"" Multiplayer Testers",,CompuCom,core,L836
+halo-cea,404,Oliver Reeves,,QA,"Team ""Forearm"" Multiplayer Testers",,Volt,core,L838
+halo-cea,405,Kevin Englund,,QA,"Team ""Forearm"" Multiplayer Testers",,CompuCom,core,L840
+halo-cea,406,Rob Pearsall,,QA,"Team ""Forearm"" Multiplayer Testers",,CompuCom,core,L842
+halo-cea,407,Bradley Knowles,,QA,"Team ""Forearm"" Multiplayer Testers",,CompuCom,core,L844
+halo-cea,408,Danny Brown,,QA,"Team ""Forearm"" Multiplayer Testers",,CompuCom,core,L846
+halo-cea,409,Chad Elliot,,QA,"Team ""Forearm"" Multiplayer Testers",,CompuCom,core,L848
+halo-cea,410,Nicholas Smolka,,QA,"Team ""Forearm"" Multiplayer Testers",,CompuCom,core,L850
+halo-cea,411,Chase Lawhead,,QA,"Team ""Forearm"" Multiplayer Testers",,CompuCom,core,L852
+halo-cea,412,Peter Klaebe,,Other,Delivery Director,,Experis Manpower Group,core,L855
+halo-cea,413,Jim Broglio,,Other,Information Technology Manager,,Experis Manpower Group,core,L857
+halo-cea,414,Carol Stearns,,Other,Administrative Assistant,,Experis Manpower Group,core,L859
+halo-cea,415,Evan Birkby,,QA,Test Lead,,Experis Manpower Group,core,L861
+halo-cea,416,Lyndon Moore,,Other,Lead SDET,,Experis Manpower Group,core,L863
+halo-cea,417,Ian Charles Eller,,Other,SDET,,Experis Manpower Group,core,L865
+halo-cea,418,Robert Ferris,,Other,SDET,,Experis Manpower Group,core,L867
+halo-cea,419,Ryan Gibson,,QA,Software Test Engineer,,Experis Manpower Group,core,L869
+halo-cea,420,Andrew Hruza,,QA,Software Test Engineer,,Experis Manpower Group,core,L871
+halo-cea,421,Ahmad J. Chohan,,QA,Software Test Engineer,,Experis Manpower Group,core,L873
+halo-cea,422,Aaron Pendleton,,QA,Software Test Engineer,,Experis Manpower Group,core,L875
+halo-cea,423,Devon M. Smith,,QA,Software Test Engineer/Project Consultant-Cinematics,,Experis Manpower Group,core,L877
+halo-cea,424,Eric Leavell,,QA,Test Associate/Project Consultant-Audio,,Experis Manpower Group,core,L879
+halo-cea,425,Daniel J. Ellis,,QA,Test Associate/Project Consultant,,Experis Manpower Group,core,L881
+halo-cea,426,Andrew Breedon,,QA,Test Associate,,Experis Manpower Group,core,L883
+halo-cea,427,Andrew Williams,,QA,Test Associate,,Experis Manpower Group,core,L885
+halo-cea,428,Bradford Johnson,,QA,Test Associate,,Experis Manpower Group,core,L887
+halo-cea,429,Brandon Riggs,,QA,Test Associate,,Experis Manpower Group,core,L889
+halo-cea,430,Brandon Salcedo,,QA,Test Associate,,Experis Manpower Group,core,L891
+halo-cea,431,Blaine Crockatt,,QA,Test Associate,,Experis Manpower Group,core,L893
+halo-cea,432,Caedmon Webb,,QA,Test Associate,,Experis Manpower Group,core,L895
+halo-cea,433,Chris Charles,,QA,Test Associate,,Experis Manpower Group,core,L897
+halo-cea,434,Daniel Sabin,,QA,Test Associate,,Experis Manpower Group,core,L899
+halo-cea,435,Ivan Fix,,QA,Test Associate,,Experis Manpower Group,core,L901
+halo-cea,436,Javid Bynum,,QA,Test Associate,,Experis Manpower Group,core,L903
+halo-cea,437,James Allen,,QA,Test Associate,,Experis Manpower Group,core,L905
+halo-cea,438,LeSean Johnson,,QA,Test Associate,,Experis Manpower Group,core,L907
+halo-cea,439,Ryan Norman,,QA,Test Associate,,Experis Manpower Group,core,L909
+halo-cea,440,Sean Manley,,QA,Test Associate,,Experis Manpower Group,core,L911
+halo-cea,441,Tim Toulouse,,QA,Test Associate,,Experis Manpower Group,core,L913
+halo-cea,442,Tyler Lovemark,,QA,Test Associate,,Experis Manpower Group,core,L915
+halo-cea,443,Matthew Campbell,,QA,Test Associate,,Experis Manpower Group,core,L917
+halo-cea,444,Zack Cutri,,QA,Test Associate,,Experis Manpower Group,core,L919
+halo-cea,445,Thomas Barth,,QA,Testing Manager,,Keywords International Ltd.,core,L922
+halo-cea,446,Tommaso Maria Petrelli,,Other,Project Manager,,Keywords International Ltd.,core,L924
+halo-cea,447,João Marcos dos Santos,,Other,Project Manager Assistant,,Keywords International Ltd.,core,L926
+halo-cea,448,Pavel Ryzhkov,,QA,QA Lead,,Keywords International Ltd.,core,L928
+halo-cea,449,Daniel Jonathan Adams,,QA,Tester,,Keywords International Ltd.,core,L930
+halo-cea,450,Niccoló Petrelli,,QA,Tester,,Keywords International Ltd.,core,L932
+halo-cea,451,Peer Heinrich,,QA,Tester,,Keywords International Ltd.,core,L934
+halo-cea,452,Inma L. Socias,,QA,Tester,,Keywords International Ltd.,core,L936
+halo-cea,453,Renata Paiva Alexandre de Brito,,QA,Tester,,Keywords International Ltd.,core,L938
+halo-cea,454,Nicolas Zuain,,QA,Tester,,Keywords International Ltd.,core,L940

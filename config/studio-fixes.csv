@@ -1,0 +1,13 @@
+name_raw,game_id,wrong_studio,correct_studio,reason
+Ephrem M Tolla,halo-mcc,Insight Globa,Insight Global,typo in source (missing letter; ~30 correctly-spelled occurrences of the same agency on the same page)
+György Tóth,halo-campaign-evolved,Zork,Digic,"agency field holds a nickname, not a company; source_ref confirms Digic/DIGIC Leadership"
+Zoltán Horváth,halo-campaign-evolved,Edu,Digic,"agency field holds a nickname, not a company; source_ref confirms Digic/Lighting"
+Csaba Kővári,halo-campaign-evolved,Csibo,Digic,"agency field holds a nickname (Csibo, from Csaba), not a company; source_ref confirms Digic/MoCap"
+Attila Szigeti,halo-campaign-evolved,Szigi,Digic,"agency field holds a nickname (Szigi, from Szigeti), not a company; source_ref confirms Digic/Production"
+Zoltán Hollósy,halo-campaign-evolved,Zola,Digic,"agency field holds a nickname, not a company; source_ref confirms Digic/Rigging"
+Minh Hai Nguyen,halo-campaign-evolved,Tom,Digic,"agency field holds a preferred/anglicized nickname, not a company; source_ref confirms Digic/VFX"
+Attila Chovanetz,halo-campaign-evolved,Xcom,Digic,"agency field holds a nickname, not a company; source_ref confirms Digic/VFX"
+Chong Chau Juinn,halo-campaign-evolved,CJ,Digic,"agency field holds a nickname (CJ, initials-derived), not a company; source_ref confirms Digic/VFX"
+Elijah Tee Xi En,halo-campaign-evolved,Elijah,Digic,"agency field holds the person's own first name, not a company; source_ref confirms Digic/VFX"
+György Jánossy,halo-campaign-evolved,Jurek,Digic,"agency field holds a nickname, not a company; source_ref confirms Digic/VFX"
+Wong Wei Ming,halo-campaign-evolved,Ryan,Digic,"agency field holds an anglicized nickname, not a company; source_ref confirms Digic/VFX"

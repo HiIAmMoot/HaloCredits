@@ -1,0 +1,260 @@
+game_id,credit_order,name_raw,name_canonical,category,role_raw,character,studio,inclusion_class,source_ref
+halo-2,0,Jason Jones,,Production,Project Lead,,,core,L17
+halo-2,1,Pete Parsons,,Production,Executive Producer,,,core,L20
+halo-2,2,Charlie Gough,,Engineering,Engineering Leads,,,core,L23
+halo-2,3,Chris Butcher,,Engineering,Engineering Leads,,,core,L24
+halo-2,4,Michael Evans,,Engineering,Engineering Leads,,,core,L25
+halo-2,5,Ben Wallace,,Engineering,Engineering Leads,,,core,L26
+halo-2,6,Paul Bertone,,Design,Mission Design Lead,,,core,L29
+halo-2,7,Jaime Griesemer,,Design,Game Design Lead,,,core,L32
+halo-2,8,Marcus R. Lehto,,Art,Art Director,,,core,L35
+halo-2,9,Joseph Staten,,Art,"Writer, Director of Cinematics",,,core,L38
+halo-2,10,Martin O'Donnell,,Audio,"Composer, Audio Director",,,core,L41
+halo-2,11,Max Hoberman,,Other,Multiplayer & User-Interface Lead,,,core,L44
+halo-2,12,Michel Bastien,,Production,Producers,,,core,L51
+halo-2,13,Hamilton Chu,,Production,Producers,,,core,L52
+halo-2,14,Curtis Creamer,,Production,Producers,,,core,L53
+halo-2,15,Harold Ryan,,QA,"Test Manager, Producer Bungie.net",,,core,L56
+halo-2,16,Hao Chen,,Engineering,Engineering,,,core,L61
+halo-2,17,Bernie Freidin,,Engineering,Engineering,,,core,L62
+halo-2,18,Bart House,,Engineering,Engineering,,,core,L63
+halo-2,19,Damian Isla,,Engineering,Engineering,,,core,L64
+halo-2,20,Jason Major,,Engineering,Engineering,,,core,L65
+halo-2,21,Eamon McKenzie,,Engineering,Engineering,,,core,L66
+halo-2,22,Mat Noguchi,,Engineering,Engineering,,,core,L67
+halo-2,23,Adrian Perez,,Engineering,Engineering,,,core,L68
+halo-2,24,Stefan Sinclair,,Engineering,Engineering,,,core,L69
+halo-2,25,Greg Snook,,Engineering,Engineering,,,core,L70
+halo-2,26,Luke Timmins,,Engineering,Engineering,,,core,L71
+halo-2,27,Damien Neff,,Engineering,Additional Engineering,,,core,L74
+halo-2,28,Dan Weisman,,Engineering,Additional Engineering,,,core,L75
+halo-2,29,Tyson Green,,Design,Mission Designers,,,core,L79
+halo-2,30,Rob Stokes,,Design,Mission Designers,,,core,L80
+halo-2,31,Hardy LeBel,,Design,Additional Mission Design,,,core,L83
+halo-2,32,Stephan Okasaki,,Design,Additional Mission Design,,,core,L84
+halo-2,33,CJ Cowan,,Art,Cinematic Designer,,,core,L86
+halo-2,34,Shi Kai Wang,,Art,Lead 3D & Effects Artist,,,core,L90
+halo-2,35,Eric Arroyo,,Art,3D Artists,,,core,L93
+halo-2,36,Travis Brady,,Art,3D Artists,,,core,L94
+halo-2,37,Robert McLees,,Art,3D Artists,,,core,L95
+halo-2,38,Juan Ramirez,,Art,3D Artists,,,core,L96
+halo-2,39,Kelly Rains,,Art,Additional 3D Art,,,core,L99
+halo-2,40,Nathan Walpole,,Art,Senior Animator,,,core,L102
+halo-2,41,William O'Brien,,Art,"Animators, Game & Cinematic",,,core,L105
+halo-2,42,Mike Budd,,Art,"Animators, Game & Cinematic",,,core,L106
+halo-2,43,John Butkus,,Art,"Animators, Game & Cinematic",,,core,L107
+halo-2,44,Steve Abeyta,,Art,Additional Animation by,,,core,L110
+halo-2,45,Jeremy Fones,,Art,Additional Animation by,,,core,L111
+halo-2,46,Stacey Moore,,Art,Additional Animation by,,,core,L112
+halo-2,47,Christopher Barrett,Chris Barrett,Art,Lead Environment Artists,,,core,L115
+halo-2,48,David Dunn,,Art,Lead Environment Artists,,,core,L116
+halo-2,49,Frank Capezzutto III,,Art,Single-Player Environment Artists,,,core,L119
+halo-2,50,Vic DeLeon,,Art,Single-Player Environment Artists,,,core,L120
+halo-2,51,Tom Doyle,,Art,Single-Player Environment Artists,,,core,L121
+halo-2,52,Justin Hayward,,Art,Single-Player Environment Artists,,,core,L122
+halo-2,53,Paul Russel,,Art,Single-Player Environment Artists,,,core,L123
+halo-2,54,Michael Wu,,Art,Single-Player Environment Artists,,,core,L124
+halo-2,55,Mike Zak,,Art,Single-Player Environment Artists,,,core,L125
+halo-2,56,Chris Lee,,Art,Additional Single-Player Environment Art,,,core,L128
+halo-2,57,Chris Carney,,Art,Lead Multiplayer Environment Artist,,,core,L131
+halo-2,58,Steve Cotton,,Art,Multiplayer Environment Artist,,,core,L134
+halo-2,59,David Candland,,Art,User Interface Art and Design,,,core,L137
+halo-2,60,Paul Clift,,Art,Production Manager & Technical Artist,,,core,L140
+halo-2,61,Steven Scott,,Art,Effects Artist,,,core,L143
+halo-2,62,Eddie Smith,,Art,"Concept Art, 2D & Matte Painting",,,core,L146
+halo-2,63,Jay Weinland,,Audio,Audio Lead,,,core,L150
+halo-2,64,C Paul Johnson,C Paul Johnson,Audio,Sound Designer,,,core,L153
+halo-2,65,Doug Boyce,,QA,Test Leads,,,core,L157
+halo-2,66,Jamie Evans,,QA,Test Leads,,,core,L158
+halo-2,67,Zach Russell,,QA,Test Leads,,,core,L159
+halo-2,68,Aaron Lieberman,,QA,Test Tools Engineering,,,core,L162
+halo-2,69,Luis Villegas,,QA,Test Tools Engineering,,,core,L163
+halo-2,70,Roger Wolfson,,QA,Test Tools Engineering,,,core,L164
+halo-2,71,Mike Cody,,QA,Software Test Engineers,,,core,L167
+halo-2,72,Ryan Hylland,,QA,Software Test Engineers,,,core,L168
+halo-2,73,Travis Chen,,Other,Intern,,,core,L169
+halo-2,74,Brian Jarrard,,Studio/Business,Bungie Community Lead,,,core,L173
+halo-2,75,Tom Gioconda,,Studio/Business,Community Team,,,core,L176
+halo-2,76,Lorraine McLees,,Studio/Business,Community Team,,,core,L177
+halo-2,77,Frank O'Connor,,Studio/Business,Community Team,,,core,L178
+halo-2,78,Bungie Webmaster,,Studio/Business,Community Team,,,core,L179
+halo-2,79,Christopher Barney,,Studio/Business,Additional Community Support,,,core,L182
+halo-2,80,Claire Jennings,,Studio/Business,Additional Community Support,,,core,L183
+halo-2,81,Matt Soell,,Studio/Business,Additional Community Support,,,core,L184
+halo-2,82,Zoé Brawley,,Studio/Business,Additional Community Support,,,core,L185
+halo-2,83,Alta Hartmann,,Other,Administrative Assistant & Bungie Princess,,,core,L188
+halo-2,84,Joy Easley,,Other,Additional Administrative Support,,,core,L191
+halo-2,85,Amanda Anderson,,Other,Additional Administrative Support,,,core,L192
+halo-2,87,J. David Atherton,,Audio,Dialog Recording Engineer,,,core,L196
+halo-2,88,"Dawn Hershey, C.S.A.",,Other,Casting Director,,,core,L197
+halo-2,89,Simon James,,Other,Orchestra Contractor,,,core,L198
+halo-2,90,Stan LePard,,Audio,"Additional Orchestration, Music Editing",,,core,L199
+halo-2,94,Michael Salvatori,,Audio,Additional Music and Audio Production,,,core,L203
+halo-2,95,Steve Vai,,Other,Additional Support,,Epic Records,core,L204
+halo-2,96,Lee Wilson,,Art,Storyboard Artist,,,core,L205
+halo-2,97,Michael Abrash,,Special Thanks,Special Thanks,,,special-thanks,L208
+halo-2,98,Robbie Bach,,Special Thanks,Special Thanks,,,special-thanks,L209
+halo-2,99,Matt Case,,Special Thanks,Special Thanks,,,special-thanks,L210
+halo-2,100,Lev Chapelsky,,Special Thanks,Special Thanks,,,special-thanks,L211
+halo-2,101,FASA Studios,,Special Thanks,Special Thanks,,,special-thanks,L212
+halo-2,102,Forza Audio,,Special Thanks,Special Thanks,,,special-thanks,L213
+halo-2,103,Ed Fries,,Special Thanks,Special Thanks,,,special-thanks,L214
+halo-2,104,Nick Gray,,Special Thanks,Special Thanks,,,special-thanks,L215
+halo-2,105,James Hersey,,Special Thanks,Special Thanks,,,special-thanks,L216
+halo-2,106,Shane Kim,,Special Thanks,Special Thanks,,,special-thanks,L217
+halo-2,107,Peter Moore,,Special Thanks,Special Thanks,,,special-thanks,L218
+halo-2,108,Stuart Moulder,,Special Thanks,Special Thanks,,,special-thanks,L219
+halo-2,109,Michael Sartain,,Special Thanks,Special Thanks,,,special-thanks,L220
+halo-2,110,Alex Seropian,,Special Thanks,Special Thanks,,,special-thanks,L221
+halo-2,111,Sameer Tejani,,Special Thanks,Special Thanks,,,special-thanks,L222
+halo-2,112,Don Murphy,,Special Thanks,Special Thanks,,,special-thanks,L223
+halo-2,113,Dee Bradley Baker,,Voice,Cinematic Cast (in alphabetical order),Gravemind,,core,L227
+halo-2,114,Julie Benz,,Voice,Cinematic Cast (in alphabetical order),Commander Miranda Keyes,,core,L228
+halo-2,115,Hamilton Camp,,Voice,Cinematic Cast (in alphabetical order),High Prophet of Mercy,,core,L229
+halo-2,116,Tim Dadabo,,Voice,Cinematic Cast (in alphabetical order),343 Guilty Spark,,core,L230
+halo-2,117,Robert Davi,,Voice,Cinematic Cast (in alphabetical order),SpecOps Leader,,core,L231
+halo-2,118,Keith David,,Voice,Cinematic Cast (in alphabetical order),The Arbiter,,core,L232
+halo-2,119,Steve Downes,,Voice,Cinematic Cast (in alphabetical order),Master Chief,,core,L233
+halo-2,120,Robin Atkins-Downes,Robin Atkin Downes,Voice,Cinematic Cast (in alphabetical order),High Prophet of Regret,,core,L234
+halo-2,121,Miguel Ferrer,,Voice,Cinematic Cast (in alphabetical order),Heretic Leader,,core,L235
+halo-2,122,John Michael Higgins,,Voice,Cinematic Cast (in alphabetical order),2401 Penitent Tangent,,core,L236
+halo-2,123,Ron Perlman,,Voice,Cinematic Cast (in alphabetical order),Fleet Admiral Sir Terrence Hood,,core,L237
+halo-2,124,Kevin Michael Richardson,,Voice,Cinematic Cast (in alphabetical order),Tartarus,,core,L238
+halo-2,125,David Scully,,Voice,Cinematic Cast (in alphabetical order),Sergeant Major Avery J. Johnson,,core,L239
+halo-2,126,Jen Taylor,,Voice,Cinematic Cast (in alphabetical order),Cortana,,core,L240
+halo-2,127,Michael Wincott,,Voice,Cinematic Cast (in alphabetical order),High Prophet of Truth,,core,L241
+halo-2,128,Ken Boynton,,Voice,Artificial Intelligence Cast (in alphabetical order),Brute,,core,L244
+halo-2,129,David Cross,David Cross II,Voice,Artificial Intelligence Cast (in alphabetical order),Marine,,core,L245
+halo-2,130,Tim Dadabo,,Voice,Artificial Intelligence Cast (in alphabetical order),Marine,,core,L246
+halo-2,131,Chris Edgerly,,Voice,Artificial Intelligence Cast (in alphabetical order),Brute,,core,L247
+halo-2,132,Orlando Jones,,Voice,Artificial Intelligence Cast (in alphabetical order),Sergeant Banks,,core,L248
+halo-2,133,John Kassir,,Voice,Artificial Intelligence Cast (in alphabetical order),Marine,,core,L249
+halo-2,134,Andy McKage [sic],Andrew McKaige,Voice,Artificial Intelligence Cast (in alphabetical order),Marine,,core,L250
+halo-2,135,Marty O'Donnell,Martin O'Donnell,Voice,Artificial Intelligence Cast (in alphabetical order),"Hunters, Jackals, and Flood",,core,L251
+halo-2,136,Brian Posehn,,Voice,Artificial Intelligence Cast (in alphabetical order),Grunt,,core,L252
+halo-2,137,Laura Prepon,,Voice,Artificial Intelligence Cast (in alphabetical order),Female Marine #1,,core,L253
+halo-2,138,Michelle Rodriguez,,Voice,Artificial Intelligence Cast (in alphabetical order),Female Marine #2,,core,L254
+halo-2,139,David Scully,,Voice,Artificial Intelligence Cast (in alphabetical order),Elite,,core,L255
+halo-2,140,Pete Stacker,,Voice,Artificial Intelligence Cast (in alphabetical order),Sergeant Stacker,,core,L256
+halo-2,141,Joseph Staten,,Voice,Artificial Intelligence Cast (in alphabetical order),Grunts,,core,L257
+halo-2,142,Norm Woodel,,Voice,Artificial Intelligence Cast (in alphabetical order),Elite,,core,L258
+halo-2,143,Brian Morden,,Voice,Additional Voices,,,core,L261
+halo-2,145,Cameron Payne,,Production,Lead Product Marketing Manager,,,publishing,L268
+halo-2,146,Randy Pagulayan,,QA,User Testing Lead,,,core,L271
+halo-2,147,Mei-Mei Bong,,Publishing,Xbox Platform & Xbox Live,,,publishing,L359
+halo-2,148,Michal Bortnik,,Publishing,Xbox Platform & Xbox Live,,,publishing,L360
+halo-2,149,Sam Charchian,,Publishing,Xbox Platform & Xbox Live,,,publishing,L361
+halo-2,150,Tony Chen,,Publishing,Xbox Platform & Xbox Live,,,publishing,L362
+halo-2,151,Brent E. Curtis,,Publishing,Xbox Platform & Xbox Live,,,publishing,L363
+halo-2,152,Bruce Dawson,,Publishing,Xbox Platform & Xbox Live,,,publishing,L364
+halo-2,153,Laura Fryer,,Publishing,Xbox Platform & Xbox Live,,,publishing,L365
+halo-2,154,Pete Isensee,,Publishing,Xbox Platform & Xbox Live,,,publishing,L366
+halo-2,155,Tristan Jackson,,Publishing,Xbox Platform & Xbox Live,,,publishing,L367
+halo-2,156,Ben Kilgore,,Publishing,Xbox Platform & Xbox Live,,,publishing,L368
+halo-2,157,James Miller,,Publishing,Xbox Platform & Xbox Live,,,publishing,L369
+halo-2,158,Mike Minahan,,Publishing,Xbox Platform & Xbox Live,,,publishing,L370
+halo-2,159,Oliver Miyashita,,Publishing,Xbox Platform & Xbox Live,,,publishing,L371
+halo-2,160,Boyd Multerer,,Publishing,Xbox Platform & Xbox Live,,,publishing,L372
+halo-2,161,Anthony Smith,,Publishing,Xbox Platform & Xbox Live,,,publishing,L373
+halo-2,162,Jason Strayer,,Publishing,Xbox Platform & Xbox Live,,,publishing,L374
+halo-2,163,Van Van,,Publishing,Xbox Platform & Xbox Live,,,publishing,L375
+halo-2,164,Chuck Bievens,,Publishing,Xbox Marketing & PR,,,publishing,L380
+halo-2,165,Chris DeCesare,,Publishing,Xbox Marketing & PR,,,publishing,L381
+halo-2,166,Jen Martin,,Publishing,Xbox Marketing & PR,,,publishing,L382
+halo-2,167,April McKee,,Publishing,Xbox Marketing & PR,,,publishing,L383
+halo-2,168,Brian Rekasis,,Publishing,Xbox Marketing & PR,,,publishing,L384
+halo-2,169,Genevieve Waldman,,Publishing,Xbox Marketing & PR,,,publishing,L385
+halo-2,170,Orlena Yeung,,Publishing,Xbox Marketing & PR,,,publishing,L386
+halo-2,171,Dana Fos,,Other,User Experience,,,core,L389
+halo-2,172,Michelle Lomba,,Other,User Experience,,,core,L390
+halo-2,173,Caitlin Sullivan,,Other,User Experience,,,core,L391
+halo-2,174,Jeannie Voirin,,Other,User Experience,,,core,L392
+halo-2,175,JoAnne Williams,,Other,User Experience,,,core,L393
+halo-2,176,Matt Witting,,Other,User Experience,,,core,L394
+halo-2,177,John Hopson,,QA,User Testing,,,core,L397
+halo-2,178,Jun Kim,,QA,User Testing,,,core,L398
+halo-2,179,Keith Steury,,QA,User Testing,,,core,L399
+halo-2,180,Michael Ivory,,Other,IRELAND,,,core,L403
+halo-2,181,Peter Fitzpatrick,,Other,IRELAND,,,core,L404
+halo-2,182,Jason Shirley,,Other,IRELAND,,,core,L405
+halo-2,183,Ian Walsh,,Other,IRELAND,,,core,L406
+halo-2,184,Munetaka Fuse,,Other,JAPAN,,,core,L408
+halo-2,185,Yuki Harima,,Other,JAPAN,,,core,L409
+halo-2,186,Yoko Hasegawa,,Other,JAPAN,,,core,L410
+halo-2,187,Yutaka Hasegawa,,Other,JAPAN,,,core,L411
+halo-2,188,Mitsuru Kitamura,,Other,JAPAN,,,core,L412
+halo-2,189,Kyoung Ho Han,,Other,KOREA,,,core,L414
+halo-2,190,Yoon He Jung,,Other,KOREA,,,core,L415
+halo-2,191,Ji Young Kim,,Other,KOREA,,,core,L416
+halo-2,192,In Goo Kwon,,Other,KOREA,,,core,L417
+halo-2,193,Sang Wook Park,,Other,KOREA,,,core,L418
+halo-2,194,Victoria Olson,,Other,REDMOND,,,core,L420
+halo-2,195,Sophia Shu Chuan Lai,,Other,TAIWAN,,,core,L422
+halo-2,196,Robert Shih-Wei Lin,,Other,TAIWAN,,,core,L423
+halo-2,197,Andy Chen An Liu,,Other,TAIWAN,,,core,L424
+halo-2,198,Vincent Chia Lun Tsai,,Other,TAIWAN,,,core,L425
+halo-2,199,Jeff Wang,,Other,TAIWAN,,,core,L426
+halo-2,200,Daniel Horowitz,,Other,Software Development,,,core,L429
+halo-2,201,Hiroki Kobayashi,,Other,Software Development,,,core,L430
+halo-2,202,Yaohua Hu,,Other,Software Development,,,core,L431
+halo-2,203,Xin Tong,,Other,Software Development,,,core,L432
+halo-2,204,Adrian Brown,,QA,Software Test Engineers,,,core,L435
+halo-2,205,Jeremy Fischer,,QA,Software Test Engineers,,,core,L436
+halo-2,206,Justin Jones,,QA,Software Test Engineers,,,core,L437
+halo-2,207,Domenic Koeplin,,QA,Software Test Engineers,,,core,L438
+halo-2,208,Matthew Shimabuku,,QA,Software Test Engineers,,,core,L439
+halo-2,209,Pieter Wycoff,,QA,Software Test Engineers,,,core,L440
+halo-2,210,Carlos Anicama,,QA,Contract Test Team,,,core,L443
+halo-2,211,Brandon Anthony,,QA,Contract Test Team,,,core,L444
+halo-2,212,Graham Bartlett,,QA,Contract Test Team,,,core,L445
+halo-2,213,Hans Benson,,QA,Contract Test Team,,,core,L446
+halo-2,214,Hung-Hsi Chen,,QA,Contract Test Team,,,core,L447
+halo-2,215,May Lee Chung,,QA,Contract Test Team,,,core,L448
+halo-2,216,Jeffrey E Cloud,,QA,Contract Test Team,,,core,L449
+halo-2,217,Joseph E Ezell,,QA,Contract Test Team,,,core,L450
+halo-2,218,Ricardo Gasca,,QA,Contract Test Team,,,core,L451
+halo-2,219,Allyn Iwane,,QA,Contract Test Team,,,core,L452
+halo-2,220,Maria John,,QA,Contract Test Team,,,core,L453
+halo-2,221,Shawn Johnson,,QA,Contract Test Team,,,core,L454
+halo-2,222,Christopher Killian,,QA,Contract Test Team,,,core,L455
+halo-2,223,Roderick Kim,,QA,Contract Test Team,,,core,L456
+halo-2,224,Amelia Lacenski,,QA,Contract Test Team,,,core,L457
+halo-2,225,Jessica Li,,QA,Contract Test Team,,,core,L458
+halo-2,226,Titus Lowell,,QA,Contract Test Team,,,core,L459
+halo-2,227,Vasili Melnik,,QA,Contract Test Team,,,core,L460
+halo-2,228,Vincent Ngo,,QA,Contract Test Team,,,core,L461
+halo-2,229,Christian Novembrino,,QA,Contract Test Team,,,core,L462
+halo-2,230,Melvin Ok,,QA,Contract Test Team,,,core,L463
+halo-2,231,Maxwell Perry,,QA,Contract Test Team,,,core,L464
+halo-2,232,Jeremiah Pieschel,,QA,Contract Test Team,,,core,L465
+halo-2,233,Ingo Voparil,,QA,Contract Test Team,,,core,L466
+halo-2,234,Michael Williams,,QA,Contract Test Team,,,core,L467
+halo-2,235,Timothy Williams,,QA,Contract Test Team,,,core,L468
+halo-2,236,Peter Becker,,Publishing,Additional Microsoft Support,,,publishing,L471
+halo-2,237,Jama Cantrell,,Publishing,Additional Microsoft Support,,,publishing,L472
+halo-2,238,Hubert Cheng,,Publishing,Additional Microsoft Support,,,publishing,L473
+halo-2,239,Scott Dell'Osso,,Publishing,Additional Microsoft Support,,,publishing,L474
+halo-2,240,Steve Kastner,,Publishing,Additional Microsoft Support,,,publishing,L475
+halo-2,241,Jeff Koontz,,Publishing,Additional Microsoft Support,,,publishing,L476
+halo-2,242,Audrey Searcy,,Publishing,Additional Microsoft Support,,,publishing,L477
+halo-2,243,Tim Stuart,,Publishing,Additional Microsoft Support,,,publishing,L478
+halo-2,245,Miguel Chavez,,Special Thanks,Extra Special Thanks to some of our Biggest Community Supporters,,,special-thanks,L488
+halo-2,246,Randall Glass (Mr. Warthog Jump),Randall Glass,Special Thanks,Extra Special Thanks to some of our Biggest Community Supporters,,,special-thanks,L491
+halo-2,247,Rob Swenson,,Special Thanks,Extra Special Thanks to some of our Biggest Community Supporters,,,special-thanks,L492
+halo-2,248,Skip Weasel,,Special Thanks,Extra Special Thanks to some of our Biggest Community Supporters,,,special-thanks,L493
+halo-2,249,Charles Gough,,Engineering,Engineering Leads,,,core,mobygames:tr3
+halo-2,250,Adrian Mark Perez,,Engineering,Engineering,,,core,mobygames:tr11
+halo-2,251,Hardy F. LeBel Sr.,,Design,Additional Mission Design,,,core,mobygames:tr14
+halo-2,252,Stephen Okasaki,,Design,Additional Mission Design,,,core,mobygames:tr14
+halo-2,253,William O'Brian,,Art,"Animators, Game & Cinematic",,,core,mobygames:tr19
+halo-2,254,Chris Y. J. Lee,,Art,Additional Single-Player Environment Art,,,core,mobygames:tr23
+halo-2,255,Matthew Soell,,Other,Additional Bungie.net Support,,,core,mobygames:tr37
+halo-2,256,Dawn Hershey,,Other,Additional Support,,,core,mobygames:tr39
+halo-2,257,Esmerelda McQuillan,,Other,Additional Support,,,core,mobygames:tr39
+halo-2,258,Lee R. Wilson,,Other,Additional Support,,,core,mobygames:tr39
+halo-2,259,Chuck Blevens,,Publishing,Xbox Marketing,,,publishing,mobygames:tr46
+halo-2,260,Chuck Blevens,,Publishing,Xbox PR,,,publishing,mobygames:tr47
+halo-2,261,Victoria Medlock,,Publishing,Localization,,,publishing,mobygames:tr48
+halo-2,262,Michael Courage,,Publishing,Xbox Platform & Xbox Live,,,publishing,mobygames:tr49
+halo-2,263,Daniel McGillicuddy,,Publishing,Xbox Platform & Xbox Live,,,publishing,mobygames:tr49
+halo-2,264,Matthew Whiting,,Publishing,User Experience,,,publishing,mobygames:tr53

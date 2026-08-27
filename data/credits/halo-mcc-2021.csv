@@ -1,0 +1,883 @@
+game_id,credit_order,name_raw,name_canonical,category,role_raw,character,studio,inclusion_class,source_ref
+halo-mcc-2021,0,Greg Hermann,,Publishing,Tech Directors,,,core,October 2021 Update/343 Industries/Halo PUBLISHING@177019
+halo-mcc-2021,1,Andrew Schnickel,,Publishing,Tech Directors,,,core,October 2021 Update/343 Industries/Halo PUBLISHING@177053
+halo-mcc-2021,2,Sean Cooper,,Engineering,Senior Software Engineer,,,core,October 2021 Update/343 Industries/Halo PUBLISHING@177196
+halo-mcc-2021,3,Dana Jerpbak,,Engineering,Software Engineer,,,core,October 2021 Update/343 Industries/Halo PUBLISHING@177327
+halo-mcc-2021,4,Zack Fannon,,Engineering,Build Engineer,,AQUENT LLC,core,October 2021 Update/343 Industries/Halo PUBLISHING@177456
+halo-mcc-2021,5,Max Szlagor,,Design,Design Director,,,core,October 2021 Update/343 Industries/Halo PUBLISHING@177598
+halo-mcc-2021,6,Horia Dociu,,Art,Art Director,,,core,October 2021 Update/343 Industries/Halo PUBLISHING@177724
+halo-mcc-2021,7,Matthew Jordan,,Design,World Building System Designer,,,core,October 2021 Update/343 Industries/Halo PUBLISHING@177868
+halo-mcc-2021,8,Bradley Grey,,Design,UX Designer,,,core,October 2021 Update/343 Industries/Halo PUBLISHING@177996
+halo-mcc-2021,9,Jessi Ruselowski,,Art,Artist,,,core,October 2021 Update/343 Industries/Halo PUBLISHING@178117
+halo-mcc-2021,10,Josh Eash,,Production,Release Manager,,,core,October 2021 Update/343 Industries/Halo PUBLISHING@178374
+halo-mcc-2021,11,Sean Swidersky,,Production,Producers,,,core,October 2021 Update/343 Industries/Halo PUBLISHING@178495
+halo-mcc-2021,12,Lola Shiraishi,,Production,Producers,,,core,October 2021 Update/343 Industries/Halo PUBLISHING@178532
+halo-mcc-2021,13,Chris Case,,Production,Associate Producers,,,core,October 2021 Update/343 Industries/Halo PUBLISHING@178668
+halo-mcc-2021,14,Cameron Anicich,,Production,Associate Producers,,,core,October 2021 Update/343 Industries/Halo PUBLISHING@178700
+halo-mcc-2021,15,Matt Hohl,,Production,Senior Producers,,,core,October 2021 Update/343 Industries/Halo PUBLISHING@178834
+halo-mcc-2021,16,Michael Fahrny,,Production,Lead Producer,,,core,October 2021 Update/343 Industries/Halo PUBLISHING@178959
+halo-mcc-2021,17,Pierre Hintze,,Production,"Head of Production, Halo Infinite Head of Halo Publishing and Executive Producer",,,core,October 2021 Update/343 Industries/Halo PUBLISHING@179155
+halo-mcc-2021,18,Jeremy Cook,,Special Thanks,Special Thanks,,,special-thanks,October 2021 Update/343 Industries/Halo PUBLISHING@179285
+halo-mcc-2021,19,Adam Callens,,Special Thanks,Special Thanks,,,special-thanks,October 2021 Update/343 Industries/Halo PUBLISHING@179318
+halo-mcc-2021,20,Ian Stevens,,Special Thanks,Special Thanks,,,special-thanks,October 2021 Update/343 Industries/Halo PUBLISHING@179352
+halo-mcc-2021,21,Estelle Skeels,,Special Thanks,Special Thanks,,,special-thanks,October 2021 Update/343 Industries/Halo PUBLISHING@179385
+halo-mcc-2021,22,Olivia Volarich,,Special Thanks,Special Thanks,,,special-thanks,October 2021 Update/343 Industries/Halo PUBLISHING@179421
+halo-mcc-2021,23,Toros Köse,,Special Thanks,Special Thanks,,,special-thanks,October 2021 Update/343 Industries/Halo PUBLISHING@179458
+halo-mcc-2021,24,Jimmy Bischoff,,QA,Directory of Quality,,,core,October 2021 Update/343 Industries/STUDIOS QUALITY@179926
+halo-mcc-2021,25,Rick Lockyear,,QA,Quality Manager,,,core,October 2021 Update/343 Industries/STUDIOS QUALITY@180058
+halo-mcc-2021,26,Eric Helbig,,QA,Quality Lead,,,core,October 2021 Update/343 Industries/STUDIOS QUALITY@180186
+halo-mcc-2021,27,Joseph Cheng,,Engineering,Software Engineer,,,core,October 2021 Update/343 Industries/STUDIOS QUALITY@180317
+halo-mcc-2021,28,Jake Jarvis,,Engineering,Data Engineer,,,core,October 2021 Update/343 Industries/STUDIOS QUALITY@180445
+halo-mcc-2021,29,Christina Tran,,QA,Quality Analysts,,,core,October 2021 Update/343 Industries/STUDIOS QUALITY@180575
+halo-mcc-2021,30,Eric Ferdinand,,QA,Quality Analysts,,,core,October 2021 Update/343 Industries/STUDIOS QUALITY@180611
+halo-mcc-2021,31,Andrew Wenzinger,,QA,Software Test Engineers,,Experis,core,October 2021 Update/343 Industries/STUDIOS QUALITY@180874
+halo-mcc-2021,32,Blake Hodges,,QA,Software Test Engineers,,,core,October 2021 Update/343 Industries/STUDIOS QUALITY@180923
+halo-mcc-2021,33,Jonathan Gage,,QA,Software Test Engineers,,Experis,core,October 2021 Update/343 Industries/STUDIOS QUALITY@180957
+halo-mcc-2021,34,Jared Smith,,QA,Software Test Engineers,,Insight Global,core,October 2021 Update/343 Industries/STUDIOS QUALITY@181002
+halo-mcc-2021,35,Colin Garttmeier,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/STUDIOS QUALITY@181148
+halo-mcc-2021,36,Gina Kirkland,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/STUDIOS QUALITY@181196
+halo-mcc-2021,37,Jared Ives,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/STUDIOS QUALITY@181241
+halo-mcc-2021,38,Matt Dowling,,QA,Test Associates,,Insight Global Inc,core,October 2021 Update/343 Industries/STUDIOS QUALITY@181283
+halo-mcc-2021,39,Zachary Bohnenkamp,,Special Thanks,Special Thanks,,Experis,special-thanks,October 2021 Update/343 Industries/STUDIOS QUALITY@181433
+halo-mcc-2021,40,Jeff Guyton,,Special Thanks,Special Thanks,,Insight Global Inc,special-thanks,October 2021 Update/343 Industries/STUDIOS QUALITY@181483
+halo-mcc-2021,41,Mark Medlock,,Special Thanks,Special Thanks,,Experis,special-thanks,October 2021 Update/343 Industries/STUDIOS QUALITY@181537
+halo-mcc-2021,42,Chris Cromwell,,QA,Sr. Test Manager,,Experis,core,October 2021 Update/343 Industries/Experis Portland@182010
+halo-mcc-2021,43,Ben Farley,,QA,Sr. Test Lead,,Experis,core,October 2021 Update/343 Industries/Experis Portland@182149
+halo-mcc-2021,44,Tom Dietrich,,QA,Test Lead,,Experis,core,October 2021 Update/343 Industries/Experis Portland@182281
+halo-mcc-2021,45,Aaron Pendleton,,QA,Software Test Engineer,,Experis,core,October 2021 Update/343 Industries/Experis Portland@182428
+halo-mcc-2021,46,Amanda Swalling,,QA,Software Test Engineer,,Experis,core,October 2021 Update/343 Industries/Experis Portland@182475
+halo-mcc-2021,47,Chris Case,,QA,Software Test Engineer,,Experis,core,October 2021 Update/343 Industries/Experis Portland@182522
+halo-mcc-2021,48,Daniel Meiwes,,QA,Software Test Engineer,,Experis,core,October 2021 Update/343 Industries/Experis Portland@182564
+halo-mcc-2021,49,Devon Smith,,QA,Software Test Engineer,,Experis,core,October 2021 Update/343 Industries/Experis Portland@182609
+halo-mcc-2021,50,Ethan Houle,,QA,Software Test Engineer,,Experis,core,October 2021 Update/343 Industries/Experis Portland@182652
+halo-mcc-2021,51,Alexis Smith,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/Experis Portland@182791
+halo-mcc-2021,52,Anthony Mars,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/Experis Portland@182835
+halo-mcc-2021,53,Austin Craine,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/Experis Portland@182879
+halo-mcc-2021,54,Benjamin Weber,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/Experis Portland@182924
+halo-mcc-2021,55,Brady Semon,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/Experis Portland@182970
+halo-mcc-2021,56,Cody Vasquez,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/Experis Portland@183013
+halo-mcc-2021,57,Dan Jacobs,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/Experis Portland@183188
+halo-mcc-2021,58,Dan Meloy,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/Experis Portland@183230
+halo-mcc-2021,59,David McFadden,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/Experis Portland@183271
+halo-mcc-2021,60,Devin Allys,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/Experis Portland@183317
+halo-mcc-2021,61,Erick Mariscal Diaz,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/Experis Portland@183360
+halo-mcc-2021,62,Gregory Keefe,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/Experis Portland@183411
+halo-mcc-2021,63,Jacob Layton,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/Experis Portland@183456
+halo-mcc-2021,64,James William Richie III,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/Experis Portland@183500
+halo-mcc-2021,65,John Zhang,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/Experis Portland@183556
+halo-mcc-2021,66,Jon Worthington,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/Experis Portland@183598
+halo-mcc-2021,67,Justin Roberts,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/Experis Portland@183645
+halo-mcc-2021,68,Kristopher LaFountaine,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/Experis Portland@183691
+halo-mcc-2021,69,Luke Carson,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/Experis Portland@183745
+halo-mcc-2021,70,Lyric Ballard,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/Experis Portland@183788
+halo-mcc-2021,71,Matt Ho,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/Experis Portland@183833
+halo-mcc-2021,72,Matthew VanDeZande,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/Experis Portland@183872
+halo-mcc-2021,73,Michael Shields,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/Experis Portland@183922
+halo-mcc-2021,74,Roger Hansen,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/Experis Portland@183969
+halo-mcc-2021,75,Ryan Tompkins,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/Experis Portland@184013
+halo-mcc-2021,76,Sarah Hueni,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/Experis Portland@184058
+halo-mcc-2021,77,Spencer Smith,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/Experis Portland@184101
+halo-mcc-2021,78,Tanner Joe Wilson,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/Experis Portland@184146
+halo-mcc-2021,79,Tyler Byrne,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/Experis Portland@184195
+halo-mcc-2021,80,Jay Piette,,QA,Sr. Test Manager,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@184663
+halo-mcc-2021,81,Brian Canning,,QA,Test Manager,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@184798
+halo-mcc-2021,82,Tom Dieterich,,QA,Test Manager,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@184843
+halo-mcc-2021,83,Ben Farley,,QA,Test Manager,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@184888
+halo-mcc-2021,84,Elliot Kuykendall,,QA,Test Lead,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@185020
+halo-mcc-2021,85,Chase Patton,,QA,Software Test Engineers,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@185173
+halo-mcc-2021,86,Dante Giovanni Campana,,QA,Software Test Engineers,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@185217
+halo-mcc-2021,87,David A. Lucero,,QA,Software Test Engineers,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@185271
+halo-mcc-2021,88,David McFadden,,QA,Software Test Engineers,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@185318
+halo-mcc-2021,89,David Wilbur,,QA,Software Test Engineers,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@185364
+halo-mcc-2021,90,Deven Roshala,,QA,Software Test Engineers,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@185408
+halo-mcc-2021,91,Erika Johnson,,QA,Software Test Engineers,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@185454
+halo-mcc-2021,92,Gustave Mashensic,,QA,Software Test Engineers,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@185499
+halo-mcc-2021,93,Kyle Guinther,,QA,Software Test Engineers,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@185548
+halo-mcc-2021,94,Matthew Slanchik,,QA,Software Test Engineers,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@185593
+halo-mcc-2021,95,Robert Bergeron,,QA,Software Test Engineers,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@185641
+halo-mcc-2021,96,Russell E. Swinhart,,QA,Software Test Engineers,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@185688
+halo-mcc-2021,97,Samir Gupta,,QA,Software Test Engineers,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@185739
+halo-mcc-2021,98,Savannah Herr,,QA,Software Test Engineers,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@185783
+halo-mcc-2021,99,Adam Gaetano,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@185924
+halo-mcc-2021,100,Adrian Vasquez,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@185968
+halo-mcc-2021,101,Alan Plascencia,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@186015
+halo-mcc-2021,102,Alexander Reyes,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@186062
+halo-mcc-2021,103,Alexander Hunker,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@186110
+halo-mcc-2021,104,Alex Pellegrino,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@186158
+halo-mcc-2021,105,Amber Tate,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@186205
+halo-mcc-2021,106,Andrew Martin,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@186248
+halo-mcc-2021,107,Austin Carthell,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@186293
+halo-mcc-2021,108,Austin Hind,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@186340
+halo-mcc-2021,109,Austin Keeling,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@186384
+halo-mcc-2021,110,Benjamin De La Ossa,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@186431
+halo-mcc-2021,111,Benjamin Uriarte,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@186482
+halo-mcc-2021,112,Blake Bender,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@186531
+halo-mcc-2021,113,Bobby Castillo,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@186576
+halo-mcc-2021,114,Brendan Hillier,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@186622
+halo-mcc-2021,115,Brian Brooks,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@186670
+halo-mcc-2021,116,Brian Guevara,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@186715
+halo-mcc-2021,117,Bryce Christifulli,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@186760
+halo-mcc-2021,118,Bryce Hammond,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@186810
+halo-mcc-2021,119,Carlos Azabache,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@186856
+halo-mcc-2021,120,Carrie Lynn Van Winkle,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@186904
+halo-mcc-2021,121,Cheyne Carlos,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@186962
+halo-mcc-2021,122,Chris Henze,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@187008
+halo-mcc-2021,123,Clay Westing,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@187052
+halo-mcc-2021,124,Coby Anthony,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@187096
+halo-mcc-2021,125,Cole Jeffries,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@187140
+halo-mcc-2021,126,Colin Roban Parson,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@187185
+halo-mcc-2021,127,Connor Sample,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@187235
+halo-mcc-2021,128,Dakota Falk,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@187280
+halo-mcc-2021,129,Dakota Rogers,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@187454
+halo-mcc-2021,130,Dalen Stump,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@187499
+halo-mcc-2021,131,Dan Baratta,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@187543
+halo-mcc-2021,132,Daniel Ayala Cueto,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@187587
+halo-mcc-2021,133,Daniel Brey,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@187637
+halo-mcc-2021,134,Darien Roberson,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@187680
+halo-mcc-2021,135,David Gonzalez,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@187727
+halo-mcc-2021,136,David Gonzalez,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@187773
+halo-mcc-2021,137,David McFadden,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@187820
+halo-mcc-2021,138,David Rizzo,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@187866
+halo-mcc-2021,139,Derek Cloud,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@187910
+halo-mcc-2021,140,Dimitrius Hawkins,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@187953
+halo-mcc-2021,141,Dorean Pelham,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@188003
+halo-mcc-2021,142,Dylan Bensen,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@188049
+halo-mcc-2021,143,Edward L. Moore Jr.,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@188093
+halo-mcc-2021,144,Elizabeth Mehl,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@188145
+halo-mcc-2021,145,Erika Johnson,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@188192
+halo-mcc-2021,146,Ethan Kuvent,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@188238
+halo-mcc-2021,147,Evan Darling,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@188283
+halo-mcc-2021,148,Fabian Rios,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@188328
+halo-mcc-2021,149,Falcorian Sabbat,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@188371
+halo-mcc-2021,150,Fredy Sanguinetti III,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@188420
+halo-mcc-2021,151,Gerell Octavio Burris,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@188474
+halo-mcc-2021,152,Greg Clayton,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@188527
+halo-mcc-2021,153,Gunner Tutokey,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@188572
+halo-mcc-2021,154,Harrison Post,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@188618
+halo-mcc-2021,155,Holden Harrison,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@188664
+halo-mcc-2021,156,Ian Girard,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@188712
+halo-mcc-2021,157,Ian Holt,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@188755
+halo-mcc-2021,158,Jacob Kelly,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@188795
+halo-mcc-2021,159,Jacob Pagliarulo,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@188839
+halo-mcc-2021,160,Jacob Sitler,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@188887
+halo-mcc-2021,161,Jacob Sweador,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@188932
+halo-mcc-2021,162,Jake Rigsby,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@188978
+halo-mcc-2021,163,Jalee Strayhand,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@189022
+halo-mcc-2021,164,James Bucalo,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@189070
+halo-mcc-2021,165,Jared Kline,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@189115
+halo-mcc-2021,166,Jaron Lifsey,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@189159
+halo-mcc-2021,167,Jarrod Evans,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@189204
+halo-mcc-2021,168,Jason Saldana,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@189249
+halo-mcc-2021,169,Jay Braswell,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@189295
+halo-mcc-2021,170,Jayden Eckert,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@189340
+halo-mcc-2021,171,Jeremy Grigsby Sr.,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@189385
+halo-mcc-2021,172,Jessie Mendoza,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@189436
+halo-mcc-2021,173,Joe Delgado IV,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@189483
+halo-mcc-2021,174,John Kinzey,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@189530
+halo-mcc-2021,175,John Michael Taha Carreon,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@189574
+halo-mcc-2021,176,Johnathon Jacques,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@189632
+halo-mcc-2021,177,Jordan Randolph,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@189682
+halo-mcc-2021,178,Jose Rivera Zambrano,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@189730
+halo-mcc-2021,179,Jose Torres Ruiz,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@189782
+halo-mcc-2021,180,Joseph Baca,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@189830
+halo-mcc-2021,181,Joseph Cuen,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@189873
+halo-mcc-2021,182,Joseph Mendez,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@189917
+halo-mcc-2021,183,Joseph Keigher,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@189963
+halo-mcc-2021,184,Joseph Perez,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@190009
+halo-mcc-2021,185,Joshua Hanna,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@190053
+halo-mcc-2021,186,Joshua Scott,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@190098
+halo-mcc-2021,187,Justin Anderson,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@190142
+halo-mcc-2021,188,Justin Cepeda,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@190190
+halo-mcc-2021,189,Justin Darrington,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@190235
+halo-mcc-2021,190,Justin Giordano,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@190284
+halo-mcc-2021,191,Justine Grauel,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@190461
+halo-mcc-2021,192,Kaitlin Fields,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@190508
+halo-mcc-2021,193,Kaila Warfield-Meadowcroft,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@190555
+halo-mcc-2021,194,Kaleb Novak,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@190614
+halo-mcc-2021,195,Kavita Myneni,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@190658
+halo-mcc-2021,196,Kenny Pangilinan,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@190704
+halo-mcc-2021,197,Kevin Donaldson,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@190753
+halo-mcc-2021,198,Kevin Miller,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@190801
+halo-mcc-2021,199,Kristine Young,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@190846
+halo-mcc-2021,200,Kyle Fredrickson,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@190893
+halo-mcc-2021,201,Kylor Kersavage,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@190942
+halo-mcc-2021,202,Lake Murray,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@190990
+halo-mcc-2021,203,Landon Austill,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@191034
+halo-mcc-2021,204,Leo Angell,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@191081
+halo-mcc-2021,205,Leroy Sutton,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@191124
+halo-mcc-2021,206,Luke Sambur,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@191169
+halo-mcc-2021,207,Manuel M Gaytan II,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@191213
+halo-mcc-2021,208,Manuel Rodriguez,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@191264
+halo-mcc-2021,209,Martwon Weaver,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@191313
+halo-mcc-2021,210,Matt Cross,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@191360
+halo-mcc-2021,211,Matthew Campbell,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@191403
+halo-mcc-2021,212,Matthew Kolbert,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@191452
+halo-mcc-2021,213,Matthew Martinez,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@191500
+halo-mcc-2021,214,Maxwell Stevens,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@191549
+halo-mcc-2021,215,Mayson Powers,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@191597
+halo-mcc-2021,216,Michael Bringham,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@191643
+halo-mcc-2021,217,Michael Thomét,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@191692
+halo-mcc-2021,218,Miguel Ayala,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@191742
+halo-mcc-2021,219,Morgan Phillips,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@191787
+halo-mcc-2021,220,Naomi Moone,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@191835
+halo-mcc-2021,221,Nathan Parsons,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@191879
+halo-mcc-2021,222,Nicholas Gerken,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@191926
+halo-mcc-2021,223,Noah Stavish,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@191974
+halo-mcc-2021,224,Owen Ibn-Hasan,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@192019
+halo-mcc-2021,225,Patrick Collins,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@192066
+halo-mcc-2021,226,Patrick Stuart Chigges,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@192114
+halo-mcc-2021,227,Payton Young,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@192169
+halo-mcc-2021,228,Regis Jerry,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@192214
+halo-mcc-2021,229,Richard Moretti,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@192258
+halo-mcc-2021,230,Riley Faucett,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@192306
+halo-mcc-2021,231,Robert Schulte,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@192352
+halo-mcc-2021,232,Robin Lopez,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@192399
+halo-mcc-2021,233,Ryan Gordon,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@192443
+halo-mcc-2021,234,Ryan Moore,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@192487
+halo-mcc-2021,235,Ryan Murphy Lucas,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@192530
+halo-mcc-2021,236,Sabrina Hoffiz,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@192580
+halo-mcc-2021,237,Sandra Thomas,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@192627
+halo-mcc-2021,238,Shannon S. Fairbanks,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@192673
+halo-mcc-2021,239,Skyler Foxx,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@192726
+halo-mcc-2021,240,Tevin Nicholson,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@192770
+halo-mcc-2021,241,Tevya Fowler,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@192818
+halo-mcc-2021,242,Timothy Wells,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@192863
+halo-mcc-2021,243,Thomas McGovern,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@192909
+halo-mcc-2021,244,Thomas McMahon,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@192957
+halo-mcc-2021,245,Thomas Vitucci,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@193004
+halo-mcc-2021,246,Trent Hutchinson,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@193051
+halo-mcc-2021,247,Trevor Papasodora-Beard,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@193100
+halo-mcc-2021,248,Tyler Sheaters,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@193156
+halo-mcc-2021,249,Ulises Renteria,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@193203
+halo-mcc-2021,250,Valerie Maule,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@193251
+halo-mcc-2021,251,Vincent Werley,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@193297
+halo-mcc-2021,252,Yuhki Kaneta,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@193344
+halo-mcc-2021,253,Zachary LeBarron,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@193389
+halo-mcc-2021,254,Zack Maser,,QA,Test Associates,,Experis,core,October 2021 Update/343 Industries/EXPERIS TEMPE@193438
+halo-mcc-2021,255,Aaron Brindell,,Special Thanks,Experis Special Thanks,,,core,October 2021 Update/343 Industries/Experis Special Thanks@193917
+halo-mcc-2021,256,Aaron Ingram,,Special Thanks,Experis Special Thanks,,,core,October 2021 Update/343 Industries/Experis Special Thanks@193953
+halo-mcc-2021,257,Carol Stearns,,Special Thanks,Experis Special Thanks,,,core,October 2021 Update/343 Industries/Experis Special Thanks@193988
+halo-mcc-2021,258,Erica Davis,,Special Thanks,Experis Special Thanks,,,core,October 2021 Update/343 Industries/Experis Special Thanks@194024
+halo-mcc-2021,259,Frank Criscione,,Special Thanks,Experis Special Thanks,,,core,October 2021 Update/343 Industries/Experis Special Thanks@194057
+halo-mcc-2021,260,Gavin Kennedy,,Special Thanks,Experis Special Thanks,,,core,October 2021 Update/343 Industries/Experis Special Thanks@194095
+halo-mcc-2021,261,Ike McLaughlin,,Special Thanks,Experis Special Thanks,,,core,October 2021 Update/343 Industries/Experis Special Thanks@194131
+halo-mcc-2021,262,Jessica Jones,,Special Thanks,Experis Special Thanks,,,core,October 2021 Update/343 Industries/Experis Special Thanks@194167
+halo-mcc-2021,263,Julie Loucks,,Special Thanks,Experis Special Thanks,,,core,October 2021 Update/343 Industries/Experis Special Thanks@194203
+halo-mcc-2021,264,Keith Jackson,,Special Thanks,Experis Special Thanks,,,core,October 2021 Update/343 Industries/Experis Special Thanks@194238
+halo-mcc-2021,265,Lucas Rathburn,,Special Thanks,Experis Special Thanks,,,core,October 2021 Update/343 Industries/Experis Special Thanks@194273
+halo-mcc-2021,266,Mark Medlock,,Special Thanks,Experis Special Thanks,,,core,October 2021 Update/343 Industries/Experis Special Thanks@194310
+halo-mcc-2021,267,Paul Gradwohl,,Special Thanks,Experis Special Thanks,,,core,October 2021 Update/343 Industries/Experis Special Thanks@194345
+halo-mcc-2021,268,Sean Clarke Jr.,,Special Thanks,Experis Special Thanks,,,core,October 2021 Update/343 Industries/Experis Special Thanks@194380
+halo-mcc-2021,269,Theresa Pudenz,,Special Thanks,Experis Special Thanks,,,core,October 2021 Update/343 Industries/Experis Special Thanks@194418
+halo-mcc-2021,270,Thomas Hanson,,Special Thanks,Experis Special Thanks,,,core,October 2021 Update/343 Industries/Experis Special Thanks@194455
+halo-mcc-2021,271,Tom Dieterich,,Special Thanks,Experis Special Thanks,,,core,October 2021 Update/343 Industries/Experis Special Thanks@194491
+halo-mcc-2021,272,Elliyannah Reneé Vasquez,,Other,Halo Babies,,,babies,October 2021 Update/343 Industries/Halo Babies@194942
+halo-mcc-2021,273,Kaylee LaFountaine,,Other,Halo Babies,,,babies,October 2021 Update/343 Industries/Halo Babies@194991
+halo-mcc-2021,274,Luna Maria Slanchik,,Other,Halo Babies,,,babies,October 2021 Update/343 Industries/Halo Babies@195031
+halo-mcc-2021,275,Nikolai Alexander Stavish,,Other,Halo Babies,,,babies,October 2021 Update/343 Industries/Halo Babies@195072
+halo-mcc-2021,276,Bonnie Ross,,Leadership,"Corporate Vice President, Head of 343 Industries",,,core,October 2021 Update/343 Industries/343 Leadership Team@195581
+halo-mcc-2021,277,Pierre Hintze,,Production,"Head of Production, Halo Infinite",,,core,October 2021 Update/343 Industries/343 Leadership Team@195844
+halo-mcc-2021,278,Brian Jarrard,,Studio/Business,Community Director,,,core,October 2021 Update/343 Industries/343 Leadership Team@195982
+halo-mcc-2021,279,Elizabeth Van Wyck,,Leadership,Director of Business and User Engagement,,,core,October 2021 Update/343 Industries/343 Leadership Team@196120
+halo-mcc-2021,280,Frank O’Connor,,Narrative,Franchise Creative Director,,,core,October 2021 Update/343 Industries/343 Leadership Team@196268
+halo-mcc-2021,281,Sean Baron,,Leadership,"Director of Analytics, Insights, and Customer Service",,,core,October 2021 Update/343 Industries/343 Leadership Team@196559
+halo-mcc-2021,282,Kiki Wolfkill,,Leadership,Head of Halo Transmedia and Entertainment,,,core,October 2021 Update/343 Industries/343 Leadership Team@196713
+halo-mcc-2021,283,Joseph Staten,,Leadership,"Head of Creative, Halo Infinite",,,core,October 2021 Update/343 Industries/343 Leadership Team@196859
+halo-mcc-2021,284,David Berger,,Engineering,"Head of Engineering, Halo Infinite",,,core,October 2021 Update/343 Industries/343 Leadership Team@197008
+halo-mcc-2021,285,Rob Semsey,,Leadership,Chief of Staff,,,core,October 2021 Update/343 Industries/343 Leadership Team@197137
+halo-mcc-2021,286,Autumn Whitehead,,Leadership,Executive Business Administrator,,,core,October 2021 Update/343 Industries/343 Leadership Team@197282
+halo-mcc-2021,287,Autumn Whitehead,,Leadership,Executive Business Administrator,,,core,October 2021 Update/343 Industries/Administration@197762
+halo-mcc-2021,288,Chantelle Miller,,Leadership,Executive Business Administrator,,,core,October 2021 Update/343 Industries/Administration@197801
+halo-mcc-2021,289,Terra Zarter,,Studio/Business,Business Administrator,,"24 Seven Topco, LLC",core,October 2021 Update/343 Industries/Administration@197942
+halo-mcc-2021,290,Sara Cha,,Studio/Business,Business Administrator,,Insight Global Inc.,core,October 2021 Update/343 Industries/Administration@197999
+halo-mcc-2021,291,Lace Yamamoto,,Studio/Business,Business Administrator,,,core,October 2021 Update/343 Industries/Administration@198051
+halo-mcc-2021,292,Challis Felton,,Studio/Business,Business Administrator,,,core,October 2021 Update/343 Industries/Administration@198087
+halo-mcc-2021,293,Keli Smith,,Studio/Business,Business Administrator,,,core,October 2021 Update/343 Industries/Administration@198124
+halo-mcc-2021,295,Sean Baron,,Leadership,"Director of Analytics, Insights, and Customer Service",,,core,October 2021 Update/343 Industries/ANALYTICS@198722
+halo-mcc-2021,296,Ben Frazier,,Other,Insights Management,,,core,October 2021 Update/343 Industries/ANALYTICS@198854
+halo-mcc-2021,297,Michael Harris,,Other,Insights Management,,,core,October 2021 Update/343 Industries/ANALYTICS@198887
+halo-mcc-2021,298,Ming Huang,,Other,Insights Management,,,core,October 2021 Update/343 Industries/ANALYTICS@198924
+halo-mcc-2021,299,Amity Mathews,,Other,Insights Management,,,core,October 2021 Update/343 Industries/ANALYTICS@198957
+halo-mcc-2021,300,Brett Peck,,Other,Insights Management,,,core,October 2021 Update/343 Industries/ANALYTICS@198992
+halo-mcc-2021,301,Torin Rettig,,Other,Insights Management,,Blue Hawk Analytics,core,October 2021 Update/343 Industries/ANALYTICS@199025
+halo-mcc-2021,302,Melinda Reeb,,Other,Insights Management,,H10 Capital,core,October 2021 Update/343 Industries/ANALYTICS@199082
+halo-mcc-2021,303,Nikolai Narma,,Other,Insights Management,,,core,October 2021 Update/343 Industries/ANALYTICS@199131
+halo-mcc-2021,304,Mike Gasser,,Engineering,Data Engineering,,,core,October 2021 Update/343 Industries/ANALYTICS@199386
+halo-mcc-2021,305,Arjun Gupta,,Engineering,Data Engineering,,Kforce,core,October 2021 Update/343 Industries/ANALYTICS@199420
+halo-mcc-2021,306,Garret Skelton,,Engineering,Data Engineering,,Cyprus Human Capital Management,core,October 2021 Update/343 Industries/ANALYTICS@199463
+halo-mcc-2021,307,Michael Wetzel,,Engineering,Data Engineering,,,core,October 2021 Update/343 Industries/ANALYTICS@199534
+halo-mcc-2021,308,Victor Barros,,Other,Insights Management,,,core,October 2021 Update/343 Industries/ANALYTICS@199670
+halo-mcc-2021,309,Ben Frazier,,Other,Insights Management,,,core,October 2021 Update/343 Industries/ANALYTICS@199706
+halo-mcc-2021,310,Chris Herrman,,Production,Production / Team Management,,,core,October 2021 Update/343 Industries/ANALYTICS@199848
+halo-mcc-2021,311,Sean Michael,,Production,Production / Team Management,,,core,October 2021 Update/343 Industries/ANALYTICS@199884
+halo-mcc-2021,312,Jacqueline O’Brien,,Production,Production / Team Management,,,core,October 2021 Update/343 Industries/ANALYTICS@199918
+halo-mcc-2021,313,Christina Parker,,Other,Customer Relationship Management,,,core,October 2021 Update/343 Industries/ANALYTICS@200071
+halo-mcc-2021,314,Michael Harris,,Special Thanks,Special Thanks,,,special-thanks,October 2021 Update/343 Industries/ANALYTICS@200204
+halo-mcc-2021,315,Melinda Reeb,,Special Thanks,Special Thanks,,H10 CAPITAL,special-thanks,October 2021 Update/343 Industries/ANALYTICS@200241
+halo-mcc-2021,316,Elizabeth Van Wyck,,Leadership,Director of Business and User Engagement,,,core,October 2021 Update/343 Industries/BUSINESS and esports@200747
+halo-mcc-2021,317,Mark Yelverton,,Studio/Business,Franchise Business and Operations Manager,,,core,October 2021 Update/343 Industries/BUSINESS and esports@200909
+halo-mcc-2021,318,Tarek Elbanhawy,,Studio/Business,Franchise Business Manager,,,core,October 2021 Update/343 Industries/BUSINESS and esports@201052
+halo-mcc-2021,319,Tahir Hasandjekic,,Studio/Business,Esports Lead,,,core,October 2021 Update/343 Industries/BUSINESS and esports@201182
+halo-mcc-2021,320,Matt Kline,,Production,Esports Broadcast Producer,,,core,October 2021 Update/343 Industries/BUSINESS and esports@201328
+halo-mcc-2021,321,Alex Carmichael,,Production,Associate Esports Producer,,TEKsystems Inc,core,October 2021 Update/343 Industries/BUSINESS and esports@201594
+halo-mcc-2021,322,Diviyan Matheendran,,Production,Associate Esports Producer,,Bluehawk LLC,core,October 2021 Update/343 Industries/BUSINESS and esports@201652
+halo-mcc-2021,323,Lalo Torres,,Production,Esports Social Media and Content Producer,,,core,October 2021 Update/343 Industries/BUSINESS and esports@201830
+halo-mcc-2021,324,Riley Hastings,,Production,Esports Content Producer,,AQUENT LLC,core,October 2021 Update/343 Industries/BUSINESS and esports@201972
+halo-mcc-2021,325,Amy Cobb,,Studio/Business,Operations Specialist,,YOH,core,October 2021 Update/343 Industries/BUSINESS and esports@202123
+halo-mcc-2021,326,Jess Yu,,Studio/Business,Operations Specialist,,,core,October 2021 Update/343 Industries/BUSINESS and esports@202160
+halo-mcc-2021,327,Stephen Heil,,Studio/Business,Operations Specialist,,Apex Systems Inc,core,October 2021 Update/343 Industries/BUSINESS and esports@202190
+halo-mcc-2021,328,Sarah Stanley,,Studio/Business,Operations Specialist,,Insight Global Inc,core,October 2021 Update/343 Industries/BUSINESS and esports@202244
+halo-mcc-2021,329,Zak Belisle,,Publishing,Finance Manager,,,core,October 2021 Update/343 Industries/BUSINESS and esports@202400
+halo-mcc-2021,330,Ed Kalletta,,Leadership,Director of Business Development,,,core,October 2021 Update/343 Industries/Business Development@202879
+halo-mcc-2021,331,Brian Jarrard,,Studio/Business,Community Director,,,core,October 2021 Update/343 Industries/COMMUNITY@203335
+halo-mcc-2021,332,John Junyszek,,Studio/Business,Community Manager,,,core,October 2021 Update/343 Industries/COMMUNITY@203468
+halo-mcc-2021,333,Andy Salisbury,,Studio/Business,Communications Manager,,,core,October 2021 Update/343 Industries/COMMUNITY@203610
+halo-mcc-2021,334,Nina Marien,,Production,Program Manager,,,core,October 2021 Update/343 Industries/COMMUNITY@203865
+halo-mcc-2021,335,Tyler Davis,,Studio/Business,Support & Engagement Coordinator,,Insight Global,core,October 2021 Update/343 Industries/COMMUNITY@204011
+halo-mcc-2021,336,Sam Nylen,,Studio/Business,Community Coordinator,,Insight Global,core,October 2021 Update/343 Industries/COMMUNITY@204163
+halo-mcc-2021,337,Rob Semsey,,Leadership,Chief of Staff,,,core,October 2021 Update/343 Industries/EMPLOYEE EXPERIENCE TEAM@204645
+halo-mcc-2021,338,Ron Brown,,QA,Quality of Life Program Manager,,,core,October 2021 Update/343 Industries/EMPLOYEE EXPERIENCE TEAM@204789
+halo-mcc-2021,339,Iva Lindstrom,,Production,Studio Communications/Operations Program Manager,,"RANDSTAD NORTH AMERICA, INC.",core,October 2021 Update/343 Industries/EMPLOYEE EXPERIENCE TEAM@204949
+halo-mcc-2021,340,Frank O’Connor,,Narrative,Franchise Creative Director,,,core,October 2021 Update/343 Industries/FRANCHISE@205448
+halo-mcc-2021,341,Corrinne Robinson,,Other,Senior Halo Franchise Manager,,,core,October 2021 Update/343 Industries/FRANCHISE@205594
+halo-mcc-2021,342,Carlos Naranjo,,Production,Senior Halo Franchise Producer,,,core,October 2021 Update/343 Industries/FRANCHISE@205744
+halo-mcc-2021,343,Tyler Jeffers,,Narrative,Halo Franchise Creative Producer,,,core,October 2021 Update/343 Industries/FRANCHISE@205893
+halo-mcc-2021,344,Amanda Morton,,Other,Halo Franchise Content Manager,,,core,October 2021 Update/343 Industries/FRANCHISE@206039
+halo-mcc-2021,345,Jeremy Patenaude,,Other,Halo Franchise Lead Editor,,,core,October 2021 Update/343 Industries/FRANCHISE@206312
+halo-mcc-2021,346,Kenneth Peters,,Narrative,Senior Halo Franchise Writer,,,core,October 2021 Update/343 Industries/FRANCHISE@206463
+halo-mcc-2021,347,Jeff Easterling,,Narrative,Franchise and Narrative Writer,,,core,October 2021 Update/343 Industries/FRANCHISE@206656
+halo-mcc-2021,348,Neil Tuazon,,Other,Franchise Coordinator,,Myriad Consulting,core,October 2021 Update/343 Industries/FRANCHISE@206799
+halo-mcc-2021,349,Quinn Spence,,Production,Franchise 3D Asset Production Coordinator,,Randstad,core,October 2021 Update/343 Industries/FRANCHISE@206974
+halo-mcc-2021,350,Susan Bunch,,Other,Halo Support Manager,,,core,October 2021 Update/343 Industries/Halo Support@207449
+halo-mcc-2021,351,Conor Makowski,,Other,Halo Support Experience Lead,,Insight Global,core,October 2021 Update/343 Industries/Halo Support@207591
+halo-mcc-2021,352,Craig Cainkar,,Narrative,Support Technical Writer,,Randstad North America,core,October 2021 Update/343 Industries/Halo Support@207749
+halo-mcc-2021,353,Kiera Schroeder,,Other,Technical Support,,24 Seven Topco,core,October 2021 Update/343 Industries/Halo Support@207907
+halo-mcc-2021,353,Sarah Emerson,,Other,Technical Support,,,core,October 2021 Update/343 Industries/Halo Support@207907
+halo-mcc-2021,354,Reden Kristoffer Victa,,Production,Support Agent Team Program Manager,,Keywords Studios,core,October 2021 Update/343 Industries/Halo Support@208124
+halo-mcc-2021,355,Eric Aguilar,,Other,Support Agent Team Support Manager,,Keywords Studios,core,October 2021 Update/343 Industries/Halo Support@208429
+halo-mcc-2021,356,Carlo Jose Evangelista,,Other,Support Agent Shift Lead,,Keywords Studios,core,October 2021 Update/343 Industries/Halo Support@208591
+halo-mcc-2021,357,Joram Forcado,,Other,Support Agent Team,,Keywords Studios,core,October 2021 Update/343 Industries/Halo Support@208757
+halo-mcc-2021,358,Julius Marion Sabillo,,Other,Support Agent Team,,Keywords Studios,core,October 2021 Update/343 Industries/Halo Support@208811
+halo-mcc-2021,359,Mark Antonio Galera Ilog,,Other,Support Agent Team,,Keywords Studios,core,October 2021 Update/343 Industries/Halo Support@208873
+halo-mcc-2021,360,Jessie Roi Bautista,,Other,Support Agent Team,,Keywords Studios,core,October 2021 Update/343 Industries/Halo Support@208938
+halo-mcc-2021,361,Franzy Milanio,,Other,Support Agent Team,,Keywords Studios,core,October 2021 Update/343 Industries/Halo Support@208998
+halo-mcc-2021,362,Elli Salcedo,,Other,Support Agent Team,,Keywords Studios,core,October 2021 Update/343 Industries/Halo Support@209053
+halo-mcc-2021,363,Jan Emmanuel Borja,,Other,Support Agent Team,,Keywords Studios,core,October 2021 Update/343 Industries/Halo Support@209106
+halo-mcc-2021,364,Jeffrey Cabiliza,,Other,Support Agent Team,,Keywords Studios,core,October 2021 Update/343 Industries/Halo Support@209165
+halo-mcc-2021,365,Rogene Abenojar,,Other,Support Agent Team,,Keywords Studios,core,October 2021 Update/343 Industries/Halo Support@209222
+halo-mcc-2021,366,Alyssa Aguila,,Other,Support Agent Team,,Keywords Studios,core,October 2021 Update/343 Industries/Halo Support@209278
+halo-mcc-2021,367,Ian Michael Guevarra,,Other,Support Agent Team,,Keywords Studios,core,October 2021 Update/343 Industries/Halo Support@209332
+halo-mcc-2021,368,James Jethro Toledo,,Other,Support Agent Team,,Keywords Studios,core,October 2021 Update/343 Industries/Halo Support@209393
+halo-mcc-2021,369,Benlarvyn John Dacanay,,Other,Support Agent Team,,Keywords Studios,core,October 2021 Update/343 Industries/Halo Support@209453
+halo-mcc-2021,370,Geneson Cruz,,Other,Support Agent Team,,Keywords Studios,core,October 2021 Update/343 Industries/Halo Support@209516
+halo-mcc-2021,371,Maria Daniela Morla,,Other,Support Agent Team,,Keywords Studios,core,October 2021 Update/343 Industries/Halo Support@209569
+halo-mcc-2021,372,Andrew Crews,,Publishing,Xbox Support,,,core,October 2021 Update/343 Industries/Halo Support@209722
+halo-mcc-2021,373,Chris Stevenson,,Publishing,Xbox Support,,,core,October 2021 Update/343 Industries/Halo Support@209757
+halo-mcc-2021,374,Taylor Mann,,Publishing,Xbox Support,,,core,October 2021 Update/343 Industries/Halo Support@209795
+halo-mcc-2021,375,Vlad Naoumoff,,Publishing,Xbox Support,,,core,October 2021 Update/343 Industries/Halo Support@209829
+halo-mcc-2021,376,Daniel Price,,Other,Director,,,core,October 2021 Update/343 Industries/IT@210272
+halo-mcc-2021,377,Mike Staten,,Studio/Business,Operations Manager,,,core,October 2021 Update/343 Industries/IT@210405
+halo-mcc-2021,378,Aubra Moore,,Engineering,Engineering Manager,,,core,October 2021 Update/343 Industries/IT@210538
+halo-mcc-2021,379,Darren Little,,Other,IT Systems Architect,,,core,October 2021 Update/343 Industries/IT@210672
+halo-mcc-2021,380,Dustin Ward,,Engineering,Service Engineer,,,core,October 2021 Update/343 Industries/IT@210804
+halo-mcc-2021,381,Roosevelt Hubbard,,Engineering,Service Engineer,,,core,October 2021 Update/343 Industries/IT@210837
+halo-mcc-2021,382,Stanley Paul,,Engineering,Service Engineer,,,core,October 2021 Update/343 Industries/IT@210877
+halo-mcc-2021,383,Brendan Hansen,,Production,IT Program Manager,,,core,October 2021 Update/343 Industries/IT@211010
+halo-mcc-2021,384,Kiran Adcock,,Production,IT Program Manager,,,core,October 2021 Update/343 Industries/IT@211046
+halo-mcc-2021,385,Robert Hinshaw,,Production,IT Program Manager,,,core,October 2021 Update/343 Industries/IT@211081
+halo-mcc-2021,386,Bereket Kifle,,Engineering,IT Software Engineer,,,core,October 2021 Update/343 Industries/IT@211218
+halo-mcc-2021,387,George Pelletier,,Engineering,IT Software Engineer,,Insight Global Inc,core,October 2021 Update/343 Industries/IT@211257
+halo-mcc-2021,388,Isabelle Gould,,Engineering,IT Software Engineer,,LINCOLN BAY COMPANY LLC,core,October 2021 Update/343 Industries/IT@211316
+halo-mcc-2021,389,Stephanie Orellana Sanabria,,Engineering,IT Software Engineer,,Year Up Inc,core,October 2021 Update/343 Industries/IT@211378
+halo-mcc-2021,390,AK Deyassa,,Other,Support Analyst,,Year Up Inc,core,October 2021 Update/343 Industries/IT@211662
+halo-mcc-2021,391,Alex Elauria,,Other,Support Analyst,,Year Up Inc,core,October 2021 Update/343 Industries/IT@211708
+halo-mcc-2021,392,Anthony May,,Other,Support Analyst,,Year Up Inc,core,October 2021 Update/343 Industries/IT@211757
+halo-mcc-2021,393,Brian Skurski,,Other,Support Analyst,,Cypress Human Capital Management,core,October 2021 Update/343 Industries/IT@211804
+halo-mcc-2021,394,Cody Jones,,Other,Support Analyst,,Insight Global Inc,core,October 2021 Update/343 Industries/IT@211874
+halo-mcc-2021,395,Dakota Foster,,Other,Support Analyst,,DIGITAL INTELLIGENCE SYSTEMS,core,October 2021 Update/343 Industries/IT@211928
+halo-mcc-2021,396,Damian Yates,,Other,Support Analyst,,DIGITAL INTELLIGENCE SYSTEMS,core,October 2021 Update/343 Industries/IT@211995
+halo-mcc-2021,397,Ember Leaf,,Other,Support Analyst,,"RANDSTAD NORTH AMERICA, INC",core,October 2021 Update/343 Industries/IT@212061
+halo-mcc-2021,398,Fred Merritt,,Other,Support Analyst,,Year Up Inc,core,October 2021 Update/343 Industries/IT@212124
+halo-mcc-2021,399,Maya Osbourne,,Other,Support Analyst,,Hi-Tech Talents LLC,core,October 2021 Update/343 Industries/IT@212173
+halo-mcc-2021,400,Nathan Cha,,Other,Support Analyst,,Year Up Inc,core,October 2021 Update/343 Industries/IT@212231
+halo-mcc-2021,401,Nico Cargo,,Other,Support Analyst,,Year Up Inc,core,October 2021 Update/343 Industries/IT@212278
+halo-mcc-2021,402,Paul Alexander,,Other,Support Analyst,,Insight Global Inc,core,October 2021 Update/343 Industries/IT@212325
+halo-mcc-2021,403,Prasad Kondaveeti,,Other,Support Analyst,,Myriad Consulting Inc,core,October 2021 Update/343 Industries/IT@212382
+halo-mcc-2021,404,Robert Wilson,,Other,Support Analyst,,DIGITAL INTELLIGENCE SYSTEMS,core,October 2021 Update/343 Industries/IT@212446
+halo-mcc-2021,405,Roman Khamitov,,Other,Support Analyst,,TEKsystems,core,October 2021 Update/343 Industries/IT@212513
+halo-mcc-2021,406,Raymond Nham,,Other,Support Analyst,,Year Up Inc,core,October 2021 Update/343 Industries/IT@212563
+halo-mcc-2021,407,Salvador Zuniga Alvizo,,Other,Support Analyst,,Year Up Inc,core,October 2021 Update/343 Industries/IT@212612
+halo-mcc-2021,408,Shafaqut Mohamedali,,Other,Support Analyst,,Collabera Inc,core,October 2021 Update/343 Industries/IT@212671
+halo-mcc-2021,409,Tanner Sullivan-Thompson,,Other,Support Analyst,,Insight Global Inc,core,October 2021 Update/343 Industries/IT@212729
+halo-mcc-2021,410,Conor O’Flaherty,,Publishing,Senior Attorney,,,core,October 2021 Update/343 Industries/LEGAL@213215
+halo-mcc-2021,411,Tricia Geyer,,Publishing,Senior Paralegal,,RAGEN SWAN PLLC,core,October 2021 Update/343 Industries/LEGAL@213354
+halo-mcc-2021,412,Tobias Osterhaugh,,Other,Playtest Coordination Team,,Aquent LLC,core,October 2021 Update/343 Industries/Playtest Coordination Team@213756
+halo-mcc-2021,413,Nolan Dost,,Other,Playtest Coordination Team,,Kforce,core,October 2021 Update/343 Industries/Playtest Coordination Team@213808
+halo-mcc-2021,414,Rewant Verma,,Other,Playtest Coordination Team,,Kforce,core,October 2021 Update/343 Industries/Playtest Coordination Team@213849
+halo-mcc-2021,415,Caleb Metheny,,Special Thanks,Special Thanks,,Insight Global Inc,special-thanks,October 2021 Update/343 Industries/Playtest Coordination Team@213991
+halo-mcc-2021,416,Richard Meier,,Special Thanks,Special Thanks,,Aquent LLC,special-thanks,October 2021 Update/343 Industries/Playtest Coordination Team@214048
+halo-mcc-2021,417,Ron Brown,,Special Thanks,Special Thanks,,Populus Group,special-thanks,October 2021 Update/343 Industries/Playtest Coordination Team@214097
+halo-mcc-2021,418,Roger Westmoreland Price II,,Other,pro team,,Experis,core,October 2021 Update/343 Industries/pro team@214474
+halo-mcc-2021,419,Richard Heinz Jr.,,Other,pro team,,Experis,core,October 2021 Update/343 Industries/pro team@214533
+halo-mcc-2021,420,Austin McCleary,,Other,pro team,,Experis,core,October 2021 Update/343 Industries/pro team@214582
+halo-mcc-2021,421,Visal Mohanan,,Other,pro team,,Experis,core,October 2021 Update/343 Industries/pro team@214629
+halo-mcc-2021,422,Hunter Schline,,Other,pro team,,Experis,core,October 2021 Update/343 Industries/pro team@214674
+halo-mcc-2021,423,Clete LoRusso,,Other,pro team,,Experis,core,October 2021 Update/343 Industries/pro team@214720
+halo-mcc-2021,424,Anthony Mejias,,Other,pro team,,Experis,core,October 2021 Update/343 Industries/pro team@214765
+halo-mcc-2021,425,Gregory Haas,,Other,pro team,,Experis,core,October 2021 Update/343 Industries/pro team@214811
+halo-mcc-2021,426,Vartan Karakashyan,,Other,pro team,,Experis,core,October 2021 Update/343 Industries/pro team@214855
+halo-mcc-2021,427,Joaquin Bolbrugge,,Engineering,Engineering Manager,,,core,October 2021 Update/343 Industries/SERVICES@215328
+halo-mcc-2021,428,Brandon Hush,,Other,Software Development Leads,,,core,October 2021 Update/343 Industries/SERVICES@215474
+halo-mcc-2021,429,Nate Jones,,Other,Software Development Leads,,,core,October 2021 Update/343 Industries/SERVICES@215508
+halo-mcc-2021,430,Scott Ameling,,Other,Software Development Leads,,,core,October 2021 Update/343 Industries/SERVICES@215540
+halo-mcc-2021,431,Walter R Rector,,Other,Software Development Leads,,,core,October 2021 Update/343 Industries/SERVICES@215575
+halo-mcc-2021,432,Aila Enos,,Engineering,Software Development Engineers,,,core,October 2021 Update/343 Industries/SERVICES@215723
+halo-mcc-2021,433,Andrew Hampton,,Engineering,Software Development Engineers,,,core,October 2021 Update/343 Industries/SERVICES@215754
+halo-mcc-2021,434,Anne McLaughlin,,Engineering,Software Development Engineers,,,core,October 2021 Update/343 Industries/SERVICES@215790
+halo-mcc-2021,435,Bill Rosas,,Engineering,Software Development Engineers,,,core,October 2021 Update/343 Industries/SERVICES@215827
+halo-mcc-2021,436,Clayton Tye,,Engineering,Software Development Engineers,,,core,October 2021 Update/343 Industries/SERVICES@215859
+halo-mcc-2021,437,Chris Welden,,Engineering,Software Development Engineers,,,core,October 2021 Update/343 Industries/SERVICES@215892
+halo-mcc-2021,438,Ilya Kulshin,,Engineering,Software Development Engineers,,,core,October 2021 Update/343 Industries/SERVICES@215926
+halo-mcc-2021,439,Jacob Snyder,,Engineering,Software Development Engineers,,,core,October 2021 Update/343 Industries/SERVICES@216093
+halo-mcc-2021,440,Jake Bottelberghe,,Engineering,Software Development Engineers,,TEKsystems,core,October 2021 Update/343 Industries/SERVICES@216131
+halo-mcc-2021,441,Jason Morrill,,Engineering,Software Development Engineers,,,core,October 2021 Update/343 Industries/SERVICES@216183
+halo-mcc-2021,442,Jeff Carnahan,,Engineering,Software Development Engineers,,,core,October 2021 Update/343 Industries/SERVICES@216219
+halo-mcc-2021,443,Jeff Holbrook,,Engineering,Software Development Engineers,,,core,October 2021 Update/343 Industries/SERVICES@216255
+halo-mcc-2021,444,John Konkle,,Engineering,Software Development Engineers,,,core,October 2021 Update/343 Industries/SERVICES@216290
+halo-mcc-2021,445,Jon Boulanger,,Engineering,Software Development Engineers,,,core,October 2021 Update/343 Industries/SERVICES@216323
+halo-mcc-2021,446,Mike Malyuk,,Engineering,Software Development Engineers,,,core,October 2021 Update/343 Industries/SERVICES@216358
+halo-mcc-2021,447,Ryan Daugherty,,Engineering,Software Development Engineers,,,core,October 2021 Update/343 Industries/SERVICES@216391
+halo-mcc-2021,448,Scott McMurray,,Engineering,Software Development Engineers,,,core,October 2021 Update/343 Industries/SERVICES@216427
+halo-mcc-2021,449,Simon Gordon,,Engineering,Software Development Engineers,,,core,October 2021 Update/343 Industries/SERVICES@216463
+halo-mcc-2021,450,Steven Berry,,Engineering,Software Development Engineers,,,core,October 2021 Update/343 Industries/SERVICES@216497
+halo-mcc-2021,451,Valentino Olvera Marin,,Engineering,Software Development Engineers,,,core,October 2021 Update/343 Industries/SERVICES@216531
+halo-mcc-2021,452,William Morton,,Engineering,Software Development Engineers,,,core,October 2021 Update/343 Industries/SERVICES@216575
+halo-mcc-2021,453,Ian Froning,,Engineering,Software Development Engineers,,"RANDSTAD NORTH AMERICA, INC",core,October 2021 Update/343 Industries/SERVICES@216612
+halo-mcc-2021,454,James Bachici,,Production,Production,,,core,October 2021 Update/343 Industries/SERVICES@216766
+halo-mcc-2021,455,Kiki Wolfkill,,Leadership,"Studio Head, Transmedia & Entertainment",,,core,October 2021 Update/343 Industries/Transmedia@217247
+halo-mcc-2021,456,Drew Benz,,Other,Content Director,,,core,October 2021 Update/343 Industries/Transmedia@217379
+halo-mcc-2021,457,Chad Mirshak,,Design,Senior Design Manager,,,core,October 2021 Update/343 Industries/Transmedia@217512
+halo-mcc-2021,458,Eric Dies,,Design,Visual Designer 2,,,core,October 2021 Update/343 Industries/Transmedia@217644
+halo-mcc-2021,459,Tiana Los,,Design,Designer 2,,,core,October 2021 Update/343 Industries/Transmedia@217766
+halo-mcc-2021,460,Liz Duong,,Design,Visual Designer 2,,,core,October 2021 Update/343 Industries/Transmedia@217895
+halo-mcc-2021,461,Adam H. Wong,,Production,Senior Producer,,,core,October 2021 Update/343 Industries/Transmedia@218022
+halo-mcc-2021,462,Liz Ostasiewski,,Production,Producer,,Insight Global,core,October 2021 Update/343 Industries/Transmedia@218272
+halo-mcc-2021,463,Toni Robbins,,Production,Producer,,Insight Global,core,October 2021 Update/343 Industries/Transmedia@218326
+halo-mcc-2021,464,Daniel Macadangdang,,Production,Producer,,Insight Global Inc,core,October 2021 Update/343 Industries/Transmedia@218377
+halo-mcc-2021,465,Marisa Fulmer,,Production,Producer,,Yoh Services LLC,core,October 2021 Update/343 Industries/Transmedia@218439
+halo-mcc-2021,466,Jesse Stipek,,Production,Video Producer,,,core,October 2021 Update/343 Industries/Transmedia@218588
+halo-mcc-2021,467,Phillip Harvey,,Production,Video Producer,,Lincoln Bay Company LLC,core,October 2021 Update/343 Industries/Transmedia@218623
+halo-mcc-2021,468,Joshua Hnosko,,Production,Livestream Producer,,,core,October 2021 Update/343 Industries/Transmedia@218785
+halo-mcc-2021,469,CJ Ramos,,Design,Designer,,Insight Global,core,October 2021 Update/343 Industries/Transmedia@218913
+halo-mcc-2021,470,Eddie Arriesgado,,Design,Designer,,Insight Global,core,October 2021 Update/343 Industries/Transmedia@218960
+halo-mcc-2021,471,Jason Unck,,Design,Designer,,Insight Global,core,October 2021 Update/343 Industries/Transmedia@219016
+halo-mcc-2021,472,Mohammed Ismail,,Design,Designer,,Insight Global,core,October 2021 Update/343 Industries/Transmedia@219066
+halo-mcc-2021,473,Patrick Marko,,Design,Designer,,24 Seven Topco LLC,core,October 2021 Update/343 Industries/Transmedia@219120
+halo-mcc-2021,474,Tiffany Patterson,,Other,Contracts Manager,,Insight Global,core,October 2021 Update/343 Industries/Transmedia@219274
+halo-mcc-2021,475,Eric Schuh,,Design,User Research Studio Lead,,,core,October 2021 Update/343 Industries/USER RESEARCH@219764
+halo-mcc-2021,476,Kris Keeker,,Design,User Research,,EXPERIS,core,October 2021 Update/343 Industries/USER RESEARCH@219890
+halo-mcc-2021,477,Daniel Gunn,,Special Thanks,Special Thanks,,,special-thanks,October 2021 Update/343 Industries/USER RESEARCH@220028
+halo-mcc-2021,478,Randy Pagulayan,,Special Thanks,Special Thanks,,,special-thanks,October 2021 Update/343 Industries/USER RESEARCH@220061
+halo-mcc-2021,479,Rob Johnson,,Other,Ecosystem Director,,,core,October 2021 Update/343 Industries/WAYPOINT and ecosystem@220533
+halo-mcc-2021,480,Kevin Paul,,Production,Senior Program Manager,,,core,October 2021 Update/343 Industries/WAYPOINT and ecosystem@220669
+halo-mcc-2021,481,Mark Harrington,,Production,Program Manager,,DIGITAL INTELLIGENCE SYSTEMS,core,October 2021 Update/343 Industries/WAYPOINT and ecosystem@220797
+halo-mcc-2021,482,Tyson Matanich,,Engineering,Senior Software Engineer,,,core,October 2021 Update/343 Industries/WAYPOINT and ecosystem@220970
+halo-mcc-2021,483,Jason Shirley,,Production,Senior Program Manager,,Xbox Game Studios,core,October 2021 Update/Xbox Game Studios/LOCALIZATION@221557
+halo-mcc-2021,484,Richard Myers,,Publishing,Localization Project Manager,,Experis,core,October 2021 Update/Xbox Game Studios/LOCALIZATION@221701
+halo-mcc-2021,485,Chris Merritt,,Publishing,Localization Project Manager,,Experis,core,October 2021 Update/Xbox Game Studios/LOCALIZATION@221859
+halo-mcc-2021,486,Camille Janinet,,Publishing,Localization Lead,,Lionbridge Gaming,core,October 2021 Update/Xbox Game Studios/LOCALIZATION@222002
+halo-mcc-2021,487,Konrad Lesiak,,QA,Test Manager,,Lionbridge Gaming,core,October 2021 Update/Xbox Game Studios/LOCALIZATION@222152
+halo-mcc-2021,488,Paweł Prykaszczyk,,QA,Localization Test Lead,,Lionbridge Gaming,core,October 2021 Update/Xbox Game Studios/LOCALIZATION@222310
+halo-mcc-2021,489,Yue Wang,,QA,Localization Test Lead,,Lionbridge Gaming,core,October 2021 Update/Xbox Game Studios/LOCALIZATION@222472
+halo-mcc-2021,490,Aengus Ball,,QA,Test Associate (French),,Lionbridge Gaming,core,October 2021 Update/Xbox Game Studios/LOCALIZATION@222626
+halo-mcc-2021,491,Tom Kampschulte,,QA,Test Associate (German),,Lionbridge Gaming,core,October 2021 Update/Xbox Game Studios/LOCALIZATION@222783
+halo-mcc-2021,492,Valerio Taormina,,QA,Test Associate (Italian),,Lionbridge Gaming,core,October 2021 Update/Xbox Game Studios/LOCALIZATION@222945
+halo-mcc-2021,493,Diego Fernández Rodríguez,,QA,Test Associate (Spanish),,Lionbridge Gaming,core,October 2021 Update/Xbox Game Studios/LOCALIZATION@223231
+halo-mcc-2021,494,Miguel Barragán Castro,,QA,Test Associate (Spanish Mexican),,Lionbridge Gaming,core,October 2021 Update/Xbox Game Studios/LOCALIZATION@223417
+halo-mcc-2021,495,Shinjiro Azumi,,QA,Test Associate (Japanese),,Lionbridge Gaming,core,October 2021 Update/Xbox Game Studios/LOCALIZATION@223590
+halo-mcc-2021,496,SongYee Han,,QA,Test Associate (Korean),,Lionbridge Gaming,core,October 2021 Update/Xbox Game Studios/LOCALIZATION@223750
+halo-mcc-2021,497,Kamil Kacprzak,,QA,Test Associate (Polish),,Lionbridge Gaming,core,October 2021 Update/Xbox Game Studios/LOCALIZATION@223907
+halo-mcc-2021,498,Rui Chang,,QA,Test Associate (Simplified Chinese),,Lionbridge Gaming,core,October 2021 Update/Xbox Game Studios/LOCALIZATION@224079
+halo-mcc-2021,499,Wen-Kang Yin,,QA,Test Associate (Traditional Chinese),,Lionbridge Gaming,core,October 2021 Update/Xbox Game Studios/LOCALIZATION@224247
+halo-mcc-2021,500,Gabriel Gliwic,,QA,Test Associate (Brazilian),,Lionbridge Gaming,core,October 2021 Update/Xbox Game Studios/LOCALIZATION@224408
+halo-mcc-2021,501,Vadym Abramuk,,QA,Test Associate (Russian),,Lionbridge Gaming,core,October 2021 Update/Xbox Game Studios/LOCALIZATION@224569
+halo-mcc-2021,503,Bart Malagon Ramirez,,QA,Test Associate (Russian),,Xbox Game Studios,core,October 2021 Update/Xbox Game Studios/LOCALIZATION@224810
+halo-mcc-2021,504,Bryan Koski,,Publishing,Halo Franchise Marketing Director,,Xbox Game Studios,core,October 2021 Update/Xbox Game Studios/Marketing@225292
+halo-mcc-2021,505,Jonathan Segall,,Publishing,Senior Marcom Manager,,Xbox Game Studios,core,October 2021 Update/Xbox Game Studios/Marketing@225427
+halo-mcc-2021,506,Michael Wolf,,Production,Senior Product Marketing Manager,,Xbox Game Studios,core,October 2021 Update/Xbox Game Studios/Marketing@225577
+halo-mcc-2021,507,Aaron Travis,,Publishing,Visual Identity and Branding Manager,,Xbox Game Studios,core,October 2021 Update/Xbox Game Studios/Marketing@225851
+halo-mcc-2021,508,Noah Benesch,,Production,Product Marketing Manager,,Xbox Game Studios,core,October 2021 Update/Xbox Game Studios/Marketing@225991
+halo-mcc-2021,509,Bradford Lee,,Production,Product Marketing Manager,,Xbox Game Studios,core,October 2021 Update/Xbox Game Studios/Marketing@226131
+halo-mcc-2021,510,Katie Jerauld,,Production,Product Marketing,,JefferyM Consulting LLC,core,October 2021 Update/Xbox Game Studios/Marketing@226263
+halo-mcc-2021,511,Brad Hilderbrand,,Publishing,Sr PR Manager,,Xbox Game Studios,core,October 2021 Update/Xbox Game Studios/PR@226737
+halo-mcc-2021,512,Richard Chen,,Publishing,VP,,"Assembly Media, Inc.",core,October 2021 Update/Xbox Game Studios/PR@226858
+halo-mcc-2021,513,James Reilly,,Publishing,Account Supervisor,,"Assembly Media, Inc.",core,October 2021 Update/Xbox Game Studios/PR@227137
+halo-mcc-2021,514,Susan Ng,,Leadership,Senior Account Executive,,"Assembly Media, Inc.",core,October 2021 Update/Xbox Game Studios/PR@227299
+halo-mcc-2021,515,Brett Williams,,Leadership,Account Executive,,"Assembly Media, Inc.",core,October 2021 Update/Xbox Game Studios/PR@227450
+halo-mcc-2021,516,Paul Gradwohl,,Production,Program Manager,,Experis,core,October 2021 Update/Xbox Game Studios/SHIELD COMPATIBILITY LAB@227946
+halo-mcc-2021,517,Vince Loughney,,Publishing,Lab Manager,,Experis,core,October 2021 Update/Xbox Game Studios/SHIELD COMPATIBILITY LAB@228083
+halo-mcc-2021,518,Dallas Holmstead,,Publishing,Lab Technician,,Experis,core,October 2021 Update/Xbox Game Studios/SHIELD COMPATIBILITY LAB@228224
+halo-mcc-2021,519,Adam Frankenfeld,,Publishing,Configuration Lead,,Experis,core,October 2021 Update/Xbox Game Studios/SHIELD COMPATIBILITY LAB@228371
+halo-mcc-2021,520,Matt Igaz,,Publishing,Multiplayer & First Party Devices Lead,,Experis,core,October 2021 Update/Xbox Game Studios/SHIELD COMPATIBILITY LAB@228538
+halo-mcc-2021,521,Chris Carleson,,Publishing,Photosensitivity & Epilepsy Lead,,Experis,core,October 2021 Update/Xbox Game Studios/SHIELD COMPATIBILITY LAB@228692
+halo-mcc-2021,522,Nicholas Starner,,Publishing,Research & Development Lead,,Experis,core,October 2021 Update/Xbox Game Studios/SHIELD COMPATIBILITY LAB@228969
+halo-mcc-2021,523,Andy Bumba,,QA,Technical Testers,,Experis,core,October 2021 Update/Xbox Game Studios/SHIELD COMPATIBILITY LAB@229115
+halo-mcc-2021,524,Anton Podolsky,,QA,Technical Testers,,Experis,core,October 2021 Update/Xbox Game Studios/SHIELD COMPATIBILITY LAB@229157
+halo-mcc-2021,525,Eric Hsu,,QA,Technical Testers,,Experis,core,October 2021 Update/Xbox Game Studios/SHIELD COMPATIBILITY LAB@229203
+halo-mcc-2021,526,Eric Woo,,QA,Technical Testers,,Experis,core,October 2021 Update/Xbox Game Studios/SHIELD COMPATIBILITY LAB@229243
+halo-mcc-2021,527,Justin Key,,QA,Technical Testers,,Experis,core,October 2021 Update/Xbox Game Studios/SHIELD COMPATIBILITY LAB@229283
+halo-mcc-2021,528,Kathleen Dugan,,QA,Technical Testers,,Experis,core,October 2021 Update/Xbox Game Studios/SHIELD COMPATIBILITY LAB@229325
+halo-mcc-2021,529,Kyle Bussoli,,QA,Technical Testers,,Experis,core,October 2021 Update/Xbox Game Studios/SHIELD COMPATIBILITY LAB@229371
+halo-mcc-2021,530,Matt Ambrosecchio,,QA,Technical Testers,,Experis,core,October 2021 Update/Xbox Game Studios/SHIELD COMPATIBILITY LAB@229415
+halo-mcc-2021,531,McKinley Johnson,,QA,Technical Testers,,Experis,core,October 2021 Update/Xbox Game Studios/SHIELD COMPATIBILITY LAB@229464
+halo-mcc-2021,532,Prescott Beals,,QA,Technical Testers,,Experis,core,October 2021 Update/Xbox Game Studios/SHIELD COMPATIBILITY LAB@229512
+halo-mcc-2021,533,Shasta Baker,,QA,Technical Testers,,Experis,core,October 2021 Update/Xbox Game Studios/SHIELD COMPATIBILITY LAB@229558
+halo-mcc-2021,534,Taylor Simmons,,QA,Technical Testers,,Experis,core,October 2021 Update/Xbox Game Studios/SHIELD COMPATIBILITY LAB@229602
+halo-mcc-2021,535,Brian Weiss,,Production,ProductionPartner Managers,,Xbox Game Studios,core,October 2021 Update/Xbox Game Studios/Global Gaming Partnerships & Development@230108
+halo-mcc-2021,536,Ed Stewart,,Production,ProductionPartner Managers,,Xbox Game Studios,core,October 2021 Update/Xbox Game Studios/Global Gaming Partnerships & Development@230141
+halo-mcc-2021,537,Esteban Lora,,Studio/Business,Business Manager,,Xbox Game Studios,core,October 2021 Update/Xbox Game Studios/External Technology and Suppliers (Xts)@230618
+halo-mcc-2021,538,Sam Carlisle,,Production,Senior Program Manager / External Partner Relations,,Xbox Game Studios,core,October 2021 Update/Xbox Game Studios/External Technology and Suppliers (Xts)@230784
+halo-mcc-2021,539,Jeff McCrory,,Publishing,Manager,,Xbox Game Studios,core,October 2021 Update/Xbox Game Studios/External Technology and Suppliers (Xts)@231029
+halo-mcc-2021,540,Monisha Monikantarajan,,Production,Program Manager,,Xbox Game Studios,core,October 2021 Update/Xbox Game Studios/External Technology and Suppliers (Xts)@231159
+halo-mcc-2021,541,Reza Elghazi,,Production,Senior Program Manager / Studios DAM,,Xbox Game Studios,core,October 2021 Update/Xbox Game Studios/XBOX STUDIO SERVICES@231655
+halo-mcc-2021,542,Tony Park,,Production,Senior Program Manager / Studios DAM,,Xbox Game Studios,core,October 2021 Update/Xbox Game Studios/XBOX STUDIO SERVICES@231689
+halo-mcc-2021,543,Matt Cookson,,Production,Senior Program Manager / Studios DAM,,Xbox Game Studios,core,October 2021 Update/Xbox Game Studios/XBOX STUDIO SERVICES@231720
+halo-mcc-2021,544,Peter Giffin,,Production,Principle Program Manager / Studios DAM,,Xbox Game Studios,core,October 2021 Update/Xbox Game Studios/XBOX STUDIO SERVICES@231874
+halo-mcc-2021,545,Sean Sheffer,,Production,Program Manager II / Steam Partner Account Manager,,Xbox Game Studios,core,October 2021 Update/Xbox Game Studios/XBOX STUDIO SERVICES@232039
+halo-mcc-2021,546,Ben Richeson,,Production,Principle Program Manager / Security,,Xbox Game Studios,core,October 2021 Update/Xbox Game Studios/XBOX STUDIO SERVICES@232190
+halo-mcc-2021,547,Dan Casey,,Publishing,Director / Xbox Studios Services,,Xbox Game Studios,core,October 2021 Update/Xbox Game Studios/XBOX STUDIO SERVICES@232337
+halo-mcc-2021,548,Matthew Karch,,Leadership,President/CEO,,Saber Interactive,core,October 2021 Update/Saber Interactive/Saber Leadership@232916
+halo-mcc-2021,549,Andrey Iones,,Leadership,COO,,Saber Interactive,core,October 2021 Update/Saber Interactive/Saber Leadership@233039
+halo-mcc-2021,550,Anton Krupkin,,Engineering,CTO/Technical Director,,Saber Interactive,core,October 2021 Update/Saber Interactive/Saber Leadership@233180
+halo-mcc-2021,551,Andrey Grigoriev,,Engineering,CTO/Technical Director,,Saber Interactive,core,October 2021 Update/Saber Interactive/Saber Leadership@233215
+halo-mcc-2021,552,Jesus Iglesias,,Leadership,Spanish Studio Director & Creative Director,,Saber Interactive,core,October 2021 Update/Saber Interactive/Saber Leadership@233377
+halo-mcc-2021,553,Marcos Falcon,,Engineering,Spanish Studio CTO/Technical Director,,Saber Interactive,core,October 2021 Update/Saber Interactive/Saber Leadership@233531
+halo-mcc-2021,554,Dmitriy Kholodov,,Art,Studio Art Director,,Saber Interactive,core,October 2021 Update/Saber Interactive/Saber Leadership@233666
+halo-mcc-2021,555,Roman Lebedev,,Engineering,Technical Director,,Saber Interactive,core,October 2021 Update/Saber Interactive/Development Team@234139
+halo-mcc-2021,556,Anton A. Vasilev,,Engineering,Lead Programmers,,Saber Interactive,core,October 2021 Update/Saber Interactive/Development Team@234271
+halo-mcc-2021,557,George Juravlev,,Engineering,Lead Programmers,,Saber Interactive,core,October 2021 Update/Saber Interactive/Development Team@234309
+halo-mcc-2021,558,Sergey Avdeev,,Engineering,Lead Programmers,,Saber Interactive,core,October 2021 Update/Saber Interactive/Development Team@234346
+halo-mcc-2021,559,José Daniel Sánchez López,,Engineering,Lead Programmers,,Saber Interactive,core,October 2021 Update/Saber Interactive/Development Team@234381
+halo-mcc-2021,560,Dmitriy Brevdo,,Engineering,Lead Programmers,,Saber Interactive,core,October 2021 Update/Saber Interactive/Development Team@234437
+halo-mcc-2021,561,Dmitriy Nazarov,,Engineering,Senior Programmers,,Saber Interactive,core,October 2021 Update/Saber Interactive/Development Team@234572
+halo-mcc-2021,562,Andrey Kilvein,,Engineering,Senior Programmers,,Saber Interactive,core,October 2021 Update/Saber Interactive/Development Team@234609
+halo-mcc-2021,563,Evgeniy Gubenko,,Engineering,Senior Programmers,,Saber Interactive,core,October 2021 Update/Saber Interactive/Development Team@234646
+halo-mcc-2021,564,Kirill Dmitrenko,,Engineering,Senior Programmers,,Saber Interactive,core,October 2021 Update/Saber Interactive/Development Team@234684
+halo-mcc-2021,565,Sergey Mironov,,Engineering,Senior Programmers,,Saber Interactive,core,October 2021 Update/Saber Interactive/Development Team@234722
+halo-mcc-2021,566,Anton M. Vasilev,,Engineering,Senior Programmers,,Saber Interactive,core,October 2021 Update/Saber Interactive/Development Team@234759
+halo-mcc-2021,567,Vyacheslav Rudakov,,Engineering,Senior Programmers,,Saber Interactive,core,October 2021 Update/Saber Interactive/Development Team@234797
+halo-mcc-2021,568,Aleksey Kozliayev,,Engineering,Senior Programmers,,Saber Interactive,core,October 2021 Update/Saber Interactive/Development Team@234837
+halo-mcc-2021,569,Anton Ivanov,,Engineering,Senior Programmers,,Saber Interactive,core,October 2021 Update/Saber Interactive/Development Team@234877
+halo-mcc-2021,570,Anton S Ivanov,,Engineering,Senior Programmers,,Saber Interactive,core,October 2021 Update/Saber Interactive/Development Team@234911
+halo-mcc-2021,571,Antonij Kirillov,,Engineering,Senior Programmers,,Saber Interactive,core,October 2021 Update/Saber Interactive/Development Team@234947
+halo-mcc-2021,572,Adrián González López,,Engineering,Senior Programmers,,Saber Interactive,core,October 2021 Update/Saber Interactive/Development Team@234985
+halo-mcc-2021,573,César Díaz-Faes Pérez,,Engineering,Senior Programmers,,Saber Interactive,core,October 2021 Update/Saber Interactive/Development Team@235037
+halo-mcc-2021,574,Ivan Shishkin,,Engineering,Senior Programmers,,Saber Interactive,core,October 2021 Update/Saber Interactive/Development Team@235089
+halo-mcc-2021,575,Max Bukhalov,,Engineering,Programmers,,Saber Interactive,core,October 2021 Update/Saber Interactive/Development Team@235220
+halo-mcc-2021,576,Konstantin Pail,,Engineering,Programmers,,Saber Interactive,core,October 2021 Update/Saber Interactive/Development Team@235255
+halo-mcc-2021,577,Nikolai Siukosev,,Engineering,Programmers,,Saber Interactive,core,October 2021 Update/Saber Interactive/Development Team@235293
+halo-mcc-2021,578,Arina Kirillova,,Engineering,Programmers,,Saber Interactive,core,October 2021 Update/Saber Interactive/Development Team@235332
+halo-mcc-2021,579,Inés Ruiz Rodríguez,,Engineering,Programmers,,Saber Interactive,core,October 2021 Update/Saber Interactive/Development Team@235370
+halo-mcc-2021,580,David Diaz Morgado,,Engineering,Programmers,,Saber Interactive,core,October 2021 Update/Saber Interactive/Development Team@235418
+halo-mcc-2021,581,Eamon Thornton,,Engineering,Programmers,,Saber Interactive,core,October 2021 Update/Saber Interactive/Development Team@235459
+halo-mcc-2021,582,Mariano Cicchinelli,,Engineering,Programmers,,Saber Interactive,core,October 2021 Update/Saber Interactive/Development Team@235495
+halo-mcc-2021,583,Marta Aguilera,,Engineering,Programmers,,Saber Interactive,core,October 2021 Update/Saber Interactive/Development Team@235537
+halo-mcc-2021,584,Vitaly Kovalev,,Engineering,Programmers,,Saber Interactive,core,October 2021 Update/Saber Interactive/Development Team@235574
+halo-mcc-2021,585,Maxim Wolf,,Engineering,Programmers,,Saber Interactive,core,October 2021 Update/Saber Interactive/Development Team@235611
+halo-mcc-2021,586,Evgeny Pashikyan,,Engineering,Programmers,,Saber Interactive,core,October 2021 Update/Saber Interactive/Development Team@235644
+halo-mcc-2021,587,Stepan Safulkin,,Engineering,Programmers,,Saber Interactive,core,October 2021 Update/Saber Interactive/Development Team@235683
+halo-mcc-2021,588,Pavel Rodionov,,Engineering,Programmers,,Saber Interactive,core,October 2021 Update/Saber Interactive/Development Team@235721
+halo-mcc-2021,589,Alexander Basov,,Engineering,Programmers,,Saber Interactive,core,October 2021 Update/Saber Interactive/Development Team@235758
+halo-mcc-2021,590,Alexey Frolov,,Engineering,Programmers,,Saber Interactive,core,October 2021 Update/Saber Interactive/Development Team@235796
+halo-mcc-2021,591,Dmitry Smirnov,,Engineering,Programmers,,Saber Interactive,core,October 2021 Update/Saber Interactive/Development Team@235832
+halo-mcc-2021,592,Vadim Melnikov,,Engineering,Programmers,,Saber Interactive,core,October 2021 Update/Saber Interactive/Development Team@235869
+halo-mcc-2021,593,Aleksandr Plokhikh,,Engineering,Programmers,,Saber Interactive,core,October 2021 Update/Saber Interactive/Development Team@235906
+halo-mcc-2021,594,Anton Sedov,,Engineering,Programmers,,Saber Interactive,core,October 2021 Update/Saber Interactive/Development Team@235947
+halo-mcc-2021,595,Alexy Podverbny,,Engineering,Programmers,,Saber Interactive,core,October 2021 Update/Saber Interactive/Development Team@235981
+halo-mcc-2021,596,Egor Suboch,,Engineering,Programmers,,Saber Interactive,core,October 2021 Update/Saber Interactive/Development Team@236019
+halo-mcc-2021,597,Ilya Klimko,,Engineering,Programmers,,Saber Interactive,core,October 2021 Update/Saber Interactive/Development Team@236053
+halo-mcc-2021,598,Yuri Khamidulin,,Engineering,Programmers,,Saber Interactive,core,October 2021 Update/Saber Interactive/Development Team@236087
+halo-mcc-2021,599,Konstatin Poliakov,,Engineering,Programmers,,Saber Interactive,core,October 2021 Update/Saber Interactive/Development Team@236125
+halo-mcc-2021,600,Carlos Guijarro,,Engineering,Programmers,,Saber Interactive,core,October 2021 Update/Saber Interactive/Development Team@236166
+halo-mcc-2021,601,Vladimir Parusov,,Engineering,Programmers,,Saber Interactive,core,October 2021 Update/Saber Interactive/Development Team@236204
+halo-mcc-2021,602,Pavel Rodionov,,Engineering,Programmers,,Saber Interactive,core,October 2021 Update/Saber Interactive/Development Team@236242
+halo-mcc-2021,603,Anton Kostiuk,,Engineering,Programmers,,Saber Interactive,core,October 2021 Update/Saber Interactive/Development Team@236279
+halo-mcc-2021,604,Andrey Spivak,,Engineering,Programmers,,Saber Interactive,core,October 2021 Update/Saber Interactive/Development Team@236315
+halo-mcc-2021,605,Aleksei Andreev,,Engineering,Programmers,,Saber Interactive,core,October 2021 Update/Saber Interactive/Development Team@236350
+halo-mcc-2021,606,Dmitry Gorevoy,,Engineering,Programmers,,Saber Interactive,core,October 2021 Update/Saber Interactive/Development Team@236388
+halo-mcc-2021,607,Ilia Soskin,,Engineering,Programmers,,Saber Interactive,core,October 2021 Update/Saber Interactive/Development Team@236425
+halo-mcc-2021,608,Vasilii Tsvetkov,,Engineering,Programmers,,Saber Interactive,core,October 2021 Update/Saber Interactive/Development Team@236459
+halo-mcc-2021,609,Adam Korkmazov,,Engineering,Programmers,,Saber Interactive,core,October 2021 Update/Saber Interactive/Development Team@236498
+halo-mcc-2021,610,Vladimir Kazakov,,Engineering,Programmers,,Saber Interactive,core,October 2021 Update/Saber Interactive/Development Team@236535
+halo-mcc-2021,611,Oleg Arefev,,Engineering,Programmers,,Saber Interactive,core,October 2021 Update/Saber Interactive/Development Team@236574
+halo-mcc-2021,612,Sergey Demidov,,Art,Lead Technical Artist,,Saber Interactive,core,October 2021 Update/Saber Interactive/Development Team@236709
+halo-mcc-2021,613,Anton Trufanov,,Art,Senior Technical Artist,,Saber Interactive,core,October 2021 Update/Saber Interactive/Development Team@236972
+halo-mcc-2021,614,Kirill Sekachev,,Art,Technical Artist,,Saber Interactive,core,October 2021 Update/Saber Interactive/Development Team@237109
+halo-mcc-2021,615,Sergey Nikolaev,,Art,Technical Artist,,Saber Interactive,core,October 2021 Update/Saber Interactive/Development Team@237146
+halo-mcc-2021,616,Igor Frolov,,Art,Technical Artist,,Saber Interactive,core,October 2021 Update/Saber Interactive/Development Team@237183
+halo-mcc-2021,617,Filipp Ivanov,,Art,Technical Artist,,Saber Interactive,core,October 2021 Update/Saber Interactive/Development Team@237216
+halo-mcc-2021,618,Andrey Tarnovskiy,,Art,Technical Artist,,Saber Interactive,core,October 2021 Update/Saber Interactive/Development Team@237251
+halo-mcc-2021,619,Andrey Khomchenko,,Art,Technical Artist,,Saber Interactive,core,October 2021 Update/Saber Interactive/Development Team@237291
+halo-mcc-2021,620,Aleksey Melnikov,,Art,Lead UI Artist,,Saber Interactive,core,October 2021 Update/Saber Interactive/Development Team@237429
+halo-mcc-2021,621,Rafael Martinez Tarin,,Art,Lead UI Artist,,Saber Interactive,core,October 2021 Update/Saber Interactive/Development Team@237467
+halo-mcc-2021,622,Anna Boldyreva,,Art,Senior UI Artist,,Saber Interactive,core,October 2021 Update/Saber Interactive/Development Team@237607
+halo-mcc-2021,623,Anton Blokhin,,Art,Senior UI Artist,,Saber Interactive,core,October 2021 Update/Saber Interactive/Development Team@237643
+halo-mcc-2021,624,Daniel Jimenez Lugo,,Art,Senior UI Artist,,Saber Interactive,core,October 2021 Update/Saber Interactive/Development Team@237678
+halo-mcc-2021,625,Andrey Kholodov,,Art,Senior UI Artist,,Saber Interactive,core,October 2021 Update/Saber Interactive/Development Team@237723
+halo-mcc-2021,626,Egor Makhlushev,,Art,Senior UI Artist,,Saber Interactive,core,October 2021 Update/Saber Interactive/Development Team@237760
+halo-mcc-2021,627,Evgeniy Melnikov,,Art,Animation Artist,,Saber Interactive,core,October 2021 Update/Saber Interactive/Development Team@237894
+halo-mcc-2021,628,Elena Tarnovskaia,,Other,Head of Texturing Department,,Saber Interactive,core,October 2021 Update/Saber Interactive/texturing@238365
+halo-mcc-2021,629,Georgiy Paute,,Art,Lead Texture Artist,,Saber Interactive,core,October 2021 Update/Saber Interactive/texturing@238504
+halo-mcc-2021,630,Aleksandr Kuznetsov,,Art,Senior Texture Artist,,Saber Interactive,core,October 2021 Update/Saber Interactive/texturing@238641
+halo-mcc-2021,631,Anton Sumerin,,Art,Senior Texture Artist,,Saber Interactive,core,October 2021 Update/Saber Interactive/texturing@238682
+halo-mcc-2021,632,Aleksandr Kailov,,Art,Texture Artist,,Saber Interactive,core,October 2021 Update/Saber Interactive/texturing@238812
+halo-mcc-2021,633,Iurii Ekimov,,Art,Texture Artist,,Saber Interactive,core,October 2021 Update/Saber Interactive/texturing@238850
+halo-mcc-2021,634,Sergey Rakhmanov,,Production,Lead Producer,,Saber Interactive,core,October 2021 Update/Saber Interactive/Production@239249
+halo-mcc-2021,635,Tobias Heussner,,Production,Lead Producer,,Saber Interactive,core,October 2021 Update/Saber Interactive/Production@239287
+halo-mcc-2021,636,Anastasia Fatina,,Production,Producer,,Saber Interactive,core,October 2021 Update/Saber Interactive/Production@239417
+halo-mcc-2021,637,Victoria Kozlova,,Production,Producer,,Saber Interactive,core,October 2021 Update/Saber Interactive/Production@239456
+halo-mcc-2021,638,Dmitry Ivanov,,Production,Producer,,Saber Interactive,core,October 2021 Update/Saber Interactive/Production@239495
+halo-mcc-2021,639,Marina Shkabara,,Production,Producer,,Saber Interactive,core,October 2021 Update/Saber Interactive/Production@239531
+halo-mcc-2021,640,Francisco Javier Espejo Gargallo,,Production,Producer,,Saber Interactive,core,October 2021 Update/Saber Interactive/Production@239568
+halo-mcc-2021,641,Alexandra Zakirova,,Production,Producer,,Saber Interactive,core,October 2021 Update/Saber Interactive/Production@239623
+halo-mcc-2021,642,Alexey Tkachev,,Production,Producer,,Saber Interactive,core,October 2021 Update/Saber Interactive/Production@239663
+halo-mcc-2021,643,Ekaterina Tarnovskaya,,Production,Producer,,Saber Interactive,core,October 2021 Update/Saber Interactive/Production@239700
+halo-mcc-2021,644,Aleksandra Lartseva,,Production,Producer,,Saber Interactive,core,October 2021 Update/Saber Interactive/Production@239743
+halo-mcc-2021,645,Viktor Glyanenko,,QA,QA Director,,Saber Interactive,core,October 2021 Update/Saber Interactive/Quality Assurance@240150
+halo-mcc-2021,646,Maxim Filippov,,QA,QA Lead,,Saber Interactive,core,October 2021 Update/Saber Interactive/Quality Assurance@240280
+halo-mcc-2021,647,Eduardo Belmonte Acero,,QA,QA Lead,,Saber Interactive,core,October 2021 Update/Saber Interactive/Quality Assurance@240316
+halo-mcc-2021,648,Vitaliy Barykin,,QA,QA Project Lead,,Saber Interactive,core,October 2021 Update/Saber Interactive/Quality Assurance@240460
+halo-mcc-2021,649,Pavel Makarov,,QA,QA Project Lead,,Saber Interactive,core,October 2021 Update/Saber Interactive/Quality Assurance@240497
+halo-mcc-2021,650,Alexander Ivanov,,QA,QA Project Lead,,Saber Interactive,core,October 2021 Update/Saber Interactive/Quality Assurance@240532
+halo-mcc-2021,651,Vasiliy Kropotov,,QA,QA Project Lead,,Saber Interactive,core,October 2021 Update/Saber Interactive/Quality Assurance@240571
+halo-mcc-2021,652,Lurii Sheriiatov,,QA,QA Project Lead,,Saber Interactive,core,October 2021 Update/Saber Interactive/Quality Assurance@240609
+halo-mcc-2021,653,Roman Zakharov,,QA,QA Testers,,Saber Interactive,core,October 2021 Update/Saber Interactive/Quality Assurance@240742
+halo-mcc-2021,654,Daniil Bakulin,,QA,QA Testers,,Saber Interactive,core,October 2021 Update/Saber Interactive/Quality Assurance@240778
+halo-mcc-2021,655,Victoria Bagdasaeva,,QA,QA Testers,,Saber Interactive,core,October 2021 Update/Saber Interactive/Quality Assurance@240815
+halo-mcc-2021,656,Pavel Borodin,,QA,QA Testers,,Saber Interactive,core,October 2021 Update/Saber Interactive/Quality Assurance@240857
+halo-mcc-2021,657,Maxim Shlemin,,QA,QA Testers,,Saber Interactive,core,October 2021 Update/Saber Interactive/Quality Assurance@240892
+halo-mcc-2021,658,Yan Lozovator,,QA,QA Testers,,Saber Interactive,core,October 2021 Update/Saber Interactive/Quality Assurance@240928
+halo-mcc-2021,659,Aleksandr Feofanov,,QA,QA Testers,,Saber Interactive,core,October 2021 Update/Saber Interactive/Quality Assurance@240964
+halo-mcc-2021,660,Pavel Boyarko,,QA,QA Testers,,Saber Interactive,core,October 2021 Update/Saber Interactive/Quality Assurance@241004
+halo-mcc-2021,661,Stanislav Ladatkin,,QA,QA Testers,,Saber Interactive,core,October 2021 Update/Saber Interactive/Quality Assurance@241040
+halo-mcc-2021,662,Boris Sherstov,,QA,QA Testers,,Saber Interactive,core,October 2021 Update/Saber Interactive/Quality Assurance@241080
+halo-mcc-2021,663,Pavel Sdobnikov,,QA,QA Testers,,Saber Interactive,core,October 2021 Update/Saber Interactive/Quality Assurance@241116
+halo-mcc-2021,664,Mikhail Kurnosov,,QA,QA Testers,,Saber Interactive,core,October 2021 Update/Saber Interactive/Quality Assurance@241153
+halo-mcc-2021,665,Aleksandr Feofanov,,QA,QA Testers,,Saber Interactive,core,October 2021 Update/Saber Interactive/Quality Assurance@241320
+halo-mcc-2021,666,Alexander Ivanov,,QA,QA Testers,,Saber Interactive,core,October 2021 Update/Saber Interactive/Quality Assurance@241361
+halo-mcc-2021,667,Arseniy Skripkin,,QA,QA Testers,,Saber Interactive,core,October 2021 Update/Saber Interactive/Quality Assurance@241399
+halo-mcc-2021,668,Igor Andreev,,QA,QA Testers,,Saber Interactive,core,October 2021 Update/Saber Interactive/Quality Assurance@241437
+halo-mcc-2021,669,Maria Bezmaternykh,,QA,QA Testers,,Saber Interactive,core,October 2021 Update/Saber Interactive/Quality Assurance@241471
+halo-mcc-2021,670,Ksenia Eremeeva,,QA,QA Testers,,Saber Interactive,core,October 2021 Update/Saber Interactive/Quality Assurance@241511
+halo-mcc-2021,671,Vera Bukacheva,,QA,QA Testers,,Saber Interactive,core,October 2021 Update/Saber Interactive/Quality Assurance@241548
+halo-mcc-2021,672,Anton Vinogradov,,QA,QA Testers,,Saber Interactive,core,October 2021 Update/Saber Interactive/Quality Assurance@241584
+halo-mcc-2021,673,Paula García Suárez,,QA,QA Testers,,Saber Interactive,core,October 2021 Update/Saber Interactive/Quality Assurance@241622
+halo-mcc-2021,674,Juan Nicolás Sánchez Murillo,,QA,QA Testers,,Saber Interactive,core,October 2021 Update/Saber Interactive/Quality Assurance@241669
+halo-mcc-2021,675,Alfonso Jiménez Balairón,,QA,QA Testers,,Saber Interactive,core,October 2021 Update/Saber Interactive/Quality Assurance@241725
+halo-mcc-2021,676,Aleksandr Shkarban,,QA,QA Testers,,Saber Interactive,core,October 2021 Update/Saber Interactive/Quality Assurance@241777
+halo-mcc-2021,677,Andrei Balakan,,QA,QA Testers,,Saber Interactive,core,October 2021 Update/Saber Interactive/Quality Assurance@241817
+halo-mcc-2021,678,Igor Alexandrov,,QA,QA Testers,,Saber Interactive,core,October 2021 Update/Saber Interactive/Quality Assurance@241853
+halo-mcc-2021,679,Nikita Sinilschikov,,QA,QA Testers,,Saber Interactive,core,October 2021 Update/Saber Interactive/Quality Assurance@241891
+halo-mcc-2021,680,Victoria Alekseeva,,QA,QA Testers,,Saber Interactive,core,October 2021 Update/Saber Interactive/Quality Assurance@241933
+halo-mcc-2021,681,Maksim Baikov,,QA,QA Testers,,Saber Interactive,core,October 2021 Update/Saber Interactive/Quality Assurance@241974
+halo-mcc-2021,682,Andrei Ilin,,QA,QA Testers,,Saber Interactive,core,October 2021 Update/Saber Interactive/Quality Assurance@242010
+halo-mcc-2021,683,Ilya Safonov,,QA,QA Testers,,Saber Interactive,core,October 2021 Update/Saber Interactive/Quality Assurance@242044
+halo-mcc-2021,684,Ruslan Borzenko,,QA,QA Testers,,Saber Interactive,core,October 2021 Update/Saber Interactive/Quality Assurance@242079
+halo-mcc-2021,685,Mikhail Abramov,,QA,QA Testers,,Saber Interactive,core,October 2021 Update/Saber Interactive/Quality Assurance@242117
+halo-mcc-2021,686,Elena Bondareva,,Art,Lead Outsource Manager,,Saber Interactive,core,October 2021 Update/Saber Interactive/Outsource art department@242534
+halo-mcc-2021,687,Maksim Esafev,,Art,Outsource Managers,,Saber Interactive,core,October 2021 Update/Saber Interactive/Outsource art department@242670
+halo-mcc-2021,688,Oleg Kuznetsov,,Art,Outsource Managers,,Saber Interactive,core,October 2021 Update/Saber Interactive/Outsource art department@242705
+halo-mcc-2021,692,NewWoods,,Art,Outsource Studios,,Saber Interactive,core,October 2021 Update/Saber Interactive/Outsource art department@242978
+halo-mcc-2021,693,Deltaraccoons Team,,Art,Outsource Studios,,Saber Interactive,core,October 2021 Update/Saber Interactive/Outsource art department@243009
+halo-mcc-2021,696,Surfside3d,,Art,Outsource Studios,,Saber Interactive,core,October 2021 Update/Saber Interactive/Outsource art department@243128
+halo-mcc-2021,697,Advance Schematics,,Art,Outsource Studios,,Saber Interactive,core,October 2021 Update/Saber Interactive/Outsource art department@243161
+halo-mcc-2021,698,Viktor Stupko,,Other,IT Director,,Saber Interactive,core,October 2021 Update/Saber Interactive/IT@243550
+halo-mcc-2021,699,Vladislav Yakushenko,,Other,IT Specialists,,Saber Interactive,core,October 2021 Update/Saber Interactive/IT@243684
+halo-mcc-2021,700,Arthur Agadzhanov,,Other,IT Specialists,,Saber Interactive,core,October 2021 Update/Saber Interactive/IT@243726
+halo-mcc-2021,701,Ivan Filin,,Other,IT Specialists,,Saber Interactive,core,October 2021 Update/Saber Interactive/IT@243765
+halo-mcc-2021,702,Albert Kosarev,,Other,IT Specialists,,Saber Interactive,core,October 2021 Update/Saber Interactive/IT@243798
+halo-mcc-2021,703,Ivan Lebedev,,Other,IT Specialists,,Saber Interactive,core,October 2021 Update/Saber Interactive/IT@243835
+halo-mcc-2021,704,Aleksei Tsybin,,Other,IT Specialists,,Saber Interactive,core,October 2021 Update/Saber Interactive/IT@243870
+halo-mcc-2021,705,Anatolii Zimovskii,,Other,IT Specialists,,Saber Interactive,core,October 2021 Update/Saber Interactive/IT@243907
+halo-mcc-2021,706,Jose Ignacio Hualde,,Other,IT Specialists,,Saber Interactive,core,October 2021 Update/Saber Interactive/IT@243948
+halo-mcc-2021,707,Leyla Novruzova,,Studio/Business,Administration,,Saber Interactive,core,October 2021 Update/Saber Interactive/Administration@244262
+halo-mcc-2021,708,Viktoriya Kolganova,,Studio/Business,Administration,,Saber Interactive,core,October 2021 Update/Saber Interactive/Administration@244300
+halo-mcc-2021,709,Natalia Lediaeva,,Studio/Business,Administration,,Saber Interactive,core,October 2021 Update/Saber Interactive/Administration@244342
+halo-mcc-2021,710,Anna Agaian,,Studio/Business,Administration,,Saber Interactive,core,October 2021 Update/Saber Interactive/Administration@244380
+halo-mcc-2021,711,Yuliya Egorova,,Publishing,HR Director,,Saber Interactive,core,October 2021 Update/Saber Interactive/HR Managers@244770
+halo-mcc-2021,712,Zoia Maslova,,Publishing,HR Specialists,,Saber Interactive,core,October 2021 Update/Saber Interactive/HR Managers@244924
+halo-mcc-2021,713,Mariia Ianko,,Publishing,HR Specialists,,Saber Interactive,core,October 2021 Update/Saber Interactive/HR Managers@244958
+halo-mcc-2021,714,Marina Chernenko,,Publishing,HR Specialists,,Saber Interactive,core,October 2021 Update/Saber Interactive/HR Managers@244993
+halo-mcc-2021,715,Tatjana Bugaenko,,Publishing,HR Specialists,,Saber Interactive,core,October 2021 Update/Saber Interactive/HR Managers@245032
+halo-mcc-2021,716,Anastasia Kurnosova,,Publishing,HR Specialists,,Saber Interactive,core,October 2021 Update/Saber Interactive/HR Managers@245070
+halo-mcc-2021,717,Tatiana Arsakova,,Publishing,HR Specialists,,Saber Interactive,core,October 2021 Update/Saber Interactive/HR Managers@245111
+halo-mcc-2021,718,Iurii Kurashov,,Publishing,HR Specialists,,Saber Interactive,core,October 2021 Update/Saber Interactive/HR Managers@245149
+halo-mcc-2021,719,Mariya Reznikova,,Publishing,Finance Account Manager,,Saber Interactive,core,October 2021 Update/Saber Interactive/Finance Accounting Managers@245569
+halo-mcc-2021,720,Yana Bondar,,Publishing,Finance Account Manager,,Saber Interactive,core,October 2021 Update/Saber Interactive/Finance Accounting Managers@245607
+halo-mcc-2021,721,Tatiana Umarova,,Publishing,Finance Account Manager,,Saber Interactive,core,October 2021 Update/Saber Interactive/Finance Accounting Managers@245640
+halo-mcc-2021,722,Ralph Egas,,Other,CEO,,Abstraction,core,October 2021 Update/Abstraction/@246202
+halo-mcc-2021,723,Erik Bastianen,,Other,CTO,,Abstraction,core,October 2021 Update/Abstraction/@246318
+halo-mcc-2021,724,Dominique Morel,,Other,COO,,Abstraction,core,October 2021 Update/Abstraction/@246438
+halo-mcc-2021,725,Olivier Lhermite,,Other,COO,,Abstraction,core,October 2021 Update/Abstraction/@246496
+halo-mcc-2021,726,Commercial Director,,Other,COO,,Abstraction,core,October 2021 Update/Abstraction/@246535
+halo-mcc-2021,727,Simon Usiskin,,Other,COO,,Abstraction,core,October 2021 Update/Abstraction/@246577
+halo-mcc-2021,728,HR Manager,,Other,COO,,Abstraction,core,October 2021 Update/Abstraction/@246613
+halo-mcc-2021,729,Kirsten Kapteijns,,Other,COO,,Abstraction,core,October 2021 Update/Abstraction/@246646
+halo-mcc-2021,730,Farah Nasri,,Production,Production,,Abstraction,core,October 2021 Update/Abstraction/@246776
+halo-mcc-2021,731,Wilco Schroo,,Engineering,Lead Programmer,,Abstraction,core,October 2021 Update/Abstraction/@246905
+halo-mcc-2021,732,Eric Troost,,Engineering,Programmers,,Abstraction,core,October 2021 Update/Abstraction/@247031
+halo-mcc-2021,733,Lorenzo La Spina,,Engineering,Programmers,,Abstraction,core,October 2021 Update/Abstraction/@247064
+halo-mcc-2021,734,QA Manager,,Engineering,Programmers,,Abstraction,core,October 2021 Update/Abstraction/@247102
+halo-mcc-2021,735,Mark Pittam,,Engineering,Programmers,,Abstraction,core,October 2021 Update/Abstraction/@247134
+halo-mcc-2021,736,Matthijs Nahon,,QA,QA,,Abstraction,core,October 2021 Update/Abstraction/@247250
+halo-mcc-2021,737,Richard Spano,,Other,IT,,Abstraction,core,October 2021 Update/Abstraction/@247369
+halo-mcc-2021,738,Paul Lipson,,Leadership,Senior Vice President,,Formosa Interactive,core,October 2021 Update/Formosa Interactive/@247970
+halo-mcc-2021,739,Janet Rankin,,Publishing,"Director, Finance and Operations",,Formosa Interactive,core,October 2021 Update/Formosa Interactive/@248115
+halo-mcc-2021,740,Anne Juenger,,Studio/Business,"Director, Business Development",,Formosa Interactive,core,October 2021 Update/Formosa Interactive/@248259
+halo-mcc-2021,741,Brian Fieser,,Audio,Technical Sound Design and Integration,,Formosa Interactive,core,October 2021 Update/Formosa Interactive/@248412
+halo-mcc-2021,742,Peter “PDX” Drescher,,Audio,Technical Sound Design and Integration,,Formosa Interactive,core,October 2021 Update/Formosa Interactive/@248446
+halo-mcc-2021,743,Alan Rankin,,Audio,Technical Sound Design and Integration,,Formosa Interactive,core,October 2021 Update/Formosa Interactive/@248488
+halo-mcc-2021,744,Duncan Brown,,Other,"Manager, Assets and Integration",,Formosa Interactive,core,October 2021 Update/Formosa Interactive/@248632
+halo-mcc-2021,745,Gaz Liddon,,Engineering,Senior Engineers,,Ruffian Games,core,October 2021 Update/Ruffian Games/@249241
+halo-mcc-2021,746,Duncan Harrison,,Engineering,Senior Engineers,,Ruffian Games,core,October 2021 Update/Ruffian Games/@249381
+halo-mcc-2021,747,Steve Legg,,Engineering,Senior Engineers,,Ruffian Games,core,October 2021 Update/Ruffian Games/@249530
+halo-mcc-2021,748,Leigh Bird,,Engineering,Senior Engineers,,Ruffian Games,core,October 2021 Update/Ruffian Games/@249675
+halo-mcc-2021,749,Bert McDowell,,Engineering,Senior Engineers,,Ruffian Games,core,October 2021 Update/Ruffian Games/@249813
+halo-mcc-2021,750,Graham Hughes,,Engineering,Senior Engineers,,Ruffian Games,core,October 2021 Update/Ruffian Games/@249848
+halo-mcc-2021,751,Simon Kilroy,,Engineering,Senior Engineers,,Ruffian Games,core,October 2021 Update/Ruffian Games/@249883
+halo-mcc-2021,752,Raymond Usher,,Production,Production Manager,,Ruffian Games,core,October 2021 Update/Ruffian Games/@250164
+halo-mcc-2021,753,Alex Porter,,Production,Production Manager,,Ruffian Games,core,October 2021 Update/Ruffian Games/@250306
+halo-mcc-2021,754,Paul Large,,Production,Production Manager,,Ruffian Games,core,October 2021 Update/Ruffian Games/@250441
+halo-mcc-2021,755,Gary Whitton,,Production,Production Manager,,Ruffian Games,core,October 2021 Update/Ruffian Games/@250578
+halo-mcc-2021,756,Richard Ralfe,,Production,Production Manager,,Ruffian Games,core,October 2021 Update/Ruffian Games/@250720
+halo-mcc-2021,757,Paul Conry,,QA,Test Manager,,Ruffian Games,core,October 2021 Update/Ruffian Games/@250970
+halo-mcc-2021,758,Ryan Connolly,,QA,Lead Tester,,Ruffian Games,core,October 2021 Update/Ruffian Games/@251094
+halo-mcc-2021,759,Paul Conry,,QA,Games Testers,,Ruffian Games,core,October 2021 Update/Ruffian Games/@251223
+halo-mcc-2021,760,Tom Clark,,QA,Games Testers,,Ruffian Games,core,October 2021 Update/Ruffian Games/@251358
+halo-mcc-2021,761,Philip Duff,,QA,Games Testers,,Ruffian Games,core,October 2021 Update/Ruffian Games/@251389
+halo-mcc-2021,762,Sean Stewart,,QA,Games Testers,,Ruffian Games,core,October 2021 Update/Ruffian Games/@251422
+halo-mcc-2021,763,Alasdair Oram,,QA,Additional Games Testers,,Ruffian Games,core,October 2021 Update/Ruffian Games/@251682
+halo-mcc-2021,764,Alex Levick,,QA,Additional Games Testers,,Ruffian Games,core,October 2021 Update/Ruffian Games/@251717
+halo-mcc-2021,765,Craig Fraser,,QA,Additional Games Testers,,Ruffian Games,core,October 2021 Update/Ruffian Games/@251750
+halo-mcc-2021,766,David Claesson,,QA,Additional Games Testers,,Ruffian Games,core,October 2021 Update/Ruffian Games/@251784
+halo-mcc-2021,767,Euan Gaul,,QA,Additional Games Testers,,Ruffian Games,core,October 2021 Update/Ruffian Games/@251820
+halo-mcc-2021,768,Euan Wilson,,QA,Additional Games Testers,,Ruffian Games,core,October 2021 Update/Ruffian Games/@251851
+halo-mcc-2021,769,Jason Tennent,,QA,Additional Games Testers,,Ruffian Games,core,October 2021 Update/Ruffian Games/@251884
+halo-mcc-2021,770,Julio Tong,,QA,Additional Games Testers,,Ruffian Games,core,October 2021 Update/Ruffian Games/@251919
+halo-mcc-2021,771,Keir Smith,,QA,Additional Games Testers,,Ruffian Games,core,October 2021 Update/Ruffian Games/@251951
+halo-mcc-2021,772,Ramesh Khairandish,,QA,Additional Games Testers,,Ruffian Games,core,October 2021 Update/Ruffian Games/@251983
+halo-mcc-2021,773,Sean Connaghan,,QA,Additional Games Testers,,Ruffian Games,core,October 2021 Update/Ruffian Games/@252023
+halo-mcc-2021,774,Adrian Blunt,,Leadership,Splash Damage Leadership,,Splash Damage,core,October 2021 Update/Splash Damage/@252624
+halo-mcc-2021,775,Alastair Cornish,,Leadership,Splash Damage Leadership,,Splash Damage,core,October 2021 Update/Splash Damage/@252658
+halo-mcc-2021,776,Arnout van Meer,,Leadership,Splash Damage Leadership,,Splash Damage,core,October 2021 Update/Splash Damage/@252696
+halo-mcc-2021,777,Ben Hopkinson,,Leadership,Splash Damage Leadership,,Splash Damage,core,October 2021 Update/Splash Damage/@252733
+halo-mcc-2021,778,Griff Jenkins,,Leadership,Splash Damage Leadership,,Splash Damage,core,October 2021 Update/Splash Damage/@252768
+halo-mcc-2021,779,Jonathan Rowe,,Leadership,Splash Damage Leadership,,Splash Damage,core,October 2021 Update/Splash Damage/@252803
+halo-mcc-2021,780,Marc Fascia,,Leadership,Splash Damage Leadership,,Splash Damage,core,October 2021 Update/Splash Damage/@252838
+halo-mcc-2021,781,Nick Bridger,,Leadership,Splash Damage Leadership,,Splash Damage,core,October 2021 Update/Splash Damage/@252871
+halo-mcc-2021,782,Richard Jolly,,Leadership,Splash Damage Leadership,,Splash Damage,core,October 2021 Update/Splash Damage/@252905
+halo-mcc-2021,783,Robert Macdonald,,Leadership,Splash Damage Leadership,,Splash Damage,core,October 2021 Update/Splash Damage/@252940
+halo-mcc-2021,784,Steve Hessel,,Leadership,Splash Damage Leadership,,Splash Damage,core,October 2021 Update/Splash Damage/@252978
+halo-mcc-2021,785,George Wright,,Production,Project Leadership,,Splash Damage,core,October 2021 Update/Splash Damage/@253111
+halo-mcc-2021,786,Min Li,,Production,Project Leadership,,Splash Damage,core,October 2021 Update/Splash Damage/@253146
+halo-mcc-2021,787,Valentin Galea,,Other,Technical Lead,,Splash Damage,core,October 2021 Update/Splash Damage/@253269
+halo-mcc-2021,788,Henry Winder,,Other,Department Leads,,Splash Damage,core,October 2021 Update/Splash Damage/@253402
+halo-mcc-2021,789,Jonathan Marchlik,,Other,Department Leads,,Splash Damage,core,October 2021 Update/Splash Damage/@253436
+halo-mcc-2021,790,Joshua Andrews,,Other,Department Leads,,Splash Damage,core,October 2021 Update/Splash Damage/@253475
+halo-mcc-2021,791,Lance Winter,,Other,Department Leads,,Splash Damage,core,October 2021 Update/Splash Damage/@253511
+halo-mcc-2021,792,Mark Verkerk,,Other,Department Leads,,Splash Damage,core,October 2021 Update/Splash Damage/@253545
+halo-mcc-2021,793,Ming Tregonning,,Other,Department Leads,,Splash Damage,core,October 2021 Update/Splash Damage/@253579
+halo-mcc-2021,794,Sylvain Gibouret,,Other,Department Leads,,Splash Damage,core,October 2021 Update/Splash Damage/@253616
+halo-mcc-2021,795,Tom Gantzer,,Other,Department Leads,,Splash Damage,core,October 2021 Update/Splash Damage/@253654
+halo-mcc-2021,796,Clemens Rogner,,Engineering,Core Tech Programming,,Splash Damage,core,October 2021 Update/Splash Damage/@253789
+halo-mcc-2021,797,Dimitrios Kamileris,,Engineering,Core Tech Programming,,Splash Damage,core,October 2021 Update/Splash Damage/@253825
+halo-mcc-2021,798,Nathan Day,,Engineering,Core Tech Programming,,Splash Damage,core,October 2021 Update/Splash Damage/@253866
+halo-mcc-2021,799,Pascal Gane,,Engineering,Core Tech Programming,,Splash Damage,core,October 2021 Update/Splash Damage/@253898
+halo-mcc-2021,800,Roman Kladovshchikov,,Engineering,Core Tech Programming,,Splash Damage,core,October 2021 Update/Splash Damage/@253931
+halo-mcc-2021,801,Stefano Sampietro,,Engineering,Core Tech Programming,,Splash Damage,core,October 2021 Update/Splash Damage/@253973
+halo-mcc-2021,802,Aaron Blows,,Engineering,Gameplay Programming,,Splash Damage,core,October 2021 Update/Splash Damage/@254113
+halo-mcc-2021,803,Dann Yeung,,Engineering,Gameplay Programming,,Splash Damage,core,October 2021 Update/Splash Damage/@254146
+halo-mcc-2021,804,Iain Forsyth,,Engineering,Gameplay Programming,,Splash Damage,core,October 2021 Update/Splash Damage/@254178
+halo-mcc-2021,805,Marco Dalla Via,,Engineering,Gameplay Programming,,Splash Damage,core,October 2021 Update/Splash Damage/@254212
+halo-mcc-2021,806,Mahmoud Aladdin El Ganainy,,Engineering,Gameplay Programming,,Splash Damage,core,October 2021 Update/Splash Damage/@254249
+halo-mcc-2021,807,Nicolas d'Offay,,Engineering,Gameplay Programming,,Splash Damage,core,October 2021 Update/Splash Damage/@254297
+halo-mcc-2021,808,Raghav Narula,,Engineering,Gameplay Programming,,Splash Damage,core,October 2021 Update/Splash Damage/@254334
+halo-mcc-2021,809,Salvador Garcia Mendez,,Engineering,Online Programming,,Splash Damage,core,October 2021 Update/Splash Damage/@254591
+halo-mcc-2021,810,Tristan Cartledge,,Engineering,Online Programming,,Splash Damage,core,October 2021 Update/Splash Damage/@254635
+halo-mcc-2021,811,Benjamin Bywater,,Engineering,UI Programming,,Splash Damage,core,October 2021 Update/Splash Damage/@254769
+halo-mcc-2021,812,Dave Johnston,,Engineering,UI Programming,,Splash Damage,core,October 2021 Update/Splash Damage/@254807
+halo-mcc-2021,813,David Chang,,Engineering,UI Programming,,Splash Damage,core,October 2021 Update/Splash Damage/@254842
+halo-mcc-2021,814,Grzegorz Biskup,,Engineering,UI Programming,,Splash Damage,core,October 2021 Update/Splash Damage/@254875
+halo-mcc-2021,815,Lukasz Czarnecki,,Engineering,UI Programming,,Splash Damage,core,October 2021 Update/Splash Damage/@254912
+halo-mcc-2021,816,Morgan Paul,,Engineering,UI Programming,,Splash Damage,core,October 2021 Update/Splash Damage/@254950
+halo-mcc-2021,817,Robert Glen,,Engineering,UI Programming,,Splash Damage,core,October 2021 Update/Splash Damage/@254983
+halo-mcc-2021,818,Sam Prescott,,Engineering,UI Programming,,Splash Damage,core,October 2021 Update/Splash Damage/@255016
+halo-mcc-2021,819,Sebastian Kolbu,,Engineering,UI Programming,,Splash Damage,core,October 2021 Update/Splash Damage/@255050
+halo-mcc-2021,820,Richard El-Chamaa,,Design,Game Design,,Splash Damage,core,October 2021 Update/Splash Damage/@255179
+halo-mcc-2021,821,Cameron Green,,Design,UI Design,,Splash Damage,core,October 2021 Update/Splash Damage/@255308
+halo-mcc-2021,822,Chris Socratous,,Design,UI Design,,Splash Damage,core,October 2021 Update/Splash Damage/@255343
+halo-mcc-2021,823,Stephen Lewis,,Design,UI Design,,Splash Damage,core,October 2021 Update/Splash Damage/@255380
+halo-mcc-2021,824,Lewis Williams,,Audio,Audio Design,,Splash Damage,core,October 2021 Update/Splash Damage/@255508
+halo-mcc-2021,825,Jesper Andersson,,Production,Production,,Splash Damage,core,October 2021 Update/Splash Damage/@255635
+halo-mcc-2021,826,Josh Fuller,,Production,Production,,Splash Damage,core,October 2021 Update/Splash Damage/@255673
+halo-mcc-2021,827,Thomas Doble,,Production,Production,,Splash Damage,core,October 2021 Update/Splash Damage/@255706
+halo-mcc-2021,828,Alexandra Sims,,QA,QA,,Splash Damage,core,October 2021 Update/Splash Damage/@255823
+halo-mcc-2021,829,Ben Bevan,,QA,QA,,Splash Damage,core,October 2021 Update/Splash Damage/@255859
+halo-mcc-2021,830,Mark Hughes,,QA,QA,,Splash Damage,core,October 2021 Update/Splash Damage/@255890
+halo-mcc-2021,831,Matthew Ross,,QA,QA,,Splash Damage,core,October 2021 Update/Splash Damage/@255923
+halo-mcc-2021,832,Murat Demir,,QA,QA,,Splash Damage,core,October 2021 Update/Splash Damage/@255957
+halo-mcc-2021,833,Robert Vasile,,QA,QA,,Splash Damage,core,October 2021 Update/Splash Damage/@255990
+halo-mcc-2021,834,Thomas Pope,,QA,QA,,Splash Damage,core,October 2021 Update/Splash Damage/@256025
+halo-mcc-2021,835,Luca Vitiello,,Art,Technical Art,,Splash Damage,core,October 2021 Update/Splash Damage/@256275
+halo-mcc-2021,836,Luc Shelton,,Engineering,Tools Programming,,Splash Damage,core,October 2021 Update/Splash Damage/@256408
+halo-mcc-2021,837,Bogdan Cososchi,,Engineering,Build Engineer,,Splash Damage,core,October 2021 Update/Splash Damage/@256536
+halo-mcc-2021,838,Megan Tupper,,Art,UI Art,,Splash Damage,core,October 2021 Update/Splash Damage/@256660
+halo-mcc-2021,839,Andjela Bojanic,,Leadership,Executive Support,,Splash Damage,core,October 2021 Update/Splash Damage/@256792
+halo-mcc-2021,840,Kat Pang,,Leadership,Executive Support,,Splash Damage,core,October 2021 Update/Splash Damage/@256829
+halo-mcc-2021,841,Katy Davis,,Leadership,Executive Support,,Splash Damage,core,October 2021 Update/Splash Damage/@256859
+halo-mcc-2021,842,Reema Ishaque,,Leadership,Executive Support,,Splash Damage,core,October 2021 Update/Splash Damage/@256891
+halo-mcc-2021,843,Caroline Tatchell,,Studio/Business,Facilities,,Splash Damage,core,October 2021 Update/Splash Damage/@257017
+halo-mcc-2021,844,Georgia Butler,,Studio/Business,Facilities,,Splash Damage,core,October 2021 Update/Splash Damage/@257056
+halo-mcc-2021,845,Jacob Atkins,,Studio/Business,Facilities,,Splash Damage,core,October 2021 Update/Splash Damage/@257092
+halo-mcc-2021,846,Sarah Lippett,,Studio/Business,Facilities,,Splash Damage,core,October 2021 Update/Splash Damage/@257126
+halo-mcc-2021,847,Vanessa Mullarkey,,Studio/Business,Facilities,,Splash Damage,core,October 2021 Update/Splash Damage/@257161
+halo-mcc-2021,848,Chelsea Parry,,Publishing,Finance,,Splash Damage,core,October 2021 Update/Splash Damage/@257288
+halo-mcc-2021,849,David Dowler,,Publishing,Finance,,Splash Damage,core,October 2021 Update/Splash Damage/@257323
+halo-mcc-2021,850,Jess Guido,,Publishing,Finance,,Splash Damage,core,October 2021 Update/Splash Damage/@257357
+halo-mcc-2021,851,Michael Fazal,,Publishing,Finance,,Splash Damage,core,October 2021 Update/Splash Damage/@257389
+halo-mcc-2021,852,Rafa Clemente Torres,,Publishing,Finance,,Splash Damage,core,October 2021 Update/Splash Damage/@257424
+halo-mcc-2021,853,Sandra Klimciauskaite,,Publishing,Finance,,Splash Damage,core,October 2021 Update/Splash Damage/@257466
+halo-mcc-2021,854,Tom Brown,,Publishing,Finance,,Splash Damage,core,October 2021 Update/Splash Damage/@257509
+halo-mcc-2021,855,Becky Sarjeant,,Other,Human Resources,,Splash Damage,core,October 2021 Update/Splash Damage/@257636
+halo-mcc-2021,856,Emily Laws,,Other,Human Resources,,Splash Damage,core,October 2021 Update/Splash Damage/@257672
+halo-mcc-2021,857,Kate Lindsay,,Other,Human Resources,,Splash Damage,core,October 2021 Update/Splash Damage/@257704
+halo-mcc-2021,858,Leah Purton,,Other,Human Resources,,Splash Damage,core,October 2021 Update/Splash Damage/@257738
+halo-mcc-2021,859,Craig Nelson,,Other,IT,,Splash Damage,core,October 2021 Update/Splash Damage/@257977
+halo-mcc-2021,860,Douglas Muirhead,,Other,IT,,Splash Damage,core,October 2021 Update/Splash Damage/@258011
+halo-mcc-2021,861,George Brown,,Other,IT,,Splash Damage,core,October 2021 Update/Splash Damage/@258049
+halo-mcc-2021,862,Joe Gibson,,Other,IT,,Splash Damage,core,October 2021 Update/Splash Damage/@258083
+halo-mcc-2021,863,Josh Fortt,,Other,IT,,Splash Damage,core,October 2021 Update/Splash Damage/@258115
+halo-mcc-2021,864,Matt Maher,,Other,IT,,Splash Damage,core,October 2021 Update/Splash Damage/@258147
+halo-mcc-2021,865,Phil Bridley,,Other,IT,,Splash Damage,core,October 2021 Update/Splash Damage/@258179
+halo-mcc-2021,866,Scott Lovegrove,,Other,IT,,Splash Damage,core,October 2021 Update/Splash Damage/@258213
+halo-mcc-2021,867,Tom Jaggard,,Other,IT,,Splash Damage,core,October 2021 Update/Splash Damage/@258250
+halo-mcc-2021,868,Ash Daley,,Publishing,Marketing,,Splash Damage,core,October 2021 Update/Splash Damage/@258373
+halo-mcc-2021,869,Holly Chaney,,Publishing,Marketing,,Splash Damage,core,October 2021 Update/Splash Damage/@258404
+halo-mcc-2021,870,Leanne Cox,,Publishing,Marketing,,Splash Damage,core,October 2021 Update/Splash Damage/@258438
+halo-mcc-2021,871,Mat Clark,,Publishing,Marketing,,Splash Damage,core,October 2021 Update/Splash Damage/@258470
+halo-mcc-2021,872,Max Downton,,Publishing,Marketing,,Splash Damage,core,October 2021 Update/Splash Damage/@258501
+halo-mcc-2021,873,Ryan J. Grant,,Publishing,Marketing,,Splash Damage,core,October 2021 Update/Splash Damage/@258534
+halo-mcc-2021,874,Thomas Lewis,,Publishing,Marketing,,Splash Damage,core,October 2021 Update/Splash Damage/@258569
+halo-mcc-2021,875,Alex Fong,,Other,Recruitment,,Splash Damage,core,October 2021 Update/Splash Damage/@258695
+halo-mcc-2021,876,Alex Wright-Manning,,Other,Recruitment,,Splash Damage,core,October 2021 Update/Splash Damage/@258726
+halo-mcc-2021,877,Joey Langley,,Other,Recruitment,,Splash Damage,core,October 2021 Update/Splash Damage/@258767
+halo-mcc-2021,878,Sophia Whyte,,Other,Recruitment,,Splash Damage,core,October 2021 Update/Splash Damage/@258801
+halo-mcc-2021,879,Ian Moore,,QA,QA Management,,Splash Damage,core,October 2021 Update/Splash Damage/@258929
+halo-mcc-2021,880,Angelo Marrone,,Special Thanks,Special Thanks,,Splash Damage,special-thanks,October 2021 Update/Splash Damage/@259055
+halo-mcc-2021,881,Armani Gentles-Williams,,Special Thanks,Special Thanks,,Splash Damage,special-thanks,October 2021 Update/Splash Damage/@259091
+halo-mcc-2021,882,Aubrey Hodges,,Special Thanks,Special Thanks,,Splash Damage,special-thanks,October 2021 Update/Splash Damage/@259136
+halo-mcc-2021,883,Gordon Biggans,,Special Thanks,Special Thanks,,Splash Damage,special-thanks,October 2021 Update/Splash Damage/@259171
+halo-mcc-2021,884,Luc Rosenzweig,,Special Thanks,Special Thanks,,Splash Damage,special-thanks,October 2021 Update/Splash Damage/@259207
+halo-mcc-2021,885,Mark Morris,,Special Thanks,Special Thanks,,Splash Damage,special-thanks,October 2021 Update/Splash Damage/@259243
+halo-mcc-2021,886,Matt Edmonds,,Special Thanks,Special Thanks,,Splash Damage,special-thanks,October 2021 Update/Splash Damage/@259276
+halo-mcc-2021,887,Matteo Cerquone,,Special Thanks,Special Thanks,,Splash Damage,special-thanks,October 2021 Update/Splash Damage/@259310

@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.venv/
+venv/
+
+# Build output. The scripts under tools/ write here (regenerated index.html,
+# poster PNG/PDF, render caches); nothing in it is source.
+render/
+
+# OS cruft
+.DS_Store
+Thumbs.db

@@ -1,0 +1,685 @@
+name_raw,name_canonical,category,role_raw,character,studio,inclusion_class,source_ref
+Daniel M. Ayoub,,Production,Executive Producer,,,core,mobygames:tr1
+Jay Juneau,,Production,Producers,,,core,mobygames:tr3
+Bonnie Ross-Ziegler,,Leadership,"Corporate Vice President, Head of 343 Industries",,,core,mobygames:tr21
+Michael Cimprich,,Engineering,Software Development Engineers,,,core,mobygames:tr38
+Kamel Dupuis-Perez,,Production,Studios Release Managers,,,core,mobygames:tr75
+Paul Stoughton,,Audio,Sound Designer,,,core,mobygames:tr82
+Brian Lee White,,Audio,Adapted and Orchestrated By,,Finishing Move Inc.,core,mobygames:tr84
+Misha Mansoor,,Audio,Additional Music,,,core,mobygames:tr86
+Brian Lee White,,Audio,Audio Director/Score Supervisor,,Finishing Move Inc.,core,mobygames:tr88
+Brian Lee White,,Audio,Project and Asset Management,,Finishing Move Inc.,core,mobygames:tr89
+Brian Lee White,,Audio,Scoring Mixers,,Finishing Move Inc.,core,mobygames:tr90
+Laurence Schwarz,,Audio,Additional Score Mixers,,Finishing Move Inc.,core,mobygames:tr91
+Seth Waldmann,,Audio,Additional Score Mixers,,Finishing Move Inc.,core,mobygames:tr91
+Ryan Sanchez,,Audio,Assistant Audio Engineer,,Finishing Move Inc.,core,mobygames:tr92
+Brian Lee White,,Audio,Music Editing,,Finishing Move Inc.,core,mobygames:tr93
+Kieran De Leon-Horton,,Audio,Production Assistants,,Finishing Move Inc.,core,mobygames:tr94
+Sandra Lew,,Audio,Production Assistants,,Finishing Move Inc.,core,mobygames:tr94
+Kathryn Amyotte,,Audio,Vocalists,,Finishing Move Inc.,core,mobygames:tr95
+Brian Lee White,,Audio,Guitars,,Finishing Move Inc.,core,mobygames:tr96
+Brian Lee White,,Audio,Bass,,Finishing Move Inc.,core,mobygames:tr97
+Jason Bowld,,Audio,Additional Drums,,Finishing Move Inc.,core,mobygames:tr98
+Daniel Berkman,,Audio,Additional Percussion,,Finishing Move Inc.,core,mobygames:tr99
+Phil Moore,,Audio,Music Prep,,Finishing Move Inc.,core,mobygames:tr100
+Brad Ritchie,,Audio,Music Prep,,Finishing Move Inc.,core,mobygames:tr100
+Jason Henke,,Audio,Vector Management,,Finishing Move Inc.,core,mobygames:tr101
+Bob Burwell,,Audio,Vector Management,,Finishing Move Inc.,core,mobygames:tr101
+Geoff Luttrell,,Audio,Guitar Tech,,Finishing Move Inc.,core,mobygames:tr102
+Misha Mansoor,,Audio,Guitar Tech,,Finishing Move Inc.,core,mobygames:tr102
+Nikhil Potdar,,Audio,Outerloop Management,,Finishing Move Inc.,core,mobygames:tr103
+Mike Mowery,,Audio,Outerloop Management,,Finishing Move Inc.,core,mobygames:tr103
+Andre J. H. Zweers,,Audio,Pro Tools Operator/Editor,,Finishing Move Inc.,core,mobygames:tr106
+Jeremy Constant,,Audio,Concertmaster,,The Skywalker Symphony Orchestra,core,mobygames:tr109
+Laura Albers,,Audio,Violins,,The Skywalker Symphony Orchestra,core,mobygames:tr111
+Jenny Cho,,Audio,Violins,,The Skywalker Symphony Orchestra,core,mobygames:tr111
+Jeremy Cohen,,Audio,Violins,,The Skywalker Symphony Orchestra,core,mobygames:tr111
+Jeremy Constant,,Audio,Violins,,The Skywalker Symphony Orchestra,core,mobygames:tr111
+Cenovia Cummins,,Audio,Violins,,The Skywalker Symphony Orchestra,core,mobygames:tr111
+Joe Edelberg,,Audio,Violins,,The Skywalker Symphony Orchestra,core,mobygames:tr111
+Dan Flanagan,,Audio,Violins,,The Skywalker Symphony Orchestra,core,mobygames:tr111
+Connie Gantsweg,,Audio,Violins,,The Skywalker Symphony Orchestra,core,mobygames:tr111
+Michael Grossman,,Audio,Violins,,The Skywalker Symphony Orchestra,core,mobygames:tr111
+Candace Guirao,,Audio,Violins,,The Skywalker Symphony Orchestra,core,mobygames:tr111
+Robin Hansen,,Audio,Violins,,The Skywalker Symphony Orchestra,core,mobygames:tr111
+Dawn Harms,,Audio,Violins,,The Skywalker Symphony Orchestra,core,mobygames:tr111
+Mia Kim,,Audio,Violins,,The Skywalker Symphony Orchestra,core,mobygames:tr111
+Julie Kim,,Audio,Violins,,The Skywalker Symphony Orchestra,core,mobygames:tr111
+Nelly Kovalev,,Audio,Violins,,The Skywalker Symphony Orchestra,core,mobygames:tr111
+Suzanne Leon,,Audio,Violins,,The Skywalker Symphony Orchestra,core,mobygames:tr111
+Kelly Leon-Pearce,,Audio,Violins,,The Skywalker Symphony Orchestra,core,mobygames:tr111
+Roy Malan,,Audio,Violins,,The Skywalker Symphony Orchestra,core,mobygames:tr111
+Kathy Marshall,,Audio,Violins,,The Skywalker Symphony Orchestra,core,mobygames:tr111
+Michelle Maruyama,,Audio,Violins,,The Skywalker Symphony Orchestra,core,mobygames:tr111
+Christina Mok,,Audio,Violins,,The Skywalker Symphony Orchestra,core,mobygames:tr111
+Yasushi Ogura,,Audio,Violins,,The Skywalker Symphony Orchestra,core,mobygames:tr111
+Deborah Price,,Audio,Violins,,The Skywalker Symphony Orchestra,core,mobygames:tr111
+Evan Price,,Audio,Violins,,The Skywalker Symphony Orchestra,core,mobygames:tr111
+Barbara Riccardi,,Audio,Violins,,The Skywalker Symphony Orchestra,core,mobygames:tr111
+Victor Romasevich,,Audio,Violins,,The Skywalker Symphony Orchestra,core,mobygames:tr111
+Adrienne Sengpiehl,,Audio,Violins,,The Skywalker Symphony Orchestra,core,mobygames:tr111
+Wenyi Shih,,Audio,Violins,,The Skywalker Symphony Orchestra,core,mobygames:tr111
+Rick Shinozaki,,Audio,Violins,,The Skywalker Symphony Orchestra,core,mobygames:tr111
+Karen Sor,,Audio,Violins,,The Skywalker Symphony Orchestra,core,mobygames:tr111
+Kate Stenberg,,Audio,Violins,,The Skywalker Symphony Orchestra,core,mobygames:tr111
+Mark Volkert,,Audio,Violins,,The Skywalker Symphony Orchestra,core,mobygames:tr111
+Heidi Wilcox,,Audio,Violins,,The Skywalker Symphony Orchestra,core,mobygames:tr111
+Nancy Ellis,,Audio,Violas,,The Skywalker Symphony Orchestra,core,mobygames:tr112
+Pamela Freund,,Audio,Violas,,The Skywalker Symphony Orchestra,core,mobygames:tr112
+Marcel Gemperli,,Audio,Violas,,The Skywalker Symphony Orchestra,core,mobygames:tr112
+Patricia Heller,,Voice,Violas,,The Skywalker Symphony Orchestra,core,mobygames:tr112
+Roxann Jacobsen,,Audio,Violas,,The Skywalker Symphony Orchestra,core,mobygames:tr112
+Keith Lawrence,,Audio,Violas,,The Skywalker Symphony Orchestra,core,mobygames:tr112
+Polly Malan,,Audio,Violas,,The Skywalker Symphony Orchestra,core,mobygames:tr112
+Emily Onderdonk,,Audio,Violas,,The Skywalker Symphony Orchestra,core,mobygames:tr112
+Nanci Severance,,Audio,Violas,,The Skywalker Symphony Orchestra,core,mobygames:tr112
+Margaret Titchener,,Audio,Violas,,The Skywalker Symphony Orchestra,core,mobygames:tr112
+Natasha Vershilova,,Audio,Violas,,The Skywalker Symphony Orchestra,core,mobygames:tr112
+Teressa Adams,,Audio,Celli,,The Skywalker Symphony Orchestra,core,mobygames:tr113
+Kathryn Bates Williams,,Audio,Celli,,The Skywalker Symphony Orchestra,core,mobygames:tr113
+Barbara Bogatin,,Audio,Celli,,The Skywalker Symphony Orchestra,core,mobygames:tr113
+Michelle Djokic,,Audio,Celli,,The Skywalker Symphony Orchestra,core,mobygames:tr113
+Nina Flyer,,Audio,Celli,,The Skywalker Symphony Orchestra,core,mobygames:tr113
+Kelley Maulbetsch,,Audio,Celli,,The Skywalker Symphony Orchestra,core,mobygames:tr113
+Emil Miland,,Audio,Celli,,The Skywalker Symphony Orchestra,core,mobygames:tr113
+Miriam Perkoff,,Audio,Celli,,The Skywalker Symphony Orchestra,core,mobygames:tr113
+Vanessa Ruotolo,,Audio,Celli,,The Skywalker Symphony Orchestra,core,mobygames:tr113
+Eric Sung,,Audio,Celli,,The Skywalker Symphony Orchestra,core,mobygames:tr113
+Robert Ashley,,Audio,Basses,,The Skywalker Symphony Orchestra,core,mobygames:tr114
+Charles Chandler,,Voice,Basses,,The Skywalker Symphony Orchestra,core,mobygames:tr114
+Steven D'Amico,,Audio,Basses,,The Skywalker Symphony Orchestra,core,mobygames:tr114
+Jon Lancelle,,Audio,Basses,,The Skywalker Symphony Orchestra,core,mobygames:tr114
+Patrick McCarthy,,Audio,Basses,,The Skywalker Symphony Orchestra,core,mobygames:tr114
+David Schoenbrun,,Audio,Basses,,The Skywalker Symphony Orchestra,core,mobygames:tr114
+Michel Taddei,,Audio,Basses,,The Skywalker Symphony Orchestra,core,mobygames:tr114
+Richard Worn,,Audio,Basses,,The Skywalker Symphony Orchestra,core,mobygames:tr114
+Richard Riccardi,,Voice,Piano,,The Skywalker Symphony Orchestra,core,mobygames:tr115
+Stephanie McNab,,Audio,Flute,,The Skywalker Symphony Orchestra,core,mobygames:tr116
+Marilyn Coyne,,Audio,Oboes,,The Skywalker Symphony Orchestra,core,mobygames:tr117
+Laura Griffiths,,Voice,Oboes,,The Skywalker Symphony Orchestra,core,mobygames:tr117
+Carey Bell,,Voice,Clarinets,,The Skywalker Symphony Orchestra,core,mobygames:tr118
+Natalie Parker,,Audio,Clarinets,,The Skywalker Symphony Orchestra,core,mobygames:tr118
+Anthony Striplen,,Audio,Clarinets,,The Skywalker Symphony Orchestra,core,mobygames:tr118
+Rufus Olivier,,Audio,Bassoons,,The Skywalker Symphony Orchestra,core,mobygames:tr119
+Steve Paulson,,Voice,Bassoons,,The Skywalker Symphony Orchestra,core,mobygames:tr119
+Meredith Brown,,Audio,Horns,,The Skywalker Symphony Orchestra,core,mobygames:tr120
+Nicole Cash,,Audio,Horns,,The Skywalker Symphony Orchestra,core,mobygames:tr120
+Doug Hull,,Audio,Horns,,The Skywalker Symphony Orchestra,core,mobygames:tr120
+Jonathan Ring,,Audio,Horns,,The Skywalker Symphony Orchestra,core,mobygames:tr120
+Bruce Roberts,,Voice,Horns,,The Skywalker Symphony Orchestra,core,mobygames:tr120
+Glen Swarts,,Audio,Horns,,The Skywalker Symphony Orchestra,core,mobygames:tr120
+Ron Blais,,Audio,Trumpets,,The Skywalker Symphony Orchestra,core,mobygames:tr121
+Adam Luftman,,Voice,Trumpets,,The Skywalker Symphony Orchestra,core,mobygames:tr121
+Scott Macomber,,Audio,Trumpets,,The Skywalker Symphony Orchestra,core,mobygames:tr121
+Don Benham,,Audio,Trombones,,The Skywalker Symphony Orchestra,core,mobygames:tr122
+Jeff Budin,,Voice,Trombones,,The Skywalker Symphony Orchestra,core,mobygames:tr122
+Bruce Chrisp,,Audio,Trombones,,The Skywalker Symphony Orchestra,core,mobygames:tr122
+David Ridge,,Audio,Trombones,,The Skywalker Symphony Orchestra,core,mobygames:tr122
+Peter Wahrhaftig,,Audio,Tuba,,The Skywalker Symphony Orchestra,core,mobygames:tr123
+Deborah Benedict,,Audio,Chorus Contractor,,The Skywalker Chorus,core,mobygames:tr126
+Dwayne Condon,,Audio,Conductor,,The Skywalker Chorus,core,mobygames:tr127
+Kathryn Amyotte,,Audio,Chorus,,The Skywalker Chorus,core,mobygames:tr128
+Deborah Benedict,,Audio,Chorus,,The Skywalker Chorus,core,mobygames:tr128
+John Bischoff,,Audio,Chorus,,The Skywalker Chorus,core,mobygames:tr128
+Torlef Borsting,,Audio,Chorus,,The Skywalker Chorus,core,mobygames:tr128
+Roberta Bowman,,Audio,Chorus,,The Skywalker Chorus,core,mobygames:tr128
+Wendy Buzby,,Audio,Chorus,,The Skywalker Chorus,core,mobygames:tr128
+Laurel Cameron,,Audio,Chorus,,The Skywalker Chorus,core,mobygames:tr128
+Tracy Camp,,Audio,Chorus,,The Skywalker Chorus,core,mobygames:tr128
+Siebel Demirmen,,Audio,Chorus,,The Skywalker Chorus,core,mobygames:tr128
+Michael Adam Flowers,,Audio,Chorus,,The Skywalker Chorus,core,mobygames:tr128
+Elliott Franks,,Audio,Chorus,,The Skywalker Chorus,core,mobygames:tr128
+Mark Hernandez,,Audio,Chorus,,The Skywalker Chorus,core,mobygames:tr128
+David Huff,,Audio,Chorus,,The Skywalker Chorus,core,mobygames:tr128
+David Kekuewa,,Audio,Chorus,,The Skywalker Chorus,core,mobygames:tr128
+Fred Matthews,,Audio,Chorus,,The Skywalker Chorus,core,mobygames:tr128
+Kathy McKee,,Audio,Chorus,,The Skywalker Chorus,core,mobygames:tr128
+Eileen Meredith,,Audio,Chorus,,The Skywalker Chorus,core,mobygames:tr128
+Jim Munios,,Audio,Chorus,,The Skywalker Chorus,core,mobygames:tr128
+Erin Neff,,Audio,Chorus,,The Skywalker Chorus,core,mobygames:tr128
+Rachelle Perry,,Audio,Chorus,,The Skywalker Chorus,core,mobygames:tr128
+Bill Pickersgill,,Audio,Chorus,,The Skywalker Chorus,core,mobygames:tr128
+Virginia Pluth,,Audio,Chorus,,The Skywalker Chorus,core,mobygames:tr128
+Colby Roberts,,Audio,Chorus,,The Skywalker Chorus,core,mobygames:tr128
+Mike Rodgers,,Audio,Chorus,,The Skywalker Chorus,core,mobygames:tr128
+Cliff Romig,,Audio,Chorus,,The Skywalker Chorus,core,mobygames:tr128
+Mimi Ruiz,,Audio,Chorus,,The Skywalker Chorus,core,mobygames:tr128
+Jason Sarton,,Audio,Chorus,,The Skywalker Chorus,core,mobygames:tr128
+Shelley Seitz,,Audio,Chorus,,The Skywalker Chorus,core,mobygames:tr128
+Claudia Siefer,,Audio,Chorus,,The Skywalker Chorus,core,mobygames:tr128
+Jonathon Smucker,,Audio,Chorus,,The Skywalker Chorus,core,mobygames:tr128
+Erich Stratmann,,Audio,Chorus,,The Skywalker Chorus,core,mobygames:tr128
+Nicole Takesono,,Audio,Chorus,,The Skywalker Chorus,core,mobygames:tr128
+Michael Taylor,,Audio,Chorus,,The Skywalker Chorus,core,mobygames:tr128
+Paul Thompson,,Audio,Chorus,,The Skywalker Chorus,core,mobygames:tr128
+Jere Torkelsen,,Audio,Chorus,,The Skywalker Chorus,core,mobygames:tr128
+Peter Tuff,,Audio,Chorus,,The Skywalker Chorus,core,mobygames:tr128
+Richard Walker,,Audio,Chorus,,The Skywalker Chorus,core,mobygames:tr128
+Heidi Waterman,,Audio,Chorus,,The Skywalker Chorus,core,mobygames:tr128
+Jacque Wilson,,Audio,Chorus,,The Skywalker Chorus,core,mobygames:tr128
+Karen Winner-Huff,,Audio,Chorus,,The Skywalker Chorus,core,mobygames:tr128
+Ian Robertson,,Audio,Conductor,,The San Francisco Boys Chorus,core,mobygames:tr131
+Gabryl Adarne,,Audio,Chorus,,The San Francisco Boys Chorus,core,mobygames:tr132
+Abraham Baldonado,,Audio,Chorus,,The San Francisco Boys Chorus,core,mobygames:tr132
+Chase Becerrill,,Audio,Chorus,,The San Francisco Boys Chorus,core,mobygames:tr132
+Gio Raphael Burgos,,Audio,Chorus,,The San Francisco Boys Chorus,core,mobygames:tr132
+Ethan Chen,,Audio,Chorus,,The San Francisco Boys Chorus,core,mobygames:tr132
+Lucas Dong,,Audio,Chorus,,The San Francisco Boys Chorus,core,mobygames:tr132
+Mason Goldberg,,Audio,Chorus,,The San Francisco Boys Chorus,core,mobygames:tr132
+Ryan Huckleberry,,Audio,Chorus,,The San Francisco Boys Chorus,core,mobygames:tr132
+Aidan Hyde,,Audio,Chorus,,The San Francisco Boys Chorus,core,mobygames:tr132
+Westley James,,Audio,Chorus,,The San Francisco Boys Chorus,core,mobygames:tr132
+Arman Marchiel,,Audio,Chorus,,The San Francisco Boys Chorus,core,mobygames:tr132
+Daniel Mitchell,,Audio,Chorus,,The San Francisco Boys Chorus,core,mobygames:tr132
+Desmond Ongpin,,Audio,Chorus,,The San Francisco Boys Chorus,core,mobygames:tr132
+Daniel Ostrom,,Audio,Chorus,,The San Francisco Boys Chorus,core,mobygames:tr132
+William Poulter,,Audio,Chorus,,The San Francisco Boys Chorus,core,mobygames:tr132
+Yukio Rahdert,,Audio,Chorus,,The San Francisco Boys Chorus,core,mobygames:tr132
+Sam Rosen,,Audio,Chorus,,The San Francisco Boys Chorus,core,mobygames:tr132
+Alexander Roswall,,Audio,Chorus,,The San Francisco Boys Chorus,core,mobygames:tr132
+Safi Rouhi,,Audio,Chorus,,The San Francisco Boys Chorus,core,mobygames:tr132
+Pierce Soderquist,,Audio,Chorus,,The San Francisco Boys Chorus,core,mobygames:tr132
+Baxter Spark,,Audio,Chorus,,The San Francisco Boys Chorus,core,mobygames:tr132
+Zachary Tang,,Audio,Chorus,,The San Francisco Boys Chorus,core,mobygames:tr132
+Evan Tiapula,,Audio,Chorus,,The San Francisco Boys Chorus,core,mobygames:tr132
+Mark Urdan,,Audio,Chorus,,The San Francisco Boys Chorus,core,mobygames:tr132
+Bernie Grundman,,Audio,Chorus,,The San Francisco Boys Chorus,core,mobygames:tr132
+Patricia Sullivan,,Audio,Mastering Engineer,,The San Francisco Boys Chorus,core,mobygames:tr133
+Bernie Grundman,,Audio,Mastering,,The San Francisco Boys Chorus,core,mobygames:tr134
+Charles Deenen,,Audio,Supervising Sound Designer / Re-recording Mixer,,Source Sound Inc.,core,mobygames:tr136
+Stuart K. Provine,,Audio,Sound Designer,,Source Sound Inc.,core,mobygames:tr137
+Tim Walston,,Audio,Sound Designer,,Source Sound Inc.,core,mobygames:tr137
+Justin Davey,,Audio,Sound Editor,,Source Sound Inc.,core,mobygames:tr138
+Braden Parkes,,Audio,1st Assistant Sound Editor,,Source Sound Inc.,core,mobygames:tr139
+Travis Prater,,Audio,Assistant Sound Editor,,Source Sound Inc.,core,mobygames:tr140
+George Pereyra,,Audio,Assistant Sound Editor,,Source Sound Inc.,core,mobygames:tr140
+Jay W. Jennings,,Audio,Additional Re-recording Mixer,,Source Sound Inc.,core,mobygames:tr141
+Thomas C. Brewer,,Audio,Additional Re-recording Mixer,,Source Sound Inc.,core,mobygames:tr141
+Gregg Barbanell,,Audio,Foley Walker,,Source Sound Inc.,core,mobygames:tr142
+Chad Bedell,,Audio,Sound Designer,,Formosa Interactive,core,mobygames:tr147
+Eliot R. Connors,,Audio,Sound Designer,,Formosa Interactive,core,mobygames:tr147
+Ronald Dutch Hill,,Audio,Sound Designer,,Formosa Interactive,core,mobygames:tr147
+D. Shinji Furuya,,Audio,Asset Coordinator,,Formosa Interactive,core,mobygames:tr148
+Jeffrey Wilhoit,,Audio,Foley Artist,,Formosa Interactive,core,mobygames:tr149
+William Beaman,,Voice,"Director, Studio Services and Celebrity Acquisitions",,Formosa Interactive,core,mobygames:tr152
+Julia Bianco Schoeffling,,Voice,"Manager, Voice Over Studios",,Formosa Interactive,core,mobygames:tr153
+Kevin M. McMullan,,Voice,Voice Over Director,,Formosa Interactive,core,mobygames:tr154
+Kirsten Scoles,,Voice,Project Coordinator,,Formosa Interactive,core,mobygames:tr155
+Krysta Biondo,,Voice,Administrative Assistant,,Formosa Interactive,core,mobygames:tr156
+Josh Mosser,,Voice,Recording Engineer,,Formosa Interactive,core,mobygames:tr157
+Jessica Medina,,Voice,Assistant Engineer,,Formosa Interactive,core,mobygames:tr158
+Tyrone Forte,,Voice,Assistant Engineer,,Formosa Interactive,core,mobygames:tr158
+Daniel P. Francis,,Voice,Editorial Supervisor,,Formosa Interactive,core,mobygames:tr159
+Josh Jensen,,Special Thanks,Thanks,,,special-thanks,mobygames:tr211
+Anastasia Bender,,Special Thanks,Thanks,,,special-thanks,mobygames:tr211
+Franck Balson,,Other,Director,,Blur,core,mobygames:tr213
+Tim Miller,,Other,Company Creative Director,,Blur,core,mobygames:tr214
+Jerome Denjean,,Other,CG Supervisor,,Blur,core,mobygames:tr215
+Kevin Margo,,Other,CG Supervisor,,Blur,core,mobygames:tr215
+Thierry Labelle,,Art,Animation Supervisor,,Blur,core,mobygames:tr216
+Bryan Hillestad,,Art,Facial Animation Supervisor,,Blur,core,mobygames:tr217
+Anthony Romero,,Voice,Motion Capture Supervisor,,Blur,core,mobygames:tr218
+Jeremie Passerin,,Other,Rigging Supervisor,,Blur,core,mobygames:tr219
+Kirby Miller,,Other,FX Supervisor,,Blur,core,mobygames:tr220
+Duane Powell,,Other,Information Technology & Systems Supervisor,,Blur,core,mobygames:tr221
+Jeffery Beeland,,Other,Pipeline & Tools Supervisor,,Blur,core,mobygames:tr222
+Keith luczywo,,Production,Producer,,Blur,core,mobygames:tr223
+Jake Fenske,,Production,Line Producer,,Blur,core,mobygames:tr224
+Al Shier,,Production,Executive Producer,,Blur,core,mobygames:tr225
+Douglas Lassance,,Other,Layout Lead,,Blur,core,mobygames:tr227
+Allan Cabal,,Art,Layout Artists,,Blur,core,mobygames:tr228
+Curtis Cardwell,,Art,Layout Artists,,Blur,core,mobygames:tr228
+Mathias Jourdes,,Art,Layout Artists,,Blur,core,mobygames:tr228
+Mikey Rogers,,Art,Layout Artists,,Blur,core,mobygames:tr228
+Fulvio Sestito,,Art,Layout Artists,,Blur,core,mobygames:tr228
+Aristomenis Tsirbas,,Art,Layout Artists,,Blur,core,mobygames:tr228
+Dirk Valk,,Art,Layout Artists,,Blur,core,mobygames:tr228
+Sammy Wong,,Art,Layout Artists,,Blur,core,mobygames:tr228
+Andrea Cohen,,Other,Editorial Assistant,,Blur,core,mobygames:tr229
+Mathieu Aerni,,Art,Character Modeling Lead,,Blur,core,mobygames:tr231
+James Ku,,Art,Character Modeling Lead,,Blur,core,mobygames:tr231
+Akin Bilgic,,Art,Character Modelers,,Blur,core,mobygames:tr232
+Damien Canderle,,Art,Character Modelers,,Blur,core,mobygames:tr232
+Francisco A. Cortina,,Art,Character Modelers,,Blur,core,mobygames:tr232
+Camille Delmeule,,Art,Character Modelers,,Blur,core,mobygames:tr232
+Daniel Alexander Garcia,,Art,Character Modelers,,Blur,core,mobygames:tr232
+Etienne Jabbour,,Art,Character Modelers,,Blur,core,mobygames:tr232
+Arda Koyuncu,,Art,Character Modelers,,Blur,core,mobygames:tr232
+Alexandre Litchinko,,Art,Character Modelers,,Blur,core,mobygames:tr232
+Jeff Miller,,Art,Character Modelers,,Blur,core,mobygames:tr232
+Gun Park,,Art,Character Modelers,,Blur,core,mobygames:tr232
+Dmitriy Robochiy,,Art,Character Modelers,,Blur,core,mobygames:tr232
+Sergey Samuilov,,Art,Character Modelers,,Blur,core,mobygames:tr232
+Jesse Sandifer,,Art,Character Modelers,,Blur,core,mobygames:tr232
+Juan Solís García,,Art,Character Modelers,,Blur,core,mobygames:tr232
+Andrei Szasz,,Art,Character Modelers,,Blur,core,mobygames:tr232
+Furio Tedeschi,,Art,Character Modelers,,Blur,core,mobygames:tr232
+Tom Tran,,Art,Character Modelers,,Blur,core,mobygames:tr232
+David Muñoz Velázquez,,Art,Character Modelers,,Blur,core,mobygames:tr232
+Tyler Fox,,Other,Facial Rigging Lead,,Blur,core,mobygames:tr234
+Steven Alley,,Other,Rigger,,Blur,core,mobygames:tr235
+Justin Callanan,,Other,Rigger,,Blur,core,mobygames:tr235
+Joshua Cogswell,,Other,Rigger,,Blur,core,mobygames:tr235
+Benjamin Durkin,,Other,Rigger,,Blur,core,mobygames:tr235
+Jennifer Hendrich,,Other,Rigger,,Blur,core,mobygames:tr235
+Gerry Hsu,,Other,Rigger,,Blur,core,mobygames:tr235
+Travis Miller,,Other,Rigger,,Blur,core,mobygames:tr235
+Brent Wiley,,Other,Rigger,,Blur,core,mobygames:tr235
+Thomas Cannell,,Art,Animation Lead,,Blur,core,mobygames:tr237
+Paul Allen,,Art,Animators,,Blur,core,mobygames:tr238
+David M. Breaux Jr.,,Art,Animators,,Blur,core,mobygames:tr238
+Allan Cabal,,Art,Animators,,Blur,core,mobygames:tr238
+Ben Cinelli,,Art,Animators,,Blur,core,mobygames:tr238
+Derek Esparza,,Art,Animators,,Blur,core,mobygames:tr238
+Erik Gamache,,Art,Animators,,Blur,core,mobygames:tr238
+Yvain Gnabro,,Art,Animators,,Blur,core,mobygames:tr238
+Wade Hampton,,Art,Animators,,Blur,core,mobygames:tr238
+Jason Hendrich,,Art,Animators,,Blur,core,mobygames:tr238
+Joseph Hoback,,Art,Animators,,Blur,core,mobygames:tr238
+Jeremiah Izzard,,Art,Animators,,Blur,core,mobygames:tr238
+Tom Judd,,Art,Animators,,Blur,core,mobygames:tr238
+Micheal Kiely,,Art,Animators,,Blur,core,mobygames:tr238
+Ken King,,Art,Animators,,Blur,core,mobygames:tr238
+Michael Loeck,,Art,Animators,,Blur,core,mobygames:tr238
+Ryan McGeary,,Art,Animators,,Blur,core,mobygames:tr238
+Bradley McLaughlin,,Art,Animators,,Blur,core,mobygames:tr238
+Pericles Michielin,,Art,Animators,,Blur,core,mobygames:tr238
+Oliver Parcasio,,Art,Animators,,Blur,core,mobygames:tr238
+Danny Patterson,,Art,Animators,,Blur,core,mobygames:tr238
+Linda Petch,,Art,Animators,,Blur,core,mobygames:tr238
+Christian Reese,,Art,Animators,,Blur,core,mobygames:tr238
+Anthony Romero,,Art,Animators,,Blur,core,mobygames:tr238
+Chase Shields,,Art,Animators,,Blur,core,mobygames:tr238
+Miurika Valery Diaz,,Art,Animators,,Blur,core,mobygames:tr238
+Erick Ward,,Art,Animators,,Blur,core,mobygames:tr238
+Nick Whitmire,,Art,Animators,,Blur,core,mobygames:tr238
+Dick Zondag,,Art,Animators,,Blur,core,mobygames:tr238
+Luis Lopez,,Other,Cloth Simulation Lead,,Blur,core,mobygames:tr240
+Danny Young,,Other,Hair Simulation Lead,,Blur,core,mobygames:tr241
+Don De Castro,,Art,Cloth/Hair Simulation Artists,,Blur,core,mobygames:tr242
+Adam Dorner,,Art,Cloth/Hair Simulation Artists,,Blur,core,mobygames:tr242
+Steve Guevera,,Art,Cloth/Hair Simulation Artists,,Blur,core,mobygames:tr242
+Gerry Hsu,,Art,Cloth/Hair Simulation Artists,,Blur,core,mobygames:tr242
+Jon Jordan,,Art,Cloth/Hair Simulation Artists,,Blur,core,mobygames:tr242
+Daniel Kole,,Art,Cloth/Hair Simulation Artists,,Blur,core,mobygames:tr242
+Mark Lipsmeyer,,Art,Cloth/Hair Simulation Artists,,Blur,core,mobygames:tr242
+James Marcus,,Art,Cloth/Hair Simulation Artists,,Blur,core,mobygames:tr242
+Lennon Montejo,,Art,Cloth/Hair Simulation Artists,,Blur,core,mobygames:tr242
+Yury Sakovich,,Art,Cloth/Hair Simulation Artists,,Blur,core,mobygames:tr242
+Jace Trimmer,,Art,Cloth/Hair Simulation Artists,,Blur,core,mobygames:tr242
+Zachary Cork,,Other,Prop/Vehicle Modeling Lead,,Blur,core,mobygames:tr244
+Rafael Amarante,,Other,Prop/Vehicle Modelers,,Blur,core,mobygames:tr245
+Davide Di Giannantonio Potente,,Other,Prop/Vehicle Modelers,,Blur,core,mobygames:tr245
+Yann Goument,,Other,Prop/Vehicle Modelers,,Blur,core,mobygames:tr245
+Brandon Hall,,Other,Prop/Vehicle Modelers,,Blur,core,mobygames:tr245
+Jinho Jang,,Other,Prop/Vehicle Modelers,,Blur,core,mobygames:tr245
+Gavriil Klimov,,Other,Prop/Vehicle Modelers,,Blur,core,mobygames:tr245
+Leo Krajden,,Other,Prop/Vehicle Modelers,,Blur,core,mobygames:tr245
+Yaron Levi,,Other,Prop/Vehicle Modelers,,Blur,core,mobygames:tr245
+Jose Manuel Linares Lopez,,Other,Prop/Vehicle Modelers,,Blur,core,mobygames:tr245
+Justin Mijal,,Other,Prop/Vehicle Modelers,,Blur,core,mobygames:tr245
+Andrei Samardac,,Other,Prop/Vehicle Modelers,,Blur,core,mobygames:tr245
+Sergey Samuilov,,Other,Prop/Vehicle Modelers,,Blur,core,mobygames:tr245
+Rahul Shrimali,,Other,Prop/Vehicle Modelers,,Blur,core,mobygames:tr245
+Cki Vang,,Other,Prop/Vehicle Modelers,,Blur,core,mobygames:tr245
+Norbert Varga,,Other,Prop/Vehicle Modelers,,Blur,core,mobygames:tr245
+James Atilano,,Art,Environment Modeling Leads,,Blur,core,mobygames:tr247
+Gary Christian,,Art,Environment Modeling Leads,,Blur,core,mobygames:tr247
+Colin James,,Art,Environment Modeling Leads,,Blur,core,mobygames:tr247
+Kris Kaufman,,Art,Environment Modeling Leads,,Blur,core,mobygames:tr247
+Togrul Alekperov,,Art,Environment Modelers,,Blur,core,mobygames:tr248
+Akin Bilgic,,Art,Environment Modelers,,Blur,core,mobygames:tr248
+Sébastien Chort,,Art,Environment Modelers,,Blur,core,mobygames:tr248
+Marek Denko,,Art,Environment Modelers,,Blur,core,mobygames:tr248
+Carlos Fueyo,,Art,Environment Modelers,,Blur,core,mobygames:tr248
+Delcio Gomes,,Art,Environment Modelers,,Blur,core,mobygames:tr248
+Marcel Haladej,,Art,Environment Modelers,,Blur,core,mobygames:tr248
+Mathias Jourdes,,Art,Environment Modelers,,Blur,core,mobygames:tr248
+Gavriil Klimov,,Art,Environment Modelers,,Blur,core,mobygames:tr248
+Andrew Lema,,Art,Environment Modelers,,Blur,core,mobygames:tr248
+Wlad Litchinko,,Art,Environment Modelers,,Blur,core,mobygames:tr248
+Jose Manuel Linares Lopez,,Art,Environment Modelers,,Blur,core,mobygames:tr248
+Justin Mijal,,Art,Environment Modelers,,Blur,core,mobygames:tr248
+Damien Peinoit,,Art,Environment Modelers,,Blur,core,mobygames:tr248
+Peter Sanitra,,Art,Environment Modelers,,Blur,core,mobygames:tr248
+Rahul Shrimali,,Art,Environment Modelers,,Blur,core,mobygames:tr248
+Jared Tripp,,Art,Environment Modelers,,Blur,core,mobygames:tr248
+Luke Wakeford,,Art,Environment Modelers,,Blur,core,mobygames:tr248
+Chad Wanstreet,,Art,Environment Modelers,,Blur,core,mobygames:tr248
+James Atilano,,Other,Visual Development and Scene Assembly Lead,,Blur,core,mobygames:tr250
+Gary Christian,,Other,Visual Development and Scene Assembly Lead,,Blur,core,mobygames:tr250
+Colin James,,Other,Visual Development and Scene Assembly Lead,,Blur,core,mobygames:tr250
+Kris Kaufman,,Other,Visual Development and Scene Assembly Lead,,Blur,core,mobygames:tr250
+Matan Abel,,Other,Scene Assemblers,,Blur,core,mobygames:tr251
+Shirak Agresta,,Other,Scene Assemblers,,Blur,core,mobygames:tr251
+Omar Aweidah,,Other,Scene Assemblers,,Blur,core,mobygames:tr251
+Matt Bell,,Other,Scene Assemblers,,Blur,core,mobygames:tr251
+Akin Bilgic,,Other,Scene Assemblers,,Blur,core,mobygames:tr251
+Mohsen Bizar,,Other,Scene Assemblers,,Blur,core,mobygames:tr251
+Kris Cabrera,,Other,Scene Assemblers,,Blur,core,mobygames:tr251
+Curtis Cardwell,,Other,Scene Assemblers,,Blur,core,mobygames:tr251
+Zachary Cork,,Other,Scene Assemblers,,Blur,core,mobygames:tr251
+Marek Denko,,Other,Scene Assemblers,,Blur,core,mobygames:tr251
+Eric Durante,,Other,Scene Assemblers,,Blur,core,mobygames:tr251
+Julian Fitzpatrick,,Other,Scene Assemblers,,Blur,core,mobygames:tr251
+Carlos Fueyo,,Other,Scene Assemblers,,Blur,core,mobygames:tr251
+Miguel Garcao,,Other,Scene Assemblers,,Blur,core,mobygames:tr251
+Pooya Ghobadpour,,Other,Scene Assemblers,,Blur,core,mobygames:tr251
+Andy Gilbert,,Other,Scene Assemblers,,Blur,core,mobygames:tr251
+Matt Giovingo,,Other,Scene Assemblers,,Blur,core,mobygames:tr251
+Delcio Gomes,,Other,Scene Assemblers,,Blur,core,mobygames:tr251
+Gage Hedden,,Other,Scene Assemblers,,Blur,core,mobygames:tr251
+John Ikera,,Other,Scene Assemblers,,Blur,core,mobygames:tr251
+Darryl Johnson,,Other,Scene Assemblers,,Blur,core,mobygames:tr251
+Michael Johnson,,Other,Scene Assemblers,,Blur,core,mobygames:tr251
+Mathias Jourdes,,Other,Scene Assemblers,,Blur,core,mobygames:tr251
+Andrew Lema,,Other,Scene Assemblers,,Blur,core,mobygames:tr251
+Dan Levy,,Other,Scene Assemblers,,Blur,core,mobygames:tr251
+John Martini,,Other,Scene Assemblers,,Blur,core,mobygames:tr251
+Justin Mijal,,Other,Scene Assemblers,,Blur,core,mobygames:tr251
+John Nelson,,Other,Scene Assemblers,,Blur,core,mobygames:tr251
+James Park,,Other,Scene Assemblers,,Blur,core,mobygames:tr251
+Jenny Park,,Other,Scene Assemblers,,Blur,core,mobygames:tr251
+Nathan Rule,,Other,Scene Assemblers,,Blur,core,mobygames:tr251
+Peter Sanitra,,Other,Scene Assemblers,,Blur,core,mobygames:tr251
+Erick Schiele,,Other,Scene Assemblers,,Blur,core,mobygames:tr251
+Joe Strasser,,Other,Scene Assemblers,,Blur,core,mobygames:tr251
+Scott Trosclair,,Other,Scene Assemblers,,Blur,core,mobygames:tr251
+Dirk Valk,,Other,Scene Assemblers,,Blur,core,mobygames:tr251
+Norbert Varga,,Other,Scene Assemblers,,Blur,core,mobygames:tr251
+Chad Wanstreet,,Other,Scene Assemblers,,Blur,core,mobygames:tr251
+Peter Wildman,,Other,Scene Assemblers,,Blur,core,mobygames:tr251
+Ihsu Yoon,,Other,Scene Assemblers,,Blur,core,mobygames:tr251
+JD Cowles,,Other,Compositor,,Blur,core,mobygames:tr252
+Michael Dobbs,,Other,Compositor,,Blur,core,mobygames:tr252
+Colin Drobnis,,Other,Compositor,,Blur,core,mobygames:tr252
+Jonathan Ficcadenti,,Engineering,UI Design Lead,,Blur,core,mobygames:tr254
+Navarro Parker,,Engineering,UI Animators,,Blur,core,mobygames:tr255
+Nick Hiatt,,Other,Matte Painting Lead,,Blur,core,mobygames:tr257
+Ivo Horvat,,Other,Matte Painter,,Blur,core,mobygames:tr258
+Brandon Kachel,,Other,Matte Painter,,Blur,core,mobygames:tr258
+David Schwartz,,Other,Matte Painter,,Blur,core,mobygames:tr258
+Brian Alvarez,,Art,FX Artists,,Blur,core,mobygames:tr260
+Matthew Benson,,Art,FX Artists,,Blur,core,mobygames:tr260
+Daniel Chamberlin,,Art,FX Artists,,Blur,core,mobygames:tr260
+Joe Coleman,,Art,FX Artists,,Blur,core,mobygames:tr260
+Mahmoud Elragheb,,Art,FX Artists,,Blur,core,mobygames:tr260
+Rick Fuentealba,,Art,FX Artists,,Blur,core,mobygames:tr260
+Seona Hwang,,Art,FX Artists,,Blur,core,mobygames:tr260
+Seung Jae Lee,,Art,FX Artists,,Blur,core,mobygames:tr260
+Hnedel Maximore,,Art,FX Artists,,Blur,core,mobygames:tr260
+Allan McKay,,Art,FX Artists,,Blur,core,mobygames:tr260
+Sasmit Ranadive,,Art,FX Artists,,Blur,core,mobygames:tr260
+Brandon Riza,,Art,FX Artists,,Blur,core,mobygames:tr260
+John Schratz,,Art,FX Artists,,Blur,core,mobygames:tr260
+Victor Wei,,Art,FX Artists,,Blur,core,mobygames:tr260
+Brandon Young,,Art,FX Artists,,Blur,core,mobygames:tr260
+Hayley Perkins,,Production,Production Coordinator – Layout,,Blur,core,mobygames:tr262
+David Maldonado,,Art,Production Coordinator – Animation,,Blur,core,mobygames:tr263
+Chris McLeod,,Art,Production Coordinator – Animation,,Blur,core,mobygames:tr263
+Ian Blough,,Production,Production Coordinator – FX and Scene Assembly,,Blur,core,mobygames:tr264
+Janis Robertson,,Production,"Production Coordinator – Assests, Hair/Cloth and Scene Assembly",,Blur,core,mobygames:tr265
+Amanda Powell,,Production,Production Assistant,,Blur,core,mobygames:tr266
+Cristi Balanescu,,Art,Concept Artists,,Blur,core,mobygames:tr268
+Ioan Dumitrescu,,Art,Concept Artists,,Blur,core,mobygames:tr268
+Leonid Enin,,Art,Concept Artists,,Blur,core,mobygames:tr268
+Nicolas Francoeur,,Art,Concept Artists,,Blur,core,mobygames:tr268
+Ville-Valtteri Kinnunen,,Art,Concept Artists,,Blur,core,mobygames:tr268
+Bogdan Marica,,Art,Concept Artists,,Blur,core,mobygames:tr268
+Vlad Marica,,Art,Concept Artists,,Blur,core,mobygames:tr268
+Alex Patrascan,,Art,Concept Artists,,Blur,core,mobygames:tr268
+Sean McNally,,Art,Concept Artists,,Blur,core,mobygames:tr268
+Dani Oprea,,Art,Concept Artists,,Blur,core,mobygames:tr268
+Darren Quach,,Art,Concept Artists,,Blur,core,mobygames:tr268
+Joshua James Shaw,,Art,Concept Artists,,Blur,core,mobygames:tr268
+Dinu Silviu,,Art,Concept Artists,,Blur,core,mobygames:tr268
+Leopard Snow,,Art,Concept Artists,,Blur,core,mobygames:tr268
+Chuck Wojtkiewicz,,Art,Concept Artists,,Blur,core,mobygames:tr268
+Tom Zhao,,Art,Concept Artists,,Blur,core,mobygames:tr268
+Alexander Chávez,,Other,Technician,,Blur,core,mobygames:tr270
+Jeremy Donahue,,Engineering,Systems Administrator/Programmer,,Blur,core,mobygames:tr271
+Perry Randall,,Engineering,Systems Administrator/Programmer,,Blur,core,mobygames:tr271
+Paul Huang,,Other,Systems Administrator,,Blur,core,mobygames:tr272
+Matt Newell,,Other,Systems Analyst/DBA,,Blur,core,mobygames:tr273
+Stephen Lu,,Engineering,Pipeline TD,,Blur,core,mobygames:tr275
+Will Cunningham,,Engineering,Pipeline Intern,,Blur,core,mobygames:tr276
+Jennifer Miller,,Studio/Business,Company Operating Officer,,Blur,core,mobygames:tr278
+Hamou Nessib,,Studio/Business,Accounting,,Blur,core,mobygames:tr279
+Monica Singh-Haley,,Publishing,HR/Recruiting Personnel,,Blur,core,mobygames:tr280
+Emily Schweber,,Voice,Additional Casting by,,Blur,core,mobygames:tr282
+Beckie King,,Voice,Cortana,,Blur,core,mobygames:tr285
+Courtney Munch,,Voice,Commander Miranda Keyes / Prophets,,Blur,core,mobygames:tr286
+Damion Poitier,,Voice,Sgt. Maj. Johnson / Arbiter,,Blur,core,mobygames:tr287
+Kirk Thornton,,Voice,Admiral Hood,,Blur,core,mobygames:tr288
+Dameon J. Clarke,,Voice,Quartermaster,,Blur,core,mobygames:tr289
+Matt Nolan,,Voice,In Amber Clad Pilot,,Blur,core,mobygames:tr290
+Jim H. Pirri,,Voice,Sgt. Stacker,,Blur,core,mobygames:tr291
+Chad Todhunter,,Voice,Marine - Male,,Blur,core,mobygames:tr292
+Sara J. Tomko,,Voice,Marine - Female,,Blur,core,mobygames:tr293
+Esteban Cueto,,Voice,Actor,,Blur,core,mobygames:tr294
+Roberto Gutiérrez,,Voice,Actor,,Blur,core,mobygames:tr294
+Aaron Hawley,,Voice,Actor,,Blur,core,mobygames:tr294
+Sam Ly,,Voice,Actor,,Blur,core,mobygames:tr294
+Stephen Oyoung,,Voice,Actor,,Blur,core,mobygames:tr294
+Brianna Romero,,Voice,Actor,,Blur,core,mobygames:tr294
+Derron Ross,,Voice,Actor,,Blur,core,mobygames:tr294
+Roberto Gutiérrez,,Voice,Stunt Coordinator,,Blur,core,mobygames:tr296
+Gui Da Silva,,Voice,Stunt Performer,,Blur,core,mobygames:tr297
+Stephen Oyoung,,Voice,Stunt Performer,,Blur,core,mobygames:tr297
+Joseph Ross,,Voice,Stung Rigging Coordinator,,Blur,core,mobygames:tr298
+Damien Bray,,Voice,Stunt Rigger,,Blur,core,mobygames:tr299
+Paul M. Alvarez del Castillo,,Voice,Motion Capture Assistant,,Blur,core,mobygames:tr301
+Laura Anderson,,Voice,Motion Capture Assistant,,Blur,core,mobygames:tr301
+Jessi Fisher,,Voice,Motion Capture Assistant,,Blur,core,mobygames:tr301
+Ryan Girard,,Voice,Motion Capture Assistant,,Blur,core,mobygames:tr301
+Joshua Gwenard,,Voice,Motion Capture Assistant,,Blur,core,mobygames:tr301
+Marc Morisseau,,Voice,Motion Capture Assistant,,Blur,core,mobygames:tr301
+Sean Sterling,,Voice,Motion Capture Assistant,,Blur,core,mobygames:tr301
+Vincent Argentine,,Voice,Motion Capture Supervisor,,Blur,core,mobygames:tr304
+Jenna Melfi,,Voice,Motion Capture Producer,,Blur,core,mobygames:tr305
+Andre Petrossian,,Voice,Motion Capture Artist,,Blur,core,mobygames:tr306
+Jason Rush,,Voice,Motion Capture Artist,,Blur,core,mobygames:tr306
+Josh Hutchins,,Voice,Motion Capture Artist,,Blur,core,mobygames:tr306
+Scott Feigel,,Voice,Motion Capture Artist,,Blur,core,mobygames:tr306
+Tiago Washburn,,Voice,Motion Capture Artist,,Blur,core,mobygames:tr306
+Mark A. Anderson,,Art,Art Director,,Certain Affinity,core,mobygames:tr311
+Michael P. Hadwin,,Art,Lead Environment Artist,,Certain Affinity,core,mobygames:tr318
+Raymond Arriaga,,Art,Environment Artist,,Certain Affinity,core,mobygames:tr322
+Ognian Bonev,,Art,Environment Artist,,Certain Affinity,core,mobygames:tr322
+Matthew Demaray,,Art,Environment Artist,,Certain Affinity,core,mobygames:tr322
+JP Eaton,,Art,Environment Artist,,Certain Affinity,core,mobygames:tr322
+Maruchy Fernandez,,Art,Environment Artist,,Certain Affinity,core,mobygames:tr322
+Leo Gonzalez,,Art,Environment Artist,,Certain Affinity,core,mobygames:tr322
+Chip Patterson,,Art,Environment Artist,,Certain Affinity,core,mobygames:tr322
+Joshua Powers,,Art,Environment Artist,,Certain Affinity,core,mobygames:tr322
+John Stamos,,Art,Environment Artist,,Certain Affinity,core,mobygames:tr322
+Wimolrat Tangtiphongkul,,Voice,Environment Artist,,Certain Affinity,core,mobygames:tr322
+Justin Walters,,Art,Environment Artist,,Certain Affinity,core,mobygames:tr322
+Joshua Wilkinson,,Art,Environment Artist,,Certain Affinity,core,mobygames:tr322
+Laura Zimmermann,,Art,Environment Artist,,Certain Affinity,core,mobygames:tr322
+Ryan Gitter,,Art,Concept Artist,,Certain Affinity,core,mobygames:tr323
+Rolf M. Mohr,,Art,Concept Artist,,Certain Affinity,core,mobygames:tr323
+Neil Davis,,Art,Technical Artist,,Certain Affinity,core,mobygames:tr324
+Matthew Oztalay,,Art,Technical Artist,,Certain Affinity,core,mobygames:tr324
+Rebecca Wallace,,Art,UI Artist,,Certain Affinity,core,mobygames:tr326
+Ben Shore,,Art,UI Artist,,Certain Affinity,core,mobygames:tr326
+Isaac Oster,,Art,Character Artist,,Certain Affinity,core,mobygames:tr327
+Alex Omlansky,,Art,Animator,,Certain Affinity,core,mobygames:tr328
+Scott Maclean,,Design,Lead Forge/UI Designer,,Certain Affinity,core,mobygames:tr331
+Lincoln Li,,Design,Systems Designer,,Certain Affinity,core,mobygames:tr333
+Charlie Wiederhold,,Design,Systems Designer,,Certain Affinity,core,mobygames:tr333
+Henry Yu,,Design,Systems Designer,,Certain Affinity,core,mobygames:tr333
+Clint Bogue,,Design,Level Designer,,Certain Affinity,core,mobygames:tr334
+Scott Lepanen,,Design,Level Designer,,Certain Affinity,core,mobygames:tr334
+Maggie Duvall,,Design,UX Designer,,Certain Affinity,core,mobygames:tr335
+Ron LaJoie,,Production,Producer,,Certain Affinity,core,mobygames:tr340
+Robert Arlauskas,,Audio,Sound & Implementation,,Certain Affinity,core,mobygames:tr342
+James Barker,,Voice,Sound & Implementation,,Certain Affinity,core,mobygames:tr342
+Garrett Breaux,,QA,QA Tester,,Certain Affinity,core,mobygames:tr344
+Ken Fisher,,QA,QA Tester,,Certain Affinity,core,mobygames:tr344
+Dane Johnson,,QA,QA Tester,,Certain Affinity,core,mobygames:tr344
+Hunter Kent,,QA,QA Tester,,Certain Affinity,core,mobygames:tr344
+Scott McCrea,,QA,QA Tester,,Certain Affinity,core,mobygames:tr344
+Matthew McCready,,QA,QA Tester,,Certain Affinity,core,mobygames:tr344
+Nate Terhune,,QA,QA Tester,,Certain Affinity,core,mobygames:tr344
+Mark A. Anderson,,Art,Art Director,,Certain Affinity,core,mobygames:tr349
+Carla Hamilton,,Other,Project Manager,,Certain Affinity,core,mobygames:tr356
+Jennipher Judge,,Publishing,HR Business Partner,,Certain Affinity,core,mobygames:tr357
+Sisi Castro-Kruel,,Other,Accounting Clerk,,Certain Affinity,core,mobygames:tr358
+Erin Maiorino,,Studio/Business,Community Manager,,Certain Affinity,core,mobygames:tr359
+Bill Mauer,,Engineering,Programmer,,Certain Affinity,core,mobygames:tr360
+Matt Mills,,Other,IT Sys Admin/Web Dev,,Certain Affinity,core,mobygames:tr362
+Fiona Cherbak,,Other,Talent Acquisition,,Certain Affinity,core,mobygames:tr365
+Christopher S. Brooks,,Other,Additional Development,,Certain Affinity,core,mobygames:tr367
+Neill Glancy,,Other,Additional Development,,Certain Affinity,core,mobygames:tr367
+Stephen Palmer,,Other,Additional Development,,Certain Affinity,core,mobygames:tr367
+Todd Moulton,,Other,Additional Development,,Certain Affinity,core,mobygames:tr367
+John McMahon,,Special Thanks,Thanks,,Certain Affinity,special-thanks,mobygames:tr369
+Annette Mercado,,Special Thanks,Thanks,,Certain Affinity,special-thanks,mobygames:tr369
+Mark Meza,,Special Thanks,Thanks,,Certain Affinity,special-thanks,mobygames:tr369
+Brian Reilly,,Special Thanks,Thanks,,Certain Affinity,special-thanks,mobygames:tr369
+Liudmila Shatalova,,Production,Associate Producers,,Saber Interactive,core,mobygames:tr375
+Ilya Kormin,,Engineering,Game Integration Senior Programmers,,Saber Interactive,core,mobygames:tr381
+Alexey Shutov,,Engineering,Game Integration Senior Programmers,,Saber Interactive,core,mobygames:tr381
+Artem Voznyuk,,Engineering,Game Integration Programmer,,Saber Interactive,core,mobygames:tr383
+Evgeny Cimbalyuk,,Engineering,Engine Lead,,Saber Interactive,core,mobygames:tr384
+Anton Vasilev,,Engineering,Senior Engine Programmers,,Saber Interactive,core,mobygames:tr386
+Viktor Isaev,,Engineering,Senior Engine Programmers,,Saber Interactive,core,mobygames:tr386
+Pavel Dmitrievskiy,,Engineering,Engine Programmers,,Saber Interactive,core,mobygames:tr387
+Kirill Korepanov,,Engineering,Engine Programmers,,Saber Interactive,core,mobygames:tr387
+Ilya Belyy,,Engineering,Engine Programmers,,Saber Interactive,core,mobygames:tr387
+Evgeniy Kozlov,,Engineering,Engine Programmers,,Saber Interactive,core,mobygames:tr387
+Evgeniy Pichugin,,Engineering,Engine Programmers,,Saber Interactive,core,mobygames:tr387
+Yaroslav Cherniy,,Engineering,Engine Programmers,,Saber Interactive,core,mobygames:tr387
+Paul Smirnov,,Engineering,Senior Rendering Programmers,,Saber Interactive,core,mobygames:tr389
+Vadim Benkevich,,Engineering,Rendering Programmers,,Saber Interactive,core,mobygames:tr390
+Nikolay Petrov,,Engineering,Rendering Programmers,,Saber Interactive,core,mobygames:tr390
+Anton Vasilev,,Engineering,Rendering Programmers,,Saber Interactive,core,mobygames:tr390
+Georgiy Juravlev,,Engineering,Network Programmer,,Saber Interactive,core,mobygames:tr391
+Roman Zhigunov,,Engineering,Tools Programmers,,Saber Interactive,core,mobygames:tr394
+Dmitriy Vasilev,,Engineering,Tools Programmers,,Saber Interactive,core,mobygames:tr394
+Oleg Baluk,,Engineering,Build Programmer,,Saber Interactive,core,mobygames:tr395
+Dmitry Kholodov,,Art,Art Director,,Saber Interactive,core,mobygames:tr397
+Dmitriy Volkov,,Art,Characters Modelling Supervisors,,Saber Interactive,core,mobygames:tr398
+Vyacheslav Solovov,,Art,Head of Concept Art Department,,Saber Interactive,core,mobygames:tr399
+Nikolay Eliseev,,Art,Concept Artists,,Saber Interactive,core,mobygames:tr401
+Daniil Kuksov,,Art,Concept Artists,,Saber Interactive,core,mobygames:tr401
+Dmitriy Maiorov,,Art,Concept Artists,,Saber Interactive,core,mobygames:tr401
+Julia Misul,,Art,Concept Artists,,Saber Interactive,core,mobygames:tr401
+Sergey Borisenko,,Art,Junior Concept Artists,,Saber Interactive,core,mobygames:tr402
+Dmitriy Kononovich,,Art,Junior Concept Artists,,Saber Interactive,core,mobygames:tr402
+Fedor Guilmoutdinov,,Art,Senior Level Modelers,,Saber Interactive,core,mobygames:tr404
+Yuriy Chernysh,,Art,Senior Level Modelers,,Saber Interactive,core,mobygames:tr404
+Vladimir Tretyakov,,Art,Senior Level Modelers,,Saber Interactive,core,mobygames:tr404
+Vyacheslav Dementjev,,Art,Senior Level Modelers,,Saber Interactive,core,mobygames:tr404
+Michael Davydenko,,Art,Senior Level Modelers,,Saber Interactive,core,mobygames:tr404
+Artem Smirnov,,Art,Senior Level Modelers,,Saber Interactive,core,mobygames:tr404
+Maxim Alekseev,,Art,Senior Level Modeller / Asset Designer,,Saber Interactive,core,mobygames:tr405
+Dmitriy Lvov,,Art,Level Modelers,,Saber Interactive,core,mobygames:tr406
+Sergey Aleksandrov,,Art,Level Modelers,,Saber Interactive,core,mobygames:tr406
+Olga Dvurechenskaya,,Art,Level Modelers,,Saber Interactive,core,mobygames:tr406
+Igor Kochnev,,Art,Junior Level Modelers,,Saber Interactive,core,mobygames:tr407
+Igor Kondratenko,,Art,Junior Level Modelers,,Saber Interactive,core,mobygames:tr407
+Maxim Antropov,,Art,Junior Level Modelers,,Saber Interactive,core,mobygames:tr407
+Evgeny Davidenko,,Art,Technical Art Director,,Saber Interactive,core,mobygames:tr409
+Kirill Arefev,,Art,Senior Technical Artist,,Saber Interactive,core,mobygames:tr411
+Georgiy Kolokolcev,,Art,Technical Artists,,Saber Interactive,core,mobygames:tr412
+Alexander Artemenko,,Art,Technical Artists,,Saber Interactive,core,mobygames:tr412
+Chernyaev Evgeniy,,Art,Technical Artists,,Saber Interactive,core,mobygames:tr412
+Evgeniy Shipilo,,Engineering,Junior Game Integration Programmer,,Saber Interactive,core,mobygames:tr415
+Alexander Myala,,Art,Lead Animator,,Saber Interactive,core,mobygames:tr416
+Mikhail Titorenko,,Art,Animators,,Saber Interactive,core,mobygames:tr417
+Alexander Kuznetsov,,Art,Senior Texture Artists,,Saber Interactive,core,mobygames:tr422
+Georgii Paute,,Art,Senior Texture Artists,,Saber Interactive,core,mobygames:tr422
+Aleksandr Davyidov,,Art,Texture Artists,,Saber Interactive,core,mobygames:tr423
+Ilya Kuzmichev,,Art,Texture Artists,,Saber Interactive,core,mobygames:tr423
+Alexey Konnov,,Art,Texture Artists,,Saber Interactive,core,mobygames:tr423
+Vadim Spiridonov,,Art,Texture Artists,,Saber Interactive,core,mobygames:tr423
+Denis Udalov,,Art,Texture Artists,,Saber Interactive,core,mobygames:tr423
+Evgeniya Drozdova,,Art,Texture Artists,,Saber Interactive,core,mobygames:tr423
+Konstantin Chulanov,,Art,Texture Artists,,Saber Interactive,core,mobygames:tr423
+Dmitry Jempala,,Art,Senior Lighting Artists,,Saber Interactive,core,mobygames:tr426
+Dmitriy Pisminsky,,Art,Senior Lighting Artists,,Saber Interactive,core,mobygames:tr426
+Alexey Kovalev,,Art,Junior Lighting Artist,,Saber Interactive,core,mobygames:tr427
+Sergei Boginsky,,Art,Outsource Manager,,Saber Interactive,core,mobygames:tr429
+Dmitry Butenko,,Art,Assets Modelers,,Saber Interactive,core,mobygames:tr433
+Yury Rumak,,Art,Assets Modelers,,Saber Interactive,core,mobygames:tr433
+Vyacheslav Gedich,,Art,Assets Modelers,,Saber Interactive,core,mobygames:tr433
+Sergey Gritsay,,Art,Assets Modelers,,Saber Interactive,core,mobygames:tr433
+Nikolay Demencevich,,Art,Assets Modelers,,Saber Interactive,core,mobygames:tr433
+Vladislav Costin,,Art,Assets Modelers,,Saber Interactive,core,mobygames:tr433
+Leonid Kuzyakin,,Art,Assets Modelers,,Saber Interactive,core,mobygames:tr433
+Piotr Nasirau,,Art,Assets Modelers,,Saber Interactive,core,mobygames:tr433
+Alexey Murzak,,Art,Assets Modelers,,Saber Interactive,core,mobygames:tr433
+Artem Kudriashov,,Art,Assets Modelers,,Saber Interactive,core,mobygames:tr433
+Andrey Chuloshnikov,,Art,Character Modeler,,Saber Interactive,core,mobygames:tr434
+Timur Barblishvili,,QA,QA Experts,,Saber Interactive,core,mobygames:tr438
+Denis Kurashev,,QA,QA Experts,,Saber Interactive,core,mobygames:tr438
+Daria Kasimanova,,QA,QA Experts,,Saber Interactive,core,mobygames:tr438
+Aleksey Vorobiev,,QA,QA Experts,,Saber Interactive,core,mobygames:tr438
+Anton Sorokin,,QA,QA Experts,,Saber Interactive,core,mobygames:tr438
+Mikhail Rybalkin,,QA,QA Intern,,Saber Interactive,core,mobygames:tr439
+Vasiliy Toropchin,,QA,QA Intern,,Saber Interactive,core,mobygames:tr439
+Ilya Ovchinnikov,,QA,QA Intern,,Saber Interactive,core,mobygames:tr439
+Alina Tarasova,,Production,Associate Producers,,Saber Interactive,core,mobygames:tr443
+Margarita Sarksyan,,Publishing,HR Managers,,Saber Interactive,core,mobygames:tr444
+Marina Solovova,,Publishing,HR Managers,,Saber Interactive,core,mobygames:tr444
+Aleksandr Belotserkovets,,Other,Project Manager,,Saber Interactive,core,mobygames:tr449
+Yaroslav Kulov,,Art,Technical Artist,,Saber Interactive,core,mobygames:tr450
+Alexander Blyzniuk,,Art,Concept Artist,,Saber Interactive,core,mobygames:tr451
+Roman Androshchuk,,Design,Level Modelers,,Saber Interactive,core,mobygames:tr452
+Dmitriy Krainuk,,Design,Level Modelers,,Saber Interactive,core,mobygames:tr452
+Michael Borodachov,,Design,Level Modelers,,Saber Interactive,core,mobygames:tr452
+Anton Zhuk,,Design,Level Modelers,,Saber Interactive,core,mobygames:tr452
+Pavel Dmitrov,,Design,Level Modelers,,Saber Interactive,core,mobygames:tr452
+Yulia Lavinyukova,,Art,Texture Artist,,Saber Interactive,core,mobygames:tr453
+Daniel Sioui,,Production,Producers,,The Sequence Group,core,mobygames:tr456
+Elisa Wolfenden,,Production,Production Coordinator,,The Sequence Group,core,mobygames:tr457
+David Edwards,,Art,Artists,,The Sequence Group,core,mobygames:tr461
+Jace Kim,,Art,Artists,,The Sequence Group,core,mobygames:tr461
+Graeme McCormack,,Art,Artists,,The Sequence Group,core,mobygames:tr461
+Seungjin Woo,,Art,Artists,,The Sequence Group,core,mobygames:tr461
+Anne Jans,,Art,Lead Character Animator,,The Sequence Group,core,mobygames:tr462
+Luke Bicevskis,,Art,Animators / Compositors,,The Sequence Group,core,mobygames:tr463
+Aaron Scott Hildebrandt,,Art,Animators / Compositors,,The Sequence Group,core,mobygames:tr463
+Sean Kalra,,Art,Animators / Compositors,,The Sequence Group,core,mobygames:tr463
+Ryan Kane,,Art,Animators / Compositors,,The Sequence Group,core,mobygames:tr463
+Ali Lupu,,Art,Animators / Compositors,,The Sequence Group,core,mobygames:tr463
+Gene Magtoto,,Art,Animators / Compositors,,The Sequence Group,core,mobygames:tr463
+Leo Viale,,Art,Lead 3D Artist,,The Sequence Group,core,mobygames:tr464
+Chad Fox,,Other,3D Modeling Lead,,The Sequence Group,core,mobygames:tr465
+Gene Magtoto,,Other,3D Modelers,,The Sequence Group,core,mobygames:tr466
+Graeme McCormack,,Other,3D Modelers,,The Sequence Group,core,mobygames:tr466
+Leo Viale,,Other,3D Modelers,,The Sequence Group,core,mobygames:tr466
+Peter Scott,,Art,3D Character Rigging Lead,,The Sequence Group,core,mobygames:tr467
+Anne Jans,,Art,3D Character Rigging / Facial,,The Sequence Group,core,mobygames:tr468
+Gene Magtoto,,Art,3D Character Rigging / Facial,,The Sequence Group,core,mobygames:tr468
+Jeremy Szostak,,Other,Junior Editor,,The Sequence Group,core,mobygames:tr471
+Pamela S. Chow,,Other,Development Director,,United Front Games,core,mobygames:tr486
+Lyndon H. Moore III,,QA,Test Lead,,Experis,core,mobygames:tr499
+Ahmad Javed Chohan,,QA,Software Test Engineers,,Experis,core,mobygames:tr501
+Josh Breese,,QA,Test Associates,,Experis,core,mobygames:tr502
+Amanda Lynn Brewer,,QA,Test Associates,,Experis,core,mobygames:tr502
+Gregrey Sevilla,,QA,Test Associates,,Experis,core,mobygames:tr502
+Ronnie Thornley,,QA,Test Associates,,Experis,core,mobygames:tr502
+Anthony S. Price,,QA,Additional Testing,,Experis,core,mobygames:tr503
+Błażej Zawadzki,,QA,Games Test Manager,,Lionbridge Game Services,core,mobygames:tr505
+Kamil Bazydło,,QA,Senior Test Engineers,,Lionbridge Game Services,core,mobygames:tr508
+Randall Glass,,Voice,Biggest Community Supporters,,,publishing,mobygames:tr628
+Scott Gershin,,Audio,Creative Director,,Formosa Interactive,core,mobygames:tr146
+Paul Lipson,,Audio,Adapted and Orchestrated By,,Finishing Move Inc.,core,mobygames:tr84
+Lennie Moore,,Audio,Adapted and Orchestrated By,,Finishing Move Inc.,core,mobygames:tr84
+Tom Salta,,Audio,Adapted and Orchestrated By,,Finishing Move Inc.,core,mobygames:tr84
+Brian Trifon,,Audio,Adapted and Orchestrated By,,Finishing Move Inc.,core,mobygames:tr84
+Brian Trifon,,Audio,Audio Director/Score Supervisor,,Finishing Move Inc.,core,mobygames:tr88
+Brian Trifon,,Audio,Project and Asset Management,,Finishing Move Inc.,core,mobygames:tr89
+Steve Kaplan,,Audio,Scoring Mixers,,Finishing Move Inc.,core,mobygames:tr90
+Brian Trifon,,Audio,Music Editing,,Finishing Move Inc.,core,mobygames:tr93
+Jillian Aversa,,Audio,Vocalists,,Finishing Move Inc.,core,mobygames:tr95
+Brian Trifon,,Audio,Guitars,,Finishing Move Inc.,core,mobygames:tr96
+Paul Lipson,,Audio,Guitars,,Finishing Move Inc.,core,mobygames:tr96
+Steve Vai,,Audio,Music Prep,,The Harmony Hut,core,mobygames:tr100
+Leslie Ann Jones,,Audio,Orchestra recorded by,,Finishing Move Inc.,core,mobygames:tr104
+Dann Thompson,,Audio,Assistant Engineers,,Finishing Move Inc.,core,mobygames:tr105
+Judy Kirschner,,Audio,Assistant Engineers,,Finishing Move Inc.,core,mobygames:tr105
+Robert Gatley,,Audio,Assistant Engineers,,Finishing Move Inc.,core,mobygames:tr105

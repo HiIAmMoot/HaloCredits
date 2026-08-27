@@ -1,0 +1,13 @@
+game,h_width_frac,anchor_y_frac,h_source,anchor_source
+halo-ce,0.212,0.45743,green,green
+halo-2,0.16867,0.49321,detected,detected
+halo-3,0.174,0.5,detected,detected
+halo-3-odst,0.16667,0.24471,detected,green
+halo-reach,0.212,0.2095,detected,green
+halo-cea,0.188,0.4376,green,green
+halo-4,0.146,0.46482,detected,green
+halo-mcc,0.20067,0.33065,detected,green
+halo-5,0.162,0.31678,detected,green
+halo-mcc-post-2018,0.16867,0.373,detected,green
+halo-infinite,0.13933,0.17139,green,green
+halo-campaign-evolved,0.19,0.32943,detected,green

@@ -1,0 +1,29 @@
+pattern,role_class,note
+(?i)\b(translat|localis|localiz|linguist|subtitl),writing,"language work; Lionbridge's per-language ""Translation Support"" blocks are the bulk of it"
+(?i)\b(face of|other faces|ensemble face|scanned talent|photo double|body double)\b|\b(cortana|spartan|character) body\b,writing,"likeness and scan credits: people scanned to become a character are talent, not art. Deliberately avoids a bare ""head"" or ""body"", which would swallow ""Studio Head"", ""Head of Engineering"" and ""Production Head"""
+(?i)(mo-?cap|motion capture|performance capture|scanning|photogramm),art,capture work feeding the art pipeline
+(?i)\b(sdet|test engineer|test associate|test lead|test manager|playtest|quality assurance|quality analyst),qa,"testing, named explicitly, before the generic manager rule can take the leads"
+(?i)\b(marketing|communications|public relations|\bpr\b|brand|publishing|publisher|store|retail|merchandis),publishing,"the work of bringing the game to market, whoever employs the person; ahead of live so community marketing is not read as player support"
+(?i)\b(digital command|dcc team|pro team|esports|waypoint|ecosystem|player support|customer support|halo support|support & safety|safety agent|support agent|support experience|community manag|community team|technical support),live,player-facing and live service; kept ahead of the technical-operations rule so player support does not read as IT
+(?i)\b(helpdesk|help desk|sysadmin|system admin|support tech|infrastructure|devops|build engineer),engineering,"technical operations, meaning support for the studio rather than for players"
+(?i)\b(it)\b,engineering,"IT, as a standalone tag"
+(?i)\b(platform|certification|compliance|submission),engineering,platform and certification engineering
+(?i)\b(recruit|talent acquisition|human resources|people ops),management,staffing and people functions sit with management
+(?i)\b(hr)\b,management,HR as a standalone tag
+(?i)\b(user experience|usability),design,user experience
+(?i)\b(ux|ui)\b,design,UX and UI as standalone tags
+(?i)\b(research|insight|analytics),design,"research feeding design; ""Interpret LLC/Research Team"", ""Competitive Insights Team"""
+(?i)\b(legal|finance|accounting|payroll|procurement|facilities|licens),management,business operations
+(?i)\b(cast|voice|actor|performer|stunt),writing,"performance; ODST files its voice cast under ""ODST : Cast / Marines"", where the role names a character group and never the work"
+(?i)\b(concept|storyboard|previs|pre-vis|lighting|texture|rigging|modell?ing|animat|scene assembl|matte|materials|terrain|environment),art,art crafts named in the heading rather than the role
+(?i)\b(cinematic|cutscene|vfx|visual effects),art,cinematics production
+(?i)\b(narrative|writer|writing|script|dialogue|editor|editing|editorial),writing,written work
+(?i)\b(audio|sound|music|score|foley|mix|orchestra|composer|pro tools|recordist|cinesamples),audio,audio work
+(?i)\b(test|qa),qa,testing
+(?i)\b(produc|program manag|project manag|scheduling|release manag),production,production management
+(?i)\b(franchise development|department lead|business|studio ops|operations|creative director|franchise director|studio director|chief|ceo|coo|cto|cfo|manager|management),management,"business and studio management; ahead of engineering so ""Development Manager"" reads as management rather than as a programmer"
+(?i)\b(engineer|programm|software|graphics|network|tools|gameplay code|web dev|develop|sde|pipeline),engineering,engineering
+(?i)\b(design|encounter|sandbox),design,design
+(?i)\b(tech art|technical art|environment art|character art|concept art|art)\b,art,"department tags such as ""(Tech Art)"" name an art craft"
+(?i)\b(employee experience|people team)\b,management,people functions
+(?i)\b(rnd|r&d|research and development)\b,engineering,research and development

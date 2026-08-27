@@ -1,0 +1,15 @@
+game_id,title,year,sequence,type
+halo-ce,Halo: Combat Evolved,2001,1,mainline
+halo-2,Halo 2,2004,2,mainline
+halo-3,Halo 3,2007,3,mainline
+halo-3-odst,Halo 3: ODST,2009,4,mainline
+halo-reach,Halo: Reach,2010,5,mainline
+halo-cea,Halo: Combat Evolved Anniversary,2011,6,remaster
+halo-4,Halo 4,2012,7,mainline
+halo-mcc,Halo: The Master Chief Collection,2014,8,collection
+halo-5,Halo 5: Guardians,2015,9,mainline
+halo-mcc-2018,Halo: The Master Chief Collection (September 2018 Update),2018,10,collection
+halo-mcc-2021,Halo: The Master Chief Collection (October 2021 Update),2021,11,collection
+halo-infinite,Halo Infinite,2021,12,mainline
+halo-mcc-2025,Halo: The Master Chief Collection (February 2025 Update),2025,13,collection
+halo-campaign-evolved,Halo: Campaign Evolved,2026,14,remaster

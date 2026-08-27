@@ -1,0 +1,431 @@
+game_id,credit_order,name_raw,name_canonical,category,role_raw,character,studio,inclusion_class,source_ref
+halo-3-odst,0,Paul Bertone Jr.,Paul Bertone,Design,Design Director,,,core,L24
+halo-3-odst,1,Joseph Staten,,Narrative,"Creative Director, Writer",,,core,L27
+halo-3-odst,2,Lars Bakken,,Design,Designers,,,core,L30
+halo-3-odst,3,Dan Miller,,Design,Designers,,,core,L32
+halo-3-odst,4,Alex Pfeiffer,,Design,Designers,,,core,L34
+halo-3-odst,5,CJ Cowan,,Art,Cinematics Director,,,core,L37
+halo-3-odst,6,Charlie Gough,,Engineering,Engineering Leads,,,core,L42
+halo-3-odst,7,Andrew Solomon,,Engineering,Engineering Leads,,,core,L44
+halo-3-odst,8,Ben Wallace,,Engineering,Engineering Leads,,,core,L46
+halo-3-odst,9,David Aldridge,,Engineering,Engineering,,,core,L49
+halo-3-odst,10,Max Dyckhoff,,Engineering,Engineering,,,core,L51
+halo-3-odst,11,Brad Fish,,Engineering,Engineering,,,core,L53
+halo-3-odst,12,Bob Glessner,,Engineering,Engineering,,,core,L55
+halo-3-odst,13,Yaohua Hu,,Engineering,Engineering,,,core,L57
+halo-3-odst,14,Damian Isla,,Engineering,Engineering,,,core,L59
+halo-3-odst,15,Eamon McKenzie,,Engineering,Engineering,,,core,L61
+halo-3-odst,16,Mat Noguchi,,Engineering,Engineering,,,core,L63
+halo-3-odst,17,Chris Tchou,,Engineering,Engineering,,,core,L65
+halo-3-odst,18,Luke Timmins,,Engineering,Engineering,,,core,L67
+halo-3-odst,19,Luis Villegas,,Engineering,Engineering,,,core,L69
+halo-3-odst,20,Xi Wang,,Engineering,Engineering,,,core,L71
+halo-3-odst,21,Tam Armstrong,,Engineering,Additional Engineering,,,core,L74
+halo-3-odst,22,Mike Baldwin,,Engineering,Additional Engineering,,,core,L76
+halo-3-odst,23,Chris Butcher,,Engineering,Additional Engineering,,,core,L78
+halo-3-odst,24,Jon Cable,,Engineering,Additional Engineering,,,core,L80
+halo-3-odst,25,Hao Chen,,Engineering,Additional Engineering,,,core,L82
+halo-3-odst,26,Christian Diefenbach,,Engineering,Additional Engineering,,,core,L84
+halo-3-odst,27,Paul Lewellen,,Engineering,Additional Engineering,,,core,L86
+halo-3-odst,28,Adrian Perez,,Engineering,Additional Engineering,,,core,L88
+halo-3-odst,29,Brian Sharp,,Engineering,Additional Engineering,,,core,L90
+halo-3-odst,30,Brendan Walker,,Engineering,Additional Engineering,,,core,L92
+halo-3-odst,31,Aaron Lieberman,,Engineering,Tools Engineering,,,core,L95
+halo-3-odst,32,Tristan Root,,Engineering,Tools Engineering,,,core,L97
+halo-3-odst,33,Sean Shypula,,Engineering,Tools Engineering,,,core,L99
+halo-3-odst,34,Tom Gioconda,,Engineering,Online Engineering,,,core,L102
+halo-3-odst,35,Chris Gosset,,Engineering,Online Engineering,,,core,L104
+halo-3-odst,36,Michael R. Williams,,Engineering,Online Engineering,,,core,L106
+halo-3-odst,37,Roger Wolfson,,Engineering,Online Engineering,,,core,L108
+halo-3-odst,38,Justin Hayward,,Art,Environment Art Leads,,,core,L113
+halo-3-odst,39,Michael Wu,,Art,Environment Art Leads,,,core,L115
+halo-3-odst,40,Christopher Barret,Chris Barrett,Art,Additional Art Direction,,,core,L118
+halo-3-odst,41,Dave Dunn,David Dunn,Art,Art Department Manager,,,core,L121
+halo-3-odst,42,Matt Benier,,Art,Environment Artists,,,core,L124
+halo-3-odst,43,Mike Buelterman,,Art,Environment Artists,,,core,L126
+halo-3-odst,44,Vic DeLeon,,Art,Environment Artists,,,core,L128
+halo-3-odst,45,Samuel Jones,,Art,Environment Artists,,,core,L130
+halo-3-odst,46,Blake Low,,Art,Environment Artists,,,core,L132
+halo-3-odst,47,Michael Means,,Art,Environment Artists,,,core,L134
+halo-3-odst,48,Mike Milota,,Art,Environment Artists,,,core,L136
+halo-3-odst,49,Cameron Pinard,,Art,Environment Artists,,,core,L138
+halo-3-odst,50,Paul Russel,,Art,Environment Artists,,,core,L140
+halo-3-odst,51,Jason Sussman,,Art,Environment Artists,,,core,L142
+halo-3-odst,52,Kentarou Taya,,Art,Environment Artists,,,core,L144
+halo-3-odst,53,Jason Keith,,Art,Environment Artists,,Aquent,core,L146
+halo-3-odst,54,Scott Shepherd,,Art,3D art leads,,,core,L149
+halo-3-odst,55,Shi Kai Wang,,Art,3D art leads,,,core,L151
+halo-3-odst,56,Steve Scott,,Art,Effects Art Lead,,,core,L154
+halo-3-odst,57,Chad Foxglove,,Art,Effects Artist,,,core,L157
+halo-3-odst,58,Chris Alderson,,Art,3D Artists,,,core,L160
+halo-3-odst,59,Travis Brady,,Art,3D Artists,,,core,L162
+halo-3-odst,60,Milton Cadogan,,Art,3D Artists,,,core,L164
+halo-3-odst,61,Tom Doyle,,Art,3D Artists,,,core,L166
+halo-3-odst,62,Eric Elton,,Art,3D Artists,,,core,L168
+halo-3-odst,63,Raj Nattam,,Art,3D Artists,,,core,L170
+halo-3-odst,64,Paul Brandl,,Art,3D Artists,,Two degrees,core,L172
+halo-3-odst,65,Loren Broach,,Art,3D Artists,,Aquent,core,L174
+halo-3-odst,66,Ray Broscovak,,Art,3D Artists,,Filter,core,L176
+halo-3-odst,67,Kevin Dalziel,,Art,3D Artists,,Filter,core,L178
+halo-3-odst,68,Matt Lichy,,Art,3D Artists,,Aquent,core,L180
+halo-3-odst,69,James McQuillan,Jim McQuillan,Design,Visual Design Lead,,,core,L183
+halo-3-odst,70,Aaron Lemay,,Art,Visual Design Artists,,,core,L186
+halo-3-odst,71,Lorraine McLees,,Art,Visual Design Artists,,,core,L188
+halo-3-odst,72,Erik Bertellotti,,Art,Visual Design Artists,,Perhapsatron,core,L190
+halo-3-odst,73,Kris Hamper,,Art,Visual Design Artists,,Filter,core,L192
+halo-3-odst,74,Brian Hargrave,,Art,Visual Design Artists,,Infusion,core,L194
+halo-3-odst,75,Carlos Naranjo,,Other,Content Coordinator,,Aquent,core,L197
+halo-3-odst,76,Dorje Seattle Bellbrook,,Art,Concept and Skies,,,core,L200
+halo-3-odst,77,Mark Goldsworthy,,Art,Concept and Skies,,,core,L202
+halo-3-odst,78,John Gronquist,,Art,Concept and Skies,,,core,L204
+halo-3-odst,79,Isaac Hannaford,,Art,Concept and Skies,,,core,L206
+halo-3-odst,80,Steve Chon,,Art,Concept and Skies,,Two degrees,core,L208
+halo-3-odst,81,David Candland,,Other,User Interface Lead,,,core,L211
+halo-3-odst,82,Andrew G Davis,,Art,User Interface Artist,,,core,L214
+halo-3-odst,83,Roberta Browne,,Art,Animation Lead,,,core,L217
+halo-3-odst,84,Jeremy Fones,,Art,Animators,,,core,L220
+halo-3-odst,85,Richard Lico,,Art,Animators,,,core,L222
+halo-3-odst,86,Bill O' Brien,William O'Brien,Art,Animators,,,core,L224
+halo-3-odst,87,Jason Robertson,,Art,Animators,,,core,L226
+halo-3-odst,88,Drew Shy,,Art,Animators,,,core,L228
+halo-3-odst,89,Mike Hoffman,,Art,Animators,,Aquent,core,L230
+halo-3-odst,90,Pat Jandro,,Art,Cinematics Animation,,,core,L233
+halo-3-odst,91,Kurt Nellis,,Art,Cinematics Animation,,,core,L235
+halo-3-odst,92,Paul Vosper,,Art,Tech Art Lead,,,core,L238
+halo-3-odst,93,Javier Burgos,,Art,Tech Artists,,,core,L241
+halo-3-odst,94,Seth Gibson,,Art,Tech Artists,,,core,L243
+halo-3-odst,95,James Haywood,,Art,Tech Artists,,,core,L245
+halo-3-odst,96,David Hunt,,Art,Tech Artists,,,core,L247
+halo-3-odst,97,Steve Theodore,,Art,Tech Artists,,,core,L249
+halo-3-odst,98,Martin O'Donnell,,Audio,Audio Director & Composer,,,core,L254
+halo-3-odst,99,Jay Weinland,,Audio,Audio Lead & Sound Design,,,core,L257
+halo-3-odst,100,C Paul Johnson,C Paul Johnson,Audio,Sound Design & Additional Music,,,core,L260
+halo-3-odst,101,Stan LePard,,Audio,Additional Music,,Panther modern,core,L263
+halo-3-odst,102,Michael Salvatori,,Audio,Additional Music,,Total music,core,L265
+halo-3-odst,103,Jonty Barnes,,Production,Director of Production,,,core,L270
+halo-3-odst,104,Curtis Creamer,,Production,Production Lead,,,core,L273
+halo-3-odst,105,Sam Arguez,,Production,Producer,,,core,L276
+halo-3-odst,106,Matthew Burns,,Production,Producer,,,core,L278
+halo-3-odst,107,Matthew Priestly,,Production,Producer,,,core,L280
+halo-3-odst,108,Matt Richenburg,,Production,Producer,,,core,L282
+halo-3-odst,109,Dave Liebur,,Production,Producer,,Aquent,core,L284
+halo-3-odst,110,Graham Bartlett,,Engineering,Production Engineering Lead,,,core,L289
+halo-3-odst,111,Josh Rodgers,,Engineering,Production Engineer,,,core,L292
+halo-3-odst,112,Tim Williams,,Engineering,Production Engineer,,,core,L294
+halo-3-odst,113,Cullen Bradley,,Engineering,Production Engineer,,Excell,core,L296
+halo-3-odst,114,Nathan Rodland,,Engineering,Production Engineer,,Xversity,core,L298
+halo-3-odst,115,Ben Wommack,,Engineering,Production Engineer,,Volt,core,L300
+halo-3-odst,116,Jamie Evans,,QA,Test Manager,,,core,L303
+halo-3-odst,117,David Gasca,,QA,Test Leads,,,core,L306
+halo-3-odst,118,Domenic Koeplin,,QA,Test Leads,,,core,L308
+halo-3-odst,119,Nicholas Gerrone,,QA,Testers,,,core,L311
+halo-3-odst,120,Andrew Harrison,,QA,Testers,,,core,L313
+halo-3-odst,121,Jon Weisnewski,,QA,Testers,,,core,L315
+halo-3-odst,122,Michael Axworthy,,QA,Testers,,Excell,core,L317
+halo-3-odst,123,David Bai,,QA,Testers,,Volt,core,L319
+halo-3-odst,124,Carlos Cardona,,QA,Testers,,Comsys,core,L321
+halo-3-odst,125,Richard Chen,,QA,Testers,,Comsys,core,L323
+halo-3-odst,126,John Comstock,,QA,Testers,,Volt,core,L325
+halo-3-odst,127,Chris Daltas,,QA,Testers,,Excell,core,L327
+halo-3-odst,128,Joel Day,,QA,Testers,,Volt,core,L329
+halo-3-odst,129,Michael Durkin,,QA,Testers,,Volt,core,L331
+halo-3-odst,130,Justin Ewert,,QA,Testers,,Excell,core,L333
+halo-3-odst,131,Luana Gullo France,,QA,Testers,,Volt,core,L335
+halo-3-odst,132,Doug Gorman III,,QA,Testers,,Comsys,core,L337
+halo-3-odst,133,Andrew Hopper,,QA,Testers,,Comsys,core,L339
+halo-3-odst,134,Gerry Jackson,,QA,Testers,,Volt,core,L341
+halo-3-odst,135,Kenny Jackson,,QA,Testers,,Comsys,core,L343
+halo-3-odst,136,Rob Kehoe,,QA,Testers,,Volt,core,L345
+halo-3-odst,137,Tomonori Kinoshita,,QA,Testers,,Excell,core,L347
+halo-3-odst,138,Ja-il Koo,,QA,Testers,,Volt,core,L349
+halo-3-odst,139,Judith Kriess,,QA,Testers,,Volt,core,L351
+halo-3-odst,140,Jonathan Kubo,,QA,Testers,,Excell,core,L353
+halo-3-odst,141,Justin Lakin,,QA,Testers,,Xversity,core,L355
+halo-3-odst,142,Paul Morris,,QA,Testers,,Volt,core,L357
+halo-3-odst,143,Andra Ion Niculescu,,QA,Testers,,Comsys,core,L359
+halo-3-odst,144,Eddie Nunez,,QA,Testers,,Volt,core,L361
+halo-3-odst,145,Michael Sechrist,,QA,Testers,,Volt,core,L363
+halo-3-odst,146,Joe Sifferman,,QA,Testers,,Volt,core,L365
+halo-3-odst,147,Joon Sim,,QA,Testers,,Volt,core,L367
+halo-3-odst,148,Misao Tidd,,QA,Testers,,Volt,core,L369
+halo-3-odst,149,Mark Uyeda,,QA,Testers,,Volt,core,L371
+halo-3-odst,150,Lionel Ward,,QA,Testers,,Excell,core,L373
+halo-3-odst,151,Chris Wilson,,QA,Testers,,Volt,core,L375
+halo-3-odst,152,Zach Russell,,Other,Head of infrastructure & Bungie.net,,,core,L380
+halo-3-odst,153,Luke Smith,,Narrative,Bungie.net writer,,,core,L383
+halo-3-odst,154,Eric Osborne,,Studio/Business,Bungie.net Community,,Xversity,core,L386
+halo-3-odst,155,Stosh Steward,,Design,Web Design,,Two degrees,core,L389
+halo-3-odst,156,Steve Lopez,,Other,IT Lead,,,core,L394
+halo-3-odst,157,Alex Bezman,,Other,IT Team,,,core,L397
+halo-3-odst,158,Jae Parks,,Other,IT Team,,,core,L399
+halo-3-odst,159,Douglas Patrick,,Other,IT Team,,,core,L401
+halo-3-odst,160,James Phillips,,Other,IT Team,,,core,L403
+halo-3-odst,161,Claw Kelsay,,Other,IT Team,,Volt,core,L405
+halo-3-odst,162,Sargey Mkrtumov,,Other,IT Team,,Comsys,core,L407
+halo-3-odst,163,Jerry Simpson,,Other,Security Lead,,,core,L410
+halo-3-odst,164,Philip Kauffman,,Other,Security,,,core,L413
+halo-3-odst,165,Arturo [Adam] Gutierrez Jr.,,Other,Security,,,core,L415
+halo-3-odst,166,Harold Ryan,,Other,President,,,core,L418
+halo-3-odst,167,Pete Parsons,,Publishing,Director of Marketing,,,publishing,L421
+halo-3-odst,168,Brian Jarrard,,Publishing,Marketing/PR/Community,,,publishing,L424
+halo-3-odst,169,Davina Chan Gallagher,,Studio/Business,Administration,,,core,L427
+halo-3-odst,170,Christine Edwards,,Studio/Business,Administration,,Two degrees,core,L429
+halo-3-odst,171,Brent Abrahamsen,,Publishing,Business development & finance,,,core,L432
+halo-3-odst,172,Ondraus Jenkins,,Publishing,Business development & finance,,,core,L434
+halo-3-odst,173,Shawn Taylor,,Publishing,Business development & finance,,,core,L436
+halo-3-odst,174,Renae Wetsig,,Publishing,Business development & finance,,,core,L438
+halo-3-odst,175,Gayle Chonzena,,Publishing,HR,,,core,L441
+halo-3-odst,176,Shauna Sperry,,Publishing,HR,,,core,L443
+halo-3-odst,177,Kari Erickson,,Publishing,HR,,Independent,core,L445
+halo-3-odst,178,David Allen,,Other,Halo 3 Contributors,,,core,L448
+halo-3-odst,179,Chad Armstrong,,Other,Halo 3 Contributors,,,core,L450
+halo-3-odst,180,Frank Capezzuto,,Other,Halo 3 Contributors,,,core,L452
+halo-3-odst,181,Christopher Carnry,,Other,Halo 3 Contributors,,,core,L454
+halo-3-odst,182,Steve Cotten,,Other,Halo 3 Contributors,,,core,L456
+halo-3-odst,183,Tyson Green,,Other,Halo 3 Contributors,,,core,L458
+halo-3-odst,184,Jamie Griesmer,,Other,Halo 3 Contributors,,,core,L460
+halo-3-odst,185,Jason Jones,,Other,Halo 3 Contributors,,,core,L462
+halo-3-odst,186,Marcus Lehto,,Other,Halo 3 Contributors,,,core,L464
+halo-3-odst,187,Robert McLees,,Other,Halo 3 Contributors,,,core,L466
+halo-3-odst,188,Allen Murray,,Other,Halo 3 Contributors,,,core,L468
+halo-3-odst,189,Christopher Opdahl,,Other,Halo 3 Contributors,,,core,L470
+halo-3-odst,190,Niles Sankey,,Other,Halo 3 Contributors,,,core,L472
+halo-3-odst,191,Joseph Tung,,Other,Halo 3 Contributors,,,core,L474
+halo-3-odst,192,Lee Wilson,,Other,Halo 3 Contributors,,,core,L476
+halo-3-odst,193,Michael Zak,Mike Zak,Other,Halo 3 Contributors,,,core,L478
+halo-3-odst,194,Robert Adams,,Other,... And the Rest of the Bungie Crew,,,core,L481
+halo-3-odst,195,Christian Allen,,Other,... And the Rest of the Bungie Crew,,,core,L483
+halo-3-odst,196,Noah Bordner,,Other,... And the Rest of the Bungie Crew,,,core,L485
+halo-3-odst,197,Tom Burlington,,Other,... And the Rest of the Bungie Crew,,,core,L487
+halo-3-odst,198,Derek Carrol,,Other,... And the Rest of the Bungie Crew,,,core,L489
+halo-3-odst,199,Glenn Israel,,Other,... And the Rest of the Bungie Crew,,,core,L491
+halo-3-odst,200,Jaime Jones,,Other,... And the Rest of the Bungie Crew,,,core,L493
+halo-3-odst,201,Sage Merrill,,Other,... And the Rest of the Bungie Crew,,,core,L495
+halo-3-odst,202,Patrick O' Kelley,,Other,... And the Rest of the Bungie Crew,,,core,L497
+halo-3-odst,203,Thomas Saville,,Other,... And the Rest of the Bungie Crew,,,core,L499
+halo-3-odst,204,Matthew Segur,,Other,... And the Rest of the Bungie Crew,,,core,L501
+halo-3-odst,205,Joseph Spataro,,Other,... And the Rest of the Bungie Crew,,,core,L503
+halo-3-odst,206,Natalya Tatarchuk,,Other,... And the Rest of the Bungie Crew,,,core,L505
+halo-3-odst,207,Benjamin Thompson,,Other,... And the Rest of the Bungie Crew,,,core,L507
+halo-3-odst,208,Michael Tipul,,Other,... And the Rest of the Bungie Crew,,,core,L509
+halo-3-odst,209,Emilio Ghorayeb,,Art,Animation supervisor,,,core,L514
+halo-3-odst,210,Nabil Yared,,Production,Production coordinator,,,core,L517
+halo-3-odst,211,Adrian Annesley,,Art,Animators,,,core,L520
+halo-3-odst,212,George Banks,,Art,Animators,,,core,L522
+halo-3-odst,213,Dana Boadway,,Art,Animators,,,core,L524
+halo-3-odst,214,Christinel Boston,,Art,Animators,,,core,L526
+halo-3-odst,215,Jason Clarke,,Art,Animators,,,core,L528
+halo-3-odst,216,Frederic Cote,,Art,Animators,,,core,L530
+halo-3-odst,217,Marco Foglia,,Art,Animators,,,core,L532
+halo-3-odst,218,Cameron Folds,,Art,Animators,,,core,L534
+halo-3-odst,219,Benoit Gagne,,Art,Animators,,,core,L536
+halo-3-odst,220,Brent George,,Art,Animators,,,core,L538
+halo-3-odst,221,Bartek Kujbida,,Art,Animators,,,core,L540
+halo-3-odst,222,Chris Lam,,Art,Animators,,,core,L542
+halo-3-odst,223,David Lam,,Art,Animators,,,core,L544
+halo-3-odst,224,Velislava Nikolova,,Art,Animators,,,core,L546
+halo-3-odst,225,Andrew Ogawa,,Art,Animators,,,core,L548
+halo-3-odst,226,Brett Paton,,Art,Animators,,,core,L550
+halo-3-odst,227,Peter Raynolds,,Art,Animators,,,core,L552
+halo-3-odst,228,Scott Slater,,Art,Animators,,,core,L554
+halo-3-odst,229,John Velazquez,,Art,Animators,,,core,L556
+halo-3-odst,230,Ryan Yee,,Art,Animators,,,core,L558
+halo-3-odst,231,Philippe Zerounian,,Art,Animators,,,core,L560
+halo-3-odst,232,Nathan Fillion,,Voice,ODST : Cast,Buck,,core,L563
+halo-3-odst,233,Tricia Helfer,,Voice,ODST : Cast,Dare,,core,L565
+halo-3-odst,234,Adam Baldwin,,Voice,ODST : Cast,Dutch,,core,L567
+halo-3-odst,235,Alan Tudyk,,Voice,ODST : Cast,Mickey,,core,L569
+halo-3-odst,236,Nolan North,,Voice,ODST : Cast,Romeo,,core,L571
+halo-3-odst,237,David Scully,,Voice,ODST : Cast,Sgt. Johnson,,core,L573
+halo-3-odst,238,Jeff Steitzer,,Voice,ODST : Cast,Firefight announcer,,core,L575
+halo-3-odst,239,Nika Futterman,Nika Futterman,Other,Marines,,,core,L578
+halo-3-odst,240,Mikey Kelley,Mikey Kelley,Other,Marines,,,core,L580
+halo-3-odst,241,Andy McKaige,Andrew McKaige,Other,Marines,,,core,L582
+halo-3-odst,242,Debra Wilson Skelton,Debra Wilson,Other,Marines,,,core,L584
+halo-3-odst,243,Pete Stacker,,Other,Marines,,,core,L586
+halo-3-odst,244,David White,,Other,Marines,,,core,L588
+halo-3-odst,245,Todd Licea,,Other,Police officers,,,core,L591
+halo-3-odst,246,Mark Lund,,Other,Police officers,,,core,L593
+halo-3-odst,247,Pete Stacker,,Other,Police officers,,,core,L595
+halo-3-odst,248,Ken Boynton,,Other,Brutes,,,core,L598
+halo-3-odst,249,John DiMaggio,,Other,Brutes,,,core,L600
+halo-3-odst,250,David Scully,,Other,Brutes,,,core,L602
+halo-3-odst,251,Fred Tatasciore,Fred Tatasciore,Other,Brutes,,,core,L604
+halo-3-odst,252,Chris Edgerly,,Other,Grunts,,,core,L607
+halo-3-odst,253,Joseph Staten,,Other,Grunts,,,core,L609
+halo-3-odst,254,Joseph Staten,,Other,Superintendent,,,core,L612
+halo-3-odst,256,Ash Wood,,Art,Artwork,,,core,L620
+halo-3-odst,257,Masasa Moyo,Masasa Moyo,Voice,Cast,Sadie Endesha,,core,L623
+halo-3-odst,258,Hakim Kazim,Hakeem Kae-Kazim,Voice,Cast,Dr. Endesha,,core,L625
+halo-3-odst,259,John Patrick Lowrie,John Patrick Lowrie,Voice,Cast,"Commissioner Kinsler, additional voices",,core,L627
+halo-3-odst,260,Dave Wittenburg,Dave Wittenburg,Voice,Cast,"Mike Branley, additional voices",,core,L629
+halo-3-odst,261,Carol Roscoe,,Voice,Cast,"Duty officer, additional voices",,core,L631
+halo-3-odst,262,Gavin Cummins,,Voice,Cast,"Marshall, additional voices",,core,L633
+halo-3-odst,263,Don Brady,,Voice,Cast,"Stephen, additional voices",,core,L635
+halo-3-odst,264,Dennis Bateman,,Voice,Cast,"Tom, additional voices",,core,L637
+halo-3-odst,265,Ken Boynton,,Voice,Cast,"Jim, additional voices",,core,L639
+halo-3-odst,266,Laura Kenny,,Voice,Cast,"Crone, additional voices",,core,L641
+halo-3-odst,267,Richard Ziman,,Voice,Cast,"Jonas, additional voices",,core,L643
+halo-3-odst,268,Gin Hammond,,Voice,Cast,"Crowd, additional voices",,core,L645
+halo-3-odst,271,Claude Errera,,Studio/Business,Community,,,core,L661
+halo-3-odst,272,Ghaleoneb,,Studio/Business,Community,,,core,L663
+halo-3-odst,273,Ryan Wheeler,,Studio/Business,Community,,,core,L673
+halo-3-odst,274,Clifford Garrett,,Special Thanks,Special Thanks to,,,special-thanks,L676
+halo-3-odst,275,Eric Neustadter,,Special Thanks,Special Thanks to,,,special-thanks,L678
+halo-3-odst,276,Victor Tan,,Special Thanks,Special Thanks to,,,special-thanks,L680
+halo-3-odst,277,Stephen Toulouse,,Special Thanks,Special Thanks to,,,special-thanks,L682
+halo-3-odst,278,James Veevaert,,Production,Executive Producer,,,core,L693
+halo-3-odst,279,Chris Lee,,Production,Lead Producer,,,core,L696
+halo-3-odst,280,Alex Cutting,,Production,Producers,,,core,L699
+halo-3-odst,281,Brett Gow,,Production,Producers,,,core,L701
+halo-3-odst,282,Ben Cammarano,,Art,Director of Art,,,core,L704
+halo-3-odst,283,Rich Wickham,,Other,Senior Director,,,core,L709
+halo-3-odst,284,Steve Schreck,,Other,Director,,,core,L712
+halo-3-odst,285,Dennis Reis,,Studio/Business,Business Lead,,,core,L715
+halo-3-odst,286,Kevin Grace,,Other,Editing Leads,,,core,L720
+halo-3-odst,287,Brent Metcalfe,,Other,Editing Leads,,,core,L722
+halo-3-odst,288,Ginny Baldwin,,Design,Manuel Design Labs,,Manuel Design Labs,core,L725
+halo-3-odst,289,Dana Ludwig,,Design,Manuel Design Labs,,Manuel Design Labs,core,L727
+halo-3-odst,290,Eric Schuh,,Design,User Research Lead,,,core,L732
+halo-3-odst,291,John Hopson,,Engineering,User Research Engineers,,,core,L735
+halo-3-odst,292,Jun Kim,,Engineering,User Research Engineers,,,core,L737
+halo-3-odst,293,Greg Hermann,,Engineering,Engineering leads,,,core,L742
+halo-3-odst,294,Aaron Nicholls,,Engineering,Engineering leads,,,core,L744
+halo-3-odst,295,Kutta Srinivasan,,Engineering,Engineering leads,,,core,L746
+halo-3-odst,296,Peter Comley,,Audio,Additional sound design,,,core,L751
+halo-3-odst,297,Mark Yeend,,Audio,Additional sound design,,,core,L753
+halo-3-odst,298,Ryan Crosby,,Publishing,MGS : Marketing & Public Relations,,,publishing,L756
+halo-3-odst,299,Jamie Davies,,Publishing,MGS : Marketing & Public Relations,,,publishing,L758
+halo-3-odst,300,Craig Davison,,Publishing,MGS : Marketing & Public Relations,,,publishing,L760
+halo-3-odst,301,Aaron Elliot,,Publishing,MGS : Marketing & Public Relations,,,publishing,L762
+halo-3-odst,302,Chad Hodge,,Publishing,MGS : Marketing & Public Relations,,,publishing,L764
+halo-3-odst,303,Josh Kerwin,,Publishing,MGS : Marketing & Public Relations,,,publishing,L766
+halo-3-odst,304,Chris Lee,,Publishing,MGS : Marketing & Public Relations,,,publishing,L768
+halo-3-odst,305,Caroline Mcniel,,Publishing,MGS : Marketing & Public Relations,,,publishing,L770
+halo-3-odst,306,Brandy O' Briant,,Publishing,MGS : Marketing & Public Relations,,,publishing,L772
+halo-3-odst,307,Carol Ragolski,,Publishing,MGS : Marketing & Public Relations,,,publishing,L774
+halo-3-odst,308,Nancey Ramsey,,Publishing,MGS : Marketing & Public Relations,,,publishing,L776
+halo-3-odst,309,Taylor Smith,,Publishing,MGS : Marketing & Public Relations,,,publishing,L778
+halo-3-odst,310,Kevin Unangst,,Publishing,MGS : Marketing & Public Relations,,,publishing,L780
+halo-3-odst,311,Jimmy Bischoff,,QA,Test Manager,,,core,L785
+halo-3-odst,312,Chris Shaules,,QA,Test Lead,,,core,L788
+halo-3-odst,313,Tony Bradley,,Other,SDets,,,core,L791
+halo-3-odst,314,Alex Emmet,,Other,SDets,,,core,L793
+halo-3-odst,315,Paul H. Grad Wohl,,Other,SDets,,,core,L795
+halo-3-odst,316,Eric Helbig,,Other,SDets,,,core,L797
+halo-3-odst,317,Peter Kugler,,Other,SDets,,,core,L799
+halo-3-odst,318,Lewis Liaw,,Other,SDets,,,core,L801
+halo-3-odst,319,Desmond Murray,,Other,SDets,,,core,L803
+halo-3-odst,320,Johnney Nguyen,,Other,SDets,,,core,L805
+halo-3-odst,321,Josiah Bolek,,Other,Excell Data Corporation,,Excell Data Corporation,core,L808
+halo-3-odst,322,Anthony Bryan,,Other,Excell Data Corporation,,Excell Data Corporation,core,L810
+halo-3-odst,323,Paul Conrad,,Other,Excell Data Corporation,,Excell Data Corporation,core,L812
+halo-3-odst,324,Dan Hitchcock,,Other,Excell Data Corporation,,Excell Data Corporation,core,L814
+halo-3-odst,325,Scott Kankelborg,,Other,Excell Data Corporation,,Excell Data Corporation,core,L816
+halo-3-odst,326,Bryan Link,,Other,Excell Data Corporation,,Excell Data Corporation,core,L818
+halo-3-odst,327,Travis Pijut,,Other,Excell Data Corporation,,Excell Data Corporation,core,L820
+halo-3-odst,328,Jai Salzwedel,,Other,Excell Data Corporation,,Excell Data Corporation,core,L822
+halo-3-odst,329,Shay Sanders,,Other,Excell Data Corporation,,Excell Data Corporation,core,L824
+halo-3-odst,330,Derek Shefveland,,Other,Excell Data Corporation,,Excell Data Corporation,core,L826
+halo-3-odst,331,Mitch Sullivan,,Other,Excell Data Corporation,,Excell Data Corporation,core,L828
+halo-3-odst,332,Mike Toyama,,Other,Excell Data Corporation,,Excell Data Corporation,core,L830
+halo-3-odst,333,Jake Jarvis,,Other,Volt,,Volt,core,L833
+halo-3-odst,334,Sally Kayl,,Other,Volt,,Volt,core,L835
+halo-3-odst,335,Jeffrey Kleinman,,Other,Volt,,Volt,core,L837
+halo-3-odst,336,Cameron Laborde-Zank,,Other,Volt,,Volt,core,L839
+halo-3-odst,337,Nelson Lavin,,Other,Volt,,Volt,core,L841
+halo-3-odst,338,Xhavar Strothers,,Other,Volt,,Volt,core,L843
+halo-3-odst,339,Craig Swanson,,Other,Volt,,Volt,core,L845
+halo-3-odst,340,Kyle Symonds,,Other,Volt,,Volt,core,L847
+halo-3-odst,341,Tristan Yolton,,Other,Volt,,Volt,core,L849
+halo-3-odst,342,Ian Walsh,,Production,Program Manager,,,core,L856
+halo-3-odst,343,Michael Ivory,,Other,Software Manager,,,core,L859
+halo-3-odst,344,Jason Shirley,,Audio,Audio Producer,,,core,L862
+halo-3-odst,345,Masato Ishida,,Production,Program Manager,,,core,L867
+halo-3-odst,346,Tomoko Kometani,,Other,Content Editor,,,core,L870
+halo-3-odst,347,Go Komatsu,,QA,Software Test Engineers,,,core,L873
+halo-3-odst,348,Souichiro Shimano,,QA,Software Test Engineers,,,core,L875
+halo-3-odst,349,Jae Youn Kim,,Production,Program Manager,,,core,L880
+halo-3-odst,350,Young Hoon Shim,,Production,Localization Program Manager,,,publishing,L883
+halo-3-odst,351,In Goo Kwon,,QA,Software Test Engineer,,,core,L886
+halo-3-odst,352,Robert Lin,,Production,Program Manager,,,core,L891
+halo-3-odst,353,Eva Lin,,Production,Localization Program Manager,,,publishing,L894
+halo-3-odst,354,Andy Chen An Liu,,QA,Software Test Engineer,,,core,L897
+halo-3-odst,355,Alicia Brattin,,Special Thanks,MGS : Special Thanks,,,special-thanks,L900
+halo-3-odst,356,Paul Chavez,,Special Thanks,MGS : Special Thanks,,,special-thanks,L902
+halo-3-odst,357,Keith Cirillo,,Special Thanks,MGS : Special Thanks,,,special-thanks,L904
+halo-3-odst,358,Jill Eppenberger,,Special Thanks,MGS : Special Thanks,,,special-thanks,L906
+halo-3-odst,359,David Figatner,,Special Thanks,MGS : Special Thanks,,,special-thanks,L908
+halo-3-odst,360,Dana Fos,,Special Thanks,MGS : Special Thanks,,,special-thanks,L910
+halo-3-odst,361,Alicia Hatch,,Special Thanks,MGS : Special Thanks,,,special-thanks,L912
+halo-3-odst,362,David Holmes,,Special Thanks,MGS : Special Thanks,,,special-thanks,L914
+halo-3-odst,363,Greg B. Jones,,Special Thanks,MGS : Special Thanks,,,special-thanks,L916
+halo-3-odst,364,Shane Kim,,Special Thanks,MGS : Special Thanks,,,special-thanks,L918
+halo-3-odst,365,Jason Mangold,,Special Thanks,MGS : Special Thanks,,,special-thanks,L920
+halo-3-odst,366,Don Mattrick,,Special Thanks,MGS : Special Thanks,,,special-thanks,L922
+halo-3-odst,367,Oliver Miyashita,,Special Thanks,MGS : Special Thanks,,,special-thanks,L924
+halo-3-odst,368,Yasmine Nelson,,Special Thanks,MGS : Special Thanks,,,special-thanks,L926
+halo-3-odst,369,Bruce Phillips,,Special Thanks,MGS : Special Thanks,,,special-thanks,L928
+halo-3-odst,370,Kyle Pullman,,Special Thanks,MGS : Special Thanks,,,special-thanks,L930
+halo-3-odst,371,Bonnie Ross,,Special Thanks,MGS : Special Thanks,,,special-thanks,L932
+halo-3-odst,372,Kevin Salocedo,,Special Thanks,MGS : Special Thanks,,,special-thanks,L934
+halo-3-odst,373,John Schappert,,Special Thanks,MGS : Special Thanks,,,special-thanks,L936
+halo-3-odst,374,David Shaw,,Special Thanks,MGS : Special Thanks,,,special-thanks,L938
+halo-3-odst,375,Phil Spencer,,Special Thanks,MGS : Special Thanks,,,special-thanks,L940
+halo-3-odst,376,Lief Thompson,,Special Thanks,MGS : Special Thanks,,,special-thanks,L942
+halo-3-odst,377,Arthur Tien,,Special Thanks,MGS : Special Thanks,,,special-thanks,L944
+halo-3-odst,378,Matt Whiting,,Special Thanks,MGS : Special Thanks,,,special-thanks,L946
+halo-3-odst,379,Joanne Williams,,Special Thanks,MGS : Special Thanks,,,special-thanks,L948
+halo-3-odst,380,Daniel Miller,,Design,Designers,,,core,mobygames:tr3
+halo-3-odst,381,Charles Gough,,Engineering,Engineering Leads,,,core,mobygames:tr8
+halo-3-odst,382,Michael Baldwin,,Engineering,Additional Engineering,,,core,mobygames:tr10
+halo-3-odst,383,Adrian Mark Perez,,Engineering,Additional Engineering,,,core,mobygames:tr10
+halo-3-odst,384,Jason R. Keith,,Art,Environment Artists,,Aquent,core,mobygames:tr17
+halo-3-odst,385,Rajeev Nattam,,Art,3D Artists,,,core,mobygames:tr21
+halo-3-odst,386,Paul Brandl,,Art,3D Artists,,Two Degrees,core,mobygames:tr21
+halo-3-odst,387,Kris Hamper,,Art,Visual Design Artists,,Filter,core,mobygames:tr23
+halo-3-odst,388,Brian Hargrave,,Art,Visual Design Artists,,Infusion,core,mobygames:tr23
+halo-3-odst,389,Dorje Bellbrook,,Art,Concepts and Skies,,,core,mobygames:tr25
+halo-3-odst,390,Stephen Theodore,,Art,Tech Artists,,,core,mobygames:tr32
+halo-3-odst,391,Matthew Seiji Burns,,Production,Producers,,,core,mobygames:tr42
+halo-3-odst,392,Michael Axworthy,,QA,Testers,,Excell Data Corporation,core,mobygames:tr48
+halo-3-odst,393,Carlos Cardona,,QA,Testers,,Comsys,core,mobygames:tr48
+halo-3-odst,394,John Comstock,,QA,Testers,,Volt,core,mobygames:tr48
+halo-3-odst,395,Luana Gullo France,,QA,Testers,,Volt,core,mobygames:tr48
+halo-3-odst,396,Chris Garrett,,QA,Testers,,Volt,core,mobygames:tr48
+halo-3-odst,397,Doug Gorman III,,QA,Testers,,Comsys,core,mobygames:tr48
+halo-3-odst,398,Gerry Jackson,,QA,Testers,,Volt,core,mobygames:tr48
+halo-3-odst,399,Kenny Jackson,,QA,Testers,,Comsys,core,mobygames:tr48
+halo-3-odst,400,Ja-Il Koo,,QA,Testers,,Volt,core,mobygames:tr48
+halo-3-odst,401,Judith Kriess,,QA,Testers,,Volt,core,mobygames:tr48
+halo-3-odst,402,Jonathan Kubo,,QA,Testers,,Excell Data Corporation,core,mobygames:tr48
+halo-3-odst,403,Andra Ion Niculescu,,QA,Testers,,Comsys,core,mobygames:tr48
+halo-3-odst,404,Joe Sifferman,,QA,Testers,,Volt,core,mobygames:tr48
+halo-3-odst,405,Joon Sim,,QA,Testers,,Volt,core,mobygames:tr48
+halo-3-odst,406,Misao Tidd,,QA,Testers,,Volt,core,mobygames:tr48
+halo-3-odst,407,Claw Kelsay,,Other,IT Team,,Volt,core,mobygames:tr56
+halo-3-odst,408,Jerrome Simpson,,Other,Security Lead,,,core,mobygames:tr57
+halo-3-odst,409,Arturo Gutierrez Jr.,,Other,Security,,Kelly Services,core,mobygames:tr58
+halo-3-odst,410,Kari Sepkowski,,Publishing,HR,,Independent,core,mobygames:tr67
+halo-3-odst,411,Lee R. Wilson,,Other,Halo 3 Contributors,,,core,mobygames:tr68
+halo-3-odst,412,Emile Ghorayeb,,Art,Animation Supervisor,,,core,mobygames:tr71
+halo-3-odst,413,Adrien Annesley,,Art,Animators,,,core,mobygames:tr73
+halo-3-odst,414,Cameron David Folds,,Art,Animators,,,core,mobygames:tr73
+halo-3-odst,415,David Frederick White,,Voice,Voice Actor,,,core,mobygames:tr82
+halo-3-odst,416,Hakeem Kae-Kazim,,Voice,Cast,,,core,mobygames:tr91
+halo-3-odst,417,Dave Wittenberg,,Voice,Cast,,,core,mobygames:tr91
+halo-3-odst,418,Clifford Allen Garrett,,Special Thanks,Special Thanks to,,,special-thanks,mobygames:tr96
+halo-3-odst,419,Aaron Elliott,,Publishing,Marketing,,,publishing,mobygames:tr117
+halo-3-odst,420,Christopher Lee,,Publishing,Marketing,,,publishing,mobygames:tr117
+halo-3-odst,421,Taylor Smith Sr.,,Publishing,Marketing,,,publishing,mobygames:tr117
+halo-3-odst,422,Aaron Elliott,,Publishing,PR,,,publishing,mobygames:tr118
+halo-3-odst,423,Christopher Lee,,Publishing,PR,,,publishing,mobygames:tr118
+halo-3-odst,424,Taylor Smith Sr.,,Publishing,PR,,,publishing,mobygames:tr118
+halo-3-odst,425,Mitch Sullivan-Biernoth,,QA,Excell Data Corporation,,Excell Data Corporation,publishing,mobygames:tr123
+halo-3-odst,426,Paul R. Chavez,,Special Thanks,Special Thanks,,,special-thanks,mobygames:tr142
+halo-3-odst,427,David C. Holmes,,Special Thanks,Special Thanks,,,special-thanks,mobygames:tr142
+halo-3-odst,428,Donald A. Mattrick,,Special Thanks,Special Thanks,,,special-thanks,mobygames:tr142
+halo-3-odst,429,Bonnie Ross-Ziegler,,Special Thanks,Special Thanks,,,special-thanks,mobygames:tr142
+halo-3-odst,430,Matthew Whiting,,Special Thanks,Special Thanks,,,special-thanks,mobygames:tr142
+halo-3-odst,431,Jean-loup Gailly,,Other,Tools,,zLib,core,mobygames:tr144
+halo-3-odst,432,Mark Adler,,Other,Tools,,zLib,core,mobygames:tr144

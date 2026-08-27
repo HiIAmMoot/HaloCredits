@@ -1,0 +1,114 @@
+game_id,credit_order,name_raw,name_canonical,category,role_raw,character,studio,inclusion_class,source_ref
+halo-ce,0,Jason Jones,,Production,Project Lead,,,core,L17
+halo-ce,1,Hamilton Chu,,Production,Lead Producer,,,core,L20
+halo-ce,2,Rick Ryan,,Production,Producer,,,core,L23
+halo-ce,3,Chris Butcher,,Engineering,Programmers,,,core,L26
+halo-ce,4,Bernie Freidin,,Engineering,Programmers,,,core,L27
+halo-ce,5,Charlie Gough,,Engineering,Programmers,,,core,L28
+halo-ce,6,Mat Noguchi,,Engineering,Programmers,,,core,L29
+halo-ce,7,Matt Segur,,Engineering,Programmers,,,core,L30
+halo-ce,8,Eamon McKenzie,,Engineering,Additional Programming,,,core,L36
+halo-ce,9,Ben Wallace,,Engineering,Additional Programming,,,core,L37
+halo-ce,10,Marcus R. Lehto,,Art,Art Director,,,core,L41
+halo-ce,11,Steve Abeyta,,Art,Assistant Art Lead,,,core,L45
+halo-ce,12,Eric Arroyo,,Art,Artists,,,core,L48
+halo-ce,13,Chris Barrett,,Art,Artists,,,core,L49
+halo-ce,14,Mark Bernal,,Art,Artists,,,core,L50
+halo-ce,15,David Dunn,,Art,Artists,,,core,L51
+halo-ce,16,Chris Hughes,,Art,Artists,,,core,L52
+halo-ce,17,Chris Lee,,Art,Artists,,,core,L53
+halo-ce,18,Robert McLees,,Art,Artists,,,core,L54
+halo-ce,19,Stephan Okasaki,,Art,Artists,,,core,L55
+halo-ce,20,Paul Russel,,Art,Artists,,,core,L56
+halo-ce,21,Shi Kai Wang,,Art,Artists,,,core,L57
+halo-ce,22,Michael Wu,,Art,Artists,,,core,L58
+halo-ce,23,Brian Shultz,,Art,Additional Art,,,core,L64
+halo-ce,24,John Howard,,Design,Lead Designer,,,core,L68
+halo-ce,25,Paul Bertone,,Design,Designers,,,core,L71
+halo-ce,26,Tyson Green,,Design,Designers,,,core,L72
+halo-ce,27,Jaime Griesemer,,Design,Designers,,,core,L73
+halo-ce,28,Dan Orzulak,,Design,Designers,,,core,L74
+halo-ce,29,Brannon Boren,,Narrative,Additional Writing,,,core,L77
+halo-ce,30,Matt Soell,,Narrative,Additional Writing,,,core,L78
+halo-ce,31,Eric S. Trautmann,,Narrative,Additional Writing,,,core,L79
+halo-ce,32,Michael Evans,,Production,Multiplayer Project Lead,,,core,L82
+halo-ce,33,Adrian Perez,,Engineering,Multiplayer Programmers,,,core,L85
+halo-ce,34,Stefan Sinclair,,Engineering,Multiplayer Programmers,,,core,L86
+halo-ce,35,Hardy LeBel,,Design,Multiplayer Lead Designer,,,core,L89
+halo-ce,36,Chris Carney,,Art,Multiplayer Artists,,,core,L93
+halo-ce,37,Peter Marks,,Art,Multiplayer Artists,,,core,L94
+halo-ce,38,Derrick Moore,,Art,Multiplayer Artists,,,core,L95
+halo-ce,39,Stephan Okasaki,,Art,Multiplayer Artists,,,core,L96
+halo-ce,40,Joseph Staten,,Art,Director of Cinematics,,,core,L99
+halo-ce,41,Steve Abeyta,,Art,Cinematic Artists,,,core,L102
+halo-ce,42,Paul Clift,,Art,Cinematic Artists,,,core,L103
+halo-ce,43,Adam Crockett,,Art,Cinematic Artists,,,core,L104
+halo-ce,44,Lorraine McLees,,Art,Cinematic Artists,,,core,L105
+halo-ce,45,Stephan Okasaki,,Art,Cinematic Artists,,,core,L106
+halo-ce,46,Lee Wilson,,Art,Storyboard Artist,,,core,L109
+halo-ce,47,Craig Mullins,,Art,Matte and Concept Artist,,,core,L112
+halo-ce,48,Martin O'Donnell,,Audio,"Audio Lead, Sound Design & Original Music",,,core,L115
+halo-ce,49,Jay Weinland,,Audio,Sound Designer,,,core,L118
+halo-ce,50,Michael Salvatori,,Audio,Additional Music,,,core,L121
+halo-ce,51,Adam Tewes,,Audio,Additional Sound,,,core,L124
+halo-ce,52,Max Hoberman,,Other,User Interface Lead,,,core,L127
+halo-ce,53,David Candland,,Design,User Interface Designer,,,core,L130
+halo-ce,54,Stefan Sinclair,,Engineering,User Interface Programmer,,,core,L133
+halo-ce,55,Harold Ryan,,QA,Test Manager,,,core,L136
+halo-ce,56,Curtis Creamer,,QA,Test Leads,,,core,L139
+halo-ce,57,Ryan Hylland,,QA,Test Leads,,,core,L140
+halo-ce,58,Keith Steury,,QA,User Testing Lead,,,core,L143
+halo-ce,59,Chris Chamberlain,,QA,Testers,,,core,L146
+halo-ce,60,Mike Cody,,QA,Testers,,,core,L147
+halo-ce,61,Chuck Cooper,,QA,Testers,,,core,L148
+halo-ce,62,Erik Davis,,QA,Testers,,,core,L149
+halo-ce,63,John Frey,,QA,Testers,,,core,L150
+halo-ce,64,Rick Lockyear,,QA,Testers,,,core,L151
+halo-ce,65,Paul Pederson,,QA,Testers,,,core,L152
+halo-ce,66,Zach Russel,Zach Russell,QA,Testers,,,core,L153
+halo-ce,67,Matthew Shimabuku,,QA,Testers,,,core,L154
+halo-ce,68,Luke Timmins,,QA,Testers,,,core,L155
+halo-ce,69,Jeff Wilson,,QA,Testers,,,core,L156
+halo-ce,70,Roger Wolfson,,QA,Testers,,,core,L157
+halo-ce,71,Jeff Kafer,,QA,Testers,,,core,L158
+halo-ce,72,Todd Schultz,,QA,Testers,,,core,L159
+halo-ce,73,Jen Taylor,,Voice,Voice Talent,Cortana,,core,L162
+halo-ce,74,Pete Stacker,,Voice,Voice Talent,Captain Jacob Keyes,,core,L163
+halo-ce,75,Tim Dadabo,,Voice,Voice Talent,343 Guilty Spark,,core,L164
+halo-ce,76,Steve Downes,,Voice,Voice Talent,Master Chief,,core,L165
+halo-ce,77,Tanya Pettiford-Wates,Tawnya Pettiford-Wates,Voice,Voice Talent,"Captain Carol ""Foehammer"" Rawley",,core,L166
+halo-ce,78,David Scully,,Voice,Voice Talent,Sergeant Avery J. Johnson,,core,L167
+halo-ce,79,Mike Madeoy,,Voice,Voice Talent,Pvt. Bisenti,,core,L168
+halo-ce,80,Mark Dias,,Voice,Voice Talent,Pvt. Mendoza,,core,L169
+halo-ce,81,Chris Wicklund,,Voice,Voice Talent,Pvt. Jenkins,,core,L170
+halo-ce,82,Andrew McKaige,,Voice,Voice Talent,Pvt. Chips Dubbo,,core,L171
+halo-ce,83,Ken Boynton,,Voice,Additional Voices,,,core,L174
+halo-ce,84,Todd Licea,,Voice,Additional Voices,,,core,L175
+halo-ce,85,Jeff Steitzer,,Voice,Additional Voices,The Multiplayer announcer,,core,L176
+halo-ce,86,Brian Morden,,Voice,Additional Voices,,,core,L177
+halo-ce,87,Matt Soell,,Other,Damage and Spin,,,core,L181
+halo-ce,88,Pete Demoreuille,,Other,Draft Dodgers,,,core,L184
+halo-ce,89,Tom Gioconda,,Other,Draft Dodgers,,,core,L185
+halo-ce,90,Joshua Grass,,Other,Draft Dodgers,,,core,L186
+halo-ce,91,Jason Major,,Other,Draft Dodgers,,,core,L187
+halo-ce,92,Juan Remirez,Juan Ramirez,Other,Draft Dodgers,,,core,L188
+halo-ce,93,Bob Settles,,Other,Draft Dodgers,,,core,L189
+halo-ce,94,Alexander Seropian,,Production,Executive Producer,,,core,L192
+halo-ce,95,Steve Fowler,,Production,Product Manager,,,core,L195
+halo-ce,96,Jon Kimmich,,Production,Product Planner,,,core,L198
+halo-ce,97,Ji Hong,,Publishing,Localization Lead,,,core,L201
+halo-ce,98,Keith Cirillo,,Narrative,Writer,,,core,L204
+halo-ce,99,Tom Brush,,Other,Editor,,,core,L205
+halo-ce,100,Karin Jaques,,Art,Print Artist,,,core,L206
+halo-ce,101,Jule Zuccotti,,Special Thanks,Special Thanks,,,special-thanks,L209
+halo-ce,102,Ed Fries,Ed Fries,Special Thanks,Special Thanks,,,special-thanks,L210
+halo-ce,103,Stuart Moulder,,Special Thanks,Special Thanks,,,special-thanks,L211
+halo-ce,104,Peter Parsons,Pete Parsons,Special Thanks,Special Thanks,,,special-thanks,L212
+halo-ce,105,Chris Cocks,,Special Thanks,Special Thanks,,,special-thanks,L213
+halo-ce,106,Matt Gradwohl,,Special Thanks,Special Thanks,,,special-thanks,L214
+halo-ce,107,Michael Sartain,,Special Thanks,Special Thanks,,,special-thanks,L215
+halo-ce,108,Mark Thomas,,Special Thanks,Special Thanks,,,special-thanks,L216
+halo-ce,109,Jonathan Sposato,,Special Thanks,Special Thanks,,,special-thanks,L217
+halo-ce,110,Vic Bonilla,,Special Thanks,Special Thanks,,,special-thanks,L218
+halo-ce,111,Miguel Chavez,,Special Thanks,Special Thanks,,,special-thanks,L219
+halo-ce,112,Claude Errera,,Special Thanks,Special Thanks,,,special-thanks,L220

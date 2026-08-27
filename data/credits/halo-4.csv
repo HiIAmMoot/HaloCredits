@@ -1,0 +1,1285 @@
+game_id,credit_order,name_raw,name_canonical,category,role_raw,character,studio,inclusion_class,source_ref
+halo-4,0,David Berger,,Engineering,ENGINEERING LEAD,,,core,L26
+halo-4,1,David Brickhill,,Other,PIPELINE LEAD,,,core,L28
+halo-4,2,Neill Harrison,,Art,ART MANAGER,,,core,L30
+halo-4,3,Josh Holmes,,Other,CREATIVE DIRECTOR,,,core,L32
+halo-4,4,Chris Lee,,Production,LEAD PRODUCER,,,core,L34
+halo-4,5,Kenneth Scott,,Art,ART DIRECTOR,,,core,L36
+halo-4,6,Sotaro Tojima,,Audio,AUDIO DIRECTOR,,,core,L38
+halo-4,7,Scott Warner,,Design,LEAD DESIGNER,,,core,L40
+halo-4,8,Kiki Wolfkill,,Production,EXECUTIVE PRODUCER,,,core,L42
+halo-4,9,Frank O'Connor,,Other,FRANCHISE DIRECTOR,,,core,L45
+halo-4,10,Ray Almaden,,Design,LEVEL DESIGN LEAD,,,core,L48
+halo-4,11,Jesse Snyder,,Design,CAMPAIGN DESIGN LEAD,,,core,L50
+halo-4,12,Jason Behr,,Design,Mission Design,,,core,L52
+halo-4,13,Jacob Benton,,Design,Mission Design,,,core,L54
+halo-4,14,Dan Callan,,Design,Mission Design,,,core,L56
+halo-4,15,Paul Ehreth,,Design,Mission Design,,,core,L58
+halo-4,16,Chris French,,Design,Mission Design,,,core,L60
+halo-4,17,Tom French,,Design,Mission Design,,,core,L62
+halo-4,18,Cory Hasselbach,,Design,Mission Design,,,core,L64
+halo-4,19,Justin Lippert,,Design,Mission Design,,,core,L66
+halo-4,20,Matthew Geer,,Design,Mission Design,,IFUSIONIT LLC,core,L68
+halo-4,21,Quentin Arnold Rezin,,Design,Mission Design,,POPULUS GROUP LLC,core,L70
+halo-4,22,Chris King,,Other,LEAD,,,core,L73
+halo-4,23,Christopher Blohm,,Design,Sandbox Design,,,core,L75
+halo-4,24,Matt Findley,,Design,Sandbox Design,,,core,L77
+halo-4,25,Paul Parsons,,Design,Sandbox Design,,,core,L79
+halo-4,26,Pierre Rivest,,Design,Sandbox Design,,,core,L81
+halo-4,27,Ali Zandi,,Design,Sandbox Design,,,core,L83
+halo-4,28,Kevin Franklin,,Design,WAR GAMES DESIGN LEAD,,,core,L86
+halo-4,29,Chris Haluke,,Design,SPARTAN OPS DESIGN LEAD,,,core,L88
+halo-4,30,Kynan Pearson,,Design,LEVEL DESIGN LEAD,,,core,L90
+halo-4,31,Brad Welch,,Design,INFINITY DESIGN LEAD,,,core,L92
+halo-4,32,David Ellis,,Design,Infinity Design,,,core,L94
+halo-4,33,Greg Murphy,,Design,Infinity Design,,,core,L96
+halo-4,34,Kevin Schmitt,,Design,Infinity Design,,,core,L98
+halo-4,35,Branden Bean,,Design,Infinity Design,,YOH SERVICES LLC,core,L100
+halo-4,36,Adrian Bedoya,,Design,Infinity Design,,HANSON CONSULTING GROUP,core,L102
+halo-4,37,Jayce Diaz,,Design,Infinity Design,,INSIGHT GLOBAL,core,L104
+halo-4,38,TJ Perillo,,Design,Infinity Design,,YOH SERVICES LLC,core,L106
+halo-4,39,Lionel Ward,,Design,Infinity Design,,POPULUS GROUP LLC,core,L108
+halo-4,40,Armando Troisi,,Narrative,Narrative Director,,,core,L111
+halo-4,41,Christopher Schlerf,,Design,Narrative Design,,,core,L113
+halo-4,42,Lindsay Lockhart,Morgan Lockhart,Design,Narrative Design,,INSIGHT GLOBAL,core,L115
+halo-4,43,Nathan Moller,,Design,Narrative Design,,INSIGHT GLOBAL,core,L117
+halo-4,44,Eric Schuh,,Other,LEAD,,,core,L120
+halo-4,45,Greg Snook,,Other,LEAD,,,core,L123
+halo-4,46,Aaron Leiby,,Engineering,Animation Engineering,,,core,L125
+halo-4,47,Terry Jones,,Audio,Audio Engineering,,,core,L128
+halo-4,48,Thomas J. Holmes,,Other,LEAD,,,core,L131
+halo-4,49,Mike Boulton,,Engineering,Graphics Engineering,,,core,L133
+halo-4,50,Bill Clark,,Engineering,Graphics Engineering,,,core,L135
+halo-4,51,Adam Gold,,Engineering,Graphics Engineering,,,core,L137
+halo-4,52,Jacob Liechty,,Engineering,Graphics Engineering,,,core,L139
+halo-4,53,Andy Luedke,,Engineering,Graphics Engineering,,,core,L141
+halo-4,54,Corrinne Yu,,Engineering,Graphics Engineering,,,core,L143
+halo-4,55,Alexander Boczar,,Other,LEAD,,,core,L146
+halo-4,56,Tom Hill,,Engineering,Infrastructure Engineering,,,core,L148
+halo-4,57,Peter Kugler,,Engineering,Infrastructure Engineering,,,core,L150
+halo-4,58,Tom Mathews,,Engineering,Infrastructure Engineering,,,core,L152
+halo-4,59,Peter Burzynski,,Other,LEAD,,,core,L155
+halo-4,60,William Archbell,,Engineering,Multiplayer Engineering,,,core,L157
+halo-4,61,Jeff Dubrule,,Engineering,Multiplayer Engineering,,,core,L159
+halo-4,62,Andrew Ford,,Engineering,Multiplayer Engineering,,,core,L161
+halo-4,63,Adam Pino,,Engineering,Multiplayer Engineering,,,core,L163
+halo-4,64,Robert Sanchez,,Engineering,Multiplayer Engineering,,,core,L165
+halo-4,65,"Fredrik ""Fidde"" Persson",,Other,LEAD,,,core,L168
+halo-4,66,Robert Kingsley,,Engineering,Sandbox Engineering,,,core,L170
+halo-4,67,Matthew Koch,,Engineering,Sandbox Engineering,,,core,L172
+halo-4,68,Joshua Lindquist,,Engineering,Sandbox Engineering,,,core,L174
+halo-4,69,Hugh Sider,,Engineering,Sandbox Engineering,,,core,L176
+halo-4,70,Scott Sims,,Engineering,Sandbox Engineering,,,core,L178
+halo-4,71,Joe Waters,,Engineering,Sandbox Engineering,,,core,L180
+halo-4,72,Sam Wolpert,,Engineering,Sandbox Engineering,,,core,L182
+halo-4,73,Sam Deasy,,Engineering,Sandbox Engineering,,PARTLY CLOUDY GAMES LLC,core,L184
+halo-4,74,JM Albertson,,Other,LEAD,,,core,L187
+halo-4,75,Josh Mattoon,,Engineering,Systems Engineering,,,core,L189
+halo-4,76,Jonas Keating,,Other,LEAD,,,core,L192
+halo-4,77,Mark Andersen,,Engineering,Tools Engineering,,,core,L194
+halo-4,78,Ivo Beltchev,,Engineering,Tools Engineering,,,core,L196
+halo-4,79,Lina Sokaite Hedgecoth,,Engineering,Tools Engineering,,,core,L198
+halo-4,80,Christopher Howard,,Engineering,Tools Engineering,,,core,L200
+halo-4,81,Sarah O'Leary,,Engineering,Tools Engineering,,,core,L202
+halo-4,82,Justin Price,,Engineering,Tools Engineering,,,core,L204
+halo-4,83,Christopher Willis-Ford,,Engineering,Tools Engineering,,,core,L206
+halo-4,84,Brendan Wilson,,Engineering,Tools Engineering,,,core,L208
+halo-4,85,Gareth Lough,,Other,LEAD,,,core,L211
+halo-4,86,David R. Garza II,,Engineering,UI Engineering,,,core,L213
+halo-4,87,Leonard Holman,,Engineering,UI Engineering,,,core,L215
+halo-4,88,Adam Zakowicz,,Engineering,UI Engineering,,,core,L217
+halo-4,89,Micah Rollins,,Engineering,UI Engineering,,PARTLY CLOUDY GAMES LLC,core,L219
+halo-4,90,Sheridan Thirsk,,Engineering,UI Engineering,,YOH SERVICES LLC,core,L221
+halo-4,91,Doug Barnes,,Engineering,Additional Engineering,,,core,L224
+halo-4,92,Vinny Chan,,Engineering,Additional Engineering,,,core,L226
+halo-4,93,Simon Craddick,,Engineering,Additional Engineering,,,core,L228
+halo-4,94,Cameron Egbert,,Engineering,Additional Engineering,,,core,L230
+halo-4,95,Todd Heckel,,Engineering,Additional Engineering,,,core,L232
+halo-4,96,Dom Humphrey,,Engineering,Additional Engineering,,,core,L234
+halo-4,97,Steve Jones,,Engineering,Additional Engineering,,,core,L236
+halo-4,98,Delfino Leong,,Engineering,Additional Engineering,,,core,L238
+halo-4,99,Joshua Maiche,,Engineering,Additional Engineering,,,core,L240
+halo-4,100,Shammi Mohamed,,Engineering,Additional Engineering,,,core,L242
+halo-4,101,Arnulfo Navratil,,Engineering,Additional Engineering,,,core,L244
+halo-4,102,Matthew Newcombe,,Engineering,Additional Engineering,,,core,L246
+halo-4,103,David Tuft,,Engineering,Additional Engineering,,,core,L248
+halo-4,104,Mike Wright,,Engineering,Additional Engineering,,,core,L250
+halo-4,105,Mikey Wetzel,,Engineering,Additional Engineering,,,core,L252
+halo-4,106,Jason Major,,Engineering,Additional Engineering,,,core,L254
+halo-4,107,Juan Carlos Arevalo Baeza,,Engineering,Additional Engineering,,,core,L256
+halo-4,108,Chuck Martin,,Engineering,Additional Engineering,,,core,L258
+halo-4,109,Ian Jones,,Other,LEAD,,,core,L261
+halo-4,110,Eric Black,,Art,Tech Art,,,core,L263
+halo-4,111,Matt Chapman,,Art,Tech Art,,,core,L265
+halo-4,112,Zhi Min Chen,,Art,Tech Art,,,core,L267
+halo-4,113,Howard Coulby,,Art,Tech Art,,,core,L269
+halo-4,114,Wesley H. Grandmont III,,Art,Tech Art,,,core,L271
+halo-4,115,Maggie Oh,,Art,Tech Art,,,core,L273
+halo-4,116,Scott Parrish,,Art,Tech Art,,,core,L275
+halo-4,117,Andrea Gausmann,,Art,Tech Art,,INSIGHT GLOBAL,core,L277
+halo-4,118,"Nicolas ""sparth"" Bouvier",Nicolas Bouvier,Other,LEAD,,,core,L280
+halo-4,119,"Gabriel ""robogabo"" Garza",Gabriel Garza,Art,Concept Art,,,core,L282
+halo-4,120,Glenn Israel,,Art,Concept Art,,,core,L284
+halo-4,121,Justin Oaksford,,Art,Concept Art,,,core,L286
+halo-4,122,Paul Richards,,Art,Concept Art,,,core,L288
+halo-4,123,Thom Scholes,,Art,Concept Art,,,core,L290
+halo-4,124,John Wallin Liberto,,Art,Concept Art,,,core,L292
+halo-4,125,David Bolton,,Art,Concept Art,,POPULUS GROUP LLC,core,L294
+halo-4,126,Kory Hubbell,,Art,Concept Art,,YOH SERVICES LLC,core,L296
+halo-4,127,Josh Kao,,Art,Concept Art,,YOH SERVICES LLC,core,L298
+halo-4,128,Albert Ng,,Art,Concept Art,,YOH SERVICES LLC,core,L300
+halo-4,129,Shae Shatz,,Art,Concept Art,,YOH SERVICES LLC,core,L302
+halo-4,130,Mike Cronin,,Art,ENVIRONMENT ART LEAD,,,core,L305
+halo-4,131,Nicholas Bell,,Art,MISSION ART LEAD,,,core,L307
+halo-4,132,Vic DeLeon,,Art,MISSION ART LEAD,,,core,L309
+halo-4,133,Derrick Hammond,,Art,MULTIPLAYER ENVIRONMENT ART LEAD,,,core,L311
+halo-4,134,Wade Mulhern,,Art,MISSION ART LEAD,,,core,L313
+halo-4,135,Paul Pepera,,Art,MISSION ART LEAD,,,core,L315
+halo-4,136,Adam Peterson,,Art,MISSION ART LEAD,,,core,L317
+halo-4,137,Donnie Taylor,,Art,STRUCTURE ART LEAD,,,core,L319
+halo-4,138,Chris Woods,,Art,MISSION ART LEAD,,,core,L321
+halo-4,139,Rae Chen,,Art,Environment Art,,,core,L323
+halo-4,140,BJ Christian,,Art,Environment Art,,,core,L325
+halo-4,141,Justin Dinges,,Art,Environment Art,,,core,L327
+halo-4,142,Chris Emond,,Art,Environment Art,,,core,L329
+halo-4,143,John Flath,,Art,Environment Art,,,core,L331
+halo-4,144,Chris Hands,,Art,Environment Art,,,core,L333
+halo-4,145,Jihoon Kim,,Art,Environment Art,,,core,L335
+halo-4,146,Peter Konig,,Art,Environment Art,,,core,L337
+halo-4,147,Chiyo Lai,,Art,Environment Art,,,core,L339
+halo-4,148,Jesse Larsen,,Art,Environment Art,,,core,L341
+halo-4,149,Dave Lesperance,,Art,Environment Art,,,core,L343
+halo-4,150,Chris Lewis,,Art,Environment Art,,,core,L345
+halo-4,151,Shon Mitchell,,Art,Environment Art,,,core,L347
+halo-4,152,Ryan B. Peterson,,Art,Environment Art,,,core,L349
+halo-4,153,R.J. Ranola,,Art,Environment Art,,,core,L351
+halo-4,154,Gustavo Rasche,,Art,Environment Art,,,core,L353
+halo-4,155,In Young Yang,,Art,Environment Art,,,core,L355
+halo-4,156,Elic Agler,,Art,Environment Art,,YOH SERVICES LLC,core,L357
+halo-4,157,Craig Blum,,Art,Environment Art,,MAQ SOFTWARE,core,L359
+halo-4,158,Andrew Bosold,,Art,Environment Art,,AQUENT LLC,core,L361
+halo-4,159,Wei Chen,,Art,Environment Art,,IFUSIONIT LLC,core,L363
+halo-4,160,Greg Cox,,Art,Environment Art,,YOH SERVICES LLC,core,L365
+halo-4,161,Trevor Crandall,,Art,Environment Art,,FILTER LLC,core,L367
+halo-4,162,Tim Diaz,,Art,Environment Art,,INSIGHT GLOBAL,core,L369
+halo-4,163,Timothy Doonan,,Art,Environment Art,,FILTER LLC,core,L371
+halo-4,164,Chris Durso,,Art,Environment Art,,MAQ SOFTWARE,core,L373
+halo-4,165,Chris Edwards,,Art,Environment Art,,VOLT,core,L375
+halo-4,166,Chin Fong,,Art,Environment Art,,YOH SERVICES LLC,core,L377
+halo-4,167,Marcos Gomes,,Art,Environment Art,,YOH SERVICES LLC,core,L379
+halo-4,168,Nate Gregory,,Art,Environment Art,,YOH SERVICES LLC,core,L381
+halo-4,169,Kim Haines,,Art,Environment Art,,YOH SERVICES LLC,core,L383
+halo-4,170,Jesse Hall,,Art,Environment Art,,FILTER LLC,core,L385
+halo-4,171,Cory Hamilton,,Art,Environment Art,,YOH SERVICES LLC,core,L387
+halo-4,172,Eli Hanselman,,Art,Environment Art,,HANSON CONSULTING GROUP,core,L389
+halo-4,173,Ze'ev Harris,,Art,Environment Art,,YOH SERVICES LLC,core,L391
+halo-4,174,Ben Harrison,,Art,Environment Art,,YOH SERVICES LLC,core,L393
+halo-4,175,Stephen Hauer,,Art,Environment Art,,YOH SERVICES LLC,core,L395
+halo-4,176,Alex Haworth,,Art,Environment Art,,YOH SERVICES LLC,core,L397
+halo-4,177,Todd Juno,,Art,Environment Art,,FILTER LLC,core,L399
+halo-4,178,Doug Juno,,Art,Environment Art,,FILTER LLC,core,L401
+halo-4,179,Sky Kensok,,Art,Environment Art,,IFUSIONIT LLC,core,L403
+halo-4,180,Elizabeth Kirby,,Art,Environment Art,,YOH SERVICES LLC,core,L405
+halo-4,181,Chris Lomaka,,Art,Environment Art,,YOH SERVICES LLC,core,L407
+halo-4,182,Mark McCall,,Art,Environment Art,,YOH SERVICES LLC,core,L409
+halo-4,183,Julian Moseley,,Art,Environment Art,,FILTER LLC,core,L411
+halo-4,184,James Munroe,,Art,Environment Art,,INSIGHT GLOBAL,core,L413
+halo-4,185,Mike Murrill,,Art,Environment Art,,HANSON CONSULTING GROUP,core,L415
+halo-4,186,Brandon Nobbs,,Art,Environment Art,,YOH SERVICES LLC,core,L417
+halo-4,187,Dan Phillips,,Art,Environment Art,,FILTER LLC,core,L419
+halo-4,188,Dillon Ryan,,Art,Environment Art,,FILTER LLC,core,L421
+halo-4,189,Terry Schmidbauer,,Art,Environment Art,,YOH SERVICES LLC,core,L423
+halo-4,190,Andrew Severson,,Art,Environment Art,,YOH SERVICES LLC,core,L425
+halo-4,191,Rob Shoff,,Art,Environment Art,,HANSON CONSULTING GROUP,core,L427
+halo-4,192,Thomas Stubbs,,Art,Environment Art,,IFUSIONIT LLC,core,L429
+halo-4,193,Mike Ton,,Art,Environment Art,,YOH SERVICES LLC,core,L431
+halo-4,194,Rory Young,,Art,Environment Art,,YOH SERVICES LLC,core,L433
+halo-4,195,Matt D. Aldridge,Matt Aldridge,Other,LEAD,,,core,L436
+halo-4,196,Sean Binder,,Art,"Character, Vehicle, and Weapon Art",,,core,L438
+halo-4,197,Andrew Bradbury,,Art,"Character, Vehicle, and Weapon Art",,,core,L440
+halo-4,198,Kyle Hefley,,Art,"Character, Vehicle, and Weapon Art",,,core,L442
+halo-4,199,Kolby Jukes,,Art,"Character, Vehicle, and Weapon Art",,,core,L444
+halo-4,200,Dan Sarkar,,Art,"Character, Vehicle, and Weapon Art",,,core,L446
+halo-4,201,Can Tuncer,,Art,"Character, Vehicle, and Weapon Art",,,core,L448
+halo-4,202,Jaemus Wurzbach,,Art,"Character, Vehicle, and Weapon Art",,,core,L450
+halo-4,203,Chad Haley,,Art,"Character, Vehicle, and Weapon Art",,FILTER LLC,core,L452
+halo-4,204,Shaun Mackey,,Art,"Character, Vehicle, and Weapon Art",,FILTER LLC,core,L454
+halo-4,205,Kenny Magnusson,,Other,LEAD,,,core,L457
+halo-4,206,Barbara Busch,,Art,Lighting,,,core,L459
+halo-4,207,Joshua Marvel,,Art,Lighting,,,core,L461
+halo-4,208,Kevin Dalziel,,Art,Lighting,,FILTER LLC,core,L463
+halo-4,209,Mark Ishak,,Art,Lighting,,YOH SERVICES LLC,core,L465
+halo-4,210,Megan Bishop,,Art,Lighting,,FILTER LLC,core,L467
+halo-4,211,Jonathan Wood,,Other,LEAD,,,core,L470
+halo-4,212,Matthew Batten,,Art,FX Art,,,core,L472
+halo-4,213,John Edwards,,Art,FX Art,,,core,L474
+halo-4,214,Tim Fortenberry,,Art,FX Art,,,core,L476
+halo-4,215,Kevin Hart,,Art,FX Art,,YOH SERVICES LLC,core,L478
+halo-4,216,Christine Hottovy,,Art,FX Art,,FXVILLE INC,core,L480
+halo-4,217,Joseph Olson,,Art,FX Art,,FXVILLE INC,core,L482
+halo-4,218,Jeffrey Palmer,,Art,FX Art,,FXVILLE INC,core,L484
+halo-4,219,Michael E. Puoci,,Art,FX Art,,YOH SERVICES LLC,core,L486
+halo-4,220,John Shirkey,,Art,FX Art,,FXVILLE INC,core,L488
+halo-4,221,Shen-Ming Spurgeon,,Art,FX Art,,YOH SERVICES LLC,core,L490
+halo-4,222,Johnny P. van Zelm,,Art,FX Art,,YOH SERVICES LLC,core,L492
+halo-4,223,Mark Wood,,Art,FX Art,,YOH SERVICES LLC,core,L494
+halo-4,224,Bryce Cochrane,,Art,ANIMATION DIRECTOR,,,core,L497
+halo-4,225,Stephen Dyck,,Other,LEAD,,,core,L500
+halo-4,226,Juan Carlos Larrea,,Other,VIGNETTE LEAD,,,core,L502
+halo-4,227,Will Christiansen,,Art,Gameplay Animation,,,core,L504
+halo-4,228,Patrick Gillette,,Art,Gameplay Animation,,,core,L506
+halo-4,229,Mark Tanner,,Art,Gameplay Animation,,,core,L508
+halo-4,230,Jason Hopkins,,Art,Gameplay Animation,,,core,L510
+halo-4,231,Lisha Martens,,Art,Gameplay Animation,,,core,L512
+halo-4,232,Joel Furtado,,Art,Gameplay Animation,,,core,L514
+halo-4,233,Marcellis Wentz,,Art,Gameplay Animation,,,core,L516
+halo-4,234,Eric Anderson,,Art,Gameplay Animation,,COLLABERA,core,L518
+halo-4,235,Nick Avallone,,Art,Gameplay Animation,,INSIGHT GLOBAL,core,L520
+halo-4,236,Victor Chavez,,Art,Gameplay Animation,,FILTER LLC,core,L522
+halo-4,237,Jim Donovan,,Art,Gameplay Animation,,INSIGHT GLOBAL,core,L524
+halo-4,238,Tadd Foote,,Art,Gameplay Animation,,HANSON CONSULTING GROUP,core,L526
+halo-4,239,Randall Ng,,Art,Gameplay Animation,,HANSON CONSULTING GROUP,core,L528
+halo-4,240,Josh Paraventi,,Art,Gameplay Animation,,HANSON CONSULTING GROUP,core,L530
+halo-4,241,Ben Stanton,,Art,Gameplay Animation,,IDEA INTEGRATION,core,L532
+halo-4,242,Brien Goodrich,,Art,CINEMATIC DIRECTOR,,,core,L535
+halo-4,243,Matt Campbell,,Art,Cinematics,,,core,L537
+halo-4,244,"Martin ""SMOKE"" Carroll",,Art,Cinematics,,,core,L539
+halo-4,245,Mark Champigny,,Art,Cinematics,,,core,L541
+halo-4,246,C.J. Markham,,Art,Cinematics,,,core,L543
+halo-4,247,Denis Samoilov,,Art,Cinematics,,,core,L545
+halo-4,248,Jerod Sellhorn,,Art,Cinematics,,,core,L547
+halo-4,249,Dong Eun Shin,,Art,Cinematics,,,core,L549
+halo-4,250,Josh Suko,,Art,Cinematics,,,core,L551
+halo-4,251,Tonya Noerr Tornberg,,Art,Cinematics,,,core,L553
+halo-4,252,Scott Benefiel,,Art,Cinematics,,YOH SERVICES LLC,core,L555
+halo-4,253,John Coven,,Art,Cinematics,,FUSION IT,core,L557
+halo-4,254,Will Hardin,,Art,Cinematics,,YOH SERVICES LLC,core,L559
+halo-4,255,Richard Hoberg,,Art,Cinematics,,YOH SERVICES LLC,core,L561
+halo-4,256,Ira Owens,,Art,Cinematics,,YOH SERVICES LLC,core,L563
+halo-4,257,Brett Schroeder,,Art,Cinematics,,HANSON CONSULTING GROUP,core,L565
+halo-4,258,Bill Wade,,Art,Cinematics,,HANSON CONSULTING GROUP,core,L567
+halo-4,259,Oliver Regueiro Fernandez,,Art,Skybox Art,,,core,L570
+halo-4,260,Mukul Soman,,Art,Skybox Art,,INSIGHT GLOBAL,core,L572
+halo-4,261,Ryan Watkins,,Art,Skybox Art,,IFUSIONIT LLC,core,L574
+halo-4,262,Chad Pfarr,,Other,LEAD,,,core,L577
+halo-4,263,Jeff Christy,,Art,UI Art,,,core,L579
+halo-4,264,Eric Will,,Art,UI Art,,,core,L581
+halo-4,265,Jonathan Schwartz,,Art,UI Art,,,core,L583
+halo-4,266,Todd Colby,,Art,UI Art,,YOH SERVICES LLC,core,L585
+halo-4,267,Steve Harris,,Design,UI Implementation,,IFUSIONIT LLC,core,L588
+halo-4,268,Blair Metcalf,,Design,UI Implementation,,KAARBO DESIGN,core,L590
+halo-4,269,Roxy Reiland,,Design,UI Implementation,,INSIGHT GLOBAL,core,L592
+halo-4,270,Rick Stalder,,Design,UI Implementation,,IFUSIONIT LLC,core,L594
+halo-4,271,Thomas Sternberg,,Design,UI Implementation,,HANSON CONSULTING GROUP,core,L596
+halo-4,272,Patrick Dugan,,Audio,Audio,,,core,L599
+halo-4,273,Kyle Fraser,,Audio,Audio,,,core,L601
+halo-4,274,Kazuma Jinnouchi,,Audio,Audio,,,core,L603
+halo-4,275,Zachary Thomas,,Audio,Audio,,COLLABERA,core,L605
+halo-4,276,Robert Ridihalgh,,Audio,Audio,,OMNI INTERACTIVE AUDIO,core,L607
+halo-4,277,Charles Sinex,,Audio,Audio,,POPULUS GROUP LLC,core,L609
+halo-4,278,Nathaniel Papadakis,,Audio,Audio,,STARK RAVING MUSIC,core,L611
+halo-4,279,Levi Crain,,Audio,Audio,,YOH SERVICES LLC,core,L613
+halo-4,280,Robbie Elias,,Audio,Audio,,YOH SERVICES LLC,core,L615
+halo-4,281,Noa Lothian,,Audio,Audio,,YOH SERVICES LLC,core,L617
+halo-4,282,Nicole Makila,,Art,Animation Production,,,core,L620
+halo-4,283,Adrien Cho,,Art,Art Production,,,core,L623
+halo-4,284,Carlos Naranjo,,Art,Art Production,,,core,L625
+halo-4,285,Ken Kato,,Other,LEAD,,,core,L628
+halo-4,286,Mary Olson,,Audio,Audio Production,,COLLABERA,core,L630
+halo-4,287,Graeme Jennings,,Other,LEAD,,,core,L633
+halo-4,288,Sally Huang,,Production,Campaign Production,,,core,L635
+halo-4,289,"Alyson ""Zippy"" Szymanski",,Production,Campaign Production,,,core,L637
+halo-4,290,Alex Cutting,,Art,Character Production,,,core,L640
+halo-4,291,Clive Burdon,,Art,Cinematics Production,,,core,L643
+halo-4,292,Gavin Carter,,Other,LEAD,,,core,L646
+halo-4,293,Lani Blazier,,Production,Multiplayer Production,,,core,L648
+halo-4,294,Jennifer Christensen,,Production,Multiplayer Production,,VIDA VERDE LLC,core,L650
+halo-4,295,Scott Luse,,Production,Multiplayer Production,,YOH SERVICES LLC,core,L652
+halo-4,296,Matt Burns,,Production,Additional Production,,HANSON CONSULTING GROUP,core,L655
+halo-4,297,Marcus Lindblom,,Production,Additional Production,,PARTLY CLOUDY GAMES LLC,core,L657
+halo-4,298,Cade Myers,,Production,Additional Production,,WIMMER SOLUTIONS CORPORATION,core,L659
+halo-4,299,Jeremy C. Silvis,,Production,Additional Production,,COMPUCOM SYSTEMS INC,core,L661
+halo-4,300,Brian Yu,,QA,TEST LEAD,,,core,L664
+halo-4,301,Steve Alliston,,QA,Test,,,core,L666
+halo-4,302,Josh Bell,,QA,Test,,,core,L668
+halo-4,303,Adrian Brown,,QA,Test,,,core,L670
+halo-4,304,Alan Castellanos Moreno,,QA,Test,,,core,L672
+halo-4,305,Thomas Coldwell,,QA,Test,,,core,L674
+halo-4,306,Joel Gifford,,QA,Test,,,core,L676
+halo-4,307,Jeff Guy,,QA,Test,,,core,L678
+halo-4,308,Eric Helbig,,QA,Test,,,core,L680
+halo-4,309,Bret Kiraly,,QA,Test,,,core,L682
+halo-4,310,Victor Kulaga,,QA,Test,,,core,L684
+halo-4,311,Brandon Layton,,QA,Test,,,core,L686
+halo-4,312,Desmond Murray,,QA,Test,,,core,L688
+halo-4,313,John Noonan,,QA,Test,,,core,L690
+halo-4,314,Natalie Shen,,QA,Test,,,core,L692
+halo-4,315,Kevin Verboort,,QA,Test,,,core,L694
+halo-4,316,Joe Whitman,,QA,Test,,,core,L696
+halo-4,317,Randy Wood,,QA,Test,,,core,L698
+halo-4,318,Victor Anderson,,QA,Test,,COMPUCOM SYSTEMS INC,core,L700
+halo-4,319,Jordan Anderson,,QA,Test,,EXPERIS,core,L702
+halo-4,320,Cheyne Arteritano,,QA,Test,,COMPUCOM SYSTEMS INC,core,L704
+halo-4,321,Mike Axworthy,,QA,Test,,COMPUCOM SYSTEMS INC,core,L706
+halo-4,322,James Bachici,,QA,Test,,COMPUCOM SYSTEMS INC,core,L708
+halo-4,323,Garrett Bemis,,QA,Test,,EXPERIS,core,L710
+halo-4,324,Matthew Bischoff,,QA,Test,,COMPUCOM SYSTEMS INC,core,L712
+halo-4,325,Josiah Bolek,,QA,Test,,COMPUCOM SYSTEMS INC,core,L714
+halo-4,326,Jeff Brown,,QA,Test,,COMPUCOM SYSTEMS INC,core,L716
+halo-4,327,Dan Buehner,,QA,Test,,VOLT,core,L718
+halo-4,328,Ray Butchko,,QA,Test,,VOLT,core,L720
+halo-4,329,Daniel Cox,,QA,Test,,COMPUCOM SYSTEMS INC,core,L722
+halo-4,330,Jordan Cumming,,QA,Test,,COMPUCOM SYSTEMS INC,core,L724
+halo-4,331,Ritesh David,,QA,Test,,COMPUCOM SYSTEMS INC,core,L726
+halo-4,332,"Brian ""Beard"" Dunn",,QA,Test,,COMPUCOM SYSTEMS INC,core,L728
+halo-4,333,Khoi Duong,,QA,Test,,TEKSYSTEMS,core,L730
+halo-4,334,Ian Eller,,QA,Test,,ADITI,core,L732
+halo-4,335,John Guesnier,,QA,Test,,ROSE INTERNATIONAL INC,core,L734
+halo-4,336,Kael Hammond,,QA,Test,,COMPUCOM SYSTEMS INC,core,L736
+halo-4,337,John Harris,,QA,Test,,COMPUCOM SYSTEMS INC,core,L738
+halo-4,338,Andrew Hopper,,QA,Test,,ADITI,core,L740
+halo-4,339,Allyn Iwane,,QA,Test,,COMPUCOM SYSTEMS INC,core,L742
+halo-4,340,Gerald Jackson,,QA,Test,,COMPUCOM SYSTEMS INC,core,L744
+halo-4,341,Nathaniel Johnson,,QA,Test,,VOLT,core,L746
+halo-4,342,Vartan Karakashyan,,QA,Test,,VOLT,core,L748
+halo-4,343,Robert Kehoe,,QA,Test,,VOLT,core,L750
+halo-4,344,Eric Kramer,,QA,Test,,EXPERIS,core,L752
+halo-4,345,Steve Lang,,QA,Test,,VOLT,core,L754
+halo-4,346,Chase Lawhead,,QA,Test,,COMPUCOM SYSTEMS INC,core,L756
+halo-4,347,Mike Lee,,QA,Test,,COMPUCOM SYSTEMS INC,core,L758
+halo-4,348,David Lumb,,QA,Test,,COMPUCOM SYSTEMS INC,core,L760
+halo-4,349,Ryan Mayes,,QA,Test,,COMPUCOM SYSTEMS INC,core,L762
+halo-4,350,Jay McCleery,,QA,Test,,VOLT,core,L764
+halo-4,351,David McMillan,,QA,Test,,VOLT,core,L766
+halo-4,352,Caleb Metheny,,QA,Test,,APEX SYSTEMS INC,core,L768
+halo-4,353,Rob Pearsall,,QA,Test,,COMPUCOM SYSTEMS INC,core,L770
+halo-4,354,Shannon Phillips,,QA,Test,,ADITI,core,L772
+halo-4,355,Primo Pulanco,,QA,Test,,COMPUCOM SYSTEMS INC,core,L774
+halo-4,356,Jarrod Shaw,,QA,Test,,ADITI,core,L776
+halo-4,357,Scott Shields,,QA,Test,,COMPUCOM SYSTEMS INC,core,L778
+halo-4,358,Jared Smith,,QA,Test,,VOLT,core,L780
+halo-4,359,Joseph Still,,QA,Test,,COMPUCOM SYSTEMS INC,core,L782
+halo-4,360,Aaron Stokke,,QA,Test,,COMPUCOM SYSTEMS INC,core,L784
+halo-4,361,Mike Toyama,,QA,Test,,COMPUCOM SYSTEMS INC,core,L786
+halo-4,362,Stuart White,,QA,Test,,COLLABERA,core,L788
+halo-4,363,Thomas Wiley,,QA,Test,,COMPUCOM SYSTEMS INC,core,L790
+halo-4,364,Chris Wilson,,QA,Test,,VOLT,core,L792
+halo-4,365,Dan Ayoub,,Production,EXECUTIVE PRODUCER,,,core,L795
+halo-4,366,Mike Ellis,,Design,DESIGN DIRECTOR,,,core,L797
+halo-4,367,Greg Hermann,,Engineering,ENGINEERING LEAD,,,core,L799
+halo-4,368,Dennis Ries,,Production,SENIOR PRODUCER,,,core,L801
+halo-4,369,Alex Liberman,,Publishing,Publishing,,,core,L803
+halo-4,370,Andrew Schnickel,,Publishing,Publishing,,,core,L805
+halo-4,371,Jason Pace,,Publishing,Publishing,,,core,L807
+halo-4,372,Chris Shaules,,Publishing,Publishing,,,core,L809
+halo-4,373,Kara Swenson,,Publishing,Publishing,,INSIGHT GLOBAL,core,L811
+halo-4,374,Tamir Melamed,,Other,DEVELOPMENT MANAGER,,,core,L814
+halo-4,375,Jorge Barboza,,Engineering,Section 3 Engineering,,,core,L816
+halo-4,376,Zack Birkenbuel,,Engineering,Section 3 Engineering,,,core,L818
+halo-4,377,Andrew Hesky,,Engineering,Section 3 Engineering,,,core,L820
+halo-4,378,Adma Hughes,,Engineering,Section 3 Engineering,,,core,L822
+halo-4,379,Brian Laager,,Engineering,Section 3 Engineering,,,core,L824
+halo-4,380,Catie McCaffrey,,Engineering,Section 3 Engineering,,,core,L826
+halo-4,381,Angus McQuarrie,,Engineering,Section 3 Engineering,,,core,L828
+halo-4,382,Matthew Mills,,Engineering,Section 3 Engineering,,,core,L830
+halo-4,383,Reed Rector,,Engineering,Section 3 Engineering,,,core,L832
+halo-4,384,Rob Rodi,,Engineering,Section 3 Engineering,,,core,L834
+halo-4,385,Ian Ryan,,Engineering,Section 3 Engineering,,,core,L836
+halo-4,386,Hoop Somuah,,Engineering,Section 3 Engineering,,,core,L838
+halo-4,387,Andy Woods,,Engineering,Section 3 Engineering,,,core,L840
+halo-4,388,Yi Xie,,Engineering,Section 3 Engineering,,,core,L842
+halo-4,389,Mark Zhou,,Engineering,Section 3 Engineering,,,core,L844
+halo-4,390,Xavier Antony,,Engineering,Section 3 Engineering,,CUMULUX INC,core,L846
+halo-4,391,Kevin Burns,,Engineering,Section 3 Engineering,,WICRESOFT,core,L848
+halo-4,392,Puneet Hariharan,,Engineering,Section 3 Engineering,,CUMULUX INC,core,L850
+halo-4,393,Pavan Kumar Kurimilla,,Engineering,Section 3 Engineering,,LONGTOP INTERNATIONAL LLC,core,L852
+halo-4,394,Jonathan Lobaugh,,Engineering,Section 3 Engineering,,YOH SERVICES LLC,core,L854
+halo-4,395,Jason Olsan,,Engineering,Section 3 Engineering,,INSIGHT GLOBAL,core,L856
+halo-4,396,Andre Podnozov,,Engineering,Section 3 Engineering,,ADITI,core,L858
+halo-4,397,Bharath Srinivasan,,Engineering,Section 3 Engineering,,CUMULUX INC,core,L860
+halo-4,398,Kyle Pontier,,Design,Section 3 UX,,,core,L863
+halo-4,399,Tiana Los,,Design,Section 3 UX,,YOH SERVICES LLC,core,L865
+halo-4,400,Charles Ramos,,Design,Section 3 UX,,INSIGHT GLOBAL,core,L867
+halo-4,401,Jerry Hook,,Production,EXECUTIVE PRODUCER,,,core,L870
+halo-4,402,CJ Saretto,,Production,LEAD PRODUCER,,,core,L872
+halo-4,403,Chris Aronchick,,Production,Section 3 Production,,,core,L874
+halo-4,404,Jeff Carnahan,,Production,Section 3 Production,,,core,L876
+halo-4,405,Humberto Castañeda,,Production,Section 3 Production,,,core,L878
+halo-4,406,Chris Davidson,,Production,Section 3 Production,,,core,L880
+halo-4,407,Jason Graf,,Production,Section 3 Production,,,core,L882
+halo-4,408,Justin Harrison,,Production,Section 3 Production,,,core,L884
+halo-4,409,David McMahon,,Production,Section 3 Production,,,core,L886
+halo-4,410,Mark Vayman,,Production,Section 3 Production,,,core,L888
+halo-4,411,Scott Ameling,,QA,SECTION 3 TEST LEAD,,,core,L891
+halo-4,412,Mark Gehan,,QA,WAYPOINT TEST LEAD,,,core,L893
+halo-4,413,Tom Carroll,,QA,Section 3 Test,,,core,L895
+halo-4,414,Charlie Corcoran,,QA,Section 3 Test,,,core,L897
+halo-4,415,Andrew Hampton,,QA,Section 3 Test,,,core,L899
+halo-4,416,Sung Mo Jun,,QA,Section 3 Test,,,core,L901
+halo-4,417,Jesse Olmer,,QA,Section 3 Test,,,core,L903
+halo-4,418,Clayton Tye,,QA,Section 3 Test,,,core,L905
+halo-4,419,Brian Miller,,QA,Section 3 Test,,ADITI,core,L907
+halo-4,420,John Konkle,,QA,Section 3 Test,,EXPERIS,core,L909
+halo-4,421,Adam Nielsen,,QA,Section 3 Test,,INSIGHT GLOBAL,core,L911
+halo-4,422,Suniti Kulkarni,,QA,Section 3 Test,,INSIGHT GLOBAL,core,L913
+halo-4,423,Rob Lowry,,QA,Section 3 Test,,INSIGHT GLOBAL,core,L915
+halo-4,424,Andrew McWilliams,,QA,Section 3 Test,,VOLT,core,L917
+halo-4,425,Greg Mintus,,QA,Section 3 Test,,VOLT,core,L919
+halo-4,426,Lavanya Nalluraj,,QA,Section 3 Test,,VOLT,core,L921
+halo-4,427,Brendan Sell,,QA,Section 3 Test,,VOLT,core,L923
+halo-4,428,John Imus,,QA,Section 3 Test,,VOLT,core,L925
+halo-4,429,Johan Knivsberg Moe,,QA,Section 3 Test,,VOLT,core,L927
+halo-4,430,James Zachary Steacy,,QA,Section 3 Test,,VOLT,core,L929
+halo-4,431,Jason Mitchell,,QA,Section 3 Test,,YOH SERVICES LLC,core,L931
+halo-4,432,Kevin Grace,,Production,LEAD PRODUCER,,,core,L934
+halo-4,433,Tyler Jeffers,,Other,Franchise Development,,,core,L936
+halo-4,434,Jeremy Patenaude,,Other,Franchise Development,,,core,L938
+halo-4,435,Brian Reed,,Other,Franchise Development,,,core,L940
+halo-4,436,Corrinne Robinson,,Other,Franchise Development,,,core,L942
+halo-4,437,Alison Stroll,,Other,LEAD,,,core,L945
+halo-4,438,Dan Chosich,,Studio/Business,Franchise Community & Media,,,core,L947
+halo-4,439,Eric Dies,,Studio/Business,Franchise Community & Media,,,core,L949
+halo-4,440,Kyle Dolan,,Studio/Business,Franchise Community & Media,,,core,L951
+halo-4,441,Paul Featherstone Jr.,,Studio/Business,Franchise Community & Media,,,core,L953
+halo-4,442,Jay Frechette,,Studio/Business,Franchise Community & Media,,,core,L955
+halo-4,443,Michael Pagano,,Studio/Business,Franchise Community & Media,,,core,L957
+halo-4,444,Veronica Peshterianu,,Studio/Business,Franchise Community & Media,,,core,L959
+halo-4,445,Jessica Shea,,Studio/Business,Franchise Community & Media,,,core,L961
+halo-4,446,Christopher Buckley,,Studio/Business,Franchise Community & Media,,AQUENT LLC,core,L963
+halo-4,447,Annie Dennisdóttir Wright,,Studio/Business,Franchise Community & Media,,AQUENT LLC,core,L965
+halo-4,448,Matt J. McCloskey,,Other,LEAD,,,core,L968
+halo-4,449,Ed Kalletta,,Studio/Business,Strategy & Business Development,,,core,L970
+halo-4,450,Lillian Lehmann,,Studio/Business,Strategy & Business Development,,,core,L972
+halo-4,451,Bill Lindell,,Studio/Business,Strategy & Business Development,,,core,L974
+halo-4,452,Angel Villeda,,Studio/Business,Strategy & Business Development,,,core,L976
+halo-4,453,Nick Dimitrov,,Studio/Business,Strategy & Business Development,,,core,L978
+halo-4,454,Kelly Young,,Studio/Business,Strategy & Business Development,,HANSON CONSULTING GROUP,core,L980
+halo-4,455,Christine Finch,,Other,LEAD,,,core,L983
+halo-4,456,Rick Achberger,,Other,Licensing Team,,,core,L985
+halo-4,457,Kristofer Hall,,Other,Licensing Team,,,core,L987
+halo-4,458,Michelle Ballantine,,Other,Licensing Team,,YOH SERVICES LLC,core,L989
+halo-4,459,Christy Cowan,,Other,Licensing Team,,HANSON CONSULTING GROUP,core,L991
+halo-4,460,Ryan Davison,,Other,Licensing Team,,YOH SERVICES LLC,core,L993
+halo-4,461,Matthew Frederick,,Other,Licensing Team,,COLLABERA,core,L995
+halo-4,462,Nicholas Gallagher,,Other,Licensing Team,,YOH SERVICES LLC,core,L997
+halo-4,463,Tiffany O'Brien,,Other,Licensing Team,,IFUSIONIT LLC,core,L999
+halo-4,464,Aimee Skeers,,Other,Licensing Team,,AQUENT LLC,core,L1001
+halo-4,465,Daniel Price,,Other,LEAD,,,core,L1004
+halo-4,466,Josh Smith,,Other,SUPPORT LEAD,,COROWARE,core,L1006
+halo-4,467,Matthew Hackett,,Other,IT,,COROWARE,core,L1008
+halo-4,468,Mike Jacobsen,,Other,IT,,UNISYS,core,L1010
+halo-4,469,Bryan Lane,,Other,IT,,UNISYS,core,L1012
+halo-4,470,Darren Little,,Other,IT,,INSIGHT GLOBAL,core,L1014
+halo-4,471,Cole Lundell,,Other,IT,,WICRESOFT,core,L1016
+halo-4,472,Kevin Tighe,,Other,IT,,YOH SERVICES LLC,core,L1018
+halo-4,473,Rachelle Bilbruck,,Production,Studio Production & Administration,,,core,L1021
+halo-4,474,Kathy Gehrig,,Production,Studio Production & Administration,,,core,L1023
+halo-4,475,Logan Jacobson,,Production,Studio Production & Administration,,,core,L1025
+halo-4,476,Mary Phillips,,Production,Studio Production & Administration,,,core,L1027
+halo-4,477,Melissa Housley,,Production,Studio Production & Administration,,ADITI,core,L1029
+halo-4,478,Che Chou,,Production,STUDIO PRODUCER,,,core,L1032
+halo-4,479,David Wu,,Leadership,DIRECTOR OF TECHNOLOGY,,,core,L1034
+halo-4,480,Bonnie Ross,,Leadership,STUDIO HEAD,,,core,L1037
+halo-4,481,Mark Anderson,,Art,ART DIRECTOR,,Certain Affinity,core,L1040
+halo-4,482,Alex Chrisman,,Production,LEAD PRODUCER,,Certain Affinity,core,L1042
+halo-4,483,Adam Crist,,Design,LEAD DESIGNER,,Certain Affinity,core,L1044
+halo-4,484,Max Hoberman,,Other,CREATIVE DIRECTOR,,Certain Affinity,core,L1046
+halo-4,485,David Prout,,Art,LEAD ARTIST,,Certain Affinity,core,L1048
+halo-4,486,Scott Stevens,,Engineering,LEAD PROGRAMMER,,Certain Affinity,core,L1050
+halo-4,487,Kyle Uberman,,QA,QA LEAD,,Certain Affinity,core,L1052
+halo-4,488,Phil Wattenbarger,,Production,EXECUTIVE PRODUCER,,Certain Affinity,core,L1054
+halo-4,489,Charles Wiederhold,,Design,DESIGN LEAD,,Certain Affinity,core,L1056
+halo-4,490,John Zagorski,,Design,DESIGN LEAD,,Certain Affinity,core,L1058
+halo-4,491,Lori Zawada,,Art,LEAD ENVIRONMENT ARTIST,,Certain Affinity,core,L1060
+halo-4,492,Mark Ahlin,,Design,"Additional Multiplayer Design And Development By: Certain Affinity, Inc.",,Certain Affinity,core,L1062
+halo-4,493,David Ancira,,Design,"Additional Multiplayer Design And Development By: Certain Affinity, Inc.",,Certain Affinity,core,L1064
+halo-4,494,Craig Bernardo,,Design,"Additional Multiplayer Design And Development By: Certain Affinity, Inc.",,Certain Affinity,core,L1066
+halo-4,495,Susan Bollinger,,Design,"Additional Multiplayer Design And Development By: Certain Affinity, Inc.",,Certain Affinity,core,L1068
+halo-4,496,Jason Borne,,Design,"Additional Multiplayer Design And Development By: Certain Affinity, Inc.",,Certain Affinity,core,L1070
+halo-4,497,Jason Bretz,,Design,"Additional Multiplayer Design And Development By: Certain Affinity, Inc.",,Certain Affinity,core,L1072
+halo-4,498,Anthony Buell,,Design,"Additional Multiplayer Design And Development By: Certain Affinity, Inc.",,Certain Affinity,core,L1074
+halo-4,499,Martin Cable,,Design,"Additional Multiplayer Design And Development By: Certain Affinity, Inc.",,Certain Affinity,core,L1076
+halo-4,500,Peter Carter,,Design,"Additional Multiplayer Design And Development By: Certain Affinity, Inc.",,Certain Affinity,core,L1078
+halo-4,501,Tom Chiu,,Design,"Additional Multiplayer Design And Development By: Certain Affinity, Inc.",,Certain Affinity,core,L1080
+halo-4,502,James Cleaveland,,Design,"Additional Multiplayer Design And Development By: Certain Affinity, Inc.",,Certain Affinity,core,L1082
+halo-4,503,Mike Clopper,,Design,"Additional Multiplayer Design And Development By: Certain Affinity, Inc.",,Certain Affinity,core,L1084
+halo-4,504,Jacob Crow,,Design,"Additional Multiplayer Design And Development By: Certain Affinity, Inc.",,Certain Affinity,core,L1086
+halo-4,505,Lucas Davis,,Design,"Additional Multiplayer Design And Development By: Certain Affinity, Inc.",,Certain Affinity,core,L1088
+halo-4,506,Javier De Jesus,,Design,"Additional Multiplayer Design And Development By: Certain Affinity, Inc.",,Certain Affinity,core,L1090
+halo-4,507,Jason Eubank,,Design,"Additional Multiplayer Design And Development By: Certain Affinity, Inc.",,Certain Affinity,core,L1092
+halo-4,508,Maria Fernandez,,Design,"Additional Multiplayer Design And Development By: Certain Affinity, Inc.",,Certain Affinity,core,L1094
+halo-4,509,Tim Fields,,Design,"Additional Multiplayer Design And Development By: Certain Affinity, Inc.",,Certain Affinity,core,L1096
+halo-4,510,William Fox,,Design,"Additional Multiplayer Design And Development By: Certain Affinity, Inc.",,Certain Affinity,core,L1098
+halo-4,511,Will Fuller,,Design,"Additional Multiplayer Design And Development By: Certain Affinity, Inc.",,Certain Affinity,core,L1100
+halo-4,512,Mojdeh Gharbi,,Design,"Additional Multiplayer Design And Development By: Certain Affinity, Inc.",,Certain Affinity,core,L1102
+halo-4,513,Toph Gorham,,Design,"Additional Multiplayer Design And Development By: Certain Affinity, Inc.",,Certain Affinity,core,L1104
+halo-4,514,John Grubner,,Design,"Additional Multiplayer Design And Development By: Certain Affinity, Inc.",,Certain Affinity,core,L1106
+halo-4,515,Tia Hood,,Design,"Additional Multiplayer Design And Development By: Certain Affinity, Inc.",,Certain Affinity,core,L1108
+halo-4,516,Mark Horony,,Design,"Additional Multiplayer Design And Development By: Certain Affinity, Inc.",,Certain Affinity,core,L1110
+halo-4,517,Katie Houston,,Design,"Additional Multiplayer Design And Development By: Certain Affinity, Inc.",,Certain Affinity,core,L1112
+halo-4,518,Brian Hudson,,Design,"Additional Multiplayer Design And Development By: Certain Affinity, Inc.",,Certain Affinity,core,L1114
+halo-4,519,Paul Isaac,,Design,"Additional Multiplayer Design And Development By: Certain Affinity, Inc.",,Certain Affinity,core,L1116
+halo-4,520,Brad Jeansonne,,Design,"Additional Multiplayer Design And Development By: Certain Affinity, Inc.",,Certain Affinity,core,L1118
+halo-4,521,Justin Kauffman,,Design,"Additional Multiplayer Design And Development By: Certain Affinity, Inc.",,Certain Affinity,core,L1120
+halo-4,522,Steev Kelly,,Design,"Additional Multiplayer Design And Development By: Certain Affinity, Inc.",,Certain Affinity,core,L1122
+halo-4,523,Rick Knox,,Design,"Additional Multiplayer Design And Development By: Certain Affinity, Inc.",,Certain Affinity,core,L1124
+halo-4,524,Seok Ki Kwon,,Design,"Additional Multiplayer Design And Development By: Certain Affinity, Inc.",,Certain Affinity,core,L1126
+halo-4,525,Jason Lyons,,Design,"Additional Multiplayer Design And Development By: Certain Affinity, Inc.",,Certain Affinity,core,L1128
+halo-4,526,Ryan Mansfield,,Design,"Additional Multiplayer Design And Development By: Certain Affinity, Inc.",,Certain Affinity,core,L1130
+halo-4,527,Thomas Mauer,,Design,"Additional Multiplayer Design And Development By: Certain Affinity, Inc.",,Certain Affinity,core,L1132
+halo-4,528,Dean McCall,,Design,"Additional Multiplayer Design And Development By: Certain Affinity, Inc.",,Certain Affinity,core,L1134
+halo-4,529,Mike McCarthy,,Design,"Additional Multiplayer Design And Development By: Certain Affinity, Inc.",,Certain Affinity,core,L1136
+halo-4,530,David Midgley,,Design,"Additional Multiplayer Design And Development By: Certain Affinity, Inc.",,Certain Affinity,core,L1138
+halo-4,531,Eric Miller,,Design,"Additional Multiplayer Design And Development By: Certain Affinity, Inc.",,Certain Affinity,core,L1140
+halo-4,532,Rolf Mohr,,Design,"Additional Multiplayer Design And Development By: Certain Affinity, Inc.",,Certain Affinity,core,L1142
+halo-4,533,Chase Moody,,Design,"Additional Multiplayer Design And Development By: Certain Affinity, Inc.",,Certain Affinity,core,L1144
+halo-4,534,Andrew Morris,,Design,"Additional Multiplayer Design And Development By: Certain Affinity, Inc.",,Certain Affinity,core,L1146
+halo-4,535,Bryan Moss,,Design,"Additional Multiplayer Design And Development By: Certain Affinity, Inc.",,Certain Affinity,core,L1148
+halo-4,536,Deanna Nygren,,Design,"Additional Multiplayer Design And Development By: Certain Affinity, Inc.",,Certain Affinity,core,L1150
+halo-4,537,Michael Pavlovich,,Design,"Additional Multiplayer Design And Development By: Certain Affinity, Inc.",,Certain Affinity,core,L1152
+halo-4,538,Michael Pedro,,Design,"Additional Multiplayer Design And Development By: Certain Affinity, Inc.",,Certain Affinity,core,L1154
+halo-4,539,Tom Potter,,Design,"Additional Multiplayer Design And Development By: Certain Affinity, Inc.",,Certain Affinity,core,L1156
+halo-4,540,Josh Powers,,Design,"Additional Multiplayer Design And Development By: Certain Affinity, Inc.",,Certain Affinity,core,L1158
+halo-4,541,Jeremy Raymond,,Design,"Additional Multiplayer Design And Development By: Certain Affinity, Inc.",,Certain Affinity,core,L1160
+halo-4,542,Erin Reed,,Design,"Additional Multiplayer Design And Development By: Certain Affinity, Inc.",,Certain Affinity,core,L1162
+halo-4,543,Abe Robertson,,Design,"Additional Multiplayer Design And Development By: Certain Affinity, Inc.",,Certain Affinity,core,L1164
+halo-4,544,Leif Robles,,Design,"Additional Multiplayer Design And Development By: Certain Affinity, Inc.",,Certain Affinity,core,L1166
+halo-4,545,Dan Rubel,,Design,"Additional Multiplayer Design And Development By: Certain Affinity, Inc.",,Certain Affinity,core,L1168
+halo-4,546,Ryan Rude,,Design,"Additional Multiplayer Design And Development By: Certain Affinity, Inc.",,Certain Affinity,core,L1170
+halo-4,547,David Salaiz,,Design,"Additional Multiplayer Design And Development By: Certain Affinity, Inc.",,Certain Affinity,core,L1172
+halo-4,548,Sarah Schauf,,Design,"Additional Multiplayer Design And Development By: Certain Affinity, Inc.",,Certain Affinity,core,L1174
+halo-4,549,Stefan Sinclair,,Design,"Additional Multiplayer Design And Development By: Certain Affinity, Inc.",,Certain Affinity,core,L1176
+halo-4,550,Jessica Spence,,Design,"Additional Multiplayer Design And Development By: Certain Affinity, Inc.",,Certain Affinity,core,L1178
+halo-4,551,Nikki Tangtiphongkul,,Design,"Additional Multiplayer Design And Development By: Certain Affinity, Inc.",,Certain Affinity,core,L1180
+halo-4,552,Anthony Trahan,,Design,"Additional Multiplayer Design And Development By: Certain Affinity, Inc.",,Certain Affinity,core,L1182
+halo-4,553,Mark Tucker,,Design,"Additional Multiplayer Design And Development By: Certain Affinity, Inc.",,Certain Affinity,core,L1184
+halo-4,554,Dan Valey,,Design,"Additional Multiplayer Design And Development By: Certain Affinity, Inc.",,Certain Affinity,core,L1186
+halo-4,555,Anthony Florez,,Design,"Additional Multiplayer Design And Development By: Certain Affinity, Inc.",,COMPUCOM SYSTEMS INC,core,L1188
+halo-4,556,Colin Fogle,,Design,"Additional Multiplayer Design And Development By: Certain Affinity, Inc.",,COMPUCOM SYSTEMS INC,core,L1190
+halo-4,557,Bobby Arlauskas,,Design,"Additional Multiplayer Design And Development By: Certain Affinity, Inc.",,GL33K,core,L1192
+halo-4,558,Brett Acuff,,Design,"Additional Multiplayer Design And Development By: Certain Affinity, Inc.",,INSIGHT GLOBAL,core,L1194
+halo-4,559,Scott Finlay,,Design,"Additional Multiplayer Design And Development By: Certain Affinity, Inc.",,NELSON INTERACTIVE,core,L1196
+halo-4,560,Ryan Fox,,Design,"Additional Multiplayer Design And Development By: Certain Affinity, Inc.",,VOLT,core,L1198
+halo-4,561,Nathan Peters,,Design,"Additional Multiplayer Design And Development By: Certain Affinity, Inc.",,VOLT,core,L1200
+halo-4,562,Chris Pugnetti,,Design,"Additional Multiplayer Design And Development By: Certain Affinity, Inc.",,VOLT,core,L1202
+halo-4,563,James Tjaden,,Design,"Additional Multiplayer Design And Development By: Certain Affinity, Inc.",,VOLT,core,L1204
+halo-4,564,Elisabeth Walter,,Design,"Additional Multiplayer Design And Development By: Certain Affinity, Inc.",,VOLT,core,L1206
+halo-4,565,Byron Welch,,Design,"Additional Multiplayer Design And Development By: Certain Affinity, Inc.",,VOLT,core,L1208
+halo-4,566,Paul Wellumson,,Design,"Additional Multiplayer Design And Development By: Certain Affinity, Inc.",,VOLT,core,L1210
+halo-4,567,Kathleen Asbury,,Special Thanks,Certain Affinity - Special Thanks,,Certain Affinity,special-thanks,L1213
+halo-4,568,Jared Brunner,,Special Thanks,Certain Affinity - Special Thanks,,Certain Affinity,special-thanks,L1215
+halo-4,569,Luiz Kruel,,Special Thanks,Certain Affinity - Special Thanks,,Certain Affinity,special-thanks,L1217
+halo-4,570,Marcus Luna De Leon,,Special Thanks,Certain Affinity - Special Thanks,,Certain Affinity,special-thanks,L1219
+halo-4,571,Cody McGinley,,Special Thanks,Certain Affinity - Special Thanks,,Certain Affinity,special-thanks,L1221
+halo-4,572,Dan Mod,,Special Thanks,Certain Affinity - Special Thanks,,Certain Affinity,special-thanks,L1223
+halo-4,573,Meagan Quinn,,Special Thanks,Certain Affinity - Special Thanks,,Certain Affinity,special-thanks,L1225
+halo-4,574,Wayne Richardson,,Special Thanks,Certain Affinity - Special Thanks,,Certain Affinity,special-thanks,L1227
+halo-4,575,Paul Russel,,Special Thanks,Certain Affinity - Special Thanks,,Certain Affinity,special-thanks,L1229
+halo-4,576,Michael Walters,,Special Thanks,Certain Affinity - Special Thanks,,Certain Affinity,special-thanks,L1231
+halo-4,577,Jeff Edwards,,Production,PRODUCER,,Digital Extremes,core,L1234
+halo-4,578,Allen Goode,,Design,LEAD DESIGNER,,Digital Extremes,core,L1236
+halo-4,579,Will Makra,,Art,ART DIRECTOR,,Digital Extremes,core,L1238
+halo-4,580,Paul Orbine,,QA,QA LEAD,,Digital Extremes,core,L1240
+halo-4,581,Frank Trzcinski,,Art,ASSOCIATE ART DIRECTOR,,Digital Extremes,core,L1242
+halo-4,582,Michael Marquis,,Art,LEAD ENVIRONMENT ARTIST,,Digital Extremes,core,L1244
+halo-4,583,Arman Abounourinejad,,Other,Additional Multiplayer And Development By: Digital Extremes,,Digital Extremes,core,L1246
+halo-4,584,Joey Adey,,Other,Additional Multiplayer And Development By: Digital Extremes,,Digital Extremes,core,L1248
+halo-4,585,Jeremy Andress,,Other,Additional Multiplayer And Development By: Digital Extremes,,Digital Extremes,core,L1250
+halo-4,586,Ryan Andrews,,Other,Additional Multiplayer And Development By: Digital Extremes,,Digital Extremes,core,L1252
+halo-4,587,James Beck,,Other,Additional Multiplayer And Development By: Digital Extremes,,Digital Extremes,core,L1254
+halo-4,588,Nick Boehler,,Other,Additional Multiplayer And Development By: Digital Extremes,,Digital Extremes,core,L1256
+halo-4,589,James Chew,,Other,Additional Multiplayer And Development By: Digital Extremes,,Digital Extremes,core,L1258
+halo-4,590,Mike Chomicki,,Other,Additional Multiplayer And Development By: Digital Extremes,,Digital Extremes,core,L1260
+halo-4,591,Dustin Crenna,,Other,Additional Multiplayer And Development By: Digital Extremes,,Digital Extremes,core,L1262
+halo-4,592,Devin Jackson Croft,,Other,Additional Multiplayer And Development By: Digital Extremes,,Digital Extremes,core,L1264
+halo-4,593,Kol Crosbie,,Other,Additional Multiplayer And Development By: Digital Extremes,,Digital Extremes,core,L1266
+halo-4,594,John Dennison,,Other,Additional Multiplayer And Development By: Digital Extremes,,Digital Extremes,core,L1268
+halo-4,595,Ben Edney,,Other,Additional Multiplayer And Development By: Digital Extremes,,Digital Extremes,core,L1270
+halo-4,596,Erwin Evegaars,,Other,Additional Multiplayer And Development By: Digital Extremes,,Digital Extremes,core,L1272
+halo-4,597,Haeyong Gho,,Other,Additional Multiplayer And Development By: Digital Extremes,,Digital Extremes,core,L1274
+halo-4,598,Dan Hunter,,Other,Additional Multiplayer And Development By: Digital Extremes,,Digital Extremes,core,L1276
+halo-4,599,Mike Janes,,Other,Additional Multiplayer And Development By: Digital Extremes,,Digital Extremes,core,L1278
+halo-4,600,Anthony Joseph,,Other,Additional Multiplayer And Development By: Digital Extremes,,Digital Extremes,core,L1280
+halo-4,601,Joon Kim,,Other,Additional Multiplayer And Development By: Digital Extremes,,Digital Extremes,core,L1282
+halo-4,602,Kate Lane,,Other,Additional Multiplayer And Development By: Digital Extremes,,Digital Extremes,core,L1284
+halo-4,603,Andrea Lehnen,,Other,Additional Multiplayer And Development By: Digital Extremes,,Digital Extremes,core,L1286
+halo-4,604,Ryan Marr,,Other,Additional Multiplayer And Development By: Digital Extremes,,Digital Extremes,core,L1288
+halo-4,605,Ted Mollwain,,Other,Additional Multiplayer And Development By: Digital Extremes,,Digital Extremes,core,L1290
+halo-4,606,Phil Nguyen,,Other,Additional Multiplayer And Development By: Digital Extremes,,Digital Extremes,core,L1292
+halo-4,607,Brian Noon,,Other,Additional Multiplayer And Development By: Digital Extremes,,Digital Extremes,core,L1294
+halo-4,608,Milton Pangourelias,,Other,Additional Multiplayer And Development By: Digital Extremes,,Digital Extremes,core,L1296
+halo-4,609,Thomas Pringle,,Other,Additional Multiplayer And Development By: Digital Extremes,,Digital Extremes,core,L1298
+halo-4,610,Mike Sebalj,,Other,Additional Multiplayer And Development By: Digital Extremes,,Digital Extremes,core,L1300
+halo-4,611,Craig Sellars,,Other,Additional Multiplayer And Development By: Digital Extremes,,Digital Extremes,core,L1302
+halo-4,612,Hazel Whorley,,Other,Additional Multiplayer And Development By: Digital Extremes,,Digital Extremes,core,L1304
+halo-4,613,Andrew Woo,,Other,Additional Multiplayer And Development By: Digital Extremes,,Digital Extremes,core,L1306
+halo-4,614,Natahri Felton,,QA,Test Reserves,,,core,L1309
+halo-4,615,Joe Djorgee,,QA,Test Reserves,,,core,L1311
+halo-4,616,Laura Hawkins,,QA,Test Reserves,,,core,L1313
+halo-4,617,Craig Marshall,,QA,Test Reserves,,,core,L1315
+halo-4,618,Mark McAllister,,QA,Test Reserves,,,core,L1317
+halo-4,619,Adam Alldredge,,QA,Test Reserves,,VOLT,core,L1319
+halo-4,620,Samuel Anderson,,QA,Test Reserves,,COMPUCOM SYSTEMS INC,core,L1321
+halo-4,621,Ryan Atwater,,QA,Test Reserves,,VOLT,core,L1323
+halo-4,622,Cody Barbee,,QA,Test Reserves,,COMPUCOM SYSTEMS INC,core,L1325
+halo-4,623,Jillian Bennett,,QA,Test Reserves,,COMPUCOM SYSTEMS INC,core,L1327
+halo-4,624,Jessica Boettiger,,QA,Test Reserves,,VOLT,core,L1329
+halo-4,625,Alex Bourdages,,QA,Test Reserves,,COMPUCOM SYSTEMS INC,core,L1331
+halo-4,626,Joshua Brader,,QA,Test Reserves,,ADITI,core,L1333
+halo-4,627,Jared Bryant,,QA,Test Reserves,,ADITI,core,L1335
+halo-4,628,Chris Carleson,,QA,Test Reserves,,VOLT,core,L1337
+halo-4,629,Jared Chow,,QA,Test Reserves,,COMPUCOM SYSTEMS INC,core,L1339
+halo-4,630,David Clabaugh,,QA,Test Reserves,,ADITI,core,L1341
+halo-4,631,Bridgette Cummins,,QA,Test Reserves,,VOLT,core,L1343
+halo-4,632,Patrick Daly,,QA,Test Reserves,,ADITI,core,L1345
+halo-4,633,Leland Dantzler,,QA,Test Reserves,,VOLT,core,L1347
+halo-4,634,Shane Davis,,QA,Test Reserves,,COMPUCOM SYSTEMS INC,core,L1349
+halo-4,635,Dalrek Davis,,QA,Test Reserves,,VOLT,core,L1351
+halo-4,636,Bryan DeCann,,QA,Test Reserves,,VOLT,core,L1353
+halo-4,637,Josh Dime,,QA,Test Reserves,,VOLT,core,L1355
+halo-4,638,Cody Dixon,,QA,Test Reserves,,ADITI,core,L1357
+halo-4,639,Thomas Dowd,,QA,Test Reserves,,COMPUCOM SYSTEMS INC,core,L1359
+halo-4,640,Nicholas Elgin,,QA,Test Reserves,,VOLT,core,L1361
+halo-4,641,Zane Evans,,QA,Test Reserves,,VOLT,core,L1363
+halo-4,642,Steve Farnell,,QA,Test Reserves,,VOLT,core,L1365
+halo-4,643,Angelica Ferdinand,,QA,Test Reserves,,ADITI,core,L1367
+halo-4,644,Courtland Fichter,,QA,Test Reserves,,ADITI,core,L1369
+halo-4,645,David Foster,,QA,Test Reserves,,PRITHVI CATALYTIC INC,core,L1371
+halo-4,646,Kelsey Fukuhara,,QA,Test Reserves,,VOLT,core,L1373
+halo-4,647,Jonathan Gage,,QA,Test Reserves,,COMPUCOM SYSTEMS INC,core,L1375
+halo-4,648,Jose Gamboa,,QA,Test Reserves,,VOLT,core,L1377
+halo-4,649,Andrew Giese,,QA,Test Reserves,,ADITI,core,L1379
+halo-4,650,David Grant,,QA,Test Reserves,,PRITHVI CATALYTIC INC,core,L1381
+halo-4,651,Daniel Greenwood,,QA,Test Reserves,,ADITI,core,L1383
+halo-4,652,Zach Guptil,,QA,Test Reserves,,VOLT,core,L1385
+halo-4,653,Chad Hale,,QA,Test Reserves,,VOLT,core,L1387
+halo-4,654,Jeffery Hansberry,,QA,Test Reserves,,ADITI,core,L1389
+halo-4,655,James Harper,,QA,Test Reserves,,VOLT,core,L1391
+halo-4,656,Nicholas Hart,,QA,Test Reserves,,VOLT,core,L1393
+halo-4,657,Carlson Holloway-Factory,,QA,Test Reserves,,COMPUCOM SYSTEMS INC,core,L1395
+halo-4,658,Alex Hunte,,QA,Test Reserves,,COMPUCOM SYSTEMS INC,core,L1397
+halo-4,659,Matthew Igaz,,QA,Test Reserves,,VOLT,core,L1399
+halo-4,660,Justin Ireland,,QA,Test Reserves,,COMPUCOM SYSTEMS INC,core,L1401
+halo-4,661,Nathan Johnson,,QA,Test Reserves,,VOLT,core,L1403
+halo-4,662,Chelsea Johnson,,QA,Test Reserves,,VOLT,core,L1405
+halo-4,663,Garrett Jones,,QA,Test Reserves,,VOLT,core,L1407
+halo-4,664,Alexander Kairis,,QA,Test Reserves,,VOLT,core,L1409
+halo-4,665,Zak Kalles,,QA,Test Reserves,,COMPUCOM SYSTEMS INC,core,L1411
+halo-4,666,Vartan Karakashyan,,QA,Test Reserves,,VOLT,core,L1413
+halo-4,667,Scott Kubo,,QA,Test Reserves,,COMPUCOM SYSTEMS INC,core,L1415
+halo-4,668,Cody Laine,,QA,Test Reserves,,ADITI,core,L1417
+halo-4,669,Cahlen Lee,,QA,Test Reserves,,VOLT,core,L1419
+halo-4,670,Lewis Liaw,,QA,Test Reserves,,COMPUCOM SYSTEMS INC,core,L1421
+halo-4,671,Christopher Lockwood,,QA,Test Reserves,,VOLT,core,L1423
+halo-4,672,James Ludden,,QA,Test Reserves,,ADITI,core,L1425
+halo-4,673,Matthew Lumb-Mielke,,QA,Test Reserves,,COMPUCOM SYSTEMS INC,core,L1427
+halo-4,674,Ryan Madson,,QA,Test Reserves,,VOLT,core,L1429
+halo-4,675,Adam Mahlum,,QA,Test Reserves,,COMPUCOM SYSTEMS INC,core,L1431
+halo-4,676,Daniel Maret,,QA,Test Reserves,,ADITI,core,L1433
+halo-4,677,Steven Markham,,QA,Test Reserves,,VOLT,core,L1435
+halo-4,678,Keith Martin,,QA,Test Reserves,,ADITI,core,L1437
+halo-4,679,Shaun Martin,,QA,Test Reserves,,VOLT,core,L1439
+halo-4,680,Theisen Meadows,,QA,Test Reserves,,VOLT,core,L1441
+halo-4,681,Alexander Miller,,QA,Test Reserves,,ADITI,core,L1443
+halo-4,682,Frazier Moore,,QA,Test Reserves,,ADITI,core,L1445
+halo-4,683,Shawn Mosman,,QA,Test Reserves,,VOLT,core,L1447
+halo-4,684,Taylor Neal,,QA,Test Reserves,,COMPUCOM SYSTEMS INC,core,L1449
+halo-4,685,Joseph Nguyen,,QA,Test Reserves,,ADITI,core,L1451
+halo-4,686,Jonathan Ochs,,QA,Test Reserves,,ADITI,core,L1453
+halo-4,687,James Pekola,,QA,Test Reserves,,ADITI,core,L1455
+halo-4,688,Iona Preda,,QA,Test Reserves,,VOLT,core,L1457
+halo-4,689,Sarah Pugh,,QA,Test Reserves,,PRITHVI CATALYTIC INC,core,L1459
+halo-4,690,Paul Pulanco,,QA,Test Reserves,,COMPUCOM SYSTEMS INC,core,L1461
+halo-4,691,Freddy Rangel,,QA,Test Reserves,,VOLT,core,L1463
+halo-4,692,Jon Rasmussen,,QA,Test Reserves,,COMPUCOM SYSTEMS INC,core,L1465
+halo-4,693,Deanna Raven,,QA,Test Reserves,,COMPUCOM SYSTEMS INC,core,L1467
+halo-4,694,John Reitenbach,,QA,Test Reserves,,COMPUCOM SYSTEMS INC,core,L1469
+halo-4,695,Kelly Rios,,QA,Test Reserves,,COMPUCOM SYSTEMS INC,core,L1471
+halo-4,696,Conner Roberts,,QA,Test Reserves,,VOLT,core,L1473
+halo-4,697,Timothy Rowsey,,QA,Test Reserves,,ADITI,core,L1475
+halo-4,698,Josh Sager,,QA,Test Reserves,,VOLT,core,L1477
+halo-4,699,Joshawa Salyers,,QA,Test Reserves,,COMPUCOM SYSTEMS INC,core,L1479
+halo-4,700,Brian Schafheimer,,QA,Test Reserves,,COMPUCOM SYSTEMS INC,core,L1481
+halo-4,701,Andrew Shimer,,QA,Test Reserves,,VOLT,core,L1483
+halo-4,702,Cody Shipman,,QA,Test Reserves,,COMPUCOM SYSTEMS INC,core,L1485
+halo-4,703,Carlos Sierra,,QA,Test Reserves,,COMPUCOM SYSTEMS INC,core,L1487
+halo-4,704,Kris Sletten,,QA,Test Reserves,,VOLT,core,L1489
+halo-4,705,Kinnon Stephens,,QA,Test Reserves,,PRITHVI CATALYTIC INC,core,L1491
+halo-4,706,David Sutterfield,,QA,Test Reserves,,VOLT,core,L1493
+halo-4,707,Craig Swanson,,QA,Test Reserves,,VOLT,core,L1495
+halo-4,708,Brigittie Tijerina,,QA,Test Reserves,,COMPUCOM SYSTEMS INC,core,L1497
+halo-4,709,Joel Valles,,QA,Test Reserves,,VOLT,core,L1499
+halo-4,710,Jason Vance,,QA,Test Reserves,,COMPUCOM SYSTEMS INC,core,L1501
+halo-4,711,Joel Vidmore,,QA,Test Reserves,,VOLT,core,L1503
+halo-4,712,Thomas Ward,,QA,Test Reserves,,COMPUCOM SYSTEMS INC,core,L1505
+halo-4,713,Jacob Weatherspoon,,QA,Test Reserves,,COMPUCOM SYSTEMS INC,core,L1507
+halo-4,714,Michael Williams,,QA,Test Reserves,,COMPUCOM SYSTEMS INC,core,L1509
+halo-4,715,Robin Woodbury,,QA,Test Reserves,,ADITI,core,L1511
+halo-4,716,Shang Bang Francis Wu,,QA,Test Reserves,,COMPUCOM SYSTEMS INC,core,L1513
+halo-4,717,Christopher Youngs,,QA,Test Reserves,,VOLT,core,L1515
+halo-4,718,Michael Arvat,,QA,Test - Experis,,EXPERIS,core,L1518
+halo-4,719,Matt Botz,,QA,Test - Experis,,EXPERIS,core,L1520
+halo-4,720,Andrew Breeden,,QA,Test - Experis,,EXPERIS,core,L1522
+halo-4,721,Chris Brock,,QA,Test - Experis,,EXPERIS,core,L1524
+halo-4,722,Matthew Brown,,QA,Test - Experis,,EXPERIS,core,L1526
+halo-4,723,Brian Cheng,,QA,Test - Experis,,EXPERIS,core,L1528
+halo-4,724,Ahmad Chohan,,QA,Test - Experis,,EXPERIS,core,L1530
+halo-4,725,Blaine Crockatt,,QA,Test - Experis,,EXPERIS,core,L1532
+halo-4,726,Zack Cutri,,QA,Test - Experis,,EXPERIS,core,L1534
+halo-4,727,Tom Dieterich,,QA,Test - Experis,,EXPERIS,core,L1536
+halo-4,728,Daniel Ellis,,QA,Test - Experis,,EXPERIS,core,L1538
+halo-4,729,Lesean Johnson,,QA,Test - Experis,,EXPERIS,core,L1540
+halo-4,730,Gavin Kennedy,,QA,Test - Experis,,EXPERIS,core,L1542
+halo-4,731,Peter Klaebe,,QA,Test - Experis,,EXPERIS,core,L1544
+halo-4,732,Tylor Loo,,QA,Test - Experis,,EXPERIS,core,L1546
+halo-4,733,Dustin Lukas,,QA,Test - Experis,,EXPERIS,core,L1548
+halo-4,734,Sean Manley,,QA,Test - Experis,,EXPERIS,core,L1550
+halo-4,735,Lyndon Moore,,QA,Test - Experis,,EXPERIS,core,L1552
+halo-4,736,Erik Morton,,QA,Test - Experis,,EXPERIS,core,L1554
+halo-4,737,Theresa Pudenz,,QA,Test - Experis,,EXPERIS,core,L1556
+halo-4,738,Devon Smith,,QA,Test - Experis,,EXPERIS,core,L1558
+halo-4,739,Tim Toulouse,,QA,Test - Experis,,EXPERIS,core,L1560
+halo-4,740,Andrew Williams,,QA,Test - Experis,,EXPERIS,core,L1562
+halo-4,741,Ben Cammarano,,Leadership,DIRECTOR OF CENTRAL MEDIA,,,publishing,L1565
+halo-4,742,Curtis Neal,,Production,PRODUCTION DIRECTOR,,,publishing,L1567
+halo-4,743,Shane Hartley,,Publishing,Microsoft Central Media,,,publishing,L1569
+halo-4,744,Brian James,,Publishing,Microsoft Central Media,,,publishing,L1571
+halo-4,745,Jonas Norberg,,Publishing,Microsoft Central Media,,,publishing,L1573
+halo-4,746,Kristen Quebe,,Publishing,Microsoft Central Media,,,publishing,L1575
+halo-4,747,Mark Yeend,,Publishing,Microsoft Central Media,,,publishing,L1577
+halo-4,748,Sue Mullan,,Publishing,Microsoft Central Media,,YOH SERVICES LLC,publishing,L1579
+halo-4,749,James Schmidt,,Publishing,Microsoft Central Media,,COLLABERA,publishing,L1581
+halo-4,750,Mike Caviezel,,Audio,Soundlab,,,core,L1584
+halo-4,751,Kira Anderson,,Audio,Soundlab,,YOH SERVICES LLC,core,L1586
+halo-4,752,Peter Comley,,Audio,Soundlab,,FILTER LLC,core,L1588
+halo-4,753,Bryan Higa,,Audio,Soundlab,,COLLABERA,core,L1590
+halo-4,754,Kristoffer Larson,,Audio,Soundlab,,IMATCH LLC,core,L1592
+halo-4,755,David Liu,,Audio,Soundlab,,AQUENT LLC,core,L1594
+halo-4,756,Amanda Long,,Audio,Soundlab,,AQUENT LLC,core,L1596
+halo-4,757,Daniel Raimo,,Audio,Soundlab,,FILTER LLC,core,L1598
+halo-4,758,Jonathon Rook,,Audio,Soundlab,,COLLABERA,core,L1600
+halo-4,759,Jesse Rope,,Audio,Soundlab,,MAQ SOFTWARE,core,L1602
+halo-4,760,Chase Thompson,,Audio,Soundlab,,Filter LLC,core,L1604
+halo-4,761,Johnathan Chu,,Publishing,"Geops, Editing, And Localization Management",,,publishing,L1607
+halo-4,762,Kiki McMillan,,Publishing,"Geops, Editing, And Localization Management",,,publishing,L1609
+halo-4,763,Yumiko Murphy,,Publishing,"Geops, Editing, And Localization Management",,,publishing,L1611
+halo-4,764,Ryan James,,Other,PR LEAD,,,publishing,L1614
+halo-4,765,Bryan Koski,,Publishing,MARKETING LEAD,,,publishing,L1616
+halo-4,766,Ryan Cameron,,Publishing,Microsoft PR & Marketing,,,publishing,L1618
+halo-4,767,Chris Munson,,Publishing,Microsoft PR & Marketing,,,publishing,L1620
+halo-4,768,Rob Semsey,,Publishing,Microsoft PR & Marketing,,,publishing,L1622
+halo-4,769,Taylor Smith,,Publishing,Microsoft PR & Marketing,,,publishing,L1624
+halo-4,770,Jennifer Yi,,Publishing,Microsoft PR & Marketing,,,publishing,L1626
+halo-4,771,Ken Birge,,Publishing,Microsoft PR & Marketing,,EDELMAN,publishing,L1628
+halo-4,772,Joe DiMiero,,Publishing,Microsoft PR & Marketing,,EDELMAN,publishing,L1630
+halo-4,773,Mark Fujii,,Publishing,Microsoft PR & Marketing,,EDELMAN,publishing,L1632
+halo-4,774,Eric Kwan,,Publishing,Microsoft PR & Marketing,,EDELMAN,publishing,L1634
+halo-4,775,Martin McBride,,Publishing,Microsoft PR & Marketing,,EDELMAN,publishing,L1636
+halo-4,776,Cat Taggart,,Publishing,Microsoft PR & Marketing,,EDELMAN,publishing,L1638
+halo-4,777,Ken Zhang,,Publishing,Microsoft PR & Marketing,,EDELMAN,publishing,L1640
+halo-4,778,Jason Mangold,,Publishing,Microsoft Publishing Business Development,,,publishing,L1643
+halo-4,779,Noah Musler,,Publishing,Microsoft Publishing Business Development,,,publishing,L1645
+halo-4,780,Tom Fuller,,Design,Microsoft User Research,,,publishing,L1648
+halo-4,781,Randy Pagulayan,,Design,Microsoft User Research,,,publishing,L1650
+halo-4,782,Kirk Rodgers,,Design,Microsoft User Research,,REDMOND TECHNOLOGY PARTNERS,publishing,L1652
+halo-4,783,Greg Jones,,QA,Test Management,,,core,L1655
+halo-4,784,Jimmy Bischoff,,QA,Test Management,,,core,L1657
+halo-4,785,Rick Lockyear,,QA,Test Management,,,core,L1659
+halo-4,786,Ian Walsh,,Publishing,EMEA Localization,,,publishing,L1662
+halo-4,787,John O'Sullivan,,Publishing,EMEA Localization,,,publishing,L1664
+halo-4,788,Michael Ivory,,Publishing,EMEA Localization,,,publishing,L1666
+halo-4,789,Jason Shirley,,Publishing,EMEA Localization,,,publishing,L1668
+halo-4,790,Pavel Ryzhkov,,Publishing,Ireland Localization Team,,KEYWORDS INTERNATIONAL LIMITED,publishing,L1671
+halo-4,791,Graham Jenkin,,Publishing,Ireland Localization Team,,KEYWORDS INTERNATIONAL LIMITED,publishing,L1673
+halo-4,792,Carolin Schneider,,Publishing,Ireland Localization Team,,KEYWORDS INTERNATIONAL LIMITED,publishing,L1675
+halo-4,793,Alessandro Cataldi,,Publishing,Ireland Localization Team,,KEYWORDS INTERNATIONAL LIMITED,publishing,L1677
+halo-4,794,Arnaldo Coutinho Brito Junior,,Publishing,Ireland Localization Team,,KEYWORDS INTERNATIONAL LIMITED,publishing,L1679
+halo-4,795,Aurore Merlin,,Publishing,Ireland Localization Team,,KEYWORDS INTERNATIONAL LIMITED,publishing,L1681
+halo-4,796,Brian Ermans,,Publishing,Ireland Localization Team,,KEYWORDS INTERNATIONAL LIMITED,publishing,L1683
+halo-4,797,Carmen Paolini,,Publishing,Ireland Localization Team,,KEYWORDS INTERNATIONAL LIMITED,publishing,L1685
+halo-4,798,Claus Christensen,,Publishing,Ireland Localization Team,,KEYWORDS INTERNATIONAL LIMITED,publishing,L1687
+halo-4,799,Diogo Sanchez,,Publishing,Ireland Localization Team,,KEYWORDS INTERNATIONAL LIMITED,publishing,L1689
+halo-4,800,Edgar Jose Martinez Vallenilla,,Publishing,Ireland Localization Team,,KEYWORDS INTERNATIONAL LIMITED,publishing,L1691
+halo-4,801,Elixabet Vega,,Publishing,Ireland Localization Team,,KEYWORDS INTERNATIONAL LIMITED,publishing,L1693
+halo-4,802,Federico Sutter,,Publishing,Ireland Localization Team,,KEYWORDS INTERNATIONAL LIMITED,publishing,L1695
+halo-4,803,Ian Felix Dejean,,Publishing,Ireland Localization Team,,KEYWORDS INTERNATIONAL LIMITED,publishing,L1697
+halo-4,804,Jacques Fernandez,,Publishing,Ireland Localization Team,,KEYWORDS INTERNATIONAL LIMITED,publishing,L1699
+halo-4,805,Karina Tracuma,,Publishing,Ireland Localization Team,,KEYWORDS INTERNATIONAL LIMITED,publishing,L1701
+halo-4,806,Lukasz Strzelec,,Publishing,Ireland Localization Team,,KEYWORDS INTERNATIONAL LIMITED,publishing,L1703
+halo-4,807,Michal Kowal,,Publishing,Ireland Localization Team,,KEYWORDS INTERNATIONAL LIMITED,publishing,L1705
+halo-4,808,Nikolas Kolunov,,Publishing,Ireland Localization Team,,KEYWORDS INTERNATIONAL LIMITED,publishing,L1707
+halo-4,809,Nicolai Lie Kortner,,Publishing,Ireland Localization Team,,KEYWORDS INTERNATIONAL LIMITED,publishing,L1709
+halo-4,810,Ole Kristin Kruksve,,Publishing,Ireland Localization Team,,KEYWORDS INTERNATIONAL LIMITED,publishing,L1711
+halo-4,811,Pekka Samuli Kohonen,,Publishing,Ireland Localization Team,,KEYWORDS INTERNATIONAL LIMITED,publishing,L1713
+halo-4,812,Renan Dias,,Publishing,Ireland Localization Team,,KEYWORDS INTERNATIONAL LIMITED,publishing,L1715
+halo-4,813,Ruben Sargentini,,Publishing,Ireland Localization Team,,KEYWORDS INTERNATIONAL LIMITED,publishing,L1717
+halo-4,814,Sebastian Vencken,,Publishing,Ireland Localization Team,,KEYWORDS INTERNATIONAL LIMITED,publishing,L1719
+halo-4,815,Serhiy Denysevych,,Publishing,Ireland Localization Team,,KEYWORDS INTERNATIONAL LIMITED,publishing,L1721
+halo-4,816,Stephanie Golluscio,,Publishing,Ireland Localization Team,,KEYWORDS INTERNATIONAL LIMITED,publishing,L1723
+halo-4,817,Thomas Haselbeck,,Publishing,Ireland Localization Team,,KEYWORDS INTERNATIONAL LIMITED,publishing,L1725
+halo-4,818,Tomas Ruiz Penin,,Publishing,Ireland Localization Team,,KEYWORDS INTERNATIONAL LIMITED,publishing,L1727
+halo-4,819,Toni Portti,,Publishing,Ireland Localization Team,,KEYWORDS INTERNATIONAL LIMITED,publishing,L1729
+halo-4,820,Asako Kido,,Publishing,East Asia Localization,,,publishing,L1732
+halo-4,821,Go Komatsu,,Publishing,East Asia Localization,,,publishing,L1734
+halo-4,822,Tomoko Kometani,,Publishing,East Asia Localization,,,publishing,L1736
+halo-4,823,Natsuko Kudo,,Publishing,East Asia Localization,,,publishing,L1738
+halo-4,824,Satoshi Nagumo,,Publishing,East Asia Localization,,,publishing,L1740
+halo-4,825,Takashi Sasaki,,Publishing,East Asia Localization,,,publishing,L1742
+halo-4,826,Young Hoon Shim,,Publishing,East Asia Localization,,,publishing,L1744
+halo-4,827,Takashi Enomoto,,Publishing,East Asia Localization,,FREELANCE,publishing,L1746
+halo-4,828,Harry Inaba,,Publishing,East Asia Localization,,SYNTHESIS ASIA,publishing,L1748
+halo-4,829,Sean Liu,,Publishing,East Asia Localization,,FREELANCE,publishing,L1750
+halo-4,830,Masao Okamoto,,Publishing,East Asia Localization,,ZIP GLOBAL CORPORATION,publishing,L1752
+halo-4,831,Takahiro Saito,,Publishing,East Asia Localization,,"MIT GATHERING CO., LTD.",publishing,L1754
+halo-4,832,Yui Seko,,Publishing,East Asia Localization,,GLO VISION INC.,publishing,L1756
+halo-4,833,Masa Suzuki,,Publishing,East Asia Localization,,SYNTHESIS ASIA,publishing,L1758
+halo-4,834,Kenichi Tasaka,,Publishing,East Asia Localization,,GLOVISION INC.,publishing,L1760
+halo-4,835,Jeff Wang,,Publishing,East Asia Localization,,SYZYGY INFORMATION SERVICES,publishing,L1762
+halo-4,836,Kim Yeongmin,,Publishing,East Asia Localization,,SYNTHESIS ASIA,publishing,L1764
+halo-4,837,Inwook Yi,,Publishing,East Asia Localization,,"MUSAI STUDIO CO., LTD.",publishing,L1766
+halo-4,838,Jen Ru Chen,,QA,East Asia Localization Test,,KEYWORDS INTERNATIONAL LIMITED,publishing,L1769
+halo-4,839,Ping Yuan Chung,,QA,East Asia Localization Test,,KEYWORDS INTERNATIONAL LIMITED,publishing,L1771
+halo-4,840,Kuang Sheng Huang,,QA,East Asia Localization Test,,KEYWORDS INTERNATIONAL LIMITED,publishing,L1773
+halo-4,841,Jaewon Jo,,QA,East Asia Localization Test,,KEYWORDS INTERNATIONAL LIMITED,publishing,L1775
+halo-4,842,Yudong Jang,,QA,East Asia Localization Test,,KEYWORDS INTERNATIONAL LIMITED,publishing,L1777
+halo-4,843,Wooyeon Jung,,QA,East Asia Localization Test,,KEYWORDS INTERNATIONAL LIMITED,publishing,L1779
+halo-4,844,Tatsuji Michihiro,,QA,East Asia Localization Test,,KEYWORDS INTERNATIONAL LIMITED,publishing,L1781
+halo-4,845,Naoya Sasaki,,QA,East Asia Localization Test,,KEYWORDS INTERNATIONAL LIMITED,publishing,L1783
+halo-4,846,Michelle Emtman,,Publishing,Microsoft HR & Recruiting,,,publishing,L1786
+halo-4,847,Sean Phillips,,Publishing,Microsoft HR & Recruiting,,,publishing,L1788
+halo-4,848,Sharon Siegel,,Publishing,Microsoft HR & Recruiting,,,publishing,L1790
+halo-4,849,Holly Barbacovi,,Publishing,Microsoft HR & Recruiting,,,publishing,L1792
+halo-4,850,Karen Randhawa,,Publishing,Microsoft HR & Recruiting,,,publishing,L1794
+halo-4,851,Angie Sartori,,Publishing,Microsoft HR & Recruiting,,XTREME CONSULTING GROUP INC,publishing,L1796
+halo-4,852,Annie Lohr,,Publishing,Microsoft HR & Recruiting,,XTREME CONSULTING GROUP INC,publishing,L1798
+halo-4,853,David Figatner,,Publishing,Microsoft LCA,,,publishing,L1801
+halo-4,854,Matt Skelton,,Publishing,Microsoft LCA,,,publishing,L1803
+halo-4,855,Carla Woo,,Publishing,Microsoft LCA,,,publishing,L1805
+halo-4,856,Scott Dell'Osso,,Publishing,Microsoft Finance,,,publishing,L1808
+halo-4,857,Kevin McKeon,,Publishing,Microsoft Finance,,,publishing,L1810
+halo-4,858,Don Mattrick,,Other,PRESIDENT,,,core,L1813
+halo-4,859,Phil Spencer,,Leadership,CORPORATE VICE PRESIDENT,,,core,L1815
+halo-4,860,Neil Davidge,,Leadership,IEB Leadership,,,core,L1817
+halo-4,861,Kazuma Jinnouchi,,Leadership,IEB Leadership,,,core,L1819
+halo-4,862,Neil Davidge,,Production,COMPOSED AND PRODUCED BY,,,core,L1822
+halo-4,863,Neil Davidge,,Engineering,ARRANGEMENTS AND PROGRAMMING BY,,,core,L1824
+halo-4,864,Andrew 'Drew' Morgan,,Audio,Bristol/London Music Production Unit,,,core,L1826
+halo-4,865,Matt Dunkley,,Other,ORCHESTRATOR & CONDUCTOR,,,core,L1828
+halo-4,866,Andrew Morgan,,Production,ADDITIONAL ORCHESTRATOR AND PRODUCTION,,,core,L1830
+halo-4,867,Matt Dunkley,,Other,ADDITIONAL ARRANGEMENTS,,,core,L1832
+halo-4,868,Jeremy Holland Smith,,Audio,Bristol/London Music Production Unit,,,core,L1834
+halo-4,869,Gaetan Schurrer,,Engineering,ADDITIONAL PROGRAMMING,,,core,L1836
+halo-4,870,Marco Migliari,,Engineering,ENGINEER AND TECHNICAL SUPPORT,,,core,L1838
+halo-4,872,Andy Bradfield,,Other,MIXED BY,,,core,L1842
+halo-4,873,Jeremy Heatley,,Audio,Bristol/London Music Production Unit,,,core,L1844
+halo-4,874,Niall Acott,,Other,ADDITIONAL MIXING,,,core,L1846
+halo-4,875,Marco Migliari,,Audio,Bristol/London Music Production Unit,,,core,L1848
+halo-4,876,Paul Walton,,Audio,Bristol/London Music Production Unit,,,core,L1850
+halo-4,877,Neil Davidge,,Audio,Bristol/London Music Production Unit,,,core,L1852
+halo-4,878,James Cassidy,,Audio,MUSIC PRODUCTION EXECUTIVE,,,core,L1854
+halo-4,879,Gareth Griffiths,,Other,ORCHESTRA CONTRACTOR,,COOL MUSIC LTD.,core,L1856
+halo-4,880,Dessislava Stefanova,,Other,LONDON BULGARIAN CHOIR CONTRACTOR,,,core,L1858
+halo-4,881,Rob Johnston,,Other,RSVP CHOIR CONTRACTOR,,,core,L1860
+halo-4,882,Clair Tchaikowski,,Other,VOCAL ARRANGEMENTS,,,core,L1862
+halo-4,883,Dakota Music Service,,Audio,MUSIC PREPARATION,,,core,L1864
+halo-4,884,Matt Dunkley,,Other,ORCHESTRA AND RSVP CHOIR CONDUCTED BY,,,core,L1866
+halo-4,885,Dessislava Stefanova,,Other,LONDON BULGARIAN CHOIR CONDUCTED BY,,,core,L1868
+halo-4,886,Geoff Foster,,Other,ORCHESTRA AND CHOIR RECORDED BY,,,core,L1870
+halo-4,887,Lewis Jones,,Engineering,ASSISTANT ENGINEERS,,,core,L1872
+halo-4,888,Paul Pritchard,,Audio,Bristol/London Music Production Unit,,,core,L1874
+halo-4,889,Matt Mysko,,Audio,Bristol/London Music Production Unit,,,core,L1876
+halo-4,890,Chris Parker,,Audio,Bristol/London Music Production Unit,,,core,L1878
+halo-4,891,Rupert Coulson,,Audio,Bristol/London Music Production Unit,,,core,L1880
+halo-4,895,Richard Watkins,,Audio,Bristol/London Music Production Unit,,,core,L1890
+halo-4,896,Mark Almond,,Audio,Bristol/London Music Production Unit,,,core,L1892
+halo-4,897,David Pyatt,,Audio,Bristol/London Music Production Unit,,,core,L1894
+halo-4,898,Lindsay Shilling,,Audio,Bristol/London Music Production Unit,,,core,L1896
+halo-4,899,Owen Slade,,Audio,Bristol/London Music Production Unit,,,core,L1898
+halo-4,900,Nigel Black,,Audio,Bristol/London Music Production Unit,,,core,L1900
+halo-4,901,Bryan Fulcher,,Audio,Bristol/London Music Production Unit,,,core,L1902
+halo-4,902,Angela Barnes,,Audio,Bristol/London Music Production Unit,,,core,L1904
+halo-4,903,Andy Wood,,Audio,Bristol/London Music Production Unit,,,core,L1906
+halo-4,904,Martin Owen,,Audio,Bristol/London Music Production Unit,,,core,L1908
+halo-4,905,Colin Sheen,,Audio,Bristol/London Music Production Unit,,,core,L1910
+halo-4,906,Carston Williams,,Audio,Bristol/London Music Production Unit,,,core,L1912
+halo-4,907,Steve Saunders,,Audio,Bristol/London Music Production Unit,,,core,L1914
+halo-4,908,RSVP Voices,,Other,CHOIR PERFORMED BY,,,core,L1916
+halo-4,910,Clair Tchaikowski,,Other,SOLO VOCAL,,,core,L1920
+halo-4,911,David Cohen,,Other,SOLO CELLO,,,core,L1922
+halo-4,912,Andrew Morganstein,,Other,BAD SOLO CELLO,,,core,L1924
+halo-4,913,James Cassidy,,Other,PROJECT MANAGEMENT,,,core,L1926
+halo-4,913,Barry Campbell,,Other,PROJECT MANAGEMENT,,,core,L1926
+halo-4,914,Kazuma Jinnouchi,,Production,SCORE PRODUCED BY,,,core,L1929
+halo-4,915,Nobuko Toda,,Other,ORCHESTRATED BY,,,core,L1931
+halo-4,916,Andrew Kinney,,Other,ADDITIONAL ORCHESTRATOR,,,core,L1933
+halo-4,917,Thanh Tran,,Audio,MUSIC PREPARATION SUPERVISOR,,GLOBAL MUSIC COPYING,core,L1935
+halo-4,918,Steven Juliani,,Audio,MUSIC PREPARATION,,STEVEN JULIANI MUSIC,core,L1937
+halo-4,919,Jeannine Isaacs,,Audio,Los Angeles/Seattle/Tokyo Music Production Unit,,,core,L1939
+halo-4,920,Marcus SJöwall,,Audio,Los Angeles/Seattle/Tokyo Music Production Unit,,,core,L1941
+halo-4,921,Michael Llyod,,Audio,Los Angeles/Seattle/Tokyo Music Production Unit,,,core,L1943
+halo-4,922,Junko Tamura,,Audio,MUSIC COPYIST,,,core,L1945
+halo-4,923,Tina Tamura,,Audio,Los Angeles/Seattle/Tokyo Music Production Unit,,,core,L1947
+halo-4,924,Hillary Thomas,,Audio,MUSIC LIBRARIAN,,,core,L1949
+halo-4,925,Nick Petrillo,,Audio,Los Angeles/Seattle/Tokyo Music Production Unit,,,core,L1951
+halo-4,926,Mayreni Morel,,Audio,MUSIC COPYING ASSISTANT,,,core,L1953
+halo-4,927,Jaime Carcamo,,Audio,Los Angeles/Seattle/Tokyo Music Production Unit,,,core,L1955
+halo-4,928,Kazuma Jinnouchi,,Audio,MUSIC PROGRAMMING,,,core,L1957
+halo-4,929,Koyo Sonae,,Audio,ORCHESTRATOR AND MUSIC PREPARATION COORDINATOR,,,core,L1959
+halo-4,930,Peter Rotter,,Other,ORCHESTRA CONTRACTOR,,,core,L1961
+halo-4,931,Nick Glennie-Smith,,Other,ORCHESTRA CONDUCTED BY,,,core,L1963
+halo-4,932,Alan Meyerson,,Other,ORCHESTRA RECORDED BY,,,core,L1965
+halo-4,933,Tim Lauber,,Other,RECORDIST,,,core,L1967
+halo-4,934,Tom Steel,,Other,STAGE MANAGER,,,core,L1969
+halo-4,935,Denis St. Amand,,Engineering,STAGE ENGINEER,,,core,L1971
+halo-4,936,Greg Dennen,,Other,ADDITIONAL STAGE CREW,,,core,L1973
+halo-4,937,Christian Wenger,,Engineering,ASSISTANT ENGINEER,,,core,L1975
+halo-4,939,Alan Meyerson,,Other,SCORE MIXED BY,,,core,L1979
+halo-4,943,Nobuko Toda,,Production,SCORE PRODUCTION PRODUCER,,FILM SCORE LLC,core,L1987
+halo-4,944,Daniel Monteverde,,Production,EXECUTIVE SCORE PRODUCTION MANAGER,,ARRIBA ENTERTANMENT INC.,core,L1989
+halo-4,945,Kurt Jessen,,Production,SCORE PRODUCTION MANAGER,,,core,L1991
+halo-4,946,Nicolas Alvarez,,Audio,Los Angeles/Seattle/Tokyo Music Production Unit,,,core,L1993
+halo-4,947,Takashi Baker,,Production,ASSISTANT SCORE PRODUCTION MANAGER,,,core,L1995
+halo-4,949,Marty O'Donnell,,Audio,Los Angeles/Seattle/Tokyo Music Production Unit,,,core,L1999
+halo-4,949,Michael Salvatori,,Audio,Los Angeles/Seattle/Tokyo Music Production Unit,,,core,L1999
+halo-4,950,Marty O'Donnell,,Audio,Los Angeles/Seattle/Tokyo Music Production Unit,,,core,L2001
+halo-4,950,Mike Salvatori,,Audio,Los Angeles/Seattle/Tokyo Music Production Unit,,,core,L2001
+halo-4,954,Mark Sawers,,Narrative,Additional Writing,,,core,L2010
+halo-4,955,Brent Friedman,,Narrative,Additional Writing,,,core,L2012
+halo-4,956,Cas Anvar,,Voice,Main Voice & Performance Cast,DALTON,,core,L2015
+halo-4,957,Laura Bailey,,Voice,Main Voice & Performance Cast,RIVERA,,core,L2017
+halo-4,958,Adrienne Barbeau,,Voice,Main Voice & Performance Cast,DR. TILLSON,,core,L2019
+halo-4,959,Brian T. Delaney,,Voice,Main Voice & Performance Cast,ROLAND,,core,L2021
+halo-4,960,Ben Diskin,,Voice,Main Voice & Performance Cast,MILLER,,core,L2023
+halo-4,961,Jeff Doba,,Voice,Main Voice & Performance Cast,GLASSMAN,,core,L2025
+halo-4,962,Steve Downes,,Voice,Main Voice & Performance Cast,MASTER CHIEF (Voice),,core,L2027
+halo-4,963,Jake Eberle,,Voice,Main Voice & Performance Cast,VO ANNOUNCER,,core,L2029
+halo-4,964,Jennifer Hale,,Voice,Main Voice & Performance Cast,PALMER (Voice),,core,L2031
+halo-4,965,Kate Higgins,,Voice,Main Voice & Performance Cast,DOCTOR OWEN,,core,L2033
+halo-4,966,Vedette Lim,,Voice,Main Voice & Performance Cast,PALMER (Performance),,core,L2035
+halo-4,967,Braden Lynch,,Voice,Main Voice & Performance Cast,MADSEN,,core,L2037
+halo-4,968,Mackenzie Mason,,Voice,Main Voice & Performance Cast,CORTANA (Performance),,core,L2039
+halo-4,969,Elle Newlands,,Voice,Main Voice & Performance Cast,GRANT,,core,L2041
+halo-4,970,Darren O'Hare,,Voice,Main Voice & Performance Cast,LASKY,,core,L2043
+halo-4,971,Ethan Peck,,Voice,Main Voice & Performance Cast,THORNE,,core,L2045
+halo-4,972,Mark Rolston,,Voice,Main Voice & Performance Cast,DEL RIO,,core,L2047
+halo-4,973,Isaac Singleton,,Voice,Main Voice & Performance Cast,HOYA,,core,L2049
+halo-4,974,Pete Stacker,,Voice,Main Voice & Performance Cast,SGT. STACKER,,core,L2051
+halo-4,975,Jeff Steitzer,,Voice,Main Voice & Performance Cast,MULTIPLAYER ANNOUNCER (Voice),,core,L2053
+halo-4,976,Keith Szarabajka,,Voice,Main Voice & Performance Cast,"DIDACT, DOCTOR ALEXANDER",,core,L2055
+halo-4,977,Jen Taylor,,Voice,Main Voice & Performance Cast,"CORTANA (Voice), HALSEY",,core,L2057
+halo-4,978,Bruce Thomas,,Voice,Main Voice & Performance Cast,"MASTER CHIEF (Performance), INTERROGATOR",,core,L2059
+halo-4,979,Lori Tritel,,Voice,Main Voice & Performance Cast,LIBRARIAN,,core,L2061
+halo-4,980,Kari Wahlgren,,Voice,Main Voice & Performance Cast,"IVANOFF, SYSTEM VOICE",,core,L2063
+halo-4,981,Shane Williams,,Voice,Main Voice & Performance Cast,JUL 'MDAMA (Performance),,core,L2065
+halo-4,982,Travis Willingham,,Voice,Main Voice & Performance Cast,JUL 'MDAMA (Voice),,core,L2067
+halo-4,983,Laura Bailey,,Voice,Additional Voices,,,core,L2070
+halo-4,984,Krizia Bajos,,Voice,Additional Voices,,,core,L2072
+halo-4,985,Troy Baker,,Voice,Additional Voices,,,core,L2074
+halo-4,986,Steve Blum,,Voice,Additional Voices,,,core,L2076
+halo-4,987,Emerson Brooks,,Voice,Additional Voices,,,core,L2078
+halo-4,988,Barrie Buckner,,Voice,Additional Voices,,,core,L2080
+halo-4,989,Claudia Christian,,Voice,Additional Voices,,,core,L2082
+halo-4,990,John Cygan,,Voice,Additional Voices,,,core,L2084
+halo-4,991,Brian T. Delaney,,Voice,Additional Voices,,,core,L2086
+halo-4,992,Dave Earnest,,Voice,Additional Voices,,,core,L2088
+halo-4,993,Dave Fouquette,,Voice,Additional Voices,,,core,L2090
+halo-4,994,Gavin Hammon,,Voice,Additional Voices,,,core,L2092
+halo-4,995,Michael Hawley,,Voice,Additional Voices,,,core,L2094
+halo-4,996,Kate Higgins,,Voice,Additional Voices,,,core,L2096
+halo-4,997,Richard Horvitz,,Voice,Additional Voices,,,core,L2098
+halo-4,998,David Kaufman,,Voice,Additional Voices,,,core,L2100
+halo-4,999,Andrew Kishino,,Voice,Additional Voices,,,core,L2102
+halo-4,1000,Loren Lester,,Voice,Additional Voices,,,core,L2104
+halo-4,1001,David Lodge,,Voice,Additional Voices,,,core,L2106
+halo-4,1002,Yuri Lowenthal,,Voice,Additional Voices,,,core,L2108
+halo-4,1003,Dave B. Mitchell,,Voice,Additional Voices,,,core,L2110
+halo-4,1004,Conan O'Brien,,Voice,Additional Voices,,,core,L2112
+halo-4,1005,Michael Oosterom,,Voice,Additional Voices,,,core,L2114
+halo-4,1006,Andy Richter,,Voice,Additional Voices,,,core,L2116
+halo-4,1007,Sam Riegel,,Voice,Additional Voices,,,core,L2118
+halo-4,1008,Matt Shimkus,,Voice,Additional Voices,,,core,L2120
+halo-4,1009,Keith Silverstein,,Voice,Additional Voices,,,core,L2122
+halo-4,1010,David Sobolov,,Voice,Additional Voices,,,core,L2124
+halo-4,1011,Pete Stacker,,Voice,Additional Voices,,,core,L2126
+halo-4,1012,Keith Szarabajka,,Voice,Additional Voices,,,core,L2128
+halo-4,1013,Fred Tatasciore,,Voice,Additional Voices,,,core,L2130
+halo-4,1014,Ron Yuan,,Voice,Additional Voices,,,core,L2132
+halo-4,1015,Jamie Alexander,,Voice,Motion Capture Actors,,,core,L2135
+halo-4,1016,Tammie Baird,,Voice,Motion Capture Actors,,,core,L2137
+halo-4,1017,Ellory Hartnett,,Voice,Motion Capture Actors,,HANSON CONSULTING GROUP,core,L2139
+halo-4,1018,Matt Shimkus,,Voice,Motion Capture Actors,,HANSON CONSULTING GROUP,core,L2141
+halo-4,1019,Judi Shekoni,,Voice,Motion Capture Actors,,,core,L2143
+halo-4,1020,Tim Sitarz,,Voice,Motion Capture Actors,,,core,L2145
+halo-4,1021,Jessica Skerritt,,Voice,Motion Capture Actors,,HANSON CONSULTING GROUP,core,L2147
+halo-4,1022,Shane Stevens,,Voice,Motion Capture Actors,,,core,L2149
+halo-4,1023,Dane Stokinger,,Voice,Motion Capture Actors,,HANSON CONSULTING GROUP,core,L2151
+halo-4,1024,Toshiya Agata,,Other,OTHER FACES,,,core,L2154
+halo-4,1025,Abraham Ali,,Other,OTHER FACES,,,core,L2156
+halo-4,1026,Gary Allegretto,,Other,SPARTAN BODY,,,core,L2158
+halo-4,1027,Jonathan Aube,,Other,FACE OF THOMAS LASKY,,,core,L2160
+halo-4,1028,Lani Blazier,,Other,OTHER FACES,,,core,L2162
+halo-4,1029,Jessica Caesar,,Other,OTHER FACES,,,core,L2164
+halo-4,1030,Davis Choh,,Other,OTHER FACES,,,core,L2166
+halo-4,1031,Scott Dell'Osso,,Other,OTHER FACES,,,core,L2168
+halo-4,1032,Julie Diramio,,Other,OTHER FACES,,,core,L2170
+halo-4,1033,Delano Dyson,,Other,OTHER FACES,,,core,L2172
+halo-4,1034,Matt Findley,,Other,OTHER FACES,,,core,L2174
+halo-4,1035,Matt Fleck,,Other,OTHER FACES,,,core,L2176
+halo-4,1036,Cameron Harris,,Other,OTHER FACES,,,core,L2178
+halo-4,1037,Cindie Haynie,,Other,FACE OF DR. TILLSON,,,core,L2180
+halo-4,1038,Frances Ingraham,,Other,CORTANA BODY,,,core,L2182
+halo-4,1039,Ross Le,,Other,OTHER FACES,,,core,L2184
+halo-4,1040,Katrina Le,,Other,CORTANA BODY,,,core,L2186
+halo-4,1041,Vedette Lim,,Other,FACE OF PALMER,,,core,L2188
+halo-4,1042,Desmond Murray,,Other,OTHER FACES,,,core,L2190
+halo-4,1043,Paisha,,Other,FACE OF CORTANA,,,core,L2192
+halo-4,1044,Allen Perada,,Other,FACE OF DEL RIO,,,core,L2194
+halo-4,1045,Jaala Pickering,,Other,FACE OF LIBRARIAN,,,core,L2196
+halo-4,1046,Brandy Snow,,Other,OTHER FACES,,,core,L2198
+halo-4,1047,Ian Vogel,,Other,OTHER FACES,,,core,L2200
+halo-4,1048,CERTAIN AFFINITY,Certain Affinity,Voice,Scanned Talent,,,core,L2204
+halo-4,1057,Clay Akazawa,,Other,Other Contributors,,COROWARE,core,L2243
+halo-4,1058,Laura Akers,,Other,Other Contributors,,MURPHY & ASSOCIATES,core,L2245
+halo-4,1059,Don Alvarez,,Other,Other Contributors,,,core,L2247
+halo-4,1060,Chad Armstrong,,Other,Other Contributors,,,core,L2249
+halo-4,1061,Whit Brachna,,Other,Other Contributors,,,core,L2251
+halo-4,1062,Alicia Brattin,,Other,Other Contributors,,,core,L2253
+halo-4,1063,David Braun,,Other,Other Contributors,,,core,L2255
+halo-4,1064,Matt Brown,,Other,Other Contributors,,,core,L2257
+halo-4,1065,Kurtis Chinn,,Other,Other Contributors,,,core,L2259
+halo-4,1066,M.E. Chung,,Other,Other Contributors,,,core,L2261
+halo-4,1067,Tony Cox,,Other,Other Contributors,,,core,L2263
+halo-4,1068,Deacon Davis,,Other,Other Contributors,,,core,L2265
+halo-4,1069,Ted Fitzgerald,,Other,Other Contributors,,,core,L2267
+halo-4,1070,Seth Gibson,,Other,Other Contributors,,,core,L2269
+halo-4,1071,Jonathan Goff,,Other,Other Contributors,,,core,L2271
+halo-4,1072,Paul Gradwohl,,Other,Other Contributors,,,core,L2273
+halo-4,1073,Doug Hebenthal,,Other,Other Contributors,,,core,L2275
+halo-4,1074,Steven Jones,,Other,Other Contributors,,,core,L2277
+halo-4,1075,Ross Kameny,,Other,Other Contributors,,,core,L2279
+halo-4,1076,Daveed Kaplan,,Other,Other Contributors,,,core,L2281
+halo-4,1077,Justin Korthof,,Other,Other Contributors,,,core,L2283
+halo-4,1078,Bre Miller,,Other,Other Contributors,,YOH SERVICES LLC,core,L2285
+halo-4,1079,Aaron Nicholls,,Other,Other Contributors,,,core,L2287
+halo-4,1080,Ryan Payton,,Other,Other Contributors,,,core,L2289
+halo-4,1081,Sharon Plotkin,,Other,Other Contributors,,YOH SERVICES LLC,core,L2291
+halo-4,1082,Albert Robles,,Other,Other Contributors,,,core,L2293
+halo-4,1083,Howard Schargel,,Other,Other Contributors,,FILTER LLC,core,L2295
+halo-4,1084,Steve Schreiber,,Other,Other Contributors,,,core,L2297
+halo-4,1085,Melissa Shaw,,Other,Other Contributors,,Volt,core,L2299
+halo-4,1086,Aimee Smith,,Other,Other Contributors,,,core,L2301
+halo-4,1087,Kutta Srinivasan,,Other,Other Contributors,,,core,L2303
+halo-4,1088,Tim Tao,,Other,Other Contributors,,,core,L2305
+halo-4,1089,Mitch Walker,,Other,Other Contributors,,,core,L2307
+halo-4,1090,Nate Walpole,,Other,Other Contributors,,,core,L2309
+halo-4,1091,Charles Robert Webb,,Other,Other Contributors,,VOLT,core,L2311
+halo-4,1092,Greg Bear,,Special Thanks,Special Thanks,,,special-thanks,L2314
+halo-4,1093,Thabo Beeler,,Special Thanks,Special Thanks,,,special-thanks,L2316
+halo-4,1094,Mary Blalock,,Special Thanks,Special Thanks,,FILTER LLC,special-thanks,L2318
+halo-4,1095,Quinn Bradley,,Special Thanks,Special Thanks,,,special-thanks,L2320
+halo-4,1096,Bungie,,Special Thanks,Special Thanks,,,special-thanks,L2322
+halo-4,1097,Burnie Burns,,Special Thanks,Special Thanks,,,special-thanks,L2324
+halo-4,1098,Sergey Bykov,,Special Thanks,Special Thanks,,,special-thanks,L2326
+halo-4,1099,Ashish Consul,,Special Thanks,Special Thanks,,,special-thanks,L2328
+halo-4,1100,Doug Crouch,,Special Thanks,Special Thanks,,,special-thanks,L2330
+halo-4,1101,Lawrence Dearth,,Special Thanks,Special Thanks,,INSIGHT GLOBAL,special-thanks,L2332
+halo-4,1102,Hong Diamante,,Special Thanks,Special Thanks,,,special-thanks,L2334
+halo-4,1103,Taj Etsey-Bethel,,Special Thanks,Special Thanks,,,special-thanks,L2336
+halo-4,1104,Jon Favreau,,Special Thanks,Special Thanks,,,special-thanks,L2338
+halo-4,1105,Mindy Fineout,,Special Thanks,Special Thanks,,YOH SERVICES LLC,special-thanks,L2340
+halo-4,1106,Mike Flasko,,Special Thanks,Special Thanks,,,special-thanks,L2342
+halo-4,1107,Nick Fowler,,Special Thanks,Special Thanks,,INSIGHT GLOBAL,special-thanks,L2344
+halo-4,1108,Gavin Free,,Special Thanks,Special Thanks,,,special-thanks,L2346
+halo-4,1109,Alan Geller,,Special Thanks,Special Thanks,,,special-thanks,L2348
+halo-4,1110,Aimee Green,,Special Thanks,Special Thanks,,YOH SERVICES LLC,special-thanks,L2350
+halo-4,1111,Alex Gregorio,,Special Thanks,Special Thanks,,,special-thanks,L2352
+halo-4,1112,Jeremy Hall,,Special Thanks,Special Thanks,,,special-thanks,L2354
+halo-4,1113,Amy Hanson,,Special Thanks,Special Thanks,,HANSON CONSULTING GROUP,special-thanks,L2356
+halo-4,1114,Ali Harmatuk,,Special Thanks,Special Thanks,,XTREME CONSULTING GROUP INC,special-thanks,L2358
+halo-4,1115,Raymond Herrera,,Special Thanks,Special Thanks,,,special-thanks,L2360
+halo-4,1116,Joel Heyman,,Special Thanks,Special Thanks,,,special-thanks,L2362
+halo-4,1117,Tyler Holt,,Special Thanks,Special Thanks,,,special-thanks,L2364
+halo-4,1118,Kyle Hopkins,,Special Thanks,Special Thanks,,,special-thanks,L2366
+halo-4,1119,Christy Hopkins,,Special Thanks,Special Thanks,,YOH SERVICES LLC,special-thanks,L2368
+halo-4,1120,Matt Hullum,,Special Thanks,Special Thanks,,,special-thanks,L2370
+halo-4,1121,Krishnan Kaniappan,,Special Thanks,Special Thanks,,,special-thanks,L2372
+halo-4,1122,Sean Kelley,,Special Thanks,Special Thanks,,INSIGHT GLOBAL,special-thanks,L2374
+halo-4,1123,Gabi Kliot,,Special Thanks,Special Thanks,,,special-thanks,L2376
+halo-4,1124,Vivek Kumar,,Special Thanks,Special Thanks,,,special-thanks,L2378
+halo-4,1125,Denny Lee,,Special Thanks,Special Thanks,,,special-thanks,L2380
+halo-4,1126,Vik Long,,Special Thanks,Special Thanks,,YOH SERVICES LLC,special-thanks,L2382
+halo-4,1127,Emily Lutz,,Special Thanks,Special Thanks,,INSIGHT GLOBAL,special-thanks,L2384
+halo-4,1128,Marty Hasselbach,,Special Thanks,Special Thanks,,,special-thanks,L2386
+halo-4,1128,Carla St. Pierre,,Special Thanks,Special Thanks,,,special-thanks,L2386
+halo-4,1129,Kerry Meadows,,Special Thanks,Special Thanks,,YOH SERVICES LLC,special-thanks,L2388
+halo-4,1130,Kristofor Mellroth,,Special Thanks,Special Thanks,,,special-thanks,L2390
+halo-4,1131,Eric Neustadter,,Special Thanks,Special Thanks,,,special-thanks,L2392
+halo-4,1132,Monty Oum,,Special Thanks,Special Thanks,,,special-thanks,L2394
+halo-4,1133,Ravi Pandya,,Special Thanks,Special Thanks,,,special-thanks,L2396
+halo-4,1134,Scott Perretta,,Special Thanks,Special Thanks,,DEFINITIVE INSIGHTS,special-thanks,L2398
+halo-4,1135,Annie Philipsen,,Special Thanks,Special Thanks,,YOH SERVICES LLC,special-thanks,L2400
+halo-4,1136,Kevin Salcedo,,Special Thanks,Special Thanks,,,special-thanks,L2402
+halo-4,1137,Nina Sarawgi,,Special Thanks,Special Thanks,,,special-thanks,L2404
+halo-4,1138,Brad Sarsfield,,Special Thanks,Special Thanks,,,special-thanks,L2406
+halo-4,1139,Tracey Sellar,,Special Thanks,Special Thanks,,,special-thanks,L2408
+halo-4,1140,Nick Severson,,Special Thanks,Special Thanks,,,special-thanks,L2410
+halo-4,1141,Kerry Shawcross,,Special Thanks,Special Thanks,,,special-thanks,L2412
+halo-4,1142,Nur Sheikhassan,,Special Thanks,Special Thanks,,,special-thanks,L2414
+halo-4,1143,Mandi Snyder,,Special Thanks,Special Thanks,,,special-thanks,L2416
+halo-4,1144,Gus Sorola,,Special Thanks,Special Thanks,,,special-thanks,L2418
+halo-4,1145,Keith Steury,,Special Thanks,Special Thanks,,,special-thanks,L2420
+halo-4,1146,Karen Streeby,,Special Thanks,Special Thanks,,FILTER LLC,special-thanks,L2422
+halo-4,1147,Baxter the Border Terrier,,Special Thanks,Special Thanks,,,special-thanks,L2424
+halo-4,1148,Jorgen Thelin,,Special Thanks,Special Thanks,,,special-thanks,L2426
+halo-4,1149,Karen Traviss,,Special Thanks,Special Thanks,,,special-thanks,L2428
+halo-4,1150,Michael Weilbacher,,Special Thanks,Special Thanks,,,special-thanks,L2430
+halo-4,1151,Tom Williams,,Special Thanks,Special Thanks,,,special-thanks,L2432
+halo-4,1152,Shaft Wu,,Special Thanks,Special Thanks,,,special-thanks,L2434
+halo-4,1153,Jake Young,,Special Thanks,Special Thanks,,,special-thanks,L2436
+halo-4,1158,Liquid Development,,Other,Additional Content Developed By,,,core,L2447
+halo-4,1162,Audrey Aronchick,,Production,Production Babies,,,babies,L2456
+halo-4,1163,Eloise Aronchick,,Production,Production Babies,,,babies,L2458
+halo-4,1164,Liam Ayoub,,Production,Production Babies,,,babies,L2460
+halo-4,1165,Cole Henry Birkenbuel,,Production,Production Babies,,,babies,L2462
+halo-4,1166,Gemma Blazier,,Production,Production Babies,,,babies,L2464
+halo-4,1167,Susana Alicia Castaňeda,,Production,Production Babies,,,babies,L2466
+halo-4,1168,Chloe Kay Chou,,Production,Production Babies,,,babies,L2468
+halo-4,1169,Christina Vikki Flath,,Production,Production Babies,,,babies,L2470
+halo-4,1170,Kira Lynae Gillette,,Production,Production Babies,,,babies,L2472
+halo-4,1171,Elliott Andrew Grace,,Production,Production Babies,,,babies,L2474
+halo-4,1172,Aiden Hampton,,Production,Production Babies,,,babies,L2476
+halo-4,1173,Fee Lavender Hoen-Almaden,,Production,Production Babies,,,babies,L2478
+halo-4,1174,Brady Kalletta,,Production,Production Babies,,,babies,L2480
+halo-4,1175,Kaitlynn Kalletta,,Production,Production Babies,,,babies,L2482
+halo-4,1176,Macy Makena Keating,,Production,Production Babies,,,babies,L2484
+halo-4,1177,Mei Li Madison Kugler,,Production,Production Babies,,,babies,L2486
+halo-4,1178,Eleanor Ilene Luedke,,Production,Production Babies,,,babies,L2488
+halo-4,1179,Osborn Markham,,Production,Production Babies,,,babies,L2490
+halo-4,1180,Madeline Beth Murphy,,Production,Production Babies,,,babies,L2492
+halo-4,1181,Alexander John Murphy,,Production,Production Babies,,,babies,L2494
+halo-4,1182,Emily Kristina Murphy,,Production,Production Babies,,,babies,L2496
+halo-4,1183,Isla Maud O'Connor-Liu,,Production,Production Babies,,,babies,L2498
+halo-4,1184,Roland J. Pino,,Production,Production Babies,,,babies,L2500
+halo-4,1185,Morgan Price,,Production,Production Babies,,,babies,L2502
+halo-4,1186,Savannah Price,,Production,Production Babies,,,babies,L2504
+halo-4,1187,Lou Rivest,,Production,Production Babies,,,babies,L2506
+halo-4,1188,Noam Rivest,,Production,Production Babies,,,babies,L2508
+halo-4,1189,Jack Ryder Robinson,,Production,Production Babies,,,babies,L2510
+halo-4,1190,Chloe Scott-Yu,,Production,Production Babies,,,babies,L2512
+halo-4,1191,Alexander John Shaules,,Production,Production Babies,,,babies,L2514
+halo-4,1192,Grayson Aaric Taylor,,Production,Production Babies,,,babies,L2516
+halo-4,1193,Eli Will,,Production,Production Babies,,,babies,L2518
+halo-4,1194,Cade Ainsworth,,Other,Heroes Never Die: In Memory of Spartans,,,core,L2521
+halo-4,1195,Lincoln Hartley,,Other,Heroes Never Die: In Memory of Spartans,,,core,L2523
+halo-4,1196,Mathieu Lacombe,Thom Shephard#Production notes,Other,Heroes Never Die: In Memory of Spartans,,,core,L2525
+halo-4,1197,David Anthony Pizzuto,,Other,Heroes Never Die: In Memory of Spartans,,,core,L2527
+halo-4,1198,Raymond Almaden,,Design,Level Design Lead,,,core,mobygames:tr13
+halo-4,1199,Daniel Callan,,Design,Mission Design,,,core,mobygames:tr15
+halo-4,1200,Quentin Rezin,,Voice,Mission Design,,,core,mobygames:tr15
+halo-4,1201,Lindsay Morgan Lockhart,,Voice,Narrative Design,,,core,mobygames:tr27
+halo-4,1202,Andrew Luedke,,Engineering,Graphics Engineering,,,core,mobygames:tr37
+halo-4,1203,J. M. Albertson,,Engineering,Lead,,,core,mobygames:tr48
+halo-4,1204,Mark D. Andersen,,Engineering,Tools Engineering,,,core,mobygames:tr52
+halo-4,1205,Lina Sokaite Gaeta,,Engineering,Tools Engineering,,,core,mobygames:tr52
+halo-4,1206,Douglas Barnes,,Engineering,Additional Engineering,,,core,mobygames:tr57
+halo-4,1207,Dominick Humphrey,,Engineering,Additional Engineering,,,core,mobygames:tr57
+halo-4,1208,AbdulWajid Mohamed,,Engineering,Additional Engineering,,,core,mobygames:tr57
+halo-4,1209,Thomas Scholes,,Art,Concept Art,,,core,mobygames:tr63
+halo-4,1210,John Salvatore Wallin Liberto,,Art,Concept Art,,,core,mobygames:tr63
+halo-4,1211,Brian Christian,,Art,Environment Art,,,core,mobygames:tr69
+halo-4,1212,David Lesperance,,Art,Environment Art,,,core,mobygames:tr69
+halo-4,1213,R. J. Ranola,,Art,Environment Art,,,core,mobygames:tr69
+halo-4,1214,Timothy Diaz,,Voice,Environment Art,,,core,mobygames:tr69
+halo-4,1215,Nathan Gregory,,Art,Environment Art,,,core,mobygames:tr69
+halo-4,1216,Kimberly A. Haines,,Voice,Environment Art,,,core,mobygames:tr69
+halo-4,1217,Benjamin Harrison,,Voice,Environment Art,,,core,mobygames:tr69
+halo-4,1218,Christopher Lomaka,,Voice,Environment Art,,,core,mobygames:tr69
+halo-4,1219,Michael Murrill,,Voice,Environment Art,,,core,mobygames:tr69
+halo-4,1220,Jonathan Woods,,Art,Lead,,,core,mobygames:tr77
+halo-4,1221,Joe Olson,,Voice,FX Art,,,core,mobygames:tr78
+halo-4,1222,Michael E. Pucci,,Voice,FX Art,,,core,mobygames:tr78
+halo-4,1223,Zach Thomas,,Voice,Audio,,,core,mobygames:tr96
+halo-4,1224,Alyson Szymanski,,Voice,Campaign Production,,,core,mobygames:tr105
+halo-4,1225,Matthew Seiji Burns,,Voice,Additional Production,,,core,mobygames:tr114
+halo-4,1226,Michael Axworthy,,Voice,Test,,,core,mobygames:tr117
+halo-4,1227,Raymond Butchko,,Voice,Test,,,core,mobygames:tr117
+halo-4,1228,Joseph Hill,,Voice,Test,,,core,mobygames:tr117
+halo-4,1229,Daniel M. Ayoub,,Production,Executive Producer,,,core,mobygames:tr119
+halo-4,1230,Andrew McWillians,,Voice,Section 3 Test,,,core,mobygames:tr136
+halo-4,1231,Christy Dawson,,Voice,Licensing Team,,,core,mobygames:tr148
+halo-4,1232,Bonnie Ross-Ziegler,,Leadership,Studio Head,,,core,mobygames:tr159
+halo-4,1233,Haeyong Cho,,Design,Additional Multiplayer Design and Development,,Digital Extremes,core,mobygames:tr180
+halo-4,1234,Jonathan Adams,,Voice,Test Reserves,,,core,mobygames:tr182
+halo-4,1235,Nicholas I. Hart,,Voice,Test Reserves,,,core,mobygames:tr182
+halo-4,1236,Johnathan Ochs,,Voice,Test Reserves,,,core,mobygames:tr182
+halo-4,1237,Ioana Preda,,Voice,Test Reserves,,,core,mobygames:tr182
+halo-4,1238,Sarah Earley,,Voice,Test Reserves,,,core,mobygames:tr182
+halo-4,1239,Tim Rowsey,,Voice,Test Reserves,,,core,mobygames:tr182
+halo-4,1240,Matthew C. Brown,,Voice,Test - Experis,,,core,mobygames:tr184
+halo-4,1241,Ahmad Javed Chohan,,Voice,Test - Experis,,,core,mobygames:tr184
+halo-4,1242,Lyndon H. Moore III,,Voice,Test - Experis,,,core,mobygames:tr184
+halo-4,1243,Paul Amer,,Publishing,Microsoft Central Media,,,publishing,mobygames:tr188
+halo-4,1244,Hong-Wei David Liu,,Voice,Soundlab,,,core,mobygames:tr190
+halo-4,1245,Jon Rook,,Voice,Soundlab,,,core,mobygames:tr190
+halo-4,1246,Alex Karpouski,,Voice,Ireland Localization Team,,,publishing,mobygames:tr207
+halo-4,1247,Aude Le Roux,,Voice,Ireland Localization Team,,,publishing,mobygames:tr207
+halo-4,1248,Marcos García Calderón,,Voice,Ireland Localization Team,,,publishing,mobygames:tr207
+halo-4,1249,Haruhiko Inaba,,Voice,East Asia Localization,,,publishing,mobygames:tr209
+halo-4,1250,Donald A. Mattrick,,Leadership,President,,,core,mobygames:tr219
+halo-4,1251,Jeremy Holland-Smith,,Audio,Additional Arrangements,,,core,mobygames:tr232
+halo-4,1252,Christopher Parker,,Audio,Assistant Engineers,,,core,mobygames:tr247
+halo-4,1253,Martin Owens,,Audio,The Chamber Orchestra of London,,,core,mobygames:tr251
+halo-4,1254,Steve Juliani,,Voice,Music Preparation,,,core,mobygames:tr262
+halo-4,1255,Michael J. Lloyd,,Audio,Music Preparation,,,core,mobygames:tr262
+halo-4,1256,Benjamin Diskin,,Voice,Voice Actor,,,core,mobygames:tr289
+halo-4,1257,Catherine Davis Higgins,,Voice,Voice Actor,,,core,mobygames:tr289
+halo-4,1258,Isaac C. Singleton Jr.,,Voice,Voice Actor,,,core,mobygames:tr289
+halo-4,1259,Steven Jay Blum,,Voice,Voice Actor,,,core,mobygames:tr291
+halo-4,1260,David Vincent,,Voice,Voice Actor,,,core,mobygames:tr291
+halo-4,1261,David B. Fouquette,,Voice,Voice Actor,,,core,mobygames:tr291
+halo-4,1262,Catherine Davis Higgins,,Voice,Voice Actor,,,core,mobygames:tr291
+halo-4,1263,Richard Steven Horvitz,,Voice,Voice Actor,,,core,mobygames:tr291
+halo-4,1264,David B. Mitchell,,Voice,Voice Actor,,,core,mobygames:tr291
+halo-4,1265,Paisha Coffey,,Voice,Voice Actor,,,core,mobygames:tr301
+halo-4,1266,Laura Akers,,Voice,Production,,,core,mobygames:tr306
+halo-4,1267,Steve Schreiber,,Production,Production,,,core,mobygames:tr306
+halo-4,1268,Aimee E. Smith,,Production,Production,,,core,mobygames:tr306
+halo-4,1269,Mitch Walker,,Production,Production,,,core,mobygames:tr306
+halo-4,1270,Don Alvarez,,Art,Tech Art,,,core,mobygames:tr307
+halo-4,1271,Ross Kameny,,Art,Tech Art,,,core,mobygames:tr307
+halo-4,1272,Kendall Deacon Davis,,Design,Design,,,core,mobygames:tr308
+halo-4,1273,Breanne Miller,,Voice,Design,,,core,mobygames:tr308
+halo-4,1274,Ryan Payton,,Design,Design,,,core,mobygames:tr308
+halo-4,1275,Whit Brachna,,Art,Concept Art,,,core,mobygames:tr309
+halo-4,1276,David Braun,,Engineering,Engineering,,,core,mobygames:tr311
+halo-4,1277,Matthew J. Brown,,Engineering,Engineering,,,core,mobygames:tr311
+halo-4,1278,Kurtis Chinn,,Engineering,Engineering,,,core,mobygames:tr311
+halo-4,1279,Liz M.E. Chung,,Engineering,Engineering,,,core,mobygames:tr311
+halo-4,1280,Tony Cox,,Engineering,Engineering,,,core,mobygames:tr311
+halo-4,1281,Steven Jones,,Engineering,Engineering,,,core,mobygames:tr311
+halo-4,1282,Jonathan Goff,,Studio/Business,Community,,,core,mobygames:tr312
+halo-4,1283,Justin Korthof,,Studio/Business,Community,,,core,mobygames:tr312
+halo-4,1284,Doug Hebenthal,,Other,Management,,,core,mobygames:tr314
+halo-4,1285,Daveed Kaplan,,Art,Character Art,,,core,mobygames:tr315
+halo-4,1286,Sharon Plotkin,,Voice,Environment Art,,,core,mobygames:tr316
+halo-4,1287,Howard Schargel,,Voice,Environment Art,,,core,mobygames:tr316
+halo-4,1288,Tim Y. Tao,,Art,Environment Art,,,core,mobygames:tr316
+halo-4,1289,Melissa Shaw,,Voice,Editing,,,core,mobygames:tr317
+halo-4,1290,Doug Church,,Special Thanks,Special Thanks,,,special-thanks,mobygames:tr321
+halo-4,1291,Marty Hasselbach,,Special Thanks,Special Thanks,,,special-thanks,mobygames:tr321
+halo-4,1292,Carla St. Pierre,,Special Thanks,Special Thanks,,,special-thanks,mobygames:tr321
+halo-4,1293,Steffen Unger,,Art,Character Artist,,Liquid Development,core,mobygames:tr329
+halo-4,1294,Efgeni Bischoff,,Art,Character Artist,,Liquid Development,core,mobygames:tr329
+halo-4,1295,Martynas Česnauskas,,Art,Character Artist,,Liquid Development,core,mobygames:tr329
+halo-4,1296,William Charles Makra,,Art,Art Director,,Digital Extremes,core,mobygames:tr176
+halo-4,1297,Michael Chomicki,,Design,Additional Multiplayer Design and Development,,Digital Extremes,core,mobygames:tr180
+halo-4,1298,Michael Janes,,Design,Additional Multiplayer Design and Development,,Digital Extremes,core,mobygames:tr180
+halo-4,1299,Ted McIlwain,,Design,Additional Multiplayer Design and Development,,Digital Extremes,core,mobygames:tr180
+halo-4,1300,Thomas Fuller,,Design,Microsoft User Research,,,publishing,mobygames:tr201
+halo-4,1301,Aurore O. Merlin,,Voice,Ireland Localization Team,,,publishing,mobygames:tr207
+halo-4,1302,Łukasz Strzelec,,Voice,Ireland Localization Team,,,publishing,mobygames:tr207
+halo-4,1303,Nickolas Kolunov,,Voice,Ireland Localization Team,,,publishing,mobygames:tr207
+halo-4,1304,Kuang-Sheng Huang,,Voice,East Asia Localization Test,,,publishing,mobygames:tr211
+halo-4,1305,Alison Harmatuk,,Voice,Special Thanks,,,special-thanks,mobygames:tr321
+halo-4,1306,Michael W. Weilbacher,,Special Thanks,Special Thanks,,,special-thanks,mobygames:tr321
+halo-4,1307,Jack Ryder-Robinson,,Production,Production Babies,,,babies,mobygames:tr325

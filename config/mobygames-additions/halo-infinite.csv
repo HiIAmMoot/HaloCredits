@@ -1,0 +1,406 @@
+name_raw,name_canonical,category,role_raw,character,studio,inclusion_class,source_ref
+Mike C. Hall,,Voice,Character Animation,,,core,mobygames:tr11
+Angelita R. Wylie,,Art,Senior Technical Motion Capture Animator,,,core,mobygames:tr25
+Daniel Tafaro,,Art,Technical Motion Capture Animation,,,core,mobygames:tr26
+Benjamin Mauro,,Art,Senior Concept Artists,,,core,mobygames:tr45
+Zackry Lee,,Voice,Concept Art,,,core,mobygames:tr46
+Espen Sætervik,,Voice,Concept Art,,,core,mobygames:tr46
+Timothy Diaz,,Art,Senior Environment Artists,,,core,mobygames:tr51
+Ryan Smith,,Art,Senior Environment Artists,,,core,mobygames:tr51
+Michael Rodriguez,,Voice,Campaign Environment Art,,,core,mobygames:tr53
+Joshua Wilkinson,,Voice,Campaign Environment Art,,,core,mobygames:tr53
+Kimberly A. Haines,,Art,Senior Technical Environment Artist,,,core,mobygames:tr67
+William Gray,,Voice,Technical Environment Art,,,core,mobygames:tr69
+Robert Forest Baker,,Art,Senior FX Artist,,,core,mobygames:tr72
+Michael Puoci,,Voice,FX,,,core,mobygames:tr75
+Nicholas D'Amato,,Voice,Audio Design,,,core,mobygames:tr95
+Paxson Helgesen,,Voice,Audio Design,,,core,mobygames:tr95
+Colin Andrew Grant,,Voice,Music,,,core,mobygames:tr99
+Adam T. Croft,,Voice,Audio Technical Design,,,core,mobygames:tr102
+Thornton Prime,,Voice,Audio Technical Design,,,core,mobygames:tr102
+Nixxi Isabella Mohilchock,,Voice,Gameplay Design,,,core,mobygames:tr113
+Andrew J. Witts,,Design,Multiplayer Lead Modes & Systems Designer,,,core,mobygames:tr139
+Stéphane D. LeBrun,,Engineering,Senior Software Engineering Lead,,,core,mobygames:tr179
+Daniel White,,Engineering,Software Engineers,,,core,mobygames:tr185
+James Osborne,,Engineering,Principal Software Engineering Lead,,,core,mobygames:tr192
+Saul D. Rodriguez Vazquez,,Voice,Software Engineers,,,core,mobygames:tr194
+Garret B. Hoffman,,Voice,Software Engineers,,,core,mobygames:tr203
+xo corvus,,Engineering,Software Engineers,,,core,mobygames:tr203
+Ilya Kushin,,Engineering,Senior Software Engineers,,,core,mobygames:tr220
+Joshua Hoida,,Engineering,Senior Engineering Lead,,,core,mobygames:tr235
+Joseph Park,,Voice,Software Engineers,,,core,mobygames:tr236
+Andrew David Adam,,Engineering,Senior Software Engineers,,,core,mobygames:tr239
+Michael Romero,,Engineering,"Principal Software Engineering Manager, Graphics & PC",,,core,mobygames:tr243
+Anirudh Shastry,,Engineering,Principal Software Engineering Managers,,,core,mobygames:tr252
+Andrew Luedke,,Engineering,Principal Software Engineering Lead,,,core,mobygames:tr253
+Karim A. Luccin,,Engineering,Principal Software Engineers,,,core,mobygames:tr254
+Ching-Yen Lin,,Voice,Software Engineers,,,core,mobygames:tr256
+Matthew Sutherlin,,Engineering,Software Engineers,,,core,mobygames:tr256
+Kevin M. Forsyth,,Voice,Engineering Helpdesk,,,core,mobygames:tr258
+Nick Frame,,Voice,Engineering Helpdesk,,,core,mobygames:tr258
+Phillip Dettorre,,Engineering,Software Engineers,,,core,mobygames:tr262
+Jon David Stevens,,Voice,Software Engineers,,,core,mobygames:tr271
+Lina Sokaite Gaeta,,Engineering,Senior Software Engineering Lead,,,core,mobygames:tr274
+Zachary Lute,,Engineering,Senior Software Engineers,,,core,mobygames:tr276
+Matthew Johnson,,Voice,Software Engineers,,,core,mobygames:tr277
+Gregory Stone,,Production,"Principal Lead Producer, Campaign",,,core,mobygames:tr281
+Casey Marissa Wu,,Engineering,"Lead Producer, Core Tech",,,core,mobygames:tr285
+David Ellison,,Voice,Producer,,,core,mobygames:tr299
+Daniel Joji Koons,,Voice,Software Test Engineers,,,core,mobygames:tr359
+Robert Reidburn,,Voice,Software Test Engineers,,,core,mobygames:tr359
+John M. Adams,,Voice,Test Associates,,,core,mobygames:tr360
+Tristan Campbell,,Voice,Test Associates,,,core,mobygames:tr360
+Samantha Cooperman,,Voice,Test Associates,,,core,mobygames:tr360
+Maria Felix Varga,,Voice,Test Associates,,,core,mobygames:tr360
+Ashleigh Kimes,,Voice,Test Associates,,,core,mobygames:tr360
+Adam Landy,,Voice,Test Associates,,,core,mobygames:tr360
+Matthes Maas,,Voice,Test Associates,,,core,mobygames:tr360
+Reynolds Montelongo,,Voice,Test Associates,,,core,mobygames:tr360
+Timothy C. Wells,,Voice,Test Associates,,,core,mobygames:tr360
+Cumron Ashtiani,,Other,Management,,Atomhawk,core,mobygames:tr371
+Julen Urrutia Pérez,,Art,Character Artists,,Axis Studios,core,mobygames:tr399
+Leonardo C. Braz da Cunha,,Art,Environment & Vehicle Artists,,Axis Studios,core,mobygames:tr405
+Garin RK Richards,,Engineering,Engineering,,"Certain Affinity, Inc.",core,mobygames:tr467
+Ruben Kyle Renteria,,Art,Animation Supervisor,,Counterpunch,core,mobygames:tr515
+Dilip Khimraj Suthar,,Art,Art Directors,,Mandali Games,core,mobygames:tr569
+Lanting Ji,,Art,Animation,,Mindwalk,core,mobygames:tr578
+Liqun Wang,,Art,Animation,,Mindwalk,core,mobygames:tr578
+Suxin Yue,,Art,Animation,,Mindwalk,core,mobygames:tr578
+Wang Chen,,Art,Animation,,Mindwalk,core,mobygames:tr578
+Yao Zhao,,Art,Animation,,Mindwalk,core,mobygames:tr578
+Chenguang Li,,Art,Lead Artists,,Mindwalk,core,mobygames:tr580
+Alfred Bryan M. Vidal,,Art,Concept Artists,,Pixel Mafia,core,mobygames:tr601
+Shanshan Li,,Art,Artists,,Red Hot CG,core,mobygames:tr615
+Niu Lina,,Other,Management,,Red Hot CG,core,mobygames:tr617
+Olive Chou,,Engineering,Engineers,,"Skybox Labs, Inc.",core,mobygames:tr645
+Alex Qutob,,Other,IT,,"Skybox Labs, Inc.",core,mobygames:tr647
+Quetzal Aguilar Dominguez,,Art,Senior Level Artists,,"Sperasoft, Inc.",core,mobygames:tr686
+Susan DeVenero,,Art,Lead Lighting Artist,,"Sperasoft, Inc.",core,mobygames:tr689
+Kate J. R,,Special Thanks,Special Thanks,,The Coalition,special-thanks,mobygames:tr756
+Bonnie Ross-Ziegler,,Leadership,"Corporate Vice President, Head of 343 Industries",,,core,mobygames:tr765
+Matthew Osbond,,Art,Senior Technical Art Director,,,core,mobygames:tr782
+Noah P. Musler,,Studio/Business,"Senior Director, Business Development",,,core,mobygames:tr817
+Stephen Hall,,Voice,Business Operations,,,core,mobygames:tr822
+Allison Foote-Nagy,,Studio/Business,Recruitment,,,core,mobygames:tr838
+Yan Da Silva,,Voice,Portuguese Brazilian Test,,,publishing,mobygames:tr858
+Jack Elliot,,Engineering,Senior Software Engineer Lead,,,core,mobygames:tr905
+Deepali Bhagvat,,Engineering,Software Engineers,,,core,mobygames:tr908
+Joseph Ferstl,,Production,Consumer Products Category Manager,,,core,mobygames:tr922
+Edward Masiello,,Voice,Consumer Products,,,core,mobygames:tr925
+Stanely Paul,,Engineering,Senior Service Engineers,,,core,mobygames:tr944
+Domian Brown,,Voice,Oni,,,core,mobygames:tr945
+Nico Cueto-Cargo',,Voice,Oni,,,core,mobygames:tr945
+Ikechukwu Prince Amadi,,Voice,Voice Actor,,,core,mobygames:tr968
+Christopher Swindle,,Voice,Voice Actor,,,core,mobygames:tr972
+Matthew Kaminsky,,Voice,Voice Actor,,,core,mobygames:tr993
+David B. Mitchell,,Voice,Voice Actor,,,core,mobygames:tr993
+Roxanna Ortega,,Voice,Voice Actor,,,core,mobygames:tr993
+Isaac C. Singleton Jr.,,Voice,Voice Actor,,,core,mobygames:tr993
+Julian D. Stone,,Voice,Voice Actor,,,core,mobygames:tr993
+Matthew J. Waterson,,Voice,Voice Actor,,,core,mobygames:tr993
+Robert King,,Voice,Sound Engineering,,,core,mobygames:tr1001
+Jesus C. Murillo,,Voice,Sound Engineering,,,core,mobygames:tr1001
+Rob Blake,,Audio,Sound Designers (Game Audio),,,core,mobygames:tr1013
+Alyson Dee Moore,,Audio,Foley Artists,,,core,mobygames:tr1017
+Garrett Montgomery,,Voice,Voice Over Editorial,,,core,mobygames:tr1020
+Daniel P. Francis,,Voice,Voice Over Editorial,,,core,mobygames:tr1020
+Carlon Jesse Assells,,Voice,Voice Over Editorial,,,core,mobygames:tr1020
+John Paul Fasal,,Audio,Field Recordists,,,core,mobygames:tr1022
+Susie Gillis,,Voice,Orchestra Contractors,,,core,mobygames:tr1039
+David Andrew Shipps,,Audio,Orchestra Conductors,,,core,mobygames:tr1041
+Georgi Elenkov,,Voice,Four For Music Recording & Contracting,,,core,mobygames:tr1048
+Vladislav Boyadjiev,,Audio,Bulgarian Choir Sound Engineers,,,core,mobygames:tr1050
+Brian Christian,,Art,Art,,,special-thanks,mobygames:tr1057
+Andrew J. Mack,,Voice,Art,,,special-thanks,mobygames:tr1057
+Benjamin Cholewinski,,Voice,Design,,,special-thanks,mobygames:tr1060
+Ted Rivera,,Engineering,Engineering,,,special-thanks,mobygames:tr1061
+Krystal Holmes,,Special Thanks,Forerunners,,,special-thanks,mobygames:tr1083
+Ascend Hyperion,,Special Thanks,Forge Council,,,special-thanks,mobygames:tr1084
+Raymond Benefield,,Special Thanks,Forge Council,,,special-thanks,mobygames:tr1084
+Mike C. Hall,,Voice,Character Animation,,,core,mobygames:tr9
+Angelita R. Wylie,,Art,Senior Technical Motion Capture Animator,,,core,mobygames:tr23
+Daniel Tafaro,,Art,Technical Motion Capture Animation,,,core,mobygames:tr24
+Benjamin Mauro,,Art,Senior Concept Artists,,,core,mobygames:tr43
+Zackry Lee,,Voice,Concept Art,,,core,mobygames:tr44
+Espen Sætervik,,Voice,Concept Art,,,core,mobygames:tr44
+Timothy Diaz,,Art,Senior Environment Artists,,,core,mobygames:tr49
+Ryan Smith,,Art,Senior Environment Artists,,,core,mobygames:tr49
+Michael Rodriguez,,Voice,Campaign Environment Art,,,core,mobygames:tr51
+Joshua Wilkinson,,Voice,Campaign Environment Art,,,core,mobygames:tr51
+Kimberly A. Haines,,Art,Senior Technical Environment Artist,,,core,mobygames:tr65
+William Gray,,Voice,Technical Environment Art,,,core,mobygames:tr67
+Robert Forest Baker,,Art,Senior FX Artist,,,core,mobygames:tr70
+Michael Puoci,,Voice,FX,,,core,mobygames:tr73
+Nicholas D'Amato,,Voice,Audio Design,,,core,mobygames:tr93
+Paxson Helgesen,,Voice,Audio Design,,,core,mobygames:tr93
+Colin Andrew Grant,,Voice,Music,,,core,mobygames:tr97
+Adam T. Croft,,Voice,Audio Technical Design,,,core,mobygames:tr100
+Thornton Prime,,Voice,Audio Technical Design,,,core,mobygames:tr100
+Nixxi Isabella Mohilchock,,Voice,Gameplay Design,,,core,mobygames:tr111
+Andrew J. Witts,,Design,Multiplayer Lead Modes & Systems Designer,,,core,mobygames:tr137
+Stéphane D. LeBrun,,Engineering,Senior Software Engineering Lead,,,core,mobygames:tr177
+Daniel White,,Engineering,Software Engineers,,,core,mobygames:tr183
+James Osborne,,Engineering,Principal Software Engineering Lead,,,core,mobygames:tr190
+Saul D. Rodriguez Vazquez,,Voice,Software Engineers,,,core,mobygames:tr192
+Garret B. Hoffman,,Voice,Software Engineers,,,core,mobygames:tr201
+xo corvus,,Engineering,Software Engineers,,,core,mobygames:tr201
+Ilya Kushin,,Engineering,Senior Software Engineers,,,core,mobygames:tr218
+Joshua Hoida,,Engineering,Senior Engineering Lead,,,core,mobygames:tr233
+Joseph Park,,Voice,Software Engineers,,,core,mobygames:tr234
+Andrew David Adam,,Engineering,Senior Software Engineers,,,core,mobygames:tr237
+Michael Romero,,Engineering,"Principal Software Engineering Manager, Graphics & PC",,,core,mobygames:tr241
+Anirudh Shastry,,Engineering,Principal Software Engineering Managers,,,core,mobygames:tr250
+Andrew Luedke,,Engineering,Principal Software Engineering Lead,,,core,mobygames:tr251
+Karim A. Luccin,,Engineering,Principal Software Engineers,,,core,mobygames:tr252
+Ching-Yen Lin,,Voice,Software Engineers,,,core,mobygames:tr254
+Matthew Sutherlin,,Engineering,Software Engineers,,,core,mobygames:tr254
+Kevin M. Forsyth,,Voice,Engineering Helpdesk,,,core,mobygames:tr256
+Nick Frame,,Voice,Engineering Helpdesk,,,core,mobygames:tr256
+Phillip Dettorre,,Engineering,Software Engineers,,,core,mobygames:tr260
+Jon David Stevens,,Voice,Software Engineers,,,core,mobygames:tr269
+Lina Sokaite Gaeta,,Engineering,Senior Software Engineering Lead,,,core,mobygames:tr272
+Zachary Lute,,Engineering,Senior Software Engineers,,,core,mobygames:tr274
+Matthew Johnson,,Voice,Software Engineers,,,core,mobygames:tr275
+Gregory Stone,,Production,"Principal Lead Producer, Campaign",,,core,mobygames:tr279
+Casey Marissa Wu,,Engineering,"Lead Producer, Core Tech",,,core,mobygames:tr283
+David Ellison,,Voice,Producer,,,core,mobygames:tr297
+Daniel Joji Koons,,Voice,Software Test Engineers,,,core,mobygames:tr357
+Robert Reidburn,,Voice,Software Test Engineers,,,core,mobygames:tr357
+John M. Adams,,Voice,Test Associates,,,core,mobygames:tr358
+Tristan Campbell,,Voice,Test Associates,,,core,mobygames:tr358
+Samantha Cooperman,,Voice,Test Associates,,,core,mobygames:tr358
+Maria Felix Varga,,Voice,Test Associates,,,core,mobygames:tr358
+Ashleigh Kimes,,Voice,Test Associates,,,core,mobygames:tr358
+Adam Landy,,Voice,Test Associates,,,core,mobygames:tr358
+Matthes Maas,,Voice,Test Associates,,,core,mobygames:tr358
+Reynolds Montelongo,,Voice,Test Associates,,,core,mobygames:tr358
+Timothy C. Wells,,Voice,Test Associates,,,core,mobygames:tr358
+Cumron Ashtiani,,Other,Management,,Atomhawk,core,mobygames:tr369
+Julen Urrutia Pérez,,Art,Character Artists,,Axis Studios,core,mobygames:tr397
+Leonardo C. Braz da Cunha,,Art,Environment & Vehicle Artists,,Axis Studios,core,mobygames:tr403
+Garin RK Richards,,Engineering,Engineering,,"Certain Affinity, Inc.",core,mobygames:tr465
+Ruben Kyle Renteria,,Art,Animation Supervisor,,Counterpunch,core,mobygames:tr513
+Dilip Khimraj Suthar,,Art,Art Directors,,Mandali Games,core,mobygames:tr567
+Lanting Ji,,Art,Animation,,Mindwalk,core,mobygames:tr576
+Liqun Wang,,Art,Animation,,Mindwalk,core,mobygames:tr576
+Suxin Yue,,Art,Animation,,Mindwalk,core,mobygames:tr576
+Wang Chen,,Art,Animation,,Mindwalk,core,mobygames:tr576
+Yao Zhao,,Art,Animation,,Mindwalk,core,mobygames:tr576
+Chenguang Li,,Art,Lead Artists,,Mindwalk,core,mobygames:tr578
+Alfred Bryan M. Vidal,,Art,Concept Artists,,Pixel Mafia,core,mobygames:tr599
+Shanshan Li,,Art,Artists,,Red Hot CG,core,mobygames:tr613
+Niu Lina,,Other,Management,,Red Hot CG,core,mobygames:tr615
+Olive Chou,,Engineering,Engineers,,"Skybox Labs, Inc.",core,mobygames:tr643
+Alex Qutob,,Other,IT,,"Skybox Labs, Inc.",core,mobygames:tr645
+Quetzal Aguilar Dominguez,,Art,Senior Level Artists,,"Sperasoft, Inc.",core,mobygames:tr684
+Susan DeVenero,,Art,Lead Lighting Artist,,"Sperasoft, Inc.",core,mobygames:tr687
+Kate J. R,,Special Thanks,Special Thanks,,The Coalition,special-thanks,mobygames:tr752
+Bonnie Ross-Ziegler,,Leadership,"Corporate Vice President, Head of 343 Industries",,,core,mobygames:tr761
+Matthew Osbond,,Art,Senior Technical Art Director,,,core,mobygames:tr778
+Noah P. Musler,,Studio/Business,"Senior Director, Business Development",,,core,mobygames:tr813
+Stephen Hall,,Voice,Business Operations,,,core,mobygames:tr818
+Allison Foote-Nagy,,Studio/Business,Recruitment,,,core,mobygames:tr834
+Yan Da Silva,,Voice,Portuguese Brazilian Test,,,publishing,mobygames:tr854
+Jack Elliot,,Engineering,Senior Software Engineer Lead,,,core,mobygames:tr901
+Deepali Bhagvat,,Engineering,Software Engineers,,,core,mobygames:tr904
+Joseph Ferstl,,Production,Consumer Products Category Manager,,,core,mobygames:tr918
+Edward Masiello,,Voice,Consumer Products,,,core,mobygames:tr921
+Stanely Paul,,Engineering,Senior Service Engineers,,,core,mobygames:tr940
+Domian Brown,,Voice,Oni,,,core,mobygames:tr941
+Nico Cueto-Cargo',,Voice,Oni,,,core,mobygames:tr941
+Ikechukwu Prince Amadi,,Voice,Voice Actor,,,core,mobygames:tr964
+Christopher Swindle,,Voice,Voice Actor,,,core,mobygames:tr968
+Matthew Kaminsky,,Voice,Voice Actor,,,core,mobygames:tr989
+David B. Mitchell,,Voice,Voice Actor,,,core,mobygames:tr989
+Roxanna Ortega,,Voice,Voice Actor,,,core,mobygames:tr989
+Isaac C. Singleton Jr.,,Voice,Voice Actor,,,core,mobygames:tr989
+Julian D. Stone,,Voice,Voice Actor,,,core,mobygames:tr989
+Matthew J. Waterson,,Voice,Voice Actor,,,core,mobygames:tr989
+Robert King,,Voice,Sound Engineering,,,core,mobygames:tr997
+Jesus C. Murillo,,Voice,Sound Engineering,,,core,mobygames:tr997
+Rob Blake,,Audio,Sound Designers (Game Audio),,,core,mobygames:tr1009
+Alyson Dee Moore,,Audio,Foley Artists,,,core,mobygames:tr1013
+Garrett Montgomery,,Voice,Voice Over Editorial,,,core,mobygames:tr1016
+Daniel P. Francis,,Voice,Voice Over Editorial,,,core,mobygames:tr1016
+Carlon Jesse Assells,,Voice,Voice Over Editorial,,,core,mobygames:tr1016
+John Paul Fasal,,Audio,Field Recordists,,,core,mobygames:tr1018
+Susie Gillis,,Voice,Orchestra Contractors,,,core,mobygames:tr1035
+David Andrew Shipps,,Audio,Orchestra Conductors,,,core,mobygames:tr1037
+Georgi Elenkov,,Voice,Four For Music Recording & Contracting,,,core,mobygames:tr1044
+Vladislav Boyadjiev,,Audio,Bulgarian Choir Sound Engineers,,,core,mobygames:tr1046
+Brian Christian,,Art,Art,,,special-thanks,mobygames:tr1053
+Andrew J. Mack,,Voice,Art,,,special-thanks,mobygames:tr1053
+Benjamin Cholewinski,,Voice,Design,,,special-thanks,mobygames:tr1056
+Ted Rivera,,Engineering,Engineering,,,special-thanks,mobygames:tr1057
+Ted Rivera,,Engineering,Engineering,,,special-thanks,mobygames:tr1057
+Krystal Holmes,,Special Thanks,Forerunners,,,special-thanks,mobygames:tr1078
+Ascend Hyperion,,Special Thanks,Forge Council,,,special-thanks,mobygames:tr1079
+Raymond Benefield,,Special Thanks,Forge Council,,,special-thanks,mobygames:tr1079
+Ryan D. O'Connor,,QA,Software Engineers,,,publishing,mobygames:tr347
+Tomos Hywel-Evans,,Art,Character Art,,Airship Images,core,mobygames:tr364
+Daniel Calleja,,Art,Animators,,Axis Studios,core,mobygames:tr378
+Jose Vicente de María Martínez,,Art,Lighting & Compositing,,Axis Studios,core,mobygames:tr418
+Milan Nilolic,,Art,Art Directors,,Axis Studios,core,mobygames:tr434
+Daniel Sutton,,Production,Production Director,,"Certain Affinity, Inc.",core,mobygames:tr445
+Jonathan Malloy,,Design,Design,,"Certain Affinity, Inc.",core,mobygames:tr465
+Matthew Witter,,Design,Design,,"Certain Affinity, Inc.",core,mobygames:tr465
+Aaron Hamilton Cook,,Production,Production,,"Certain Affinity, Inc.",core,mobygames:tr473
+Tristan Parrish Moore,,Art,Technical Art,,"Certain Affinity, Inc.",core,mobygames:tr479
+Peter Petraitis,,QA,Quality Assurance,,"Certain Affinity, Inc.",core,mobygames:tr485
+Richard Vogel,,Engineering,VP of Production & Online Services,,"Certain Affinity, Inc.",core,mobygames:tr489
+Marwan Y. Ansari,,Other,Additional Support,,"Certain Affinity, Inc.",core,mobygames:tr513
+Rachael Jaye Schulz,,Art,Animation,,Counterpunch,core,mobygames:tr517
+Anthony Garcia Jr.,,Other,Accounting,,Counterpunch,core,mobygames:tr521
+Ananda Banerjee,,Production,Production Head,,Lakshya Digital Pvt Ltd,core,mobygames:tr525
+Joshua Sturgis,,Art,Art Director,,Liquid Development LLC,core,mobygames:tr544
+Josh Edward Harvey,,Art,Lead Artists,,Liquid Development LLC,core,mobygames:tr545
+Mario Colindras,,Art,3D Art,,Liquid Development LLC,core,mobygames:tr546
+Jason C. Baskett,,Art,Animation Lead,,Liquid Development LLC,core,mobygames:tr548
+Suzanne D. Atherly,,Production,Production,,Liquid Development LLC,core,mobygames:tr565
+Joram Jacob L. Cruz,,Art,3D Artists,,Pixel Mafia,core,mobygames:tr597
+Kenneth F. Camaro,,Art,Lead Concept Artist,,Pixel Mafia,core,mobygames:tr600
+Aimy Anne V. Calilung,,Art,Concept Artists,,Pixel Mafia,core,mobygames:tr601
+Daniel Johnson Staton,,Leadership,Studio Head,,Red Hot CG,core,mobygames:tr612
+Bobby Ranvir Bath,,Art,Art Director,,"Skybox Labs, Inc.",core,mobygames:tr623
+Julia Alas,,Art,Lead Animator,,"Skybox Labs, Inc.",core,mobygames:tr627
+Cynthia Jansen,,Art,Environment Art,,"Skybox Labs, Inc.",core,mobygames:tr632
+Julian Yio,,Art,Environment Art,,"Skybox Labs, Inc.",core,mobygames:tr632
+Pedro Camacho D'Andrea,,Design,Designers,,"Skybox Labs, Inc.",core,mobygames:tr642
+Peter Quickert,,Engineering,Lead Engineers,,"Skybox Labs, Inc.",core,mobygames:tr644
+Timothy Hinds,,Engineering,Engineers,,"Skybox Labs, Inc.",core,mobygames:tr645
+Kevin Yi-Chia Hsu,,Engineering,Engineers,,"Skybox Labs, Inc.",core,mobygames:tr645
+Paul Everett Baker,,Engineering,Engineering,,"Skybox Labs, Inc.",special-thanks,mobygames:tr658
+Evgeny Zaporozhets,,Art,Level Artists,,"Sperasoft, Inc.",core,mobygames:tr687
+Alexey Dmitriev,,Art,Senior Props Artists,,"Sperasoft, Inc.",core,mobygames:tr694
+Evgeniya Cherkasova,,Production,Production,,"Sperasoft, Inc.",core,mobygames:tr725
+Dimitriy Volkovskiy,,Special Thanks,Special Thanks,,"Sperasoft, Inc.",special-thanks,mobygames:tr730
+Anton Zhikharsky,,Special Thanks,Special Thanks,,"Sperasoft, Inc.",special-thanks,mobygames:tr730
+Michael Marraffa,,Art,Environment Art,,The Coalition,core,mobygames:tr740
+Hugo Gutierrez Mares,,Art,VFX,,The Coalition,core,mobygames:tr742
+Michael Crump,,Special Thanks,Special Thanks,,The Coalition,special-thanks,mobygames:tr756
+Miguel A. Barragán Castro,,Voice,Spanish Mexican Test,,,publishing,mobygames:tr856
+Jonathan Segal,,Publishing,Senior Marketing Communications Manager,,,publishing,mobygames:tr875
+William Cheng,,Voice,Art,,,special-thanks,mobygames:tr1057
+Timothy Dean,,Art,Art,,,special-thanks,mobygames:tr1057
+Nate J. Marler,,Voice,Audio,,,special-thanks,mobygames:tr1058
+Christian Klepac,,Voice,Design,,,special-thanks,mobygames:tr1060
+Timothy Staton-Davis,,Voice,Design,,,special-thanks,mobygames:tr1060
+Joshua B. Davis,,Engineering,Engineering,,,special-thanks,mobygames:tr1061
+David Lawson,,Voice,Engineering,,,special-thanks,mobygames:tr1061
+David O'Tuft,,Engineering,Engineering,,,special-thanks,mobygames:tr1061
+Alex Mejia,,Special Thanks,Dolby Laboratories [2],,,special-thanks,mobygames:tr1062
+Steven Ball,,Special Thanks,AMD,,,special-thanks,mobygames:tr1067
+Michael W. Smith,,Special Thanks,AMD,,,special-thanks,mobygames:tr1067
+Michael Cavanagh,,Voice,Esports,,,special-thanks,mobygames:tr1073
+Kenny Cameron,,Voice,Forerunners,,,special-thanks,mobygames:tr1083
+Jon Carroll,,Voice,Forerunners,,,special-thanks,mobygames:tr1083
+Rachel Davidson,,Voice,Forerunners,,,special-thanks,mobygames:tr1083
+Jonathan Dubeau,,Special Thanks,Forerunners,,,special-thanks,mobygames:tr1083
+Dan Hammill,,Voice,Forerunners,,,special-thanks,mobygames:tr1083
+Jennifer Hochstedler,,Voice,Forerunners,,,special-thanks,mobygames:tr1083
+Alexander Hope,,Voice,Forerunners,,,special-thanks,mobygames:tr1083
+Taras Hrebinka,,Voice,Forerunners,,,special-thanks,mobygames:tr1083
+Colton King,,Voice,Forerunners,,,special-thanks,mobygames:tr1083
+Brett Leonard,,Voice,Forerunners,,,special-thanks,mobygames:tr1083
+Patrick Maka,,Voice,Forerunners,,,special-thanks,mobygames:tr1083
+Nick McMordie,,Voice,Forerunners,,,special-thanks,mobygames:tr1083
+Dustin Pettigrew,,Voice,Forerunners,,,special-thanks,mobygames:tr1083
+Michael Roberts,,Voice,Forerunners,,,special-thanks,mobygames:tr1083
+Connor White,,Voice,Forerunners,,,special-thanks,mobygames:tr1083
+Andrew Woodruff,,Voice,Forerunners,,,special-thanks,mobygames:tr1083
+Jon Clarke,,Voice,Forge Council,,,special-thanks,mobygames:tr1084
+Sean Hodgins,,Voice,Forge Council,,,special-thanks,mobygames:tr1084
+Fritz Lombardi,,Voice,Forge Council,,,special-thanks,mobygames:tr1084
+Arturo Pérez,,Voice,Forge Council,,,special-thanks,mobygames:tr1084
+Matt Willis,,Voice,Forge Council,,,special-thanks,mobygames:tr1084
+Matthew V. Booty,,Special Thanks,Gaming Leadership Team,,,special-thanks,mobygames:tr1088
+David McCarthy,,Special Thanks,Gaming Leadership Team,,,special-thanks,mobygames:tr1088
+Tina Painton-Clark,,Special Thanks,Xbox Game Pass Marketing,,,special-thanks,mobygames:tr1092
+Liliolani P. Blazier,,Special Thanks,Publishing,,,special-thanks,mobygames:tr1099
+Jeffrey Guyton,,Voice,Studios Quality,,,special-thanks,mobygames:tr1100
+Elizabeth Ostasiewski,,Voice,Content Production,,,special-thanks,mobygames:tr1108
+Matthew Cookson,,Special Thanks,Development,,,special-thanks,mobygames:tr1115
+Ryan D. O'Connor,,QA,Software Engineers,,,publishing,mobygames:tr345
+Tomos Hywel-Evans,,Art,Character Art,,Airship Images,core,mobygames:tr362
+Daniel Calleja,,Art,Animators,,Axis Studios,core,mobygames:tr376
+Jose Vicente de María Martínez,,Art,Lighting & Compositing,,Axis Studios,core,mobygames:tr416
+Milan Nilolic,,Art,Art Directors,,Axis Studios,core,mobygames:tr432
+Daniel Sutton,,Production,Production Director,,"Certain Affinity, Inc.",core,mobygames:tr443
+Jonathan Malloy,,Design,Design,,"Certain Affinity, Inc.",core,mobygames:tr463
+Matthew Witter,,Design,Design,,"Certain Affinity, Inc.",core,mobygames:tr463
+Aaron Hamilton Cook,,Production,Production,,"Certain Affinity, Inc.",core,mobygames:tr471
+Tristan Parrish Moore,,Art,Technical Art,,"Certain Affinity, Inc.",core,mobygames:tr477
+Peter Petraitis,,QA,Quality Assurance,,"Certain Affinity, Inc.",core,mobygames:tr483
+Richard Vogel,,Engineering,VP of Production & Online Services,,"Certain Affinity, Inc.",core,mobygames:tr487
+Marwan Y. Ansari,,Other,Additional Support,,"Certain Affinity, Inc.",core,mobygames:tr511
+Rachael Jaye Schulz,,Art,Animation,,Counterpunch,core,mobygames:tr515
+Anthony Garcia Jr.,,Other,Accounting,,Counterpunch,core,mobygames:tr519
+Ananda Banerjee,,Production,Production Head,,Lakshya Digital Pvt Ltd,core,mobygames:tr523
+Joshua Sturgis,,Art,Art Director,,Liquid Development LLC,core,mobygames:tr542
+Josh Edward Harvey,,Art,Lead Artists,,Liquid Development LLC,core,mobygames:tr543
+Mario Colindras,,Art,3D Art,,Liquid Development LLC,core,mobygames:tr544
+Jason C. Baskett,,Art,Animation Lead,,Liquid Development LLC,core,mobygames:tr546
+Suzanne D. Atherly,,Production,Production,,Liquid Development LLC,core,mobygames:tr563
+Joram Jacob L. Cruz,,Art,3D Artists,,Pixel Mafia,core,mobygames:tr595
+Kenneth F. Camaro,,Art,Lead Concept Artist,,Pixel Mafia,core,mobygames:tr598
+Aimy Anne V. Calilung,,Art,Concept Artists,,Pixel Mafia,core,mobygames:tr599
+Daniel Johnson Staton,,Leadership,Studio Head,,Red Hot CG,core,mobygames:tr610
+Bobby Ranvir Bath,,Art,Art Director,,"Skybox Labs, Inc.",core,mobygames:tr621
+Julia Alas,,Art,Lead Animator,,"Skybox Labs, Inc.",core,mobygames:tr625
+Cynthia Jansen,,Art,Environment Art,,"Skybox Labs, Inc.",core,mobygames:tr630
+Julian Yio,,Art,Environment Art,,"Skybox Labs, Inc.",core,mobygames:tr630
+Pedro Camacho D'Andrea,,Design,Designers,,"Skybox Labs, Inc.",core,mobygames:tr640
+Peter Quickert,,Engineering,Lead Engineers,,"Skybox Labs, Inc.",core,mobygames:tr642
+Timothy Hinds,,Engineering,Engineers,,"Skybox Labs, Inc.",core,mobygames:tr643
+Kevin Yi-Chia Hsu,,Engineering,Engineers,,"Skybox Labs, Inc.",core,mobygames:tr643
+Paul Everett Baker,,Engineering,Engineering,,"Skybox Labs, Inc.",special-thanks,mobygames:tr656
+Evgeny Zaporozhets,,Art,Level Artists,,"Sperasoft, Inc.",core,mobygames:tr685
+Alexey Dmitriev,,Art,Senior Props Artists,,"Sperasoft, Inc.",core,mobygames:tr692
+Evgeniya Cherkasova,,Production,Production,,"Sperasoft, Inc.",core,mobygames:tr723
+Dimitriy Volkovskiy,,Special Thanks,Special Thanks,,"Sperasoft, Inc.",special-thanks,mobygames:tr728
+Anton Zhikharsky,,Special Thanks,Special Thanks,,"Sperasoft, Inc.",special-thanks,mobygames:tr728
+Michael Marraffa,,Art,Environment Art,,The Coalition,core,mobygames:tr736
+Hugo Gutierrez Mares,,Art,VFX,,The Coalition,core,mobygames:tr738
+Michael Crump,,Special Thanks,Special Thanks,,The Coalition,special-thanks,mobygames:tr752
+Miguel A. Barragán Castro,,Voice,Spanish Mexican Test,,,publishing,mobygames:tr852
+Jonathan Segal,,Publishing,Senior Marketing Communications Manager,,,publishing,mobygames:tr871
+William Cheng,,Voice,Art,,,special-thanks,mobygames:tr1053
+Timothy Dean,,Art,Art,,,special-thanks,mobygames:tr1053
+Nate J. Marler,,Voice,Audio,,,special-thanks,mobygames:tr1054
+Christian Klepac,,Voice,Design,,,special-thanks,mobygames:tr1056
+Timothy Staton-Davis,,Voice,Design,,,special-thanks,mobygames:tr1056
+Joshua B. Davis,,Engineering,Engineering,,,special-thanks,mobygames:tr1057
+David Lawson,,Voice,Engineering,,,special-thanks,mobygames:tr1057
+David O'Tuft,,Engineering,Engineering,,,special-thanks,mobygames:tr1057
+Alex Mejia,,Special Thanks,Dolby Laboratories [2],,,special-thanks,mobygames:tr1058
+Steven Ball,,Special Thanks,AMD,,,special-thanks,mobygames:tr1062
+Michael W. Smith,,Special Thanks,AMD,,,special-thanks,mobygames:tr1062
+Michael Cavanagh,,Voice,Esports,,,special-thanks,mobygames:tr1068
+Kenny Cameron,,Voice,Forerunners,,,special-thanks,mobygames:tr1078
+Jon Carroll,,Voice,Forerunners,,,special-thanks,mobygames:tr1078
+Rachel Davidson,,Voice,Forerunners,,,special-thanks,mobygames:tr1078
+Jonathan Dubeau,,Special Thanks,Forerunners,,,special-thanks,mobygames:tr1078
+Dan Hammill,,Voice,Forerunners,,,special-thanks,mobygames:tr1078
+Jennifer Hochstedler,,Voice,Forerunners,,,special-thanks,mobygames:tr1078
+Alexander Hope,,Voice,Forerunners,,,special-thanks,mobygames:tr1078
+Taras Hrebinka,,Voice,Forerunners,,,special-thanks,mobygames:tr1078
+Colton King,,Voice,Forerunners,,,special-thanks,mobygames:tr1078
+Brett Leonard,,Voice,Forerunners,,,special-thanks,mobygames:tr1078
+Patrick Maka,,Voice,Forerunners,,,special-thanks,mobygames:tr1078
+Nick McMordie,,Voice,Forerunners,,,special-thanks,mobygames:tr1078
+Dustin Pettigrew,,Voice,Forerunners,,,special-thanks,mobygames:tr1078
+Michael Roberts,,Voice,Forerunners,,,special-thanks,mobygames:tr1078
+Connor White,,Voice,Forerunners,,,special-thanks,mobygames:tr1078
+Andrew Woodruff,,Voice,Forerunners,,,special-thanks,mobygames:tr1078
+Jon Clarke,,Voice,Forge Council,,,special-thanks,mobygames:tr1079
+Sean Hodgins,,Voice,Forge Council,,,special-thanks,mobygames:tr1079
+Fritz Lombardi,,Voice,Forge Council,,,special-thanks,mobygames:tr1079
+Arturo Pérez,,Voice,Forge Council,,,special-thanks,mobygames:tr1079
+Matt Willis,,Voice,Forge Council,,,special-thanks,mobygames:tr1079
+Matthew V. Booty,,Special Thanks,Gaming Leadership Team,,,special-thanks,mobygames:tr1083
+David McCarthy,,Special Thanks,Gaming Leadership Team,,,special-thanks,mobygames:tr1083
+Tina Painton-Clark,,Special Thanks,Xbox Game Pass Marketing,,,special-thanks,mobygames:tr1087
+Liliolani P. Blazier,,Special Thanks,Publishing,,,special-thanks,mobygames:tr1094
+Jeffrey Guyton,,Voice,Studios Quality,,,special-thanks,mobygames:tr1095
+Elizabeth Ostasiewski,,Voice,Content Production,,,special-thanks,mobygames:tr1103
+Matthew Cookson,,Special Thanks,Development,,,special-thanks,mobygames:tr1110
