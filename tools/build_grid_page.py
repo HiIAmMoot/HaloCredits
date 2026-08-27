@@ -714,6 +714,18 @@ def wrap_standalone(fragment: str, title: str = "Halo Credits",
     declaration so accented names decode correctly, and a title, none of
     which the fragment itself carries.
     """
+    bar = (
+        '<div style="position:sticky;top:0;z-index:1;display:flex;'
+        'justify-content:flex-end;gap:16px;padding:8px 16px;'
+        'background:#0a0e14ee;backdrop-filter:blur(6px);'
+        'border-bottom:1px solid #232a35;font-family:\'Segoe UI\',sans-serif;'
+        'font-size:13px;">'
+        '<a href="poster.html" style="color:#e8f4ff;text-decoration:none;'
+        'border-bottom:1px solid #3a4454;">Browse the full poster</a>'
+        '<a href="https://github.com/HiIAmMoot/HaloCredits" '
+        'style="color:#8b93a3;text-decoration:none;border-bottom:1px solid '
+        '#3a4454;">Source</a>'
+        '</div>')
     return (f'<!doctype html>\n<html lang="en">\n<head>\n'
            f'<meta charset="utf-8">\n'
            f'<meta name="viewport" content="width=device-width, '
@@ -721,7 +733,7 @@ def wrap_standalone(fragment: str, title: str = "Halo Credits",
            f'<title>{esc(title)}</title>\n'
            f'<meta name="description" content="{esc(description)}">\n'
            f'<style>html,body{{margin:0;padding:0;background:#0a0e14}}</style>\n'
-           f'</head>\n<body>\n{fragment}\n</body>\n</html>\n')
+           f'</head>\n<body>\n{bar}\n{fragment}\n</body>\n</html>\n')
 
 
 def load_json(path):

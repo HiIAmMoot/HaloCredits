@@ -2,9 +2,9 @@
 
 Every person credited across 25 years of Halo, from Combat Evolved to Campaign Evolved. 9,174 names, parsed from published credit rolls into an interactive career grid and a print poster.
 
-**[View the live page](https://hiiammoot.github.io/HaloCredits/)**
+**[View the live page](https://hiiammoot.github.io/HaloCredits/)** · **[Browse the full poster](https://hiiammoot.github.io/HaloCredits/poster.html)**
 
-The full-resolution poster PNG and PDF are too large for a git repo, so they live in [Releases](https://github.com/HiIAmMoot/HaloCredits/releases) instead.
+The full-resolution poster PNG and PDF are too large for a git repo, so they live in [Releases](https://github.com/HiIAmMoot/HaloCredits/releases) instead. `poster.html` stitches the same poster together from eight full-resolution sections hosted there, so it's browsable in full detail without downloading the 167MB PNG first.
 
 ## What this is
 
