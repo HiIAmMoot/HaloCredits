@@ -164,18 +164,49 @@ def para(x: float, y: float, text: str, max_px: float, size: float,
     return "".join(out), y + n * size * lh
 
 
-def section_head(x: float, y: float, kicker: str, title: str,
+def section_head(x: float, y: float, title: str, subtitle: str,
                  width: float) -> tuple:
+    """A section's big title, with a small descriptive line underneath it."""
     out = [f'<line x1="{x:.0f}" y1="{y - 40:.0f}" x2="{x + width:.0f}" '
            f'y2="{y - 40:.0f}" stroke="{T.GOLD}" stroke-width="2.5" '
            f'opacity="0.65"/>',
-           f'<text x="{x:.0f}" y="{y - 14:.0f}" font-size="13" '
-           f'letter-spacing="5" fill="{T.BUNGIE}" opacity="0.8" '
-           f'font-family="{T.MONO}">{T.esc(kicker)}</text>',
-           f'<text x="{x:.0f}" y="{y + 46:.0f}" font-size="58" '
+           f'<text x="{x:.0f}" y="{y + 20:.0f}" font-size="58" '
            f'font-weight="700" letter-spacing="4" fill="{T.INK}" '
-           f'font-family="{T.DISPLAY}">{T.esc(title)}</text>']
+           f'font-family="{T.DISPLAY}">{T.esc(title)}</text>',
+           f'<text x="{x:.0f}" y="{y + 46:.0f}" font-size="13" '
+           f'letter-spacing="5" fill="{T.BUNGIE}" opacity="0.8" '
+           f'font-family="{T.MONO}">{T.esc(subtitle)}</text>']
     return "".join(out), y + 96
+
+
+def dataset_numbers(x0: float, y0: float, width: float, a) -> tuple:
+    """The same eleven headline facts the web page leads with, in a four
+    column grid. Pulled from hero_stats_data(a) rather than recomputed, so
+    the two pages can never quietly disagree with each other.
+    """
+    import re
+    import html as _html
+    from build_grid_page import hero_stats_data
+
+    cols_n = 4
+    col_w = (width - GAP * (cols_n - 1)) / cols_n
+    facts = hero_stats_data(a)
+    out = []
+    y = y0
+    for start in range(0, len(facts), cols_n):
+        row = facts[start:start + cols_n]
+        bottoms = []
+        for j, (num, label) in enumerate(row):
+            x = x0 + j * (col_w + GAP)
+            out.append(f'<text x="{x:.0f}" y="{y + 34:.0f}" font-size="36" '
+                       f'font-weight="700" fill="{T.INK}" '
+                       f'font-family="{T.DISPLAY}">{T.esc(num)}</text>')
+            plain = _html.unescape(re.sub(r"</?i>", "", label))
+            blk, bottom = para(x, y + 62, plain, col_w, 14, T.INK_DIM, lh=1.4)
+            out.append(blk)
+            bottoms.append(bottom)
+        y = max(bottoms) + 34
+    return "".join(out), y - 10
 
 
 def card_behind(blk: str, x0: float, top: float, bottom: float,
@@ -663,18 +694,28 @@ def build(a, x0: float, y0: float, width: float, game_logo) -> tuple:
     out, y = [], y0
     per_game, total_roles = role_counts()
 
+    # The eleven headline facts come first, same as the web page: a reader
+    # gets the whole dataset's shape before anything else, not after
+    # scrolling past the grid or the per-game breakdown to find it.
+    blk, y = section_head(x0, y, "THE WHOLE DATASET", "IN NUMBERS", width)
+    out.append(blk)
+    numbers_top = y - 10
+    blk, y = dataset_numbers(x0, y + 20, width, a)
+    out.append(card_behind(blk, x0, numbers_top, y + 20, width))
+
     # The whole-corpus breakdown comes first, so a reader has the shape of
     # "what everyone did" in mind before the per-game cards break the same
     # thing down game by game -- the aggregate is the context the per-game
     # numbers get read against, not an afterthought below them.
-    blk, y = section_head(x0, y, "PART TWO", "THE WORK", width)
+    y += 90
+    blk, y = section_head(x0, y, "THE WORK", "PART TWO", width)
     out.append(blk)
     work_top = y - 10
     blk, y = role_breakdown(total_roles, x0, y + 24, width)
     out.append(card_behind(blk, x0, work_top, y + 20, width))
 
     y += 90
-    blk, y = section_head(x0, y, "GAME BY GAME", "THE NUMBERS", width)
+    blk, y = section_head(x0, y, "THE NUMBERS", "GAME BY GAME", width)
     out.append(blk)
     blk, y = studio_legend(x0, y + 20, width)
     out.append(blk)
@@ -682,7 +723,7 @@ def build(a, x0: float, y0: float, width: float, game_logo) -> tuple:
     out.append(blk)
 
     y += 90
-    blk, y = section_head(x0, y, "WHO ELSE WAS THERE", "THE EXTERNAL STUDIOS",
+    blk, y = section_head(x0, y, "THE EXTERNAL STUDIOS", "WHO ELSE WAS THERE",
                           width)
     out.append(blk)
     studios_top = y - 10
@@ -696,13 +737,13 @@ def build(a, x0: float, y0: float, width: float, game_logo) -> tuple:
     out.append(card_behind(legend_blk + field_blk, x0, studios_top, y + 20, width))
 
     y += 70
-    blk, y = section_head(x0, y, "NINE FINDINGS", "THE HIGHLIGHTS", width)
+    blk, y = section_head(x0, y, "THE HIGHLIGHTS", "SIX FINDINGS", width)
     out.append(blk)
     blk, y = spotlights(x0, y + 20, width)
     out.append(blk)
 
     y += 70
-    blk, y = section_head(x0, y, "HOW THIS WAS BUILT", "THE METHOD", width)
+    blk, y = section_head(x0, y, "THE METHOD", "HOW IT WAS BUILT", width)
     out.append(blk)
     method_top = y + 24
     blk, y = method_prose(x0, method_top, width)

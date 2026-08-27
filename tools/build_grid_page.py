@@ -547,8 +547,10 @@ def studio_sections(a):
     return "".join(out)
 
 
-def hero_stats(a):
-    """The eleven headline numbers, all computed on the 12-column spine."""
+def hero_stats_data(a):
+    """The eleven headline numbers, all computed on the 12-column spine, as
+    plain (num, label) pairs -- label may carry <i> tags around a
+    parenthetical fraction, same as the rest of this module's HTML output."""
     # Two different populations, and mixing them is what made these figures
     # disagree with the cards: "credited" is everyone the credits name, while
     # every developer statistic below is about development staff only --
@@ -631,22 +633,30 @@ def hero_stats(a):
     later_all_b = sum(1 for n in uniq_all
                       if any(COLUMNS[c][3] == "Bungie" for c in a["by_name"][n]["cols"]))
 
+    return [
+        (fmt(total), "people are credited across 25 years and 12 releases, including the publisher's own staff and the volunteers"),
+        (pct(with_vendor, total), f"of everyone credited holds at least one vendor or contractor credit <i>({fmt(with_vendor)}/{fmt(total)})</i>"),
+        (fmt(n_studios), f"external vendor studios worked on Halo. {fmt(one_game)} of them on exactly one game, {fmt(n_studios-one_game)} on two or more"),
+        (fmt(len(top[1])), f"people came from {esc(top_label.title() if top_label.islower() else top_label)}, the largest of any single vendor, across {len(studio_games[top[0]])} games"),
+        (fmt(unbroken), f"times someone went straight from one game to the next, across the {fmt(len(multi))} people credited on more than one"),
+        (fmt(returns), "returns after a gap of one or more games"),
+        (pct(later_fp_b, later_fp), f"of the 343-era studios' own staff had worked on a Bungie Halo game before <i>({fmt(later_fp_b)}/{fmt(later_fp)})</i>. Counting everyone credited it is {pct(later_all_b, later_all)} <i>({fmt(later_all_b)}/{fmt(later_all)})</i>"),
+        (pct(ce_3_core, len(ce_fp)), f"of Campaign Evolved's core team had worked under 343 before <i>({fmt(ce_3_core)}/{fmt(len(ce_fp))})</i>. Counting everyone credited it is {pct(ce_3_all, len(ce_names))} <i>({fmt(ce_3_all)}/{fmt(len(ce_names))})</i>"),
+        (pct(ce_b_core, len(ce_fp)), f"of Campaign Evolved's core team had worked under Bungie before <i>({fmt(ce_b_core)}/{fmt(len(ce_fp))})</i>. Counting everyone credited it is {pct(ce_b_all, len(ce_names))} <i>({fmt(ce_b_all)}/{fmt(len(ce_names))})</i>"),
+        (fmt(all_three), "people are credited under all three studio names: Bungie, 343 Industries, and Halo Studios"),
+        (fmt(n_longest), f"people share the longest confirmed gap here, {longest} years, all of them between Combat Evolved and Campaign Evolved"),
+    ]
+
+
+def hero_stats(a):
+    """The eleven headline cards as page markup. hero_stats_data(a) is the
+    same facts as plain (num, label) pairs, for the poster's own SVG
+    rendering of this section -- computed once so the two can never drift
+    apart from each other.
+    """
     def card(num, label):
         return f'<div><div class="hero-num">{num}</div><div class="hero-label">{label}</div></div>'
-
-    return "".join([
-        card(fmt(total), "people are credited across 25 years and 14 releases, including the publisher's own staff and the volunteers"),
-        card(pct(with_vendor, total), f"of everyone credited holds at least one vendor or contractor credit <i>({fmt(with_vendor)}/{fmt(total)})</i>"),
-        card(fmt(n_studios), f"external vendor studios worked on Halo. {fmt(one_game)} of them on exactly one game, {fmt(n_studios-one_game)} on two or more"),
-        card(fmt(len(top[1])), f"people came from {esc(top_label.title() if top_label.islower() else top_label)}, the largest of any single vendor, across {len(studio_games[top[0]])} games"),
-        card(fmt(unbroken), f"times someone went straight from one game to the next, across the {fmt(len(multi))} people credited on more than one"),
-        card(fmt(returns), "returns after a gap of one or more games"),
-        card(pct(later_fp_b, later_fp), f"of the 343-era studios' own staff had worked on a Bungie Halo game before <i>({fmt(later_fp_b)}/{fmt(later_fp)})</i>. Counting everyone credited it is {pct(later_all_b, later_all)} <i>({fmt(later_all_b)}/{fmt(later_all)})</i>"),
-        card(pct(ce_3_core, len(ce_fp)), f"of Campaign Evolved's core team had worked under 343 before <i>({fmt(ce_3_core)}/{fmt(len(ce_fp))})</i>. Counting everyone credited it is {pct(ce_3_all, len(ce_names))} <i>({fmt(ce_3_all)}/{fmt(len(ce_names))})</i>"),
-        card(pct(ce_b_core, len(ce_fp)), f"of Campaign Evolved's core team had worked under Bungie before <i>({fmt(ce_b_core)}/{fmt(len(ce_fp))})</i>. Counting everyone credited it is {pct(ce_b_all, len(ce_names))} <i>({fmt(ce_b_all)}/{fmt(len(ce_names))})</i>"),
-        card(fmt(all_three), "people are credited under all three studio names: Bungie, 343 Industries, and Halo Studios"),
-        card(fmt(n_longest), f"people share the longest confirmed gap here, {longest} years, all of them between Combat Evolved and Campaign Evolved"),
-    ])
+    return "".join(card(num, label) for num, label in hero_stats_data(a))
 
 
 PAGE = """<title>Every Halo Credit</title>
@@ -811,7 +821,7 @@ def render_from_template(template_html, root, people_csv, credits_dir,
     h = h.replace(old_svg, a["svg"])
 
     h, _ = swap(h, '<div class="hero-row">',
-                '\n\n      <div class="section-label">Achievements',
+                '\n\n      <div class="scroller">',
                 f'<div class="hero-row">{hero_stats(a)}</div>')
 
     zone_end = h.index("</div>", h.index('<div class="zonenote"')) + len("</div>")
