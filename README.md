@@ -72,6 +72,13 @@ Official cover art, promotional art, game logos and studio logos courtesy of Bun
 
 Built by [@HiIAmMoot](https://x.com/HiIAmMoot) ([GitHub](https://github.com/HiIAmMoot)).
 
+## Support
+
+If this was useful or you just want to throw a few credits its way:
+
+- Ko-fi: [ko-fi.com/iammoot](https://ko-fi.com/iammoot)
+- thanks.dev: [thanks.dev/d/gh/hiiammoot](https://thanks.dev/d/gh/hiiammoot)
+
 ## License
 
 MIT. See [LICENSE](LICENSE).
