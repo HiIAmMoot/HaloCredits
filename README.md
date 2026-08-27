@@ -68,6 +68,13 @@ pytest
 
 ## Credits
 
+Every credit comes from one of four public sources:
+
+- [Halopedia](https://www.halopedia.org/)
+- [Halo Waypoint](https://www.halowaypoint.com/)
+- [IGDB](https://www.igdb.com/)
+- [MobyGames](https://www.mobygames.com/)
+
 Official cover art, promotional art, game logos and studio logos courtesy of Bungie, Xbox Game Studios, 343 Industries, Halo Studios and the various artists who made them. Beam tower concept art by Ben Mauro.
 
 Built by [@HiIAmMoot](https://x.com/HiIAmMoot) ([GitHub](https://github.com/HiIAmMoot)).
