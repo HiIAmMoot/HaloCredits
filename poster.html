@@ -4,20 +4,17 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Halo Credits — Poster</title>
-<meta name="description" content="The full Halo Credits poster, as a searchable, zoomable PDF.">
+<meta name="description" content="The full Halo Credits poster, browsable in full resolution.">
 <style>
   html, body {
     margin: 0;
     padding: 0;
-    height: 100%;
     background: #0a0e14;
   }
-  body {
-    display: flex;
-    flex-direction: column;
-  }
   .bar {
-    flex: none;
+    position: sticky;
+    top: 0;
+    z-index: 2;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -44,34 +41,147 @@
     gap: 16px;
     flex-wrap: wrap;
   }
-  .viewer {
-    flex: 1 1 auto;
-    width: 100%;
-    border: none;
+  main {
     display: block;
+    line-height: 0;
+    --zoom: 100;
   }
-  noscript {
+  main.fit img {
     display: block;
-    padding: 24px 16px;
+    width: 100%;
+    height: auto;
+    background: #0a0e14;
+  }
+  main:not(.fit) img {
+    display: block;
+    width: calc(10284px * var(--zoom) / 100);
+    max-width: none;
+    height: auto;
+    background: #0a0e14;
+  }
+  .note {
+    max-width: 640px;
+    margin: 24px auto;
+    padding: 0 16px;
     font-family: 'Segoe UI', sans-serif;
-    color: #8b93a3;
+    font-size: 13px;
+    color: #5c6b7f;
     text-align: center;
+  }
+  .zoom {
+    position: fixed;
+    right: 16px;
+    bottom: 16px;
+    z-index: 3;
+    display: flex;
+    align-items: center;
+    gap: 2px;
+    background: #0a0e14ee;
+    backdrop-filter: blur(6px);
+    border: 1px solid #232a35;
+    border-radius: 8px;
+    padding: 4px;
+    font-family: 'Segoe UI', sans-serif;
+    box-shadow: 0 4px 16px #00000066;
+  }
+  .zoom button {
+    width: 32px;
+    height: 32px;
+    border: none;
+    border-radius: 6px;
+    background: transparent;
+    color: #e8f4ff;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  .zoom button:hover {
+    background: #1b2330;
+  }
+  .zoom button:disabled {
+    color: #3a4454;
+    cursor: default;
+    background: transparent;
+  }
+  .zoom .level {
+    min-width: 52px;
+    text-align: center;
+    font-size: 12px;
+    color: #8b93a3;
+    background: transparent;
+    border: none;
+    cursor: pointer;
+  }
+  .zoom .level:hover {
+    color: #e8f4ff;
   }
 </style>
 </head>
 <body>
   <div class="bar">
-    <span>The full poster as a PDF. Ctrl/Cmd+F to search a name, scroll to zoom.</span>
+    <span>The full poster, in eight full-resolution sections. ~34MB total; sections load as you scroll.</span>
     <span class="links">
       <a href="index.html">Interactive page</a>
-      <a href="https://github.com/HiIAmMoot/HaloCredits/releases/tag/v1.0">Download PNG</a>
+      <a href="poster-pdf.html">Searchable PDF</a>
+      <a href="https://github.com/HiIAmMoot/HaloCredits/releases/tag/v1.0">Download PNG / PDF</a>
       <a href="https://github.com/HiIAmMoot/HaloCredits">Source</a>
+      <a href="https://ko-fi.com/iammoot" target="_blank" rel="noopener">&hearts; Support</a>
     </span>
   </div>
-  <iframe class="viewer" src="poster.pdf" title="Halo Credits poster"></iframe>
-  <noscript>
-    <p>Your browser needs a PDF viewer to show this inline.
-      <a href="poster.pdf">Open the PDF directly</a>.</p>
-  </noscript>
+  <main id="poster" class="fit">
+    <img src="https://github.com/HiIAmMoot/HaloCredits/releases/download/v1.0/poster-preview-01-of-08.webp" alt="Halo Credits poster, section 1 of 8" loading="eager">
+    <img src="https://github.com/HiIAmMoot/HaloCredits/releases/download/v1.0/poster-preview-02-of-08.webp" alt="Halo Credits poster, section 2 of 8" loading="lazy">
+    <img src="https://github.com/HiIAmMoot/HaloCredits/releases/download/v1.0/poster-preview-03-of-08.webp" alt="Halo Credits poster, section 3 of 8" loading="lazy">
+    <img src="https://github.com/HiIAmMoot/HaloCredits/releases/download/v1.0/poster-preview-04-of-08.webp" alt="Halo Credits poster, section 4 of 8" loading="lazy">
+    <img src="https://github.com/HiIAmMoot/HaloCredits/releases/download/v1.0/poster-preview-05-of-08.webp" alt="Halo Credits poster, section 5 of 8" loading="lazy">
+    <img src="https://github.com/HiIAmMoot/HaloCredits/releases/download/v1.0/poster-preview-06-of-08.webp" alt="Halo Credits poster, section 6 of 8" loading="lazy">
+    <img src="https://github.com/HiIAmMoot/HaloCredits/releases/download/v1.0/poster-preview-07-of-08.webp" alt="Halo Credits poster, section 7 of 8" loading="lazy">
+    <img src="https://github.com/HiIAmMoot/HaloCredits/releases/download/v1.0/poster-preview-08-of-08.webp" alt="Halo Credits poster, section 8 of 8" loading="lazy">
+  </main>
+  <p class="note">Sections are cropped from the same 2x export, full resolution, no downscaling. Names not searching fast enough? Try the <a href="poster-pdf.html" style="color:#8b93a3;border-bottom:1px solid #3a4454;">searchable PDF</a> instead. If a section fails to load, refresh — GitHub's release CDN occasionally needs a second request on first hit.</p>
+
+  <div class="zoom">
+    <button id="zoomOut" title="Zoom out" aria-label="Zoom out">&minus;</button>
+    <button id="zoomLevel" class="level" title="Reset to fit width">Fit</button>
+    <button id="zoomIn" title="Zoom in" aria-label="Zoom in">+</button>
+  </div>
+
+  <script>
+    // "Fit" scales each section to the viewport's width, same as before this
+    // existed. Every other step is a real percentage of the source's own
+    // pixel width (10284px, every section shares it), so 100% here means
+    // one image pixel per screen pixel, not "as wide as the window" -- the
+    // two only look the same by coincidence on very wide screens.
+    var LEVELS = ['fit', 25, 50, 75, 100, 150, 200, 300, 400];
+    var main = document.getElementById('poster');
+    var levelBtn = document.getElementById('zoomLevel');
+    var outBtn = document.getElementById('zoomOut');
+    var inBtn = document.getElementById('zoomIn');
+    var idx = 0;
+
+    function render() {
+      var v = LEVELS[idx];
+      if (v === 'fit') {
+        main.classList.add('fit');
+        levelBtn.textContent = 'Fit';
+      } else {
+        main.classList.remove('fit');
+        main.style.setProperty('--zoom', v);
+        levelBtn.textContent = v + '%';
+      }
+      outBtn.disabled = idx === 0;
+      inBtn.disabled = idx === LEVELS.length - 1;
+    }
+    outBtn.addEventListener('click', function () {
+      if (idx > 0) { idx--; render(); }
+    });
+    inBtn.addEventListener('click', function () {
+      if (idx < LEVELS.length - 1) { idx++; render(); }
+    });
+    levelBtn.addEventListener('click', function () {
+      idx = 0;
+      render();
+    });
+    render();
+  </script>
 </body>
 </html>

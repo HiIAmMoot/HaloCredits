@@ -18,12 +18,14 @@ is around 187 megapixels. A PDF page maxes out at 200 inches on a side; at
 96dpi this grid is about 181 inches tall, so it fits on one page -- but only
 just, which is why the size is checked rather than assumed.
 
-The PDF doubles as the browser-viewable copy too, embedded on poster.html
-via the browser's own PDF viewer -- real text means real search (Ctrl+F for
-a name) and lossless zoom, which a rasterised image could never give for
-free. An earlier version of this file split the PNG into WEBP bands to work
-around WEBP's 16383px-per-side ceiling; the PDF makes that unnecessary,
-since it was never raster in the first place.
+The PDF is also embedded on poster-pdf.html for real search (Ctrl+F for a
+name), but it pans and zooms one page at a time in most browsers' PDF
+viewers, which is slow going on a sheet this tall. poster.html is the
+faster way to just look at it: every PNG pass also writes
+poster-preview-01-of-NN.webp and onward alongside it, the same poster at
+the same resolution, split into horizontal bands that each fit under
+WEBP's own 16383px-per-side ceiling, so it's a normal image a browser
+scrolls and zooms natively. Pass --no-web-preview to skip them.
 
 Re-run this whenever the data changes; nothing here is hand-tuned to the
 current numbers.
@@ -77,8 +79,41 @@ def _dims(svg: str) -> tuple[int, int]:
     return int(m.group(1)), int(m.group(2))
 
 
+WEB_PREVIEW_MAX_BAND_H = 15000   # margin under WEBP's 16383px-per-side ceiling
+
+def render_web_preview(canvas, out_stem: Path,
+                       max_band_h: int = WEB_PREVIEW_MAX_BAND_H) -> list[Path]:
+    """Full-resolution WEBP sections a browser can actually open.
+
+    A single downscaled preview was the first attempt at this and it made
+    the poster useless for its own purpose: shrinking a 10,284 x 105,672
+    image to fit under WEBP's 16383px-per-side ceiling meant a ~9x
+    reduction, and every name on the sheet blurred into an unreadable
+    smear along with it. WEBP's ceiling is per SIDE, not per image, so the
+    fix is to keep every pixel the PNG has and split the height into bands
+    instead -- each one a plain crop, at full resolution, no resampling at
+    all. A reader opens whichever section they want and can actually read
+    the names in it.
+    """
+    from PIL import Image
+
+    n = -(-canvas.height // max_band_h)          # ceil division
+    band_h = -(-canvas.height // n)               # even bands, still under the cap
+    out_stem.parent.mkdir(parents=True, exist_ok=True)
+    paths = []
+    for i in range(n):
+        y0, y1 = i * band_h, min(canvas.height, (i + 1) * band_h)
+        band = canvas.crop((0, y0, canvas.width, y1))
+        out = out_stem.with_name(f"{out_stem.name}-{i + 1:02d}-of-{n:02d}.webp")
+        band.save(out, format="WEBP", quality=90, method=6)
+        paths.append(out)
+        print(f"  wrote {out.name}  {band.width}x{band.height}  "
+              f"{out.stat().st_size / 1e6:.1f}MB")
+    return paths
+
+
 def render_png(html: str, w: int, h: int, scale: int, out: Path,
-               preview: int | None = None) -> Path:
+               preview: int | None = None, web_preview: bool = True) -> Path:
     import numpy as np
     from PIL import Image
     from playwright.sync_api import sync_playwright
@@ -136,6 +171,9 @@ def render_png(html: str, w: int, h: int, scale: int, out: Path,
     print(f"  wrote {out.name}  {canvas.width}x{canvas.height}  "
           f"{canvas.width * canvas.height / 1e6:.0f}Mpx  {mb:.1f}MB  "
           f"({time.time() - t0:.0f}s)")
+
+    if web_preview and not preview:
+        render_web_preview(canvas, out.with_name("poster-preview"))
 
     return out
 
@@ -234,6 +272,9 @@ def main():
                     help="print resolution for the PDF page size (default: 300)")
     ap.add_argument("--preview", type=int, metavar="CSS_PX",
                     help="render only the top N css pixels, for a quick look")
+    ap.add_argument("--no-web-preview", action="store_true",
+                    help="skip the browser-viewable WEBP bands normally "
+                    "written alongside the full-res PNG")
     ap.add_argument("--out", type=Path, default=ROOT / "render" / "poster",
                     help="output stem (default: render/poster)")
     args = ap.parse_args()
@@ -253,7 +294,8 @@ def main():
             print(f"\nrendering {scale}x -> {w * scale} x {px_h}{note}")
             suffix = f"-{scale}x" + ("-top" if args.preview else "")
             render_png(html, w, h, scale, args.out.with_name(
-                args.out.name + suffix).with_suffix(".png"), args.preview)
+                args.out.name + suffix).with_suffix(".png"), args.preview,
+                web_preview=not args.no_web_preview)
 
     if args.pdf:
         print(f"\nrendering pdf at {args.pdf_dpi}dpi")

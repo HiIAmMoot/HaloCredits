@@ -2,9 +2,9 @@
 
 Every person credited across 25 years of Halo, from Combat Evolved to Campaign Evolved. 9,174 names, parsed from published credit rolls into an interactive career grid and a print poster.
 
-**[View the live page](https://hiiammoot.github.io/HaloCredits/)** · **[Browse the full poster](https://hiiammoot.github.io/HaloCredits/poster.html)**
+**[View the live page](https://hiiammoot.github.io/HaloCredits/)** · **[Browse the full poster](https://hiiammoot.github.io/HaloCredits/poster.html)** · **[Search the poster](https://hiiammoot.github.io/HaloCredits/poster-pdf.html)**
 
-The full-resolution poster PNG is too large for a git repo, so it lives in [Releases](https://github.com/HiIAmMoot/HaloCredits/releases) instead. The PDF is small enough to ship in the repo itself, and `poster.html` embeds it directly through the browser's own PDF viewer, so it's searchable (Ctrl/Cmd+F for a name) and zooms without ever going soft.
+The poster ships three ways. `index.html` is the interactive career grid. `poster.html` stitches the full-resolution PNG together from eight WEBP sections hosted in [Releases](https://github.com/HiIAmMoot/HaloCredits/releases) (too large for a git repo), and scrolls and zooms like a normal image. `poster-pdf.html` embeds a vector `poster.pdf` committed to the repo itself, so a name is Ctrl/Cmd+F away and zooming never goes soft, at the cost of panning a page this tall being slower in most PDF viewers.
 
 ## What this is
 
@@ -36,9 +36,10 @@ art/           every image asset, downsized and converted to WebP
   art/cover/         cover art for the poster's background wash
   art/logos/         game and studio wordmarks
   art/beam-tower/    the poster's beam tower concept art
-index.html     the page this repo publishes, prebuilt and self-contained
-poster.html    embeds poster.pdf in the browser's own PDF viewer
-poster.pdf     the poster, vector and fully searchable
+index.html      the page this repo publishes, prebuilt and self-contained
+poster.html     the full poster as full-resolution WEBP sections (Releases)
+poster-pdf.html embeds poster.pdf in the browser's own PDF viewer
+poster.pdf      the poster, vector and fully searchable
 ```
 
 `raw/`, the scraped Halopedia/Waypoint/MobyGames/IGDB source pages the parser reads, is not included: it's third-party content this repo doesn't have the right to redistribute. Everything downstream of it is, so the page and poster regenerate fine from what's here; a from-scratch re-scrape does not.

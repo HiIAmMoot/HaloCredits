@@ -714,17 +714,30 @@ def wrap_standalone(fragment: str, title: str = "Halo Credits",
     declaration so accented names decode correctly, and a title, none of
     which the fragment itself carries.
     """
+    # index.html#poster jumps straight to the poster page. Runs before the
+    # rest of <body> so a shared link like that never flashes the grid
+    # first -- location.replace also keeps it out of history, so back from
+    # poster.html lands wherever the visitor actually came from.
+    redirect = (
+        '<script>if (location.hash === "#poster") '
+        'location.replace("poster.html");</script>')
     bar = (
         '<div style="position:sticky;top:0;z-index:1;display:flex;'
-        'justify-content:flex-end;gap:16px;padding:8px 16px;'
-        'background:#0a0e14ee;backdrop-filter:blur(6px);'
+        'align-items:center;justify-content:flex-end;gap:16px;'
+        'padding:8px 16px;background:#0a0e14ee;backdrop-filter:blur(6px);'
         'border-bottom:1px solid #232a35;font-family:\'Segoe UI\',sans-serif;'
         'font-size:13px;">'
-        '<a href="poster.html" style="color:#e8f4ff;text-decoration:none;'
-        'border-bottom:1px solid #3a4454;">Browse the full poster</a>'
+        '<a href="poster-pdf.html" style="color:#8b93a3;text-decoration:none;'
+        'border-bottom:1px solid #3a4454;">Searchable PDF</a>'
+        '<a href="poster.html" style="color:#0a0e14;background:#ffd166;'
+        'text-decoration:none;font-weight:600;padding:6px 14px;'
+        'border-radius:4px;">Browse the full poster &rarr;</a>'
         '<a href="https://github.com/HiIAmMoot/HaloCredits" '
         'style="color:#8b93a3;text-decoration:none;border-bottom:1px solid '
         '#3a4454;">Source</a>'
+        '<a href="https://ko-fi.com/iammoot" target="_blank" '
+        'rel="noopener" style="color:#8b93a3;text-decoration:none;'
+        'border-bottom:1px solid #3a4454;">&#9829; Support</a>'
         '</div>')
     return (f'<!doctype html>\n<html lang="en">\n<head>\n'
            f'<meta charset="utf-8">\n'
@@ -733,6 +746,7 @@ def wrap_standalone(fragment: str, title: str = "Halo Credits",
            f'<title>{esc(title)}</title>\n'
            f'<meta name="description" content="{esc(description)}">\n'
            f'<style>html,body{{margin:0;padding:0;background:#0a0e14}}</style>\n'
+           f'{redirect}\n'
            f'</head>\n<body>\n{bar}\n{fragment}\n</body>\n</html>\n')
 
 
