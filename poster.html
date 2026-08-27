@@ -4,17 +4,20 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Halo Credits — Poster</title>
-<meta name="description" content="The full Halo Credits poster, browsable in full resolution.">
+<meta name="description" content="The full Halo Credits poster, as a searchable, zoomable PDF.">
 <style>
   html, body {
     margin: 0;
     padding: 0;
+    height: 100%;
     background: #0a0e14;
   }
+  body {
+    display: flex;
+    flex-direction: column;
+  }
   .bar {
-    position: sticky;
-    top: 0;
-    z-index: 1;
+    flex: none;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -41,46 +44,34 @@
     gap: 16px;
     flex-wrap: wrap;
   }
-  main {
-    display: block;
-    line-height: 0;
-  }
-  main img {
-    display: block;
+  .viewer {
+    flex: 1 1 auto;
     width: 100%;
-    height: auto;
-    background: #0a0e14;
+    border: none;
+    display: block;
   }
-  .note {
-    max-width: 640px;
-    margin: 24px auto;
-    padding: 0 16px;
+  noscript {
+    display: block;
+    padding: 24px 16px;
     font-family: 'Segoe UI', sans-serif;
-    font-size: 13px;
-    color: #5c6b7f;
+    color: #8b93a3;
     text-align: center;
   }
 </style>
 </head>
 <body>
   <div class="bar">
-    <span>The full poster, in eight full-resolution sections. ~34MB total; sections load as you scroll.</span>
+    <span>The full poster as a PDF. Ctrl/Cmd+F to search a name, scroll to zoom.</span>
     <span class="links">
       <a href="index.html">Interactive page</a>
-      <a href="https://github.com/HiIAmMoot/HaloCredits/releases/tag/v1.0">Download PNG / PDF</a>
+      <a href="https://github.com/HiIAmMoot/HaloCredits/releases/tag/v1.0">Download PNG</a>
       <a href="https://github.com/HiIAmMoot/HaloCredits">Source</a>
     </span>
   </div>
-  <main>
-    <img src="https://github.com/HiIAmMoot/HaloCredits/releases/download/v1.0/poster-preview-01-of-08.webp" alt="Halo Credits poster, section 1 of 8" loading="eager">
-    <img src="https://github.com/HiIAmMoot/HaloCredits/releases/download/v1.0/poster-preview-02-of-08.webp" alt="Halo Credits poster, section 2 of 8" loading="lazy">
-    <img src="https://github.com/HiIAmMoot/HaloCredits/releases/download/v1.0/poster-preview-03-of-08.webp" alt="Halo Credits poster, section 3 of 8" loading="lazy">
-    <img src="https://github.com/HiIAmMoot/HaloCredits/releases/download/v1.0/poster-preview-04-of-08.webp" alt="Halo Credits poster, section 4 of 8" loading="lazy">
-    <img src="https://github.com/HiIAmMoot/HaloCredits/releases/download/v1.0/poster-preview-05-of-08.webp" alt="Halo Credits poster, section 5 of 8" loading="lazy">
-    <img src="https://github.com/HiIAmMoot/HaloCredits/releases/download/v1.0/poster-preview-06-of-08.webp" alt="Halo Credits poster, section 6 of 8" loading="lazy">
-    <img src="https://github.com/HiIAmMoot/HaloCredits/releases/download/v1.0/poster-preview-07-of-08.webp" alt="Halo Credits poster, section 7 of 8" loading="lazy">
-    <img src="https://github.com/HiIAmMoot/HaloCredits/releases/download/v1.0/poster-preview-08-of-08.webp" alt="Halo Credits poster, section 8 of 8" loading="lazy">
-  </main>
-  <p class="note">Sections are cropped from the same 2x export, full resolution, no downscaling. If a section fails to load, refresh — GitHub's release CDN occasionally needs a second request on first hit.</p>
+  <iframe class="viewer" src="poster.pdf" title="Halo Credits poster"></iframe>
+  <noscript>
+    <p>Your browser needs a PDF viewer to show this inline.
+      <a href="poster.pdf">Open the PDF directly</a>.</p>
+  </noscript>
 </body>
 </html>

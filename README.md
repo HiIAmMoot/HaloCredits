@@ -4,7 +4,7 @@ Every person credited across 25 years of Halo, from Combat Evolved to Campaign E
 
 **[View the live page](https://hiiammoot.github.io/HaloCredits/)** · **[Browse the full poster](https://hiiammoot.github.io/HaloCredits/poster.html)**
 
-The full-resolution poster PNG and PDF are too large for a git repo, so they live in [Releases](https://github.com/HiIAmMoot/HaloCredits/releases) instead. `poster.html` stitches the same poster together from eight full-resolution sections hosted there, so it's browsable in full detail without downloading the 167MB PNG first.
+The full-resolution poster PNG is too large for a git repo, so it lives in [Releases](https://github.com/HiIAmMoot/HaloCredits/releases) instead. The PDF is small enough to ship in the repo itself, and `poster.html` embeds it directly through the browser's own PDF viewer, so it's searchable (Ctrl/Cmd+F for a name) and zooms without ever going soft.
 
 ## What this is
 
@@ -37,6 +37,8 @@ art/           every image asset, downsized and converted to WebP
   art/logos/         game and studio wordmarks
   art/beam-tower/    the poster's beam tower concept art
 index.html     the page this repo publishes, prebuilt and self-contained
+poster.html    embeds poster.pdf in the browser's own PDF viewer
+poster.pdf     the poster, vector and fully searchable
 ```
 
 `raw/`, the scraped Halopedia/Waypoint/MobyGames/IGDB source pages the parser reads, is not included: it's third-party content this repo doesn't have the right to redistribute. Everything downstream of it is, so the page and poster regenerate fine from what's here; a from-scratch re-scrape does not.
