@@ -157,6 +157,16 @@
     var outBtn = document.getElementById('zoomOut');
     var inBtn = document.getElementById('zoomIn');
     var idx = 0;
+    // The poster's own pixel size -- all eight bands share this width, and
+    // together add up to this height, so it doubles as the aspect ratio for
+    // working out where the cursor sits inside the (possibly still-loading)
+    // image without measuring every <img> on every scroll tick.
+    var IMG_W = 10284, IMG_H = 105672;
+
+    function currentWidth() {
+      if (main.classList.contains('fit')) return main.getBoundingClientRect().width;
+      return IMG_W * LEVELS[idx] / 100;
+    }
 
     function render() {
       var v = LEVELS[idx];
@@ -171,16 +181,41 @@
       outBtn.disabled = idx === 0;
       inBtn.disabled = idx === LEVELS.length - 1;
     }
+
+    // Zoom by one step, keeping whatever point was under (clientX, clientY)
+    // under it afterward -- otherwise every zoom step recenters on the top
+    // left and the reader loses their place on a sheet this tall.
+    function zoomAt(dir, clientX, clientY) {
+      var next = idx + dir;
+      if (next < 0 || next > LEVELS.length - 1) return;
+      var mainTop = main.getBoundingClientRect().top + window.scrollY;
+      var oldW = currentWidth(), oldH = oldW * IMG_H / IMG_W;
+      var fracX = (window.scrollX + clientX) / oldW;
+      var fracY = (window.scrollY + clientY - mainTop) / oldH;
+      idx = next;
+      render();
+      var newW = currentWidth(), newH = newW * IMG_H / IMG_W;
+      window.scrollTo(
+        fracX * newW - clientX,
+        mainTop + fracY * newH - clientY);
+    }
     outBtn.addEventListener('click', function () {
-      if (idx > 0) { idx--; render(); }
+      zoomAt(-1, window.innerWidth / 2, window.innerHeight / 2);
     });
     inBtn.addEventListener('click', function () {
-      if (idx < LEVELS.length - 1) { idx++; render(); }
+      zoomAt(1, window.innerWidth / 2, window.innerHeight / 2);
     });
     levelBtn.addEventListener('click', function () {
       idx = 0;
       render();
     });
+    // Ctrl+scroll (and trackpad pinch, which the browser reports the same
+    // way) zooms the poster instead of the whole page.
+    window.addEventListener('wheel', function (e) {
+      if (!e.ctrlKey) return;
+      e.preventDefault();
+      zoomAt(e.deltaY < 0 ? 1 : -1, e.clientX, e.clientY);
+    }, { passive: false });
     render();
   </script>
 </body>
